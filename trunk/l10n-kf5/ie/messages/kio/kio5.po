@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-20 00:43+0000\n"
+"POT-Creation-Date: 2022-10-24 00:45+0000\n"
 "PO-Revision-Date: 2022-10-23 00:30+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -1130,8 +1130,8 @@ msgstr ""
 msgid ""
 "You may perform a search on the Internet for a KDE program (called a "
 "kioslave or ioslave) which supports this protocol. Places to search include "
-"<a href=\"https://kde-apps.org/\">https://kde-apps.org/</a> and <a "
-"href=\"http://freshmeat.net/\">http://freshmeat.net/</a>."
+"<a href=\"https://kde-apps.org/\">https://kde-apps.org/</a> and <a href="
+"\"http://freshmeat.net/\">http://freshmeat.net/</a>."
 msgstr ""
 
 #: core/job_error.cpp:511
@@ -1695,9 +1695,8 @@ msgstr "stat ne successat obtener por un ressurse"
 #: core/job_error.cpp:906
 #, kde-format
 msgid ""
-"An attempt to determine information about the status of the resource "
-"<strong>%1</strong>, such as the resource name, type, size, etc., was "
-"unsuccessful."
+"An attempt to determine information about the status of the resource <strong>"
+"%1</strong>, such as the resource name, type, size, etc., was unsuccessful."
 msgstr ""
 "Un prova de obtener information pri li statu del ressurse <strong>%1</"
 "strong>, quam li nómine, tip, grandor, etc. ne successat."
@@ -2020,8 +2019,8 @@ msgstr "Ne posset renominar li original file"
 #: core/job_error.cpp:1164
 #, kde-format
 msgid ""
-"The requested operation required the renaming of the original file "
-"<strong>%1</strong>, however it could not be renamed."
+"The requested operation required the renaming of the original file <strong>"
+"%1</strong>, however it could not be renamed."
 msgstr ""
 
 #: core/job_error.cpp:1173
@@ -2032,8 +2031,8 @@ msgstr "Ne successat renominar li temporari file"
 #: core/job_error.cpp:1175
 #, kde-format
 msgid ""
-"The requested operation required the creation of a temporary file "
-"<strong>%1</strong>, however it could not be created."
+"The requested operation required the creation of a temporary file <strong>"
+"%1</strong>, however it could not be created."
 msgstr ""
 
 #: core/job_error.cpp:1184
@@ -6724,6 +6723,15 @@ msgstr ""
 msgid "Delete Permanently"
 msgstr "Deleter permanentmen"
 
+#: widgets/jobuidelegate.cpp:286 widgets/jobuidelegate.cpp:300
+#: widgets/widgetsaskuseractionhandler.cpp:235
+#: widgets/widgetsaskuseractionhandler.cpp:257
+#, fuzzy, kde-format
+#| msgid "Delete Permanently"
+msgctxt "@action:button"
+msgid "Delete Permanently"
+msgstr "Deleter permanentmen"
+
 #: widgets/jobuidelegate.cpp:295
 #, kde-kuit-format
 msgctxt "@info"
@@ -7694,8 +7702,8 @@ msgstr "Parametres a&vansat"
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"Could not save properties due to insufficient write access to:<nl/"
-"><filename>%1</filename>."
+"Could not save properties due to insufficient write access to:<nl/><filename>"
+"%1</filename>."
 msgstr ""
 "Ne successat gardar li proprietás pro manca de accesse de scrition a:<nl/"
 "><filename>%1</filename>."
