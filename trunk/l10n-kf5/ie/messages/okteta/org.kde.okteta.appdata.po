@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-05-18 07:39+0000\n"
 "PO-Revision-Date: 2022-10-26 21:10+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
+"Language: ie\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
-"Language: ie\n"
 "X-Generator: Poedit 1.8.12\n"
 
 #. (itstool) path: component/name
@@ -34,7 +34,9 @@ msgstr "Caracteristicas:"
 
 #. (itstool) path: ul/li
 #: org.kde.okteta.appdata.xml:12
-msgid "Values and characters shown either in two columns (the traditional display in hex editors) or in rows with the value on top of the character"
+msgid ""
+"Values and characters shown either in two columns (the traditional display "
+"in hex editors) or in rows with the value on top of the character"
 msgstr ""
 
 #. (itstool) path: ul/li
@@ -79,7 +81,9 @@ msgstr "Defar e refar"
 
 #. (itstool) path: ul/li
 #: org.kde.okteta.appdata.xml:21
-msgid "Structures tool for analyzing and editing based on user-creatable structure definitions"
+msgid ""
+"Structures tool for analyzing and editing based on user-creatable structure "
+"definitions"
 msgstr "Analise e modification de structuras creat per li usator"
 
 #. (itstool) path: ul/li
