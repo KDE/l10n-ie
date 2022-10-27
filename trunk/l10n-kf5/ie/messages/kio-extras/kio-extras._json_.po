@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-07-31 00:59+0000\n"
-"PO-Revision-Date: 2022-10-27 04:02+0700\n"
+"PO-Revision-Date: 2022-10-27 19:46+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
 "Language: ie\n"
@@ -19,10 +19,9 @@ msgid "Link Files to Activities"
 msgstr "Ligar files a activitás"
 
 #: filenamesearch/kded/filenamesearchmodule.json
-#, fuzzy
 msgctxt "Name"
 msgid "Search Folder Updater"
-msgstr "Selecte un fólder por serchar"
+msgstr "Actualisation del fólderes de sercha"
 
 #: mtp/kiod_module/kmtpd.json
 msgctxt "Name"
