@@ -9,13 +9,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-08-25 00:48+0000\n"
 "PO-Revision-Date: 2022-10-27 19:21+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "X-Generator: Poedit 1.8.12\n"
 
 #: kcm/package/contents/ui/main.qml:32
@@ -42,9 +42,9 @@ msgid ""
 "system updates will be installed the next time the computer is restarted."
 msgstr ""
 "Actualisamentes va esser descargat automaticmen tam bentost quam ili es "
-"disponibil. Actualisamentes por programmas va esser installat "
-"automaticmen, e li actualisamentes del sistema va esser installat quande "
-"li computator es reinicialisat."
+"disponibil. Actualisamentes por programmas va esser installat automaticmen, "
+"e li actualisamentes del sistema va esser installat quande li computator es "
+"reinicialisat."
 
 #: kcm/package/contents/ui/main.qml:61
 #, kde-format
@@ -93,8 +93,8 @@ msgid ""
 "Offline updates maximize system stability by applying changes while "
 "restarting the system. Using this update mode is strongly recommended."
 msgstr ""
-"Ajornat actualisation maximisa li stabilitá del sistema per application "
-"de modificationes quande on reincialisa li sistema. Li usa de ti mode de "
+"Ajornat actualisation maximisa li stabilitá del sistema per application de "
+"modificationes quande on reincialisa li sistema. Li usa de ti mode de "
 "actualisation es fortmen recomandat."
 
 #: kcm/updates.cpp:31

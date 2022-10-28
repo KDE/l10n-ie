@@ -1,21 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: https://bugs.kde."
-"org\n"
-"POT-Creation-Date: 2022-10-21 "
-"00:56+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-10-21 00:56+0000\n"
 "PO-Revision-Date: 2022-10-27 19:27+0700\n"
-"Language-Team: Interlingue <kde-i18n-"
-"doc@kde.org>\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
+"Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
+"Language: ie\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != "
-"1);\n"
-"Last-Translator: OIS "
-"<mistresssilvara@hotmail.com>\n"
-"Language: ie\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.12\n"
 
 #: discover/org.kde.discover.desktop.cmake:2
@@ -33,21 +28,16 @@ msgstr "Programmarium"
 #: discover/org.kde.discover.desktop.cmake:116
 msgctxt "Keywords"
 msgid ""
-"program;software;repository;package;add;"
-"install;uninstall;remove;update;apps;"
-"applications;games;flatpak;snap;addons;"
-"add-ons;firmware;"
+"program;software;repository;package;add;install;uninstall;remove;update;apps;"
+"applications;games;flatpak;snap;addons;add-ons;firmware;"
 msgstr ""
-"programma;repositoria;paccage;adjunter;"
-"installar;deinstallar;actualisar;app;"
-"applicationes;ludes;flatpak;snap;addons;"
-"add-ons;firmware;"
+"programma;repositoria;paccage;adjunter;installar;deinstallar;actualisar;app;"
+"applicationes;ludes;flatpak;snap;addons;add-ons;firmware;"
 
 #: discover/org.kde.discover.desktop.cmake:153
 msgctxt "Name"
 msgid "See Available Updates"
-msgstr ""
-"Vider li disponibil actualisamentes"
+msgstr "Vider li disponibil actualisamentes"
 
 #: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:2
 msgctxt "Name"
@@ -57,9 +47,7 @@ msgstr "Inregistration snap"
 #: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:52
 msgctxt "Description"
 msgid "Allows snap front-ends to log in"
-msgstr ""
-"Permisse a interfacies snap inregistrar "
-"se"
+msgstr "Permisse a interfacies snap inregistrar se"
 
 #: libdiscover/resources/discoverabstractnotifier.notifyrc:4
 msgctxt "Comment"
@@ -84,8 +72,7 @@ msgstr "Ajornat actualisation successat"
 #: libdiscover/resources/discoverabstractnotifier.notifyrc:209
 msgctxt "Comment"
 msgid "System updated successfully"
-msgstr ""
-"Sistema esset actualisat successosimen"
+msgstr "Sistema esset actualisat successosimen"
 
 #: libdiscover/resources/discoverabstractnotifier.notifyrc:255
 msgctxt "Name"
@@ -95,8 +82,7 @@ msgstr "Ajornat actualisation ne successat"
 #: libdiscover/resources/discoverabstractnotifier.notifyrc:297
 msgctxt "Comment"
 msgid "System update failed"
-msgstr ""
-"Actualisation del sistema ne successat"
+msgstr "Actualisation del sistema ne successat"
 
 #: libdiscover/resources/discoverabstractnotifier.notifyrc:343
 msgctxt "Name"
@@ -116,9 +102,7 @@ msgstr "Reparation ne successat"
 #: libdiscover/resources/discoverabstractnotifier.notifyrc:456
 msgctxt "Comment"
 msgid "Repair failure after offline update"
-msgstr ""
-"Reparation ne successat pos un ajornat "
-"actualisation"
+msgstr "Reparation ne successat pos un ajornat actualisation"
 
 #: libdiscover/resources/discoverabstractnotifier.notifyrc:502
 msgctxt "Name"

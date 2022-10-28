@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-12 00:54+0000\n"
+"POT-Creation-Date: 2022-10-28 00:55+0000\n"
 "PO-Revision-Date: 2022-10-27 03:14+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,17 +18,17 @@ msgctxt "Name"
 msgid "Mount a cifs file system"
 msgstr "Monter un sistema de files cifs"
 
-#: src/helper/samba-mounter.actions:35
+#: src/helper/samba-mounter.actions:36
 msgctxt "Description"
 msgid "Executes mount with the needed arguments to mount samba shares"
 msgstr "Executer mount con li besonat argumentes por montar partites de samba"
 
-#: src/helper/samba-mounter.actions:70
+#: src/helper/samba-mounter.actions:72
 msgctxt "Name"
 msgid "Umount a cifs file system"
 msgstr "Demonter un sistema de files cifs"
 
-#: src/helper/samba-mounter.actions:101
+#: src/helper/samba-mounter.actions:104
 msgctxt "Description"
 msgid "Executes umount with the needed arguments to umount a samba share"
 msgstr ""
@@ -39,12 +39,12 @@ msgctxt "Name"
 msgid "Samba Mounter"
 msgstr "Montor de Samba"
 
-#: src/onstart/sambamounter.desktop:34
+#: src/onstart/sambamounter.desktop:35
 msgctxt "GenericName"
 msgid "Mounts Samba shares"
 msgstr "Monter partites de Samba"
 
-#: src/onstart/sambamounter.desktop:75
+#: src/onstart/sambamounter.desktop:77
 msgctxt "Comment"
 msgid "Mounts Samba shares at startup time"
 msgstr "Monter partites de Samba al inicie"
@@ -54,22 +54,22 @@ msgctxt "Name"
 msgid "Network Drives"
 msgstr "Unités del rete"
 
-#: src/sambamount.desktop:46
+#: src/sambamount.desktop:47
 msgctxt "Comment"
 msgid "Configure mounts managed by Plasma instead of fstab"
 msgstr "Configurar punctus de montage quel es geret de Plasma in vice de fstab"
 
-#: src/sambamount.desktop:78
+#: src/sambamount.desktop:80
 msgctxt "X-KDE-Keywords"
 msgid "Samba,Mount,Fstab"
 msgstr "Samba,Monter,Fstab"
 
-#: src/sambamounterapp.desktop:36
+#: src/sambamounterapp.desktop:37
 msgctxt "GenericName"
 msgid "Network Drives"
 msgstr "Unités del rete"
 
-#: src/sambamounterapp.desktop:69
+#: src/sambamounterapp.desktop:71
 msgctxt "Comment"
 msgid "Network Samba Drives"
 msgstr "Unités Samba del rete"
