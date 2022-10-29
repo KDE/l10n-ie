@@ -9,13 +9,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-10-24 00:51+0000\n"
 "PO-Revision-Date: 2022-10-28 17:13+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
@@ -59,21 +59,21 @@ msgstr "Li sequent files ne posset esser extraet:"
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"There was an error while extracting <filename>%1</filename>. Any further archive "
-"will not be extracted."
+"There was an error while extracting <filename>%1</filename>. Any further "
+"archive will not be extracted."
 msgstr ""
-"Un errore evenit extraente <filename>%1</filename>. Omni sequent archives ne va "
-"esser extraet."
+"Un errore evenit extraente <filename>%1</filename>. Omni sequent archives ne "
+"va esser extraet."
 
 #: app/batchextract.cpp:138
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"There was an error while extracting <filename>%1</filename>:<nl/><message>%2</"
-"message><nl/>Any further archive will not be extracted."
+"There was an error while extracting <filename>%1</filename>:<nl/><message>"
+"%2</message><nl/>Any further archive will not be extracted."
 msgstr ""
-"Un errore evenit extraente <filename>%1</filename>:<nl/><message>%2</message><nl/"
-">Omni sequent archives ne va esser extraet."
+"Un errore evenit extraente <filename>%1</filename>:<nl/><message>%2</"
+"message><nl/>Omni sequent archives ne va esser extraet."
 
 #: app/batchextract.cpp:142
 #, kde-kuit-format
@@ -85,8 +85,8 @@ msgstr "Un errore evenit extraente <filename>%1</filename>."
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"There was an error while extracting <filename>%1</filename>:<nl/><message>%2</"
-"message>"
+"There was an error while extracting <filename>%1</filename>:<nl/><message>"
+"%2</message>"
 msgstr ""
 "Un errore evenit extraente <filename>%1</filename>:<nl/><message>%2</message>"
 
@@ -94,11 +94,11 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"The archive could not be extracted to <filename>%1</filename> because Ark can only "
-"extract to local destinations."
+"The archive could not be extracted to <filename>%1</filename> because Ark "
+"can only extract to local destinations."
 msgstr ""
-"Li archive ne posset esser extraet a <filename>%1</filename> pro que Ark posse "
-"extraer solmen a local destinationes."
+"Li archive ne posset esser extraet a <filename>%1</filename> pro que Ark "
+"posse extraer solmen a local destinationes."
 
 #: app/compressfileitemaction.cpp:77
 #, kde-format
@@ -145,7 +145,8 @@ msgstr "Extraer"
 
 #: app/extractHereDndPlugin.cpp:55
 #, kde-format
-msgctxt "@action:inmenu Context menu shown when an archive is being drag'n'dropped"
+msgctxt ""
+"@action:inmenu Context menu shown when an archive is being drag'n'dropped"
 msgid "Extract here"
 msgstr "Extraer ad ci"
 
@@ -291,12 +292,14 @@ msgstr "URLs a aperter."
 
 #: app/main.cpp:154
 #, kde-format
-msgid "Show a dialog for specifying the options for the operation (extract/add)"
+msgid ""
+"Show a dialog for specifying the options for the operation (extract/add)"
 msgstr ""
 
 #: app/main.cpp:157
 #, kde-format
-msgid "Destination folder to extract to. Defaults to current path if not specified."
+msgid ""
+"Destination folder to extract to. Defaults to current path if not specified."
 msgstr ""
 
 #. i18n: ectx: label, entry (openDestinationFolderAfterExtraction), group (Extraction)
@@ -308,48 +311,50 @@ msgstr "Aperter li fólder de destination pos extraction."
 #: app/main.cpp:164
 #, kde-format
 msgid ""
-"Query the user for an archive filename and add specified files to it. Quit when "
-"finished."
+"Query the user for an archive filename and add specified files to it. Quit "
+"when finished."
 msgstr ""
 
 #: app/main.cpp:167
 #, kde-format
 msgid ""
-"Add the specified files to 'filename'. Create archive if it does not exist. Quit "
-"when finished."
+"Add the specified files to 'filename'. Create archive if it does not exist. "
+"Quit when finished."
 msgstr ""
 
 #: app/main.cpp:171
 #, kde-format
 msgid ""
-"Change the current dir to the first entry and add all other entries relative to "
-"this one."
+"Change the current dir to the first entry and add all other entries relative "
+"to this one."
 msgstr ""
 
 #: app/main.cpp:174
 #, kde-format
 msgid ""
-"Automatically choose a filename, with the selected suffix (for example rar, tar."
-"gz, zip or any other supported types)"
+"Automatically choose a filename, with the selected suffix (for example rar, "
+"tar.gz, zip or any other supported types)"
 msgstr ""
 
 #: app/main.cpp:178
 #, kde-format
 msgid ""
-"Use the batch interface instead of the usual dialog. This option is implied if "
-"more than one url is specified."
+"Use the batch interface instead of the usual dialog. This option is implied "
+"if more than one url is specified."
 msgstr ""
 
 #: app/main.cpp:181
 #, kde-format
-msgid "The destination argument will be set to the path of the first file supplied."
+msgid ""
+"The destination argument will be set to the path of the first file supplied."
 msgstr ""
 
 #: app/main.cpp:184
 #, kde-format
 msgid ""
-"Archive contents will be read, and if detected to not be a single folder or a "
-"single file archive, a subfolder with the name of the archive will be created."
+"Archive contents will be read, and if detected to not be a single folder or "
+"a single file archive, a subfolder with the name of the archive will be "
+"created."
 msgstr ""
 
 #: app/main.cpp:187
@@ -437,8 +442,8 @@ msgstr ""
 #: kerfuffle/addtoarchive.cpp:140
 #, kde-kuit-format
 msgid ""
-"You need to either supply a filename for the archive or a suffix (such as rar, tar."
-"gz) with the <command>--autofilename</command> argument."
+"You need to either supply a filename for the archive or a suffix (such as "
+"rar, tar.gz) with the <command>--autofilename</command> argument."
 msgstr ""
 
 #: kerfuffle/addtoarchive.cpp:239
@@ -450,8 +455,10 @@ msgstr "Archive"
 #. i18n: ectx: label, entry (showEncryptionWarning), group (General)
 #: kerfuffle/ark.kcfg:9
 #, kde-format
-msgid "Whether to show a warning when creating zip archives with AES encryption."
-msgstr "Esque monstrar un avise quande on crea archives zip con ciffration AES."
+msgid ""
+"Whether to show a warning when creating zip archives with AES encryption."
+msgstr ""
+"Esque monstrar un avise quande on crea archives zip con ciffration AES."
 
 #. i18n: ectx: label, entry (defaultOpenAction), group (General)
 #: kerfuffle/ark.kcfg:13
@@ -474,8 +481,10 @@ msgstr "Preservar li rutes durant li extraction."
 #. i18n: ectx: label, entry (extractToSubfolder), group (Extraction)
 #: kerfuffle/ark.kcfg:35
 #, kde-format
-msgid "Extract to a subfolder if the archive has more than one top-level entry."
-msgstr "Extraer a un subfólder si li archive have plu quam ún element superiori."
+msgid ""
+"Extract to a subfolder if the archive has more than one top-level entry."
+msgstr ""
+"Extraer a un subfólder si li archive have plu quam ún element superiori."
 
 #. i18n: ectx: label, entry (splitterSizes), group (MainWindow)
 #: kerfuffle/ark.kcfg:41
@@ -515,8 +524,8 @@ msgstr ""
 #: kerfuffle/cliinterface.cpp:358
 #, kde-format
 msgid ""
-"Extraction failed. Make sure you provided the correct password and that enough "
-"space is available."
+"Extraction failed. Make sure you provided the correct password and that "
+"enough space is available."
 msgstr ""
 
 #: kerfuffle/cliinterface.cpp:369 kerfuffle/cliinterface.cpp:494
@@ -556,8 +565,10 @@ msgstr "Protection del liste de files es ínpossibil in li formate %1."
 
 #: kerfuffle/compressionoptionswidget.cpp:141
 #, kde-format
-msgid "Protection of the archive with password is not possible with the %1 format."
-msgstr "Protection del archive per un contrasigne es ínpossibil in li formate %1."
+msgid ""
+"Protection of the archive with password is not possible with the %1 format."
+msgstr ""
+"Protection del archive per un contrasigne es ínpossibil in li formate %1."
 
 #: kerfuffle/compressionoptionswidget.cpp:156
 #, kde-format
@@ -620,14 +631,17 @@ msgstr "Metode de ciffration:"
 #: kerfuffle/compressionoptionswidget.ui:160
 #, kde-format
 msgid "Ask for password before showing the list of files in the archive"
-msgstr "Demandar li contrasigne ante que monstrar li liste de files in li archive"
+msgstr ""
+"Demandar li contrasigne ante que monstrar li liste de files in li archive"
 
 #. i18n: ectx: property (text), widget (KMessageWidget, warningMsgWidget)
 #: kerfuffle/compressionoptionswidget.ui:170
 #, kde-format
-msgid "This encryption method may not be supported by older archiving software."
+msgid ""
+"This encryption method may not be supported by older archiving software."
 msgstr ""
-"Ti metode de ciffration posse esser ínsupportat per old programmas de archivation."
+"Ti metode de ciffration posse esser ínsupportat per old programmas de "
+"archivation."
 
 #. i18n: ectx: property (title), widget (KCollapsibleGroupBox, collapsibleMultiVolume)
 #: kerfuffle/compressionoptionswidget.ui:183
@@ -649,7 +663,8 @@ msgstr "Grandore de un tom:"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_previewFileSizeLimit)
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, volumeSizeSpinbox)
-#: kerfuffle/compressionoptionswidget.ui:223 kerfuffle/previewsettingspage.ui:32
+#: kerfuffle/compressionoptionswidget.ui:223
+#: kerfuffle/previewsettingspage.ui:32
 #, kde-format
 msgid " megabytes"
 msgstr "megaoctetes"
@@ -718,7 +733,8 @@ msgctxt "@info"
 msgid ""
 "The folder <filename>%1</filename> already exists. Are you sure you want to "
 "extract here?"
-msgstr "Li fólder <filename>%1</filename> ja existe. Esque vu vole extraer a ci?"
+msgstr ""
+"Li fólder <filename>%1</filename> ja existe. Esque vu vole extraer a ci?"
 
 #: kerfuffle/extractiondialog.cpp:108
 #, kde-format
@@ -856,7 +872,8 @@ msgstr ""
 #: kerfuffle/extractionsettingspage.ui:44
 #, kde-format
 msgid "Extract to a subfolder if the archive has more than one top-level entry"
-msgstr "Extraer a un subfólder si li archive have plu quam ún element superiori"
+msgstr ""
+"Extraer a un subfólder si li archive have plu quam ún element superiori"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: kerfuffle/generalsettingspage.ui:17
@@ -890,15 +907,15 @@ msgstr "Null apt plugin trovat. Ark ne supporta ti tip de file."
 #: kerfuffle/jobs.cpp:103
 #, kde-format
 msgid ""
-"Failed to load a suitable plugin. Make sure any executables needed to handle the "
-"archive type are installed."
+"Failed to load a suitable plugin. Make sure any executables needed to handle "
+"the archive type are installed."
 msgstr ""
 
 #: kerfuffle/jobs.cpp:168
 #, kde-format
 msgid ""
-"Could not load the archive because it contains ill-formed entries and might be a "
-"malicious archive."
+"Could not load the archive because it contains ill-formed entries and might "
+"be a malicious archive."
 msgstr ""
 
 #: kerfuffle/jobs.cpp:253
@@ -940,8 +957,8 @@ msgstr "Destination"
 #: kerfuffle/jobs.cpp:544
 #, kde-kuit-format
 msgid ""
-"Could not write to destination <filename>%1</filename>.<nl/>Check whether you have "
-"sufficient permissions."
+"Could not write to destination <filename>%1</filename>.<nl/>Check whether "
+"you have sufficient permissions."
 msgstr ""
 
 #: kerfuffle/jobs.cpp:703
@@ -985,8 +1002,8 @@ msgstr "Provante li archive"
 #: kerfuffle/pluginsettingspage.cpp:34
 #, kde-format
 msgid ""
-"The plugin cannot be used because one or more required executables are missing. "
-"Check your installation."
+"The plugin cannot be used because one or more required executables are "
+"missing. Check your installation."
 msgstr ""
 
 #. i18n: @title:column
@@ -1093,8 +1110,8 @@ msgstr "Apertet solmen por letion:"
 #, fuzzy, kde-format
 msgid "Password-protected:"
 msgstr ""
-"Li archive <filename>%1</filename> es protectet per un contrasigne. Ples provider "
-"li contrasigne."
+"Li archive <filename>%1</filename> es protectet per un contrasigne. Ples "
+"provider li contrasigne."
 
 #. i18n: ectx: property (text), widget (QLabel, label_10)
 #: kerfuffle/propertiesdialog.ui:122
@@ -1175,8 +1192,8 @@ msgid ""
 "The archive <filename>%1</filename> is password protected. Please enter the "
 "password."
 msgstr ""
-"Li archive <filename>%1</filename> es protectet per un contrasigne. Ples provider "
-"li contrasigne."
+"Li archive <filename>%1</filename> es protectet per un contrasigne. Ples "
+"provider li contrasigne."
 
 #: kerfuffle/queries.cpp:160
 #, kde-format
@@ -1187,8 +1204,8 @@ msgstr "Contrasigne es íncorect, ples repena denov."
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"The archive you're trying to open is corrupt.<nl/>Some files may be missing or "
-"damaged."
+"The archive you're trying to open is corrupt.<nl/>Some files may be missing "
+"or damaged."
 msgstr ""
 
 #: kerfuffle/queries.cpp:197
@@ -1222,8 +1239,8 @@ msgstr "Extraction ne successat pro que un ínconosset errore evenit."
 #: kerfuffle/queries.cpp:221
 #, kde-kuit-format
 msgid ""
-"Extraction of the entry:<nl/>    <filename>%1</filename><nl/>failed with the error "
-"message:<nl/>    %2<nl/><nl/>Do you want to continue extraction?<nl/>"
+"Extraction of the entry:<nl/>    <filename>%1</filename><nl/>failed with the "
+"error message:<nl/>    %2<nl/><nl/>Do you want to continue extraction?<nl/>"
 msgstr ""
 
 #: part/archivemodel.cpp:155
@@ -1362,8 +1379,8 @@ msgstr "Li intern visor ne posse previder ti file."
 #: part/arkviewer.cpp:119
 #, kde-kuit-format
 msgid ""
-"The internal viewer cannot preview this type of file<nl/>(%1).<nl/><nl/>Do you "
-"want to try to view it as plain text?"
+"The internal viewer cannot preview this type of file<nl/>(%1).<nl/><nl/>Do "
+"you want to try to view it as plain text?"
 msgstr ""
 "Li intern visor ne posse previder ti file<nl/>(%1).<nl/><nl/>Esque vu vole "
 "previder it quam un simplic textu?"
@@ -1383,8 +1400,8 @@ msgstr "Previder quam textu"
 #: part/arkviewer.cpp:131
 #, fuzzy, kde-kuit-format
 msgid ""
-"The internal viewer cannot preview this unknown type of file.<nl/><nl/>Do you want "
-"to try to view it as plain text?"
+"The internal viewer cannot preview this unknown type of file.<nl/><nl/>Do "
+"you want to try to view it as plain text?"
 msgstr ""
 "Li intern visor ne posse previder ti file<nl/>(%1).<nl/><nl/>Esque vu vole "
 "previder it quam un simplic textu?"
@@ -1468,15 +1485,16 @@ msgstr "Monstrar information pri li archive"
 #: part/overwritedialog.cpp:26
 #, kde-format
 msgid ""
-"Files with the following paths already exist. Remove them if you really want to "
-"overwrite."
-msgstr "Files con li sequent rutes ja existe. Remove les si vu vole substituer les."
+"Files with the following paths already exist. Remove them if you really want "
+"to overwrite."
+msgstr ""
+"Files con li sequent rutes ja existe. Remove les si vu vole substituer les."
 
 #: part/overwritedialog.cpp:28
 #, kde-format
 msgid ""
-"Files with the following paths already exist. Do you want to continue overwriting "
-"them?"
+"Files with the following paths already exist. Do you want to continue "
+"overwriting them?"
 msgstr "Files con li sequent rutes ja existe. Esque vu vole substituer les?"
 
 #: part/part.cpp:111
@@ -1556,8 +1574,8 @@ msgstr "E&xtraer omni"
 #: part/part.cpp:394
 #, kde-format
 msgid ""
-"Click to open an extraction dialog, where you can choose how to extract all the "
-"files in the archive"
+"Click to open an extraction dialog, where you can choose how to extract all "
+"the files in the archive"
 msgstr ""
 
 #: part/part.cpp:399
@@ -1569,8 +1587,8 @@ msgstr "&Extraher"
 #: part/part.cpp:402
 #, kde-format
 msgid ""
-"Click to open an extraction dialog, where you can choose to extract either all "
-"files or just the selected ones"
+"Click to open an extraction dialog, where you can choose to extract either "
+"all files or just the selected ones"
 msgstr ""
 
 #: part/part.cpp:407
@@ -1624,17 +1642,17 @@ msgstr "Provar li integritá del archive"
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid ""
-"Adding files to existing password-protected archives with no header-encryption is "
-"currently not supported.<nl/><nl/>Extract the files and create a new archive if "
-"you want to add files."
+"Adding files to existing password-protected archives with no header-"
+"encryption is currently not supported.<nl/><nl/>Extract the files and create "
+"a new archive if you want to add files."
 msgstr ""
 
 #: part/part.cpp:469
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid ""
-"Testing password-protected archives with no header-encryption is currently not "
-"supported."
+"Testing password-protected archives with no header-encryption is currently "
+"not supported."
 msgstr ""
 
 #: part/part.cpp:537
@@ -1716,9 +1734,11 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"The archive <filename>%1</filename> will be created as soon as you add a file."
+"The archive <filename>%1</filename> will be created as soon as you add a "
+"file."
 msgstr ""
-"Li archive <filename>%1</filename> va esser creat quande vu va adjunter un file."
+"Li archive <filename>%1</filename> va esser creat quande vu va adjunter un "
+"file."
 
 #: part/part.cpp:847
 #, fuzzy, kde-kuit-format
@@ -1730,16 +1750,18 @@ msgstr "<filename>%1</filename> es un folder."
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"The archive <filename>%1</filename> could not be loaded, as it was not possible to "
-"read from it."
+"The archive <filename>%1</filename> could not be loaded, as it was not "
+"possible to read from it."
 msgstr ""
 
 #: part/part.cpp:865
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"The archive <filename>%1</filename> already exists. Do you wish to overwrite it?"
-msgstr "Li archive <filename>%1</filename> ja existe. Esque vu vole superscrir it?"
+"The archive <filename>%1</filename> already exists. Do you wish to overwrite "
+"it?"
+msgstr ""
+"Li archive <filename>%1</filename> ja existe. Esque vu vole superscrir it?"
 
 #: part/part.cpp:867
 #, kde-format
@@ -1763,8 +1785,8 @@ msgstr "Actualmen, Ark ne supporta files ISO con li sistema de files UDF."
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"Loading the archive <filename>%1</filename> failed with the following error:<nl/"
-"><message>%2</message>"
+"Loading the archive <filename>%1</filename> failed with the following error:"
+"<nl/><message>%2</message>"
 msgstr ""
 
 #: part/part.cpp:999
@@ -1775,10 +1797,11 @@ msgstr "Ark ne posse aperter simbolic ligamentes."
 #: part/part.cpp:1121
 #, kde-kuit-format
 msgid ""
-"The file <filename>%1</filename> was modified. Do you want to update the archive?"
-msgstr ""
-"Li file <filename>%1</filename> esset modificat. Esque vu vole actualisar it in li "
+"The file <filename>%1</filename> was modified. Do you want to update the "
 "archive?"
+msgstr ""
+"Li file <filename>%1</filename> esset modificat. Esque vu vole actualisar it "
+"in li archive?"
 
 #: part/part.cpp:1122
 #, kde-format
@@ -1861,18 +1884,19 @@ msgid ""
 "The archive could not be saved as <filename>%1</filename>. Try saving it to "
 "another location."
 msgstr ""
-"Li archive ne posser esser gardat quam <filename>%1</filename>. Prova gardar it a "
-"un altri loc."
+"Li archive ne posser esser gardat quam <filename>%1</filename>. Prova gardar "
+"it a un altri loc."
 
 #: part/part.cpp:1712
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"The archive <filename>%1</filename> does not exist anymore, therefore it cannot be "
-"copied to the specified location."
+"The archive <filename>%1</filename> does not exist anymore, therefore it "
+"cannot be copied to the specified location."
 msgstr ""
 
-#: plugins/cli7zplugin/cliplugin.cpp:130 plugins/cliunarchiverplugin/cliplugin.cpp:85
+#: plugins/cli7zplugin/cliplugin.cpp:130
+#: plugins/cliunarchiverplugin/cliplugin.cpp:85
 #, fuzzy, kde-format
 msgid "Listing the archive failed."
 msgstr "Ne successat aperter un archive: %1"
@@ -1885,8 +1909,8 @@ msgstr "Extraction ne successat pro que un ínconosset errore evenit."
 #: plugins/cli7zplugin/cliplugin.cpp:315 plugins/clizipplugin/cliplugin.cpp:188
 #, kde-format
 msgid ""
-"Extraction failed due to one or more corrupt files. Any extracted files may be "
-"damaged."
+"Extraction failed due to one or more corrupt files. Any extracted files may "
+"be damaged."
 msgstr ""
 
 #: plugins/cli7zplugin/cliplugin.cpp:326
@@ -1926,7 +1950,8 @@ msgstr "GOST 40-bit"
 msgid "unknown"
 msgstr "ínconosset"
 
-#: plugins/clirarplugin/cliplugin.cpp:157 plugins/clirarplugin/cliplugin.cpp:300
+#: plugins/clirarplugin/cliplugin.cpp:157
+#: plugins/clirarplugin/cliplugin.cpp:300
 #: plugins/clirarplugin/cliplugin.cpp:553
 #, kde-format
 msgid "Failed to find all archive volumes."
@@ -1935,18 +1960,18 @@ msgstr "Ne successat trovar omni tomes del archive."
 #: plugins/clirarplugin/cliplugin.cpp:321
 #, kde-format
 msgid ""
-"Your unrar executable is version %1, which is too old to handle this archive. "
-"Please update to a more recent version."
+"Your unrar executable is version %1, which is too old to handle this "
+"archive. Please update to a more recent version."
 msgstr ""
 
 #: plugins/clirarplugin/cliplugin.cpp:328
 #, kde-format
 msgid ""
-"Unrar reported a non-RAR archive. The installed unrar version (%1) is old. Try "
-"updating your unrar."
+"Unrar reported a non-RAR archive. The installed unrar version (%1) is old. "
+"Try updating your unrar."
 msgstr ""
-"Unrar raportat it quam archive non-RAR. Li installat version de unrar (%1) es old. "
-"Prova actualisar vor unrar."
+"Unrar raportat it quam archive non-RAR. Li installat version de unrar (%1) "
+"es old. Prova actualisar vor unrar."
 
 #: plugins/clirarplugin/cliplugin.cpp:548
 #, fuzzy, kde-format
@@ -2063,10 +2088,12 @@ msgstr "Ark ne successat aperter <filename>%1</filename> por extraction."
 #: plugins/libsinglefileplugin/singlefileplugin.cpp:71
 #, kde-kuit-format
 msgctxt "@info"
-msgid "There was an error while reading <filename>%1</filename> during extraction."
+msgid ""
+"There was an error while reading <filename>%1</filename> during extraction."
 msgstr "Un errore evenit leente <filename>%1</filename> durant li extraction."
 
-#: plugins/libzipplugin/libzipplugin.cpp:76 plugins/libzipplugin/libzipplugin.cpp:118
+#: plugins/libzipplugin/libzipplugin.cpp:76
+#: plugins/libzipplugin/libzipplugin.cpp:118
 #: plugins/libzipplugin/libzipplugin.cpp:415
 #: plugins/libzipplugin/libzipplugin.cpp:464
 #: plugins/libzipplugin/libzipplugin.cpp:555
