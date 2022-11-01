@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gwenview\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-22 00:43+0000\n"
+"POT-Creation-Date: 2022-10-31 00:43+0000\n"
 "PO-Revision-Date: 2022-11-01 00:37+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
@@ -39,8 +39,8 @@ msgstr "usage: chmod <mode> <file>\n"
 #, kde-format
 msgid ""
 "Enable this option if you do not have a lot of disk space. This will avoid "
-"storing thumbnails on disk and will prefer embedded thumbnails of lower quality "
-"that are faster to load, if available."
+"storing thumbnails on disk and will prefer embedded thumbnails of lower "
+"quality that are faster to load, if available."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
@@ -106,7 +106,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, colorProfileHelpLabel)
 #: app/advancedconfigpage.ui:265
 #, kde-format
-msgid "Assume that system-wide color correction already applies monitor profile."
+msgid ""
+"Assume that system-wide color correction already applies monitor profile."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, colorProfileLabel)
@@ -222,8 +223,8 @@ msgstr "Ne successat adjunter al panel Locs: %1"
 #: app/browsemainpage.cpp:246
 #, kde-format
 msgctxt ""
-"@info:status %1 number of selected documents, %2 total number of documents, %3 "
-"total filesize of selected documents"
+"@info:status %1 number of selected documents, %2 total number of documents, "
+"%3 total filesize of selected documents"
 msgid "Selected %1 of %2 (%3)"
 msgstr "Selectet %1 ex %2 (%3)"
 
@@ -270,13 +271,13 @@ msgstr "Vise de image"
 msgid "Advanced"
 msgstr "Avansat"
 
-#: app/fileoperations.cpp:63
+#: app/fileoperations.cpp:64
 #, kde-format
 msgctxt "@title:window %1 file name"
 msgid "Copy %1"
 msgstr "Copiar %1"
 
-#: app/fileoperations.cpp:65
+#: app/fileoperations.cpp:66
 #, kde-format
 msgctxt "@title:window %1 number of images"
 msgid "Copy %1 image"
@@ -284,19 +285,19 @@ msgid_plural "Copy %1 images"
 msgstr[0] ""
 msgstr[1] ""
 
-#: app/fileoperations.cpp:67
+#: app/fileoperations.cpp:68
 #, kde-format
 msgctxt "@action:button"
 msgid "Copy"
 msgstr "Copiar"
 
-#: app/fileoperations.cpp:71
+#: app/fileoperations.cpp:72
 #, kde-format
 msgctxt "@title:window %1 file name"
 msgid "Move %1"
 msgstr "Mover %1"
 
-#: app/fileoperations.cpp:73
+#: app/fileoperations.cpp:74
 #, kde-format
 msgctxt "@title:window %1 number of images"
 msgid "Move %1 image"
@@ -304,19 +305,19 @@ msgid_plural "Move %1 images"
 msgstr[0] "Mover %1 image"
 msgstr[1] "Mover %1 images"
 
-#: app/fileoperations.cpp:75
+#: app/fileoperations.cpp:76
 #, kde-format
 msgctxt "@action:button"
 msgid "Move"
 msgstr "Mover"
 
-#: app/fileoperations.cpp:79
+#: app/fileoperations.cpp:80
 #, fuzzy, kde-format
 msgctxt "@title:window %1 file name"
 msgid "Link %1"
 msgstr "Ne successat crear li simbolic ligament %1."
 
-#: app/fileoperations.cpp:81
+#: app/fileoperations.cpp:82
 #, kde-format
 msgctxt "@title:window %1 number of images"
 msgid "Link %1 image"
@@ -324,28 +325,28 @@ msgid_plural "Link %1 images"
 msgstr[0] ""
 msgstr[1] ""
 
-#: app/fileoperations.cpp:83
+#: app/fileoperations.cpp:84
 #, kde-format
 msgctxt "@action:button"
 msgid "Link"
 msgstr "Ligar"
 
-#: app/fileoperations.cpp:198
+#: app/fileoperations.cpp:194
 #, kde-format
 msgid "Move Here"
 msgstr "Mover ad ci"
 
-#: app/fileoperations.cpp:199
+#: app/fileoperations.cpp:195
 #, kde-format
 msgid "Copy Here"
 msgstr "Copiar ad ci"
 
-#: app/fileoperations.cpp:200
+#: app/fileoperations.cpp:196
 #, kde-format
 msgid "Link Here"
 msgstr "Ligar ad ci"
 
-#: app/fileoperations.cpp:202
+#: app/fileoperations.cpp:198
 #, kde-format
 msgid "Cancel"
 msgstr "Anullar"
@@ -355,7 +356,8 @@ msgstr "Anullar"
 msgid "File Operations"
 msgstr "Operationes con files"
 
-#: app/fileopscontextmanageritem.cpp:143 app/semanticinfocontextmanageritem.cpp:203
+#: app/fileopscontextmanageritem.cpp:143
+#: app/semanticinfocontextmanageritem.cpp:203
 #, kde-format
 msgctxt "@title actions category"
 msgid "Edit"
@@ -722,7 +724,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"<emphasis strong='true'>Saving <filename>%1</filename> failed:</emphasis><nl />%2"
+"<emphasis strong='true'>Saving <filename>%1</filename> failed:</"
+"emphasis><nl />%2"
 msgstr ""
 
 #: app/gvcore.cpp:508
@@ -742,13 +745,13 @@ msgid "&Rating"
 msgstr "E&valuation"
 
 #. i18n: ectx: Menu (settings)
-#: app/gwenviewui.rc:84
+#: app/gwenviewui.rc:85
 #, kde-format
 msgid "&Settings"
 msgstr "&Parametres"
 
 #. i18n: ectx: ToolBar (mainToolBar)
-#: app/gwenviewui.rc:100 part/gvpart.rc:16
+#: app/gwenviewui.rc:101 part/gvpart.rc:16
 #, kde-format
 msgid "Main Toolbar"
 msgstr "Panel de instrumentarium"
@@ -759,81 +762,87 @@ msgctxt "@title:window"
 msgid "Image Information"
 msgstr "Ne successat cargar li information de image"
 
-#: app/imageopscontextmanageritem.cpp:88
+#: app/imageopscontextmanageritem.cpp:90
 #, kde-format
 msgctxt "@title actions category - means actions changing image"
 msgid "Edit"
 msgstr "Redacter"
 
-#: app/imageopscontextmanageritem.cpp:91
+#: app/imageopscontextmanageritem.cpp:93
 #, kde-format
 msgid "Rotate Left"
 msgstr "Rotar a levul"
 
-#: app/imageopscontextmanageritem.cpp:92
+#: app/imageopscontextmanageritem.cpp:94
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Rotate image to the left"
 msgstr "Rotar li image a levul"
 
-#: app/imageopscontextmanageritem.cpp:97
+#: app/imageopscontextmanageritem.cpp:99
 #, kde-format
 msgid "Rotate Right"
 msgstr "Rotar a dextri"
 
-#: app/imageopscontextmanageritem.cpp:98
+#: app/imageopscontextmanageritem.cpp:100
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Rotate image to the right"
 msgstr "Rotar li image a dextri"
 
-#: app/imageopscontextmanageritem.cpp:103
+#: app/imageopscontextmanageritem.cpp:105
 #, kde-format
 msgid "Mirror"
 msgstr "Reflecter horizontalmen"
 
-#: app/imageopscontextmanageritem.cpp:107
+#: app/imageopscontextmanageritem.cpp:109
 #, kde-format
 msgid "Flip"
 msgstr "Reflecter verticalmen"
 
-#: app/imageopscontextmanageritem.cpp:111 lib/resize/resizeimagedialog.cpp:71
+#: app/imageopscontextmanageritem.cpp:113 lib/resize/resizeimagedialog.cpp:71
 #, kde-format
 msgid "Resize"
 msgstr "Redimensionar"
 
-#: app/imageopscontextmanageritem.cpp:116 lib/crop/cropimageoperation.cpp:70
+#: app/imageopscontextmanageritem.cpp:118 lib/crop/cropimageoperation.cpp:70
 #: lib/crop/cropwidget.cpp:262
 #, kde-format
 msgid "Crop"
 msgstr "Tonder"
 
-#: app/imageopscontextmanageritem.cpp:121
+#: app/imageopscontextmanageritem.cpp:123
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Adjust Brightness/Contrast/Gamma"
+msgstr ""
+
+#: app/imageopscontextmanageritem.cpp:128
 #: lib/redeyereduction/redeyereductionimageoperation.cpp:75
 #: lib/redeyereduction/redeyereductiontool.cpp:48
 #, kde-format
 msgid "Reduce Red Eye"
 msgstr "Reducter li rubi ocules"
 
-#: app/imageopscontextmanageritem.cpp:126 lib/annotate/annotateoperation.cpp:51
+#: app/imageopscontextmanageritem.cpp:133 lib/annotate/annotateoperation.cpp:51
 #, kde-format
 msgctxt "@action:intoolbar"
 msgid "Annotate"
 msgstr "Anotar"
 
-#: app/imageopscontextmanageritem.cpp:134
+#: app/imageopscontextmanageritem.cpp:141
 #, kde-format
 msgctxt "@title:window Annotate [filename]"
 msgid "Annotate %1"
 msgstr "Anotar %1"
 
-#: app/imageopscontextmanageritem.cpp:156 lib/document/documentjob.cpp:77
+#: app/imageopscontextmanageritem.cpp:164 lib/document/documentjob.cpp:77
 #, kde-format
 msgctxt "@info"
 msgid "Gwenview cannot edit this kind of image."
 msgstr ""
 
-#: app/imageopscontextmanageritem.cpp:167
+#: app/imageopscontextmanageritem.cpp:175
 #, kde-format
 msgid "Image Operations"
 msgstr "Operationes con images"
@@ -1188,7 +1197,8 @@ msgstr "Un errore evenit obtenente li information pri partite"
 #: app/mainwindow.cpp:522
 #, kde-format
 msgid ""
-"The shared image link (<a href=\"%1\">%1</a>) has been copied to the clipboard."
+"The shared image link (<a href=\"%1\">%1</a>) has been copied to the "
+"clipboard."
 msgstr ""
 
 #: app/mainwindow.cpp:572
@@ -1285,7 +1295,8 @@ msgstr "Si vu ne garda it, vor modificationes va esser perdit."
 
 #: app/mainwindow.cpp:1811
 #, kde-format
-msgid "This will hide the menu bar completely. You can show it again by typing %1."
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
 msgstr ""
 
 #: app/mainwindow.cpp:1814
@@ -1363,16 +1374,16 @@ msgstr[1] ""
 #: app/saveallhelper.cpp:106
 #, kde-kuit-format
 msgctxt ""
-"@info %1 is the name of the document which failed to save, %2 is the reason for "
-"the failure"
+"@info %1 is the name of the document which failed to save, %2 is the reason "
+"for the failure"
 msgid "<filename>%1</filename>: %2"
 msgstr "<filename>%1</filename>: %2"
 
 #: app/savebar.cpp:82
 #, kde-format
 msgid ""
-"You have modified many images. To avoid memory problems, you should save your "
-"changes."
+"You have modified many images. To avoid memory problems, you should save "
+"your changes."
 msgstr ""
 
 #: app/savebar.cpp:160
@@ -1553,8 +1564,8 @@ msgstr "Etiquettes"
 #: app/startmainpage.ui:126
 #, kde-format
 msgid ""
-"Browsing by tags is not available. Make sure Nepomuk is properly installed on "
-"your computer."
+"Browsing by tags is not available. Make sure Nepomuk is properly installed "
+"on your computer."
 msgstr ""
 
 #: app/viewmainpage.cpp:153 app/viewmainpage.cpp:447
@@ -1574,10 +1585,10 @@ msgctxt "@info:whatsthis"
 msgid ""
 "<para>This toggles a small bar showing all the other images in the current "
 "folder. Selecting one of them changes the currently viewed image.</"
-"para><para>Select multiple images at the same time to see them side by side.</"
-"para><para>The bar can optionally be moved to the right side of the screen and "
-"contain multiple rows of images; <link url='%1'>configure these options in the "
-"settings</link>.</para>"
+"para><para>Select multiple images at the same time to see them side by side."
+"</para><para>The bar can optionally be moved to the right side of the screen "
+"and contain multiple rows of images; <link url='%1'>configure these options "
+"in the settings</link>.</para>"
 msgstr ""
 
 #: app/viewmainpage.cpp:575
@@ -1595,7 +1606,8 @@ msgstr "Rejecter li modificationes"
 #: app/viewmainpage.cpp:769
 #, kde-format
 msgctxt "@info"
-msgid "This image has been modified. Reloading it will discard all your changes."
+msgid ""
+"This image has been modified. Reloading it will discard all your changes."
 msgstr ""
 
 #: importer/dialogpage.cpp:52
@@ -1884,9 +1896,9 @@ msgstr "- Installa li paquettes de suporte de lingue: "
 #, kde-format
 msgctxt "@info:whatsthis for a button when Kamera is not installed"
 msgid ""
-"You need Kamera installed on your system to read from the camera. Click here to "
-"launch Discover to install Kamera to enable protocol support for \"camera:/\" on "
-"your system."
+"You need Kamera installed on your system to read from the camera. Click here "
+"to launch Discover to install Kamera to enable protocol support for "
+"\"camera:/\" on your system."
 msgstr ""
 
 #: importer/thumbnailpage.cpp:261
@@ -1899,8 +1911,8 @@ msgstr "How to install protocol support for \"%1\" on Linux"
 #, kde-format
 msgctxt "@info:whatsthis for a button, %1 protocol name"
 msgid ""
-"Click here to launch Discover to install the missing protocol support library to "
-"enable the protocol support for \"%1:/\" on your system."
+"Click here to launch Discover to install the missing protocol support "
+"library to enable the protocol support for \"%1:/\" on your system."
 msgstr ""
 
 #: importer/thumbnailpage.cpp:266
@@ -1990,6 +2002,26 @@ msgstr "Mantenetor"
 #, kde-format
 msgid "Developer"
 msgstr "Developator"
+
+#: lib/bcg/bcgimageoperation.cpp:69
+#, kde-format
+msgid "Adjust Brightness/Contrast/Gamma"
+msgstr ""
+
+#: lib/bcg/bcgwidget.cpp:51
+#, kde-format
+msgid "Brightness:"
+msgstr ""
+
+#: lib/bcg/bcgwidget.cpp:52
+#, kde-format
+msgid "Contrast:"
+msgstr ""
+
+#: lib/bcg/bcgwidget.cpp:53
+#, kde-format
+msgid "Gamma:"
+msgstr ""
 
 #: lib/crop/cropwidget.cpp:191
 #, kde-format
@@ -2117,8 +2149,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"Could not overwrite file, check that you have the necessary rights to write in "
-"<filename>%1</filename>."
+"Could not overwrite file, check that you have the necessary rights to write "
+"in <filename>%1</filename>."
 msgstr ""
 
 #: lib/documentview/documentview.cpp:195
@@ -2169,15 +2201,16 @@ msgstr "Adjustar li image a dimension del fenestre"
 msgctxt "@info:whatsthis, %1 the action's text"
 msgid ""
 "<para>This fits the image into the available viewing area:<list><item>Images "
-"that are bigger than the viewing area are displayed at a smaller size so they "
-"fit.</item><item>Images that are smaller than the viewing area are displayed at "
-"their normal size. If smaller images should instead use all of the available "
-"viewing area, turn on <emphasis>Enlarge smaller images</emphasis> <link "
-"url='%2'>in the settings</link>.</item></list></para><para>If \"%1\" is already "
-"enabled, pressing it again will switch it off and the image will be displayed at "
-"its normal size instead.</para><para>\"%1\" is the default zoom mode for images. "
-"This can be changed so images are displayed at a previous zoom value instead "
-"<link url='%2'>in the settings</link>.</para>"
+"that are bigger than the viewing area are displayed at a smaller size so "
+"they fit.</item><item>Images that are smaller than the viewing area are "
+"displayed at their normal size. If smaller images should instead use all of "
+"the available viewing area, turn on <emphasis>Enlarge smaller images</"
+"emphasis> <link url='%2'>in the settings</link>.</item></list></"
+"para><para>If \"%1\" is already enabled, pressing it again will switch it "
+"off and the image will be displayed at its normal size instead.</para><para>"
+"\"%1\" is the default zoom mode for images. This can be changed so images "
+"are displayed at a previous zoom value instead <link url='%2'>in the "
+"settings</link>.</para>"
 msgstr ""
 
 #: lib/documentview/documentviewcontroller.cpp:83
@@ -2188,8 +2221,8 @@ msgstr ""
 #: lib/documentview/documentviewcontroller.cpp:85
 #, kde-format
 msgctxt ""
-"@action:button Zoom to fill (fit width or height), shown in status bar, keep it "
-"short please"
+"@action:button Zoom to fill (fit width or height), shown in status bar, keep "
+"it short please"
 msgid "Fill"
 msgstr "Plenar"
 
@@ -2275,7 +2308,8 @@ msgid ""
 "            uses an ICC color profile and an image has colors that do not\n"
 "            fit within the profile's color gamut. \"Perceptual\" will scale\n"
 "            the colors of the entire image so that they all fit within the\n"
-"            display's capabilities. \"Relative\" will squash only the colors\n"
+"            display's capabilities. \"Relative\" will squash only the "
+"colors\n"
 "            that cannot be displayed, and leave the other colors alone."
 msgstr ""
 
@@ -2497,7 +2531,8 @@ msgstr "Dimension:"
 #. i18n: ectx: property (text), widget (QLabel, helpTextLabel)
 #: lib/redeyereduction/redeyereductionwidget.ui:150
 #, kde-format
-msgid "Click on a red eye and choose a size, or double-click to correct instantly."
+msgid ""
+"Click on a red eye and choose a size, or double-click to correct instantly."
 msgstr ""
 
 #: lib/resize/resizeimagedialog.cpp:76
@@ -2568,13 +2603,13 @@ msgstr ""
 msgid "Add tag"
 msgstr "Adjunter un etiquette"
 
-#: lib/slideshow.cpp:182
+#: lib/slideshow.cpp:163
 #, kde-format
 msgctxt "@item:inmenu toggle loop in slideshow"
 msgid "Loop"
 msgstr "Cicle"
 
-#: lib/slideshow.cpp:187
+#: lib/slideshow.cpp:168
 #, fuzzy, kde-format
 msgctxt "@item:inmenu toggle random order in slideshow"
 msgid "Random"
