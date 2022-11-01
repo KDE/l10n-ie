@@ -1,0 +1,2049 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
+"Language-Team: Interlingue\n"
+"Language: ie\n"
+"X-Generator: Poedit 1.8.12\n"
+
+#: src/ClientWorker.cpp:300
+#, qt-format
+msgctxt "ClientWorker|"
+msgid ""
+"Your account could not be deleted from the server. Therefore, it was also "
+"not removed from this app: %1"
+msgstr ""
+
+#: src/FileSharingController.cpp:200
+#, fuzzy, qt-format
+msgctxt "FileSharingController|"
+msgid "Upload failed: %1"
+msgstr "Ne successat cargar un image"
+
+#: src/FileSharingController.cpp:369
+#, fuzzy, qt-format
+msgctxt "FileSharingController|"
+msgid "Couldn't download file: %1"
+msgstr "Ne successat trovar li action «%1»"
+
+#: src/Kaidan.cpp:108
+msgctxt "Kaidan|"
+msgid "Online"
+msgstr "In li rete"
+
+#: src/Kaidan.cpp:110
+msgctxt "Kaidan|"
+msgid "Connecting…"
+msgstr "Conexente..."
+
+#: src/Kaidan.cpp:112
+#, fuzzy
+msgctxt "Kaidan|"
+msgid "Offline"
+msgstr "Ne in li rete"
+
+#. The link is an XMPP-URI (i.e. 'xmpp:kaidan@muc.kaidan.im?join' for joining a chat)
+#: src/Kaidan.cpp:163
+msgctxt "Kaidan|"
+msgid "The link will be opened after you have connected."
+msgstr ""
+
+#: src/MediaRecorder.cpp:1187 src/MediaRecorder.cpp:1195
+#: src/MediaRecorder.cpp:1210 src/MediaRecorder.cpp:1219
+#: src/MediaRecorder.cpp:1227 src/MediaRecorder.cpp:1236
+#: src/MediaRecorder.cpp:1244
+msgctxt "MediaRecorder|"
+msgid "Default"
+msgstr "Predefinit"
+
+#: src/MediaSettings.cpp:161
+msgctxt "CommonEncoderSettings|"
+msgid "Very low"
+msgstr "Bassissim"
+
+#: src/MediaSettings.cpp:163
+msgctxt "CommonEncoderSettings|"
+msgid "Low"
+msgstr "Bass"
+
+#: src/MediaSettings.cpp:165
+msgctxt "CommonEncoderSettings|"
+msgid "Normal"
+msgstr "Normal"
+
+#: src/MediaSettings.cpp:167
+msgctxt "CommonEncoderSettings|"
+msgid "High"
+msgstr "Alt"
+
+#: src/MediaSettings.cpp:169
+msgctxt "CommonEncoderSettings|"
+msgid "Very high"
+msgstr "Altissim"
+
+#: src/MediaSettings.cpp:180
+#, fuzzy
+msgctxt "CommonEncoderSettings|"
+msgid "Constant quality"
+msgstr "Constante"
+
+#: src/MediaSettings.cpp:182
+#, fuzzy
+msgctxt "CommonEncoderSettings|"
+msgid "Constant bit rate"
+msgstr "Variabil bitrate (VBR)"
+
+#: src/MediaSettings.cpp:184
+#, fuzzy
+msgctxt "CommonEncoderSettings|"
+msgid "Average bit rate"
+msgstr "Variabil bitrate (VBR)"
+
+#: src/MediaSettings.cpp:186
+#, fuzzy
+msgctxt "CommonEncoderSettings|"
+msgid "Two pass"
+msgstr "Contrasigne: "
+
+#: src/MediaUtils.cpp:251
+msgctxt "MediaUtils|"
+msgid "Audio"
+msgstr "Audio"
+
+#: src/MediaUtils.cpp:253
+msgctxt "MediaUtils|"
+msgid "Document"
+msgstr "Document"
+
+#: src/MediaUtils.cpp:255
+msgctxt "MediaUtils|"
+msgid "Location"
+msgstr "Localisation"
+
+#: src/MediaUtils.cpp:257
+msgctxt "MediaUtils|"
+msgid "Image"
+msgstr "Image"
+
+#: src/MediaUtils.cpp:259
+msgctxt "MediaUtils|"
+msgid "Video"
+msgstr "Video"
+
+#: src/MediaUtils.cpp:263
+msgctxt "MediaUtils|"
+msgid "File"
+msgstr "File"
+
+#: src/MediaUtils.cpp:272
+#, fuzzy
+msgctxt "MediaUtils|"
+msgid "Take picture"
+msgstr "Capturar un image del ecran"
+
+#: src/MediaUtils.cpp:274
+#, fuzzy
+msgctxt "MediaUtils|"
+msgid "Record video"
+msgstr "Registrar un video"
+
+#: src/MediaUtils.cpp:276
+#, fuzzy
+msgctxt "MediaUtils|"
+msgid "Record voice"
+msgstr " Voce"
+
+#: src/MediaUtils.cpp:278
+#, fuzzy
+msgctxt "MediaUtils|"
+msgid "Send location"
+msgstr "In_viar a..."
+
+#: src/MediaUtils.cpp:316
+msgctxt "MediaUtils|"
+msgid "Choose file"
+msgstr "Selecte un file"
+
+#: src/MediaUtils.cpp:318
+msgctxt "MediaUtils|"
+msgid "Choose image"
+msgstr "Selecte un image"
+
+#: src/MediaUtils.cpp:320
+msgctxt "MediaUtils|"
+msgid "Choose video"
+msgstr "Selecte un video"
+
+#: src/MediaUtils.cpp:322
+#, fuzzy
+msgctxt "MediaUtils|"
+msgid "Choose audio file"
+msgstr "Selecter un file..."
+
+#: src/MediaUtils.cpp:324
+msgctxt "MediaUtils|"
+msgid "Choose document"
+msgstr "Selecte un document"
+
+#: src/MediaUtils.cpp:346
+msgctxt "MediaUtils|"
+msgid "All files"
+msgstr "Omni files"
+
+#: src/MediaUtils.cpp:348
+msgctxt "MediaUtils|"
+msgid "Images"
+msgstr "Images"
+
+#: src/MediaUtils.cpp:350
+msgctxt "MediaUtils|"
+msgid "Videos"
+msgstr "Videos"
+
+#: src/MediaUtils.cpp:352
+msgctxt "MediaUtils|"
+msgid "Audio files"
+msgstr "Audiofiles"
+
+#: src/MediaUtils.cpp:354
+msgctxt "MediaUtils|"
+msgid "Documents"
+msgstr "Documentes"
+
+#: src/MediaUtils.cpp:379
+#, qt-format
+msgctxt "MediaUtils|"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: src/Message.cpp:199
+msgctxt "Message|"
+msgid "Spoiler"
+msgstr "Spoiler"
+
+#: src/MessageComposition.cpp:144
+msgctxt "FileSelectionModel|"
+msgid "Unknown size"
+msgstr "Ínconosset grandore"
+
+#: src/MessageHandler.cpp:198
+#, fuzzy, qt-format
+msgctxt "MessageHandler|"
+msgid "This message is encrypted with %1 but could not be decrypted"
+msgstr "Ne successat importar %1, un duplicat missage"
+
+#: src/MessageHandler.cpp:269
+#, fuzzy
+msgctxt "MessageHandler|"
+msgid "Message correction was not successful"
+msgstr "Rapid copiation (sin correction de errores)"
+
+#: src/MessageHandler.cpp:340
+#, fuzzy
+msgctxt "MessageHandler|"
+msgid "Message could not be sent."
+msgstr "Inviat"
+
+#: src/MessageModel.cpp:246
+msgctxt "MessageModel|"
+msgid "Pending"
+msgstr "In linea"
+
+#: src/MessageModel.cpp:248
+msgctxt "MessageModel|"
+msgid "Sent"
+msgstr "Inviat"
+
+#: src/MessageModel.cpp:250
+msgctxt "MessageModel|"
+msgid "Delivered"
+msgstr "Liverat"
+
+#: src/MessageModel.cpp:252
+msgctxt "MessageModel|"
+msgid "Error"
+msgstr "Errore"
+
+#: src/Notifications.cpp:188
+msgctxt "QObject|"
+msgid "Mark as read"
+msgstr "Marcar quam leet"
+
+#: src/OmemoManager.cpp:120
+msgctxt "OmemoManager|"
+msgid "Secure conversations are not possible because OMEMO could not be set up"
+msgstr ""
+
+#: src/PresenceCache.cpp:63
+msgctxt "QObject|"
+msgid "Available"
+msgstr "Disponibil"
+
+#: src/PresenceCache.cpp:65
+#, fuzzy
+msgctxt "QObject|"
+msgid "Free for chat"
+msgstr "Líber"
+
+#: src/PresenceCache.cpp:67
+msgctxt "QObject|"
+msgid "Away"
+msgstr "Absent"
+
+#: src/PresenceCache.cpp:69
+msgctxt "QObject|"
+msgid "Do not disturb"
+msgstr "Ne disturbar"
+
+#: src/PresenceCache.cpp:71
+#, fuzzy
+msgctxt "QObject|"
+msgid "Away for longer"
+msgstr " (absent)"
+
+#: src/PresenceCache.cpp:73
+msgctxt "QObject|"
+msgid "Offline"
+msgstr "Ne in li rete"
+
+#: src/ProviderListModel.cpp:50
+#, fuzzy
+msgctxt "ProviderListModel|"
+msgid "Custom provider"
+msgstr "Provisor"
+
+#. Unlimited file size for uploading
+#. ----------
+#. Deletion of message history stored on provider
+#: src/ProviderListModel.cpp:118 src/ProviderListModel.cpp:128
+msgctxt "ProviderListModel|"
+msgid "Unlimited"
+msgstr "Ínlimitat"
+
+#: src/ProviderListModel.cpp:130
+#, qt-format
+msgctxt "ProviderListModel|"
+msgid "%1 days"
+msgstr "%1 dies"
+
+#: src/qml/AboutDialog.qml:78
+msgctxt "AboutDialog|"
+msgid "A simple, user-friendly Jabber/XMPP client"
+msgstr ""
+
+#: src/qml/AboutDialog.qml:86
+msgctxt "AboutDialog|"
+msgid "License:"
+msgstr "Licentie:"
+
+#: src/qml/AboutDialog.qml:103
+#, fuzzy
+msgctxt "AboutDialog|"
+msgid "Report problems"
+msgstr "Null problemas es trovat con li traduction."
+
+#: src/qml/AboutDialog.qml:108
+#, fuzzy
+msgctxt "AboutDialog|"
+msgid "View source code online"
+msgstr "Vider li fonte"
+
+#: src/qml/AccountTransferPage.qml:46
+#, fuzzy
+msgctxt "AccountTransferPage|"
+msgid "Transfer account to another device"
+msgstr "Haltat per un altri tache sur li sam aparate"
+
+#: src/qml/AccountTransferPage.qml:48
+msgctxt "AccountTransferPage|"
+msgid "Hide QR code"
+msgstr "Celar li QR-code"
+
+#: src/qml/AccountTransferPage.qml:48
+#, fuzzy
+msgctxt "AccountTransferPage|"
+msgid "Show as QR code"
+msgstr "Monstrar _QR-Code"
+
+#: src/qml/AccountTransferPage.qml:52
+#, fuzzy
+msgctxt "AccountTransferPage|"
+msgid "Hide text"
+msgstr "Celar li textu"
+
+#: src/qml/AccountTransferPage.qml:52
+#, fuzzy
+msgctxt "AccountTransferPage|"
+msgid "Show as text"
+msgstr "Monstar _grass textu in plu clar colores"
+
+#: src/qml/AccountTransferPage.qml:86
+msgctxt "AccountTransferPage|"
+msgid ""
+"Scan the QR code or enter the credentials as text on another device to log "
+"in on it.\n"
+"\n"
+"Attention:\n"
+"Never show this QR code to anyone else. It would allow unlimited access to "
+"your account!"
+msgstr ""
+
+#: src/qml/AccountTransferPage.qml:108
+msgctxt "AccountTransferPage|"
+msgid "Chat address:"
+msgstr "Adresse de conversation:"
+
+#: src/qml/AccountTransferPage.qml:117
+#, fuzzy
+msgctxt "AccountTransferPage|"
+msgid "Copy chat address"
+msgstr "Adresse de conversation:"
+
+#: src/qml/AccountTransferPage.qml:127
+msgctxt "AccountTransferPage|"
+msgid "Password:"
+msgstr "Contrasigne:"
+
+#: src/qml/AccountTransferPage.qml:137
+msgctxt "AccountTransferPage|"
+msgid "Copy password"
+msgstr "Copiar li contrasigne"
+
+#: src/qml/ChatPage.qml:108
+msgctxt "ChatPage|"
+msgid "Search"
+msgstr "Serchar"
+
+#: src/qml/ChatPage.qml:127
+#, fuzzy
+msgctxt "ChatPage|"
+msgid "Unmute notifications"
+msgstr "Restituer"
+
+#: src/qml/ChatPage.qml:128
+#, fuzzy
+msgctxt "ChatPage|"
+msgid "Mute notifications"
+msgstr "Notificationes"
+
+#: src/qml/ChatPage.qml:137
+msgctxt "ChatPage|"
+msgid "View profile"
+msgstr "Vider li profil"
+
+#: src/qml/ChatPage.qml:148
+msgctxt "ChatPage|"
+msgid "Send a spoiler message"
+msgstr "Inviar li spoiler-missage"
+
+#: src/qml/elements/ChatMessage.qml:163
+msgctxt "ChatMessage|"
+msgid "Spoiler"
+msgstr "Spoiler"
+
+#: src/qml/elements/ChatMessage.qml:220
+msgctxt "ChatMessage|"
+msgid "Download"
+msgstr "Descargar"
+
+#: src/qml/elements/ChatMessage.qml:318
+msgctxt "ChatMessage|"
+msgid "Unencrypted"
+msgstr "Ínciffrat"
+
+#: src/qml/elements/ChatMessage.qml:323
+msgctxt "ChatMessage|"
+msgid "Untrusted"
+msgstr "Ínfidet"
+
+#: src/qml/elements/ChatMessage.qml:355
+#, qt-format
+msgctxt "ChatMessage|"
+msgid "%1 has read up to this point"
+msgstr ""
+
+#: src/qml/elements/ChatMessageContextMenu.qml:46
+msgctxt "ChatMessageContextMenu|"
+msgid "Copy message"
+msgstr "Copiar li missage"
+
+#: src/qml/elements/ChatMessageContextMenu.qml:57
+#, fuzzy
+msgctxt "ChatMessageContextMenu|"
+msgid "Edit message"
+msgstr "Modificar…"
+
+#: src/qml/elements/ChatMessageContextMenu.qml:63
+#, fuzzy
+msgctxt "ChatMessageContextMenu|"
+msgid "Copy download URL"
+msgstr "Copiar li URL del págine"
+
+#: src/qml/elements/ChatMessageContextMenu.qml:69
+#, fuzzy
+msgctxt "ChatMessageContextMenu|"
+msgid "Quote message"
+msgstr "Citation: "
+
+#: src/qml/elements/ChatMessageContextMenu.qml:76
+msgctxt "ChatMessageContextMenu|"
+msgid "Delete file"
+msgstr "Remover li file"
+
+#: src/qml/elements/ChatMessageContextMenu.qml:84
+#, fuzzy
+msgctxt "ChatMessageContextMenu|"
+msgid "Mark as first unread"
+msgstr "Marcar quam ínleet"
+
+#: src/qml/elements/ChatPageSearchView.qml:69
+#, fuzzy
+msgctxt "ChatPageSearchView|"
+msgid "Close message search bar"
+msgstr "Cluder li panel de sercha"
+
+#: src/qml/elements/ChatPageSearchView.qml:89
+#, fuzzy
+msgctxt "ChatPageSearchView|"
+msgid "Search up"
+msgstr "Serchar: "
+
+#: src/qml/elements/ChatPageSearchView.qml:100
+#, fuzzy
+msgctxt "ChatPageSearchView|"
+msgid "Search down"
+msgstr "A-_bass"
+
+#: src/qml/elements/ChatPageSendingPane.qml:74
+#, fuzzy
+msgctxt "ChatPageSendingPane|"
+msgid "Spoiler hint"
+msgstr "Spoiler"
+
+#: src/qml/elements/ChatPageSendingPane.qml:81
+msgctxt "ChatPageSendingPane|"
+msgid "Close spoiler hint field"
+msgstr ""
+
+#: src/qml/elements/ChatPageSendingPane.qml:119
+msgctxt "ChatPageSendingPane|"
+msgid "Compose message"
+msgstr "Composir un missage"
+
+#: src/qml/elements/ChatPageSendingPane.qml:219
+msgctxt "ChatPageSendingPane|"
+msgid "Attachments"
+msgstr "Atachamentes"
+
+#: src/qml/elements/ChatPageSendingPane.qml:271
+#, fuzzy
+msgctxt "ChatPageSendingPane|"
+msgid "Take picture"
+msgstr "Capturar un image del ecran"
+
+#: src/qml/elements/ChatPageSendingPane.qml:272
+msgctxt "ChatPageSendingPane|"
+msgid "Take a picture using your camera"
+msgstr ""
+
+#: src/qml/elements/ChatPageSendingPane.qml:283
+msgctxt "ChatPageSendingPane|"
+msgid "Record Video"
+msgstr "Registrar un video"
+
+#: src/qml/elements/ChatPageSendingPane.qml:284
+msgctxt "ChatPageSendingPane|"
+msgid "Record a video using your camera"
+msgstr ""
+
+#: src/qml/elements/ChatPageSendingPane.qml:295
+#, fuzzy
+msgctxt "ChatPageSendingPane|"
+msgid "Document"
+msgstr "document"
+
+#: src/qml/elements/ChatPageSendingPane.qml:296
+#, fuzzy
+msgctxt "ChatPageSendingPane|"
+msgid "Attatch document from device"
+msgstr "Cargante un document ex «%s»"
+
+#: src/qml/elements/ChatPageSendingPane.qml:307
+#, fuzzy
+msgctxt "ChatPageSendingPane|"
+msgid "Location"
+msgstr "LOCALISATION"
+
+#: src/qml/elements/ChatPageSendingPane.qml:308
+#, fuzzy
+msgctxt "ChatPageSendingPane|"
+msgid "Send your location"
+msgstr "In_viar a..."
+
+#: src/qml/elements/ConfirmationPage.qml:48
+msgctxt "ConfirmationPage|"
+msgid "Cancel"
+msgstr "Anullar"
+
+#: src/qml/elements/fields/JidField.qml:39
+#, fuzzy
+msgctxt "JidField|"
+msgid "Chat address"
+msgstr "Adresse de conversation:"
+
+#: src/qml/elements/fields/JidField.qml:40
+msgctxt "JidField|"
+msgid "user@example.org"
+msgstr "usator@exemple.org"
+
+#: src/qml/elements/fields/JidField.qml:42
+msgctxt "JidField|"
+msgid "The chat address must have the form <b>username@server</b>"
+msgstr ""
+
+#: src/qml/elements/fields/PasswordField.qml:40
+msgctxt "PasswordField|"
+msgid "Password"
+msgstr "Contrasigne"
+
+#: src/qml/elements/fields/PasswordField.qml:41
+#, fuzzy
+msgctxt "PasswordField|"
+msgid "Please enter a valid password"
+msgstr "Ples provide un valid suffixe de fil-nómine!"
+
+#: src/qml/elements/MessageReactionSenderSheet.qml:51
+#, fuzzy, qt-format
+msgctxt "MessageReactionSenderSheet|"
+msgid "Senders of %1"
+msgstr "== %1 =="
+
+#: src/qml/elements/MessageReactionSenderSheet.qml:57
+#, fuzzy
+msgctxt "MessageReactionSenderSheet|"
+msgid "Add own reaction"
+msgstr "<textu-de-reaction>"
+
+#: src/qml/elements/MessageReactionSenderSheet.qml:66
+#, fuzzy
+msgctxt "MessageReactionSenderSheet|"
+msgid "Remove own reaction"
+msgstr "<textu-de-reaction>"
+
+#: src/qml/elements/NewMedia.qml:224 src/qml/elements/NewMedia.qml:233
+#, fuzzy
+msgctxt "NewMedia|"
+msgid "Initializing…"
+msgstr "Inicialisante"
+
+#: src/qml/elements/NewMedia.qml:229
+msgctxt "NewMedia|"
+msgid "Unavailable"
+msgstr "Índisponibil"
+
+#: src/qml/elements/NewMedia.qml:239
+#, fuzzy, qt-format
+msgctxt "NewMedia|"
+msgid "Paused %1"
+msgstr " (pausat)"
+
+#: src/qml/elements/NewMedia.qml:254
+#, qt-format
+msgctxt "NewMedia|"
+msgid "Recording… %1"
+msgstr "Registration... %1"
+
+#: src/qml/elements/NewMediaSheet.qml:101
+msgctxt "NewMediaSheet|"
+msgid "Cancel"
+msgstr "Anullar"
+
+#: src/qml/elements/NewMediaSheet.qml:115
+msgctxt "NewMediaSheet|"
+msgid "Send"
+msgstr "Inviar"
+
+#: src/qml/elements/QrCodeScanner.qml:71
+#, fuzzy, qt-format
+msgctxt "QrCodeScanner|"
+msgid "The camera format '%1' is not supported."
+msgstr "EXIF es ínsuportat por ti-ci formate de file"
+
+#: src/qml/elements/QrCodeScanner.qml:98
+#, fuzzy
+msgctxt "QrCodeScanner|"
+msgid "There is no camera available."
+msgstr "Modelle del cámera:"
+
+#: src/qml/elements/QrCodeScanner.qml:101
+msgctxt "QrCodeScanner|"
+msgid ""
+"Your camera is busy.\n"
+"Try to close other applications using the camera."
+msgstr ""
+
+#: src/qml/elements/RosterAddContactSheet.qml:43
+#, fuzzy
+msgctxt "RosterAddContactSheet|"
+msgid "Add new contact"
+msgstr "Nov contacte"
+
+#: src/qml/elements/RosterAddContactSheet.qml:51
+msgctxt "RosterAddContactSheet|"
+msgid "This will also send a request to access the presence of the contact."
+msgstr ""
+
+#: src/qml/elements/RosterAddContactSheet.qml:60
+msgctxt "RosterAddContactSheet|"
+msgid "Jabber-ID:"
+msgstr "ID de Jabber:"
+
+#: src/qml/elements/RosterAddContactSheet.qml:65
+msgctxt "RosterAddContactSheet|"
+msgid "user@example.org"
+msgstr "usator@exemple.org"
+
+#: src/qml/elements/RosterAddContactSheet.qml:72
+msgctxt "RosterAddContactSheet|"
+msgid "Nickname:"
+msgstr "Pseudonim:"
+
+#: src/qml/elements/RosterAddContactSheet.qml:81
+#, fuzzy
+msgctxt "RosterAddContactSheet|"
+msgid "Optional message:"
+msgstr "Facultativ por"
+
+#: src/qml/elements/RosterAddContactSheet.qml:89
+msgctxt "RosterAddContactSheet|"
+msgid "Tell your chat partner who you are."
+msgstr ""
+
+#: src/qml/elements/RosterAddContactSheet.qml:98
+msgctxt "RosterAddContactSheet|"
+msgid "Cancel"
+msgstr "Anullar"
+
+#: src/qml/elements/RosterAddContactSheet.qml:108
+msgctxt "RosterAddContactSheet|"
+msgid "Add"
+msgstr "Adjunter"
+
+#: src/qml/elements/RosterListItemContextMenu.qml:45
+msgctxt "RosterListItemContextMenu|"
+msgid "Unpin"
+msgstr "Defixar"
+
+#: src/qml/elements/RosterListItemContextMenu.qml:45
+msgctxt "RosterListItemContextMenu|"
+msgid "Pin"
+msgstr "Fixar"
+
+#: src/qml/elements/RosterRemoveContactSheet.qml:42
+#, fuzzy
+msgctxt "RosterRemoveContactSheet|"
+msgid "Delete contact"
+msgstr "Contacte"
+
+#: src/qml/elements/RosterRemoveContactSheet.qml:48
+#, qt-format
+msgctxt "RosterRemoveContactSheet|"
+msgid ""
+"Do you really want to delete the contact <b>%1</b> from your contact list?"
+msgstr ""
+
+#: src/qml/elements/RosterRemoveContactSheet.qml:67
+msgctxt "RosterRemoveContactSheet|"
+msgid "Cancel"
+msgstr "Anullar"
+
+#: src/qml/elements/RosterRemoveContactSheet.qml:73
+msgctxt "RosterRemoveContactSheet|"
+msgid "Delete"
+msgstr "Remover"
+
+#: src/qml/elements/RosterRenameContactSheet.qml:43
+#, fuzzy
+msgctxt "RosterRenameContactSheet|"
+msgid "Rename contact"
+msgstr " _Renominar..."
+
+#: src/qml/elements/RosterRenameContactSheet.qml:62
+msgctxt "RosterRenameContactSheet|"
+msgid "Cancel"
+msgstr "Anullar"
+
+#: src/qml/elements/RosterRenameContactSheet.qml:69
+msgctxt "RosterRenameContactSheet|"
+msgid "Rename"
+msgstr "Renominar"
+
+#: src/qml/elements/SendMediaSheet.qml:52
+msgctxt "SendMediaSheet|"
+msgid "Send files"
+msgstr "Inviar files"
+
+#: src/qml/elements/SendMediaSheet.qml:101
+#, fuzzy
+msgctxt "SendMediaSheet|"
+msgid "Select some files to send them"
+msgstr "Selecte files ad inviar"
+
+#: src/qml/elements/SendMediaSheet.qml:146
+#, fuzzy
+msgctxt "SendMediaSheet|"
+msgid "Enter description…"
+msgstr "Sin descrition"
+
+#: src/qml/elements/SendMediaSheet.qml:154
+msgctxt "SendMediaSheet|"
+msgid "Remove file"
+msgstr "Remover li file"
+
+#: src/qml/elements/SendMediaSheet.qml:168
+msgctxt "SendMediaSheet|"
+msgid "Compose message"
+msgstr "Composir un missage"
+
+#: src/qml/elements/SendMediaSheet.qml:175
+msgctxt "SendMediaSheet|"
+msgid "Add"
+msgstr "Adjunter"
+
+#: src/qml/elements/SendMediaSheet.qml:186
+msgctxt "SendMediaSheet|"
+msgid "Send"
+msgstr "Inviar"
+
+#: src/qml/elements/SubRequestAcceptSheet.qml:42
+#, fuzzy
+msgctxt "SubRequestAcceptSheet|"
+msgid "Subscription Request"
+msgstr "Optiones de abonament"
+
+#: src/qml/elements/SubRequestAcceptSheet.qml:51
+#, qt-format
+msgctxt "SubRequestAcceptSheet|"
+msgid ""
+"You received a subscription request by <b>%1</b>. If you accept it, the "
+"account will have access to your presence status."
+msgstr ""
+
+#: src/qml/elements/SubRequestAcceptSheet.qml:63
+msgctxt "SubRequestAcceptSheet|"
+msgid "Decline"
+msgstr "Declinar"
+
+#: src/qml/elements/SubRequestAcceptSheet.qml:72
+msgctxt "SubRequestAcceptSheet|"
+msgid "Accept"
+msgstr "Acceptar"
+
+#: src/qml/EmptyChatPage.qml:54
+msgctxt "EmptyChatPage|"
+msgid "Please select a chat to start messaging"
+msgstr ""
+
+#: src/qml/GlobalDrawer.qml:89
+#, fuzzy
+msgctxt "GlobalDrawer|"
+msgid "Add contact by QR code"
+msgstr "Ne successat generar un QR-Code."
+
+#: src/qml/GlobalDrawer.qml:94
+msgctxt "GlobalDrawer|"
+msgid "Invite friends"
+msgstr "Invitar amics"
+
+#: src/qml/GlobalDrawer.qml:98
+#, fuzzy
+msgctxt "GlobalDrawer|"
+msgid "Invitation link copied to clipboard"
+msgstr "Copiar li ligament _magnet"
+
+#: src/qml/GlobalDrawer.qml:102
+#, fuzzy
+msgctxt "GlobalDrawer|"
+msgid "Switch device"
+msgstr "Cambiar"
+
+#: src/qml/GlobalDrawer.qml:110
+msgctxt "GlobalDrawer|"
+msgid "Settings"
+msgstr "Parametres"
+
+#: src/qml/GlobalDrawer.qml:123
+msgctxt "GlobalDrawer|"
+msgid "About"
+msgstr "Pri"
+
+#: src/qml/LoginPage.qml:43 src/qml/LoginPage.qml:106
+msgctxt "LoginPage|"
+msgid "Log in"
+msgstr "Aperter un session"
+
+#: src/qml/LoginPage.qml:49
+msgctxt "LoginPage|"
+msgid "Log in to your XMPP account"
+msgstr ""
+
+#: src/qml/LoginPage.qml:75
+msgctxt "LoginPage|"
+msgid "Connection settings"
+msgstr "Parametres de conexion"
+
+#: src/qml/LoginPage.qml:114
+msgctxt "LoginPage|"
+msgid "Connecting…"
+msgstr "Conexion..."
+
+#: src/qml/QrCodeOnboardingPage.qml:45 src/qml/QrCodeOnboardingPage.qml:47
+#, fuzzy
+msgctxt "QrCodeOnboardingPage|"
+msgid "Scan QR code"
+msgstr "Celar li QR-code"
+
+#: src/qml/QrCodeOnboardingPage.qml:47
+#, fuzzy
+msgctxt "QrCodeOnboardingPage|"
+msgid "Show explanation"
+msgstr "Explication"
+
+#: src/qml/QrCodeOnboardingPage.qml:56
+#, fuzzy
+msgctxt "QrCodeOnboardingPage|"
+msgid "Continue without QR code"
+msgstr "Ne successat generar un QR-Code."
+
+#: src/qml/QrCodeOnboardingPage.qml:62
+msgctxt "QrCodeOnboardingPage|"
+msgid "Scan the QR code from your existing device to transfer your account."
+msgstr ""
+
+#: src/qml/QrCodeOnboardingPage.qml:103
+msgctxt "QrCodeOnboardingPage|"
+msgid "Connecting…"
+msgstr "Conexente..."
+
+#: src/qml/QrCodeOnboardingPage.qml:121
+#, fuzzy
+msgctxt "QrCodeOnboardingPage|"
+msgid "This QR code is not a valid login QR code."
+msgstr "Ne successat generar un QR-Code."
+
+#: src/qml/QrCodePage.qml:52 src/qml/QrCodePage.qml:54
+msgctxt "QrCodePage|"
+msgid "Scan QR codes"
+msgstr "Scannar QR-codes"
+
+#: src/qml/QrCodePage.qml:54
+#, fuzzy
+msgctxt "QrCodePage|"
+msgid "Show explanation"
+msgstr "Explication"
+
+#: src/qml/QrCodePage.qml:78
+msgctxt "QrCodePage|"
+msgid "Step 1: Scan your <b>other device's</b> QR code"
+msgstr ""
+
+#: src/qml/QrCodePage.qml:80
+msgctxt "QrCodePage|"
+msgid "Step 1: Scan your <b>contact's</b> QR code"
+msgstr ""
+
+#: src/qml/QrCodePage.qml:108
+msgctxt "QrCodePage|"
+msgid "Step 2: Scan with your other device <b>this device's</b> QR code"
+msgstr ""
+
+#: src/qml/QrCodePage.qml:110
+msgctxt "QrCodePage|"
+msgid "Step 2: Let your contact scan <b>your</b> QR code"
+msgstr ""
+
+#: src/qml/QrCodePage.qml:147
+msgctxt "QrCodePage|"
+msgid "Contact added - Continue with step 2"
+msgstr ""
+
+#: src/qml/QrCodePage.qml:154
+msgctxt "QrCodePage|"
+msgid "This QR code does not contain a contact"
+msgstr ""
+
+#: src/qml/QrCodePage.qml:167
+msgctxt "QrCodePage|"
+msgid "Trust decisions made for other own device - Continue with step 2"
+msgstr ""
+
+#: src/qml/QrCodePage.qml:169
+msgctxt "QrCodePage|"
+msgid "Trust decisions made for contact - Continue with step 2"
+msgstr ""
+
+#: src/qml/QrCodePage.qml:176
+msgctxt "QrCodePage|"
+msgid "This QR code is not for your other device"
+msgstr ""
+
+#: src/qml/QrCodePage.qml:178
+#, fuzzy
+msgctxt "QrCodePage|"
+msgid "This QR code is not for your contact"
+msgstr "Ne successat generar un QR-Code."
+
+#: src/qml/QrCodePage.qml:184
+#, fuzzy
+msgctxt "QrCodePage|"
+msgid "This QR code is not for trust decisions"
+msgstr "Ne successat generar un QR-Code."
+
+#: src/qml/QrCodePage.qml:228
+#, fuzzy
+msgctxt "QrCodePage|"
+msgid "Making trust decisions…"
+msgstr "Fide:"
+
+#: src/qml/QrCodePage.qml:228
+#, fuzzy
+msgctxt "QrCodePage|"
+msgid "Adding contact…"
+msgstr "Contacte"
+
+#: src/qml/registration/AutomaticRegistrationPage.qml:49
+#, fuzzy
+msgctxt "AutomaticRegistrationPage|"
+msgid "Register automatically"
+msgstr "Registrar se"
+
+#: src/qml/registration/AutomaticRegistrationPage.qml:106
+msgctxt "AutomaticRegistrationPage|"
+msgid "The provider does currently not support registration via this app."
+msgstr ""
+
+#: src/qml/registration/CustomFormView.qml:39
+msgctxt "CustomFormView|"
+msgid ""
+"The server has requested more information.\n"
+"Not everything may be required.\n"
+"If a CAPTCHA is shown, the displayed text must be entered."
+msgstr ""
+
+#: src/qml/registration/DisplayNameView.qml:39
+msgctxt "DisplayNameView|"
+msgid ""
+"Your display name is what your contacts will see.\n"
+"In case you don't want to use a display name, you can leave this field "
+"empty.\n"
+"Using a display name may let new contacts recognize you easier but also "
+"could decrease your privacy!"
+msgstr ""
+
+#: src/qml/registration/DisplayNameView.qml:47
+msgctxt "DisplayNameView|"
+msgid "Display Name"
+msgstr "Visibil nómine"
+
+#: src/qml/registration/LoadingView.qml:41
+#, fuzzy
+msgctxt "LoadingView|"
+msgid "Requesting the server…"
+msgstr "&Servitor:"
+
+#: src/qml/registration/ManualRegistrationPage.qml:45
+#, fuzzy
+msgctxt "ManualRegistrationPage|"
+msgid "Register manually"
+msgstr "Manualmen"
+
+#: src/qml/registration/ManualRegistrationPage.qml:195
+#, fuzzy
+msgctxt "ManualRegistrationPage|"
+msgid "The provider requires a stronger password."
+msgstr "Besonar li contrasigne por desserrar"
+
+#: src/qml/registration/ManualRegistrationPage.qml:238
+msgctxt "ManualRegistrationPage|"
+msgid "The provider does not support registration via this app."
+msgstr ""
+
+#: src/qml/registration/ManualRegistrationPage.qml:238
+msgctxt "ManualRegistrationPage|"
+msgid "The provider does currently not support registration via this app."
+msgstr ""
+
+#: src/qml/registration/ManualRegistrationPage.qml:242
+msgctxt "ManualRegistrationPage|"
+msgid "But you can use the provider's web registration."
+msgstr ""
+
+#: src/qml/registration/ManualRegistrationPage.qml:246
+msgctxt "ManualRegistrationPage|"
+msgid "A new provider has been randomly selected."
+msgstr ""
+
+#: src/qml/registration/ManualRegistrationPage.qml:261
+#, fuzzy
+msgctxt "ManualRegistrationPage|"
+msgid "The username is already taken."
+msgstr "Nómine de usator"
+
+#: src/qml/registration/ManualRegistrationPage.qml:265
+msgctxt "ManualRegistrationPage|"
+msgid "A new random username has been generated."
+msgstr ""
+
+#: src/qml/registration/PasswordView.qml:43
+msgctxt "PasswordView|"
+msgid ""
+"Your password is used to log in to your account.\n"
+"If you don't enter a password, the randomly generated and already displayed "
+"one is used.\n"
+"Don't use passwords you're already using somewhere else!"
+msgstr ""
+
+#: src/qml/registration/ProviderView.qml:46
+msgctxt "ProviderView|"
+msgid ""
+"The provider is where your account is located.\n"
+"The selectable providers are hand-picked by our community!"
+msgstr ""
+
+#: src/qml/registration/ProviderView.qml:64
+msgctxt "ProviderView|"
+msgid "Provider"
+msgstr "Provisor"
+
+#: src/qml/registration/ProviderView.qml:101
+#, fuzzy
+msgctxt "ProviderView|"
+msgid "Connection settings"
+msgstr "Parametres de conexion"
+
+#: src/qml/registration/ProviderView.qml:144
+#, fuzzy
+msgctxt "ProviderView|"
+msgid "Web registration only:"
+msgstr "Registration ne successat:"
+
+#: src/qml/registration/ProviderView.qml:145
+msgctxt "ProviderView|"
+msgid "No"
+msgstr "No"
+
+#: src/qml/registration/ProviderView.qml:145
+msgctxt "ProviderView|"
+msgid "Yes"
+msgstr "Yes"
+
+#: src/qml/registration/ProviderView.qml:150
+#, fuzzy
+msgctxt "ProviderView|"
+msgid "Server locations:"
+msgstr "Localisationes"
+
+#: src/qml/registration/ProviderView.qml:156
+msgctxt "ProviderView|"
+msgid "Languages:"
+msgstr "Lingues:"
+
+#: src/qml/registration/ProviderView.qml:162
+msgctxt "ProviderView|"
+msgid "Online since:"
+msgstr "In li rete desde:"
+
+#: src/qml/registration/ProviderView.qml:168
+#, fuzzy
+msgctxt "ProviderView|"
+msgid "Allows to share media up to:"
+msgstr "Permisse partir un fólder rapidmen"
+
+#: src/qml/registration/ProviderView.qml:174
+msgctxt "ProviderView|"
+msgid "Stores shared media up to:"
+msgstr ""
+
+#: src/qml/registration/ProviderView.qml:182
+msgctxt "ProviderView|"
+msgid "Open website"
+msgstr "Aperter li website"
+
+#: src/qml/registration/ProviderView.qml:188
+#, fuzzy
+msgctxt "ProviderView|"
+msgid "Copy website address"
+msgstr "_Copiar li adresse de e-post"
+
+#: src/qml/registration/RegistrationButton.qml:37
+msgctxt "RegistrationButton|"
+msgid "Register"
+msgstr "Registrar se"
+
+#: src/qml/registration/RegistrationDecisionPage.qml:41
+msgctxt "RegistrationDecisionPage|"
+msgid "Register"
+msgstr "Registrar se"
+
+#: src/qml/registration/RegistrationDecisionPage.qml:47
+#, fuzzy
+msgctxt "RegistrationDecisionPage|"
+msgid "Generate an account automatically"
+msgstr "_Generar!"
+
+#: src/qml/registration/RegistrationDecisionPage.qml:52
+#, fuzzy
+msgctxt "RegistrationDecisionPage|"
+msgid "Create an account manually"
+msgstr "Crear un _nov conto..."
+
+#: src/qml/registration/RegistrationPage.qml:80
+#, fuzzy
+msgctxt "RegistrationPage|"
+msgid "CAPTCHA input was wrong"
+msgstr "C_aptcha:"
+
+#: src/qml/registration/RegistrationPage.qml:89
+#, fuzzy
+msgctxt "RegistrationPage|"
+msgid "Required information is missing: "
+msgstr "Information mancant"
+
+#: src/qml/registration/RegistrationPage.qml:98
+msgctxt "RegistrationPage|"
+msgid "Registration failed:"
+msgstr "Registration ne successat:"
+
+#: src/qml/registration/ResultView.qml:42
+msgctxt "ResultView|"
+msgid ""
+"Your chat address is used to chat with you, like your email address is used "
+"to exchange email messages.\n"
+"\n"
+"Your chat address will be:"
+msgstr ""
+
+#: src/qml/registration/UsernameView.qml:43
+msgctxt "UsernameView|"
+msgid ""
+"Your username is used to log in to your account and to chat with you.\n"
+"If you don't enter a username, the randomly generated and already displayed "
+"one is used.\n"
+"Using an own username may let it be more recognizable but also could "
+"decrease your privacy!"
+msgstr ""
+
+#: src/qml/registration/UsernameView.qml:60
+msgctxt "UsernameView|"
+msgid "Username"
+msgstr "Nómine de usator"
+
+#: src/qml/registration/UsernameView.qml:67
+msgctxt "UsernameView|"
+msgid ""
+"Please enter a valid username or leave the field empty for a random one."
+msgstr ""
+
+#: src/qml/registration/WebRegistrationView.qml:42
+msgctxt "WebRegistrationView|"
+msgid ""
+"The selected provider only provides web registration. After creating an "
+"account via the web page, you can log in via Kaidan."
+msgstr ""
+
+#: src/qml/registration/WebRegistrationView.qml:49
+#, fuzzy
+msgctxt "WebRegistrationView|"
+msgid "Open registration web page"
+msgstr "Apert registration"
+
+#: src/qml/registration/WebRegistrationView.qml:54
+msgctxt "WebRegistrationView|"
+msgid "Copy registration web page address"
+msgstr ""
+
+#: src/qml/registration/WebRegistrationView.qml:60
+#, fuzzy
+msgctxt "WebRegistrationView|"
+msgid "Log in with your new account"
+msgstr "Registrar un nov conto"
+
+#: src/qml/RegistrationLoginDecisionPage.qml:41
+#, fuzzy
+msgctxt "RegistrationLoginDecisionPage|"
+msgid "Set up"
+msgstr "_Selecter"
+
+#: src/qml/RegistrationLoginDecisionPage.qml:47
+msgctxt "RegistrationLoginDecisionPage|"
+msgid "Register a new account"
+msgstr "Registrar un nov conto"
+
+#: src/qml/RegistrationLoginDecisionPage.qml:52
+#, fuzzy
+msgctxt "RegistrationLoginDecisionPage|"
+msgid "Use an existing account"
+msgstr "Conto:"
+
+#: src/qml/RosterPage.qml:41
+#, fuzzy
+msgctxt "RosterPage|"
+msgid "Connecting…"
+msgstr "Conexente"
+
+#: src/qml/RosterPage.qml:42
+#, fuzzy
+msgctxt "RosterPage|"
+msgid "Offline"
+msgstr "Ne in li rete"
+
+#: src/qml/RosterPage.qml:43
+msgctxt "RosterPage|"
+msgid "Contacts"
+msgstr "Contactes"
+
+#: src/qml/RosterPage.qml:56
+#, fuzzy
+msgctxt "RosterPage|"
+msgid "Add new contact"
+msgstr "Nov contacte"
+
+#: src/qml/RosterPage.qml:68
+#, fuzzy
+msgctxt "RosterPage|"
+msgid "Search contacts"
+msgstr "Contactes..."
+
+#: src/qml/settings/AccountSecurity.qml:39
+#, fuzzy
+msgctxt "AccountSecurity|"
+msgid "Account Security"
+msgstr "Securitá del conto"
+
+#: src/qml/settings/AccountSecurity.qml:42
+msgctxt "AccountSecurity|"
+msgid ""
+"Allow to add additional devices using the login QR code but never show the "
+"password."
+msgstr ""
+
+#: src/qml/settings/AccountSecurity.qml:44
+#, fuzzy
+msgctxt "AccountSecurity|"
+msgid "Don't show password"
+msgstr "Monstrar li contrasigne"
+
+#: src/qml/settings/AccountSecurity.qml:49
+msgctxt "AccountSecurity|"
+msgid ""
+"Neither allow to add additional devices using the login QR code nor show the "
+"password."
+msgstr ""
+
+#: src/qml/settings/AccountSecurity.qml:51
+msgctxt "AccountSecurity|"
+msgid "Don't expose password in any way"
+msgstr ""
+
+#: src/qml/settings/ChangePassword.qml:40
+#, fuzzy
+msgctxt "ChangePassword|"
+msgid "Change password"
+msgstr "Cambiar li contrasigne"
+
+#: src/qml/settings/ChangePassword.qml:64
+#, fuzzy
+msgctxt "ChangePassword|"
+msgid "Current password:"
+msgstr "Actual contrasigne:"
+
+#: src/qml/settings/ChangePassword.qml:71
+msgctxt "ChangePassword|"
+msgid "New password:"
+msgstr "Nov contrasigne:"
+
+#: src/qml/settings/ChangePassword.qml:77
+#, fuzzy
+msgctxt "ChangePassword|"
+msgid "New password (repeat):"
+msgstr "Repetir"
+
+#: src/qml/settings/ChangePassword.qml:84
+#, fuzzy
+msgctxt "ChangePassword|"
+msgid "New passwords do not match."
+msgstr "Ne maximisar nov fenestres"
+
+#: src/qml/settings/ChangePassword.qml:93
+#, fuzzy
+msgctxt "ChangePassword|"
+msgid "Current password is invalid."
+msgstr "Actual _contrasigne:"
+
+#: src/qml/settings/ChangePassword.qml:100
+msgctxt "ChangePassword|"
+msgid ""
+"After changing your password, you will need to reenter it on all your other "
+"devices."
+msgstr ""
+
+#: src/qml/settings/ChangePassword.qml:111
+msgctxt "ChangePassword|"
+msgid "Cancel"
+msgstr "Anullar"
+
+#: src/qml/settings/ChangePassword.qml:117
+msgctxt "ChangePassword|"
+msgid "Change"
+msgstr "Modificar"
+
+#: src/qml/settings/ChangePassword.qml:142
+#, fuzzy
+msgctxt "ChangePassword|"
+msgid "Password changed successfully"
+msgstr "Li contrasigne sta cambiat successosimen"
+
+#: src/qml/settings/ChangePassword.qml:148
+#, fuzzy, qt-format
+msgctxt "ChangePassword|"
+msgid "Failed to change password: %1"
+msgstr "Cambiar vor contrasigne"
+
+#: src/qml/settings/ConnectionSettings.qml:40
+#, fuzzy
+msgctxt "ConnectionSettings|"
+msgid "Connection settings"
+msgstr "Parametres de conexion"
+
+#: src/qml/settings/ConnectionSettings.qml:70
+msgctxt "ConnectionSettings|"
+msgid "Change"
+msgstr "Modificar"
+
+#: src/qml/settings/ConnectionSettings.qml:84
+msgctxt "ConnectionSettings|"
+msgid "Cancel"
+msgstr "Anullar"
+
+#: src/qml/settings/ConnectionSettings.qml:98
+#, fuzzy
+msgctxt "ConnectionSettings|"
+msgid "Connection settings could not be changed"
+msgstr "Li gruppe ne posse esset changeat."
+
+#: src/qml/settings/ConnectionSettings.qml:107
+#, fuzzy
+msgctxt "ConnectionSettings|"
+msgid "Connection settings changed"
+msgstr "Parametres de conexion"
+
+#: src/qml/settings/CustomConnectionSettings.qml:49
+msgctxt "CustomConnectionSettings|"
+msgid "Hostname:"
+msgstr "Nómine de host:"
+
+#: src/qml/settings/CustomConnectionSettings.qml:53
+msgctxt "CustomConnectionSettings|"
+msgid "The hostname must not contain blank spaces"
+msgstr ""
+
+#: src/qml/settings/CustomConnectionSettings.qml:77
+msgctxt "CustomConnectionSettings|"
+msgid "Port:"
+msgstr "Portu:"
+
+#: src/qml/settings/DisablePasswordDisplay.qml:43
+msgctxt "DisablePasswordDisplay|"
+msgid "Don't expose your password in any way"
+msgstr ""
+
+#: src/qml/settings/DisablePasswordDisplay.qml:46
+msgctxt "DisablePasswordDisplay|"
+msgid ""
+"Your password will neither be shown as plain text nor included in the login "
+"QR code anymore.\n"
+"You won't be able to use the login via QR code without entering your "
+"password again because this action cannot be undone!\n"
+"Consider storing the password somewhere else if you want to use your account "
+"on another device."
+msgstr ""
+
+#: src/qml/settings/DisablePasswordDisplay.qml:51
+msgctxt "DisablePasswordDisplay|"
+msgid "Don't expose password in any way"
+msgstr ""
+
+#: src/qml/settings/DisablePlainTextPasswordDisplay.qml:43
+#, fuzzy
+msgctxt "DisablePlainTextPasswordDisplay|"
+msgid "Don't show your password"
+msgstr "Monstrar li contrasigne"
+
+#: src/qml/settings/DisablePlainTextPasswordDisplay.qml:46
+msgctxt "DisablePlainTextPasswordDisplay|"
+msgid ""
+"Your password will not be shown anymore but still exposed via the login QR "
+"code.\n"
+"You won't be able to see your password again because this action cannot be "
+"undone!\n"
+"Consider storing the password somewhere else if you want to use your account "
+"on another device without the login QR code."
+msgstr ""
+
+#: src/qml/settings/DisablePlainTextPasswordDisplay.qml:51
+#, fuzzy
+msgctxt "DisablePlainTextPasswordDisplay|"
+msgid "Don't show password"
+msgstr "Monstrar li contrasigne"
+
+#: src/qml/settings/LocalAccountRemoval.qml:42
+#, fuzzy
+msgctxt "LocalAccountRemoval|"
+msgid "Remove account from this app"
+msgstr "Remover li conto %s?"
+
+#: src/qml/settings/LocalAccountRemoval.qml:45
+msgctxt "LocalAccountRemoval|"
+msgid ""
+"Your account will be removed from this app.\n"
+"Your password will be deleted, make sure it is stored in a password manager "
+"or you know it!"
+msgstr ""
+
+#: src/qml/settings/LocalAccountRemoval.qml:50
+msgctxt "LocalAccountRemoval|"
+msgid "Remove"
+msgstr "Remover"
+
+#: src/qml/settings/MultimediaSettings.qml:44
+#, fuzzy
+msgctxt "MultimediaSettings|"
+msgid "Multimedia Settings"
+msgstr "Parametres de multimedia"
+
+#: src/qml/settings/MultimediaSettings.qml:56
+msgctxt "MultimediaSettings|"
+msgid "Configure"
+msgstr "Configurar"
+
+#: src/qml/settings/MultimediaSettings.qml:66
+#, fuzzy
+msgctxt "MultimediaSettings|"
+msgid "Image Capture"
+msgstr "Registration"
+
+#: src/qml/settings/MultimediaSettings.qml:71
+#, fuzzy
+msgctxt "MultimediaSettings|"
+msgid "Audio Recording"
+msgstr "Registration..."
+
+#: src/qml/settings/MultimediaSettings.qml:76
+#, fuzzy
+msgctxt "MultimediaSettings|"
+msgid "Video Recording"
+msgstr "Registration..."
+
+#: src/qml/settings/MultimediaSettings.qml:128
+msgctxt "MultimediaSettings|"
+msgid "Camera"
+msgstr "Cámera"
+
+#: src/qml/settings/MultimediaSettings.qml:157
+msgctxt "MultimediaSettings|"
+msgid "Audio input"
+msgstr "Audiointrada"
+
+#: src/qml/settings/MultimediaSettings.qml:187
+msgctxt "MultimediaSettings|"
+msgid "Container"
+msgstr "Contentor"
+
+#: src/qml/settings/MultimediaSettings.qml:226
+msgctxt "MultimediaSettings|"
+msgid "Image"
+msgstr "Image"
+
+#: src/qml/settings/MultimediaSettings.qml:231
+msgctxt "MultimediaSettings|"
+msgid "Audio"
+msgstr "Audio"
+
+#: src/qml/settings/MultimediaSettings.qml:237
+msgctxt "MultimediaSettings|"
+msgid "Video"
+msgstr "Video"
+
+#: src/qml/settings/MultimediaSettings.qml:264
+#: src/qml/settings/MultimediaSettings.qml:348
+#: src/qml/settings/MultimediaSettings.qml:432
+msgctxt "MultimediaSettings|"
+msgid "Codec"
+msgstr "Codec"
+
+#: src/qml/settings/MultimediaSettings.qml:290
+#: src/qml/settings/MultimediaSettings.qml:458
+msgctxt "MultimediaSettings|"
+msgid "Resolution"
+msgstr "Resolution"
+
+#: src/qml/settings/MultimediaSettings.qml:316
+#: src/qml/settings/MultimediaSettings.qml:400
+#: src/qml/settings/MultimediaSettings.qml:510
+msgctxt "MultimediaSettings|"
+msgid "Quality"
+msgstr "Qualitá"
+
+#: src/qml/settings/MultimediaSettings.qml:374
+#, fuzzy
+msgctxt "MultimediaSettings|"
+msgid "Sample Rate"
+msgstr "Percentage"
+
+#: src/qml/settings/MultimediaSettings.qml:484
+#, fuzzy
+msgctxt "MultimediaSettings|"
+msgid "Frame Rate"
+msgstr "Rapiditá de cadres"
+
+#: src/qml/settings/MultimediaSettings.qml:574
+#: src/qml/settings/MultimediaSettings.qml:583
+msgctxt "MultimediaSettings|"
+msgid "Ready"
+msgstr "Finit"
+
+#: src/qml/settings/MultimediaSettings.qml:574
+#: src/qml/settings/MultimediaSettings.qml:583
+#, fuzzy
+msgctxt "MultimediaSettings|"
+msgid "Initializing…"
+msgstr "Inicialisante"
+
+#: src/qml/settings/MultimediaSettings.qml:579
+msgctxt "MultimediaSettings|"
+msgid "Unavailable"
+msgstr "Índisponibil"
+
+#: src/qml/settings/MultimediaSettings.qml:587
+msgctxt "MultimediaSettings|"
+msgid "Recording…"
+msgstr "Registration..."
+
+#: src/qml/settings/MultimediaSettings.qml:589
+msgctxt "MultimediaSettings|"
+msgid "Paused"
+msgstr "Pausat"
+
+#: src/qml/settings/PasswordRemovalPage.qml:44
+#, fuzzy
+msgctxt "PasswordRemovalPage|"
+msgid "Remove password"
+msgstr "sin contrasigne"
+
+#: src/qml/settings/PasswordRemovalPage.qml:47
+#, qt-format
+msgctxt "PasswordRemovalPage|"
+msgid ""
+"You can decide to only not show your password for <b>%1</b> as text anymore "
+"or to remove it completely from the account transfer. If you remove your "
+"password completely, you won't be able to use the account transfer via "
+"scanning without entering your password because it is also removed from the "
+"QR code."
+msgstr ""
+
+#: src/qml/settings/PasswordRemovalPage.qml:50
+#, fuzzy
+msgctxt "PasswordRemovalPage|"
+msgid "Do not show password as text"
+msgstr "Monstrar li textu"
+
+#: src/qml/settings/PasswordRemovalPage.qml:56
+#, fuzzy
+msgctxt "PasswordRemovalPage|"
+msgid "Remove completely"
+msgstr "Completmen"
+
+#: src/qml/settings/RemoteAccountDeletion.qml:42
+#, fuzzy
+msgctxt "RemoteAccountDeletion|"
+msgid "Delete account completely"
+msgstr "Completmen"
+
+#: src/qml/settings/RemoteAccountDeletion.qml:45
+msgctxt "RemoteAccountDeletion|"
+msgid ""
+"Your account will be deleted completely, which means from this app and from "
+"the server.\n"
+"You will not be able to use your account again!"
+msgstr ""
+
+#: src/qml/settings/RemoteAccountDeletion.qml:50
+msgctxt "RemoteAccountDeletion|"
+msgid "Delete"
+msgstr "Remover"
+
+#: src/qml/settings/SettingsContent.qml:43
+msgctxt "SettingsContent|"
+msgid "Settings"
+msgstr "Parametres"
+
+#: src/qml/settings/SettingsContent.qml:48
+msgctxt "SettingsContent|"
+msgid "Change password"
+msgstr "Cambiar li contrasigne"
+
+#: src/qml/settings/SettingsContent.qml:49
+msgctxt "SettingsContent|"
+msgid ""
+"Changes your account's password. You will need to re-enter it on your other "
+"devices."
+msgstr ""
+
+#: src/qml/settings/SettingsContent.qml:55
+msgctxt "SettingsContent|"
+msgid "Multimedia Settings"
+msgstr "Parametres de multimedia"
+
+#: src/qml/settings/SettingsContent.qml:56
+msgctxt "SettingsContent|"
+msgid "Configure photo, video and audio recording settings"
+msgstr ""
+
+#: src/qml/settings/SettingsContent.qml:61
+#, fuzzy
+msgctxt "SettingsContent|"
+msgid "Connection Settings"
+msgstr "Parametres de conexion"
+
+#: src/qml/settings/SettingsContent.qml:62
+#, fuzzy
+msgctxt "SettingsContent|"
+msgid "Configure the hostname and port to connect to"
+msgstr "Ne successat conexer al local portu %i."
+
+#: src/qml/settings/SettingsContent.qml:67
+msgctxt "SettingsContent|"
+msgid "Account security"
+msgstr "Securitá del conto"
+
+#: src/qml/settings/SettingsContent.qml:68
+msgctxt "SettingsContent|"
+msgid "Configure whether this device can be used to log in on another device"
+msgstr ""
+
+#: src/qml/settings/SettingsContent.qml:73
+#, fuzzy
+msgctxt "SettingsContent|"
+msgid "Remove account from Kaidan"
+msgstr "Remover li conto %s?"
+
+#: src/qml/settings/SettingsContent.qml:74
+#, fuzzy
+msgctxt "SettingsContent|"
+msgid "Remove account from this app"
+msgstr "Remover li conto %s?"
+
+#: src/qml/settings/SettingsContent.qml:79
+#, fuzzy
+msgctxt "SettingsContent|"
+msgid "Delete account"
+msgstr "Remover li conto"
+
+#: src/qml/settings/SettingsContent.qml:80
+#, fuzzy
+msgctxt "SettingsContent|"
+msgid "Delete account from the server"
+msgstr "Server-Definition löschen"
+
+#: src/qml/settings/SettingsPage.qml:35
+msgctxt "SettingsPage|"
+msgid "Settings"
+msgstr "Parametres"
+
+#: src/qml/StartPage.qml:68
+msgctxt "StartPage|"
+msgid "Enjoy free communication on every device!"
+msgstr ""
+
+#: src/qml/StartPage.qml:84
+msgctxt "StartPage|"
+msgid "Let's start"
+msgstr "Lass nos comensar"
+
+#: src/qml/UserProfilePage.qml:42 src/qml/UserProfilePage.qml:216
+msgctxt "UserProfilePage|"
+msgid "Profile"
+msgstr "Profil"
+
+#: src/qml/UserProfilePage.qml:77
+#, fuzzy
+msgctxt "UserProfilePage|"
+msgid "Rename contact"
+msgstr " _Renominar..."
+
+#: src/qml/UserProfilePage.qml:87
+msgctxt "UserProfilePage|"
+msgid "Show QR code"
+msgstr "Monstrar un QR-code"
+
+#: src/qml/UserProfilePage.qml:93
+msgctxt "UserProfilePage|"
+msgid "Remove contact"
+msgstr "Remover li contacte"
+
+#: src/qml/UserProfilePage.qml:191
+#, fuzzy
+msgctxt "UserProfilePage|"
+msgid "Contact sends no status"
+msgstr "Statu"
+
+#: src/qml/UserProfilePage.qml:203
+#, fuzzy
+msgctxt "UserProfilePage|"
+msgid "Request status"
+msgstr "Statu: "
+
+#: src/qml/UserProfilePage.qml:251
+msgctxt "UserProfilePage|"
+msgid "Privacy"
+msgstr "Privatie"
+
+#: src/qml/UserProfilePage.qml:256
+#, fuzzy
+msgctxt "UserProfilePage|"
+msgid "Send status"
+msgstr "Inviar a"
+
+#: src/qml/UserProfilePage.qml:274
+#, fuzzy
+msgctxt "UserProfilePage|"
+msgid "Send typing notifications"
+msgstr "Inviar notificationes pri li tippada"
+
+#: src/qml/UserProfilePage.qml:286
+#, fuzzy
+msgctxt "UserProfilePage|"
+msgid "Send read notifications"
+msgstr "Inviar notificationes pri li tippada"
+
+#: src/qml/UserProfilePage.qml:303
+#, fuzzy
+msgctxt "UserProfilePage|"
+msgid "Encryption (OMEMO 2)"
+msgstr "Sin ciffration"
+
+#: src/qml/UserProfilePage.qml:329
+msgctxt "UserProfilePage|"
+msgid ""
+"End-to-end encryption with OMEMO 2 ensures that nobody else than you and "
+"your chat partners can read or modify the data you exchange."
+msgstr ""
+
+#: src/qml/UserProfilePage.qml:341 src/qml/UserProfilePage.qml:347
+msgctxt "UserProfilePage|"
+msgid "Scan the QR codes of your devices to encrypt for them"
+msgstr ""
+
+#: src/qml/UserProfilePage.qml:343
+msgctxt "UserProfilePage|"
+msgid "Your other devices don't use OMEMO 2"
+msgstr ""
+
+#: src/qml/UserProfilePage.qml:350
+msgctxt "UserProfilePage|"
+msgid "Scan the QR codes of your devices for maximum secure encryption"
+msgstr ""
+
+#: src/qml/UserProfilePage.qml:361
+msgctxt "UserProfilePage|"
+msgid "Scan own QR codes"
+msgstr ""
+
+#: src/qml/UserProfilePage.qml:374
+msgctxt "UserProfilePage|"
+msgid "Scan the QR code of your contact to enable encryption"
+msgstr ""
+
+#: src/qml/UserProfilePage.qml:377
+msgctxt "UserProfilePage|"
+msgid "Your contact doesn't use OMEMO 2"
+msgstr ""
+
+#: src/qml/UserProfilePage.qml:380
+msgctxt "UserProfilePage|"
+msgid "Scan the QR codes of your contact's devices to encrypt for them"
+msgstr ""
+
+#: src/qml/UserProfilePage.qml:383
+msgctxt "UserProfilePage|"
+msgid "Scan the QR code of your contact for maximum secure encryption"
+msgstr ""
+
+#: src/qml/UserProfilePage.qml:394
+#, fuzzy
+msgctxt "UserProfilePage|"
+msgid "Scan contact's QR code"
+msgstr "Ne successat generar un QR-Code."
+
+#: src/qml/UserProfilePage.qml:408
+#, fuzzy
+msgctxt "UserProfilePage|"
+msgid "Online devices"
+msgstr "Aparates"
+
+#: src/QmlUtils.cpp:72
+#, fuzzy
+msgctxt "QmlUtils|"
+msgid "Invalid username or password."
+msgstr "Contrasigne o nómine ínvalid"
+
+#: src/QmlUtils.cpp:74
+msgctxt "QmlUtils|"
+msgid "Cannot connect to the server. Please check your internet connection."
+msgstr ""
+
+#: src/QmlUtils.cpp:76
+#, fuzzy
+msgctxt "QmlUtils|"
+msgid "Error while trying to connect securely."
+msgstr "Un error evenit cludente li session"
+
+#: src/QmlUtils.cpp:78
+msgctxt "QmlUtils|"
+msgid "The server doesn't support secure connections."
+msgstr ""
+
+#: src/QmlUtils.cpp:80
+msgctxt "QmlUtils|"
+msgid ""
+"Could not connect to the server. Please check your internet connection or "
+"your server name."
+msgstr ""
+
+#: src/QmlUtils.cpp:82
+#, fuzzy
+msgctxt "QmlUtils|"
+msgid "The server is offline or blocked by a firewall."
+msgstr "Proxy,Servitor proxy,Firewall,Squid"
+
+#: src/QmlUtils.cpp:84
+#, fuzzy
+msgctxt "QmlUtils|"
+msgid "Authentification protocol not supported by the server."
+msgstr "Li protocol %1 ne es supportat."
+
+#: src/QmlUtils.cpp:86
+#, fuzzy
+msgctxt "QmlUtils|"
+msgid "The connection could not be refreshed."
+msgstr "Ne successat crear un conexion de rete"
+
+#: src/QmlUtils.cpp:88
+msgctxt "QmlUtils|"
+msgid ""
+"The internet access is not permitted. Please check your system's internet "
+"access configuration."
+msgstr ""
+
+#: src/QmlUtils.cpp:90
+#, fuzzy
+msgctxt "QmlUtils|"
+msgid "This server does not support registration."
+msgstr "Li servitor ne supporta li protocol WebDAV."
+
+#: src/QmlUtils.cpp:157
+msgctxt "QmlUtils|"
+msgid "Unknown size"
+msgstr "Ínconosset grandore"
+
+#: src/QmlUtils.cpp:231
+#, qt-format
+msgctxt "QmlUtils|"
+msgid "%1 is online"
+msgstr "%1 es in li rete"
+
+#: src/QmlUtils.cpp:233
+#, qt-format
+msgctxt "QmlUtils|"
+msgid "%1 is typing…"
+msgstr "%1 tippa..."
+
+#: src/QmlUtils.cpp:235
+#, fuzzy, qt-format
+msgctxt "QmlUtils|"
+msgid "%1 paused typing"
+msgstr "%1 tippa..."
+
+#: src/QrCodeGenerator.cpp:125
+#, fuzzy, qt-format
+msgctxt "QrCodeGenerator|"
+msgid "Generating the QR code failed: %1"
+msgstr "Ne successat executer `lsof', code de errore: %1"
+
+#: src/RosterManager.cpp:131
+msgctxt "RosterManager|"
+msgid "Could not add contact, as a result of not being connected."
+msgstr ""
+
+#: src/RosterManager.cpp:145
+msgctxt "RosterManager|"
+msgid "Could not remove contact, as a result of not being connected."
+msgstr ""
+
+#: src/RosterManager.cpp:158
+msgctxt "RosterManager|"
+msgid "Could not rename contact, as a result of not being connected."
+msgstr ""
+
+#: src/RosterManager.cpp:169
+msgctxt "RosterManager|"
+msgid ""
+"Requesting to see the status of %s failed because of a connection problem: %s"
+msgstr ""
+
+#: src/RosterManager.cpp:177
+msgctxt "RosterManager|"
+msgid "Allowing %s to see your status failed"
+msgstr ""
+
+#: src/RosterManager.cpp:184
+msgctxt "RosterManager|"
+msgid "Disallowing %s to see your status failed"
+msgstr ""
+
+#: src/VCardModel.cpp:90
+msgctxt "VCardModel|"
+msgid "Name"
+msgstr "Nómine"
+
+#: src/VCardModel.cpp:93
+msgctxt "VCardModel|"
+msgid "Nickname"
+msgstr "Pseudonim"
+
+#: src/VCardModel.cpp:96
+msgctxt "VCardModel|"
+msgid "About"
+msgstr "Pri"
+
+#: src/VCardModel.cpp:99
+msgctxt "VCardModel|"
+msgid "Email"
+msgstr "E-post"
+
+#: src/VCardModel.cpp:102
+msgctxt "VCardModel|"
+msgid "Birthday"
+msgstr "Aniversarie"
+
+#: src/VCardModel.cpp:105
+msgctxt "VCardModel|"
+msgid "Website"
+msgstr "Website"
