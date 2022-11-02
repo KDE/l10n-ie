@@ -9,13 +9,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-04-02 00:20+0000\n"
 "PO-Revision-Date: 2022-11-02 00:45+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
@@ -58,7 +58,8 @@ msgstr "Refar"
 msgid "Cut"
 msgstr "Exciser"
 
-#: auxbuttons.cpp:53 KMultiFormListBox/ccp.cpp:71 KMultiFormListBox/kmultiformlistbox-windowed.cpp:67
+#: auxbuttons.cpp:53 KMultiFormListBox/ccp.cpp:71
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:67
 #, kde-format
 msgid "Copy"
 msgstr "Copiar"
@@ -118,8 +119,8 @@ msgstr "Alcun caracter except"
 #, fuzzy, kde-format
 msgid "One of Following Characters"
 msgstr ""
-"Li nómine «%s» ne es valid nam it contene adminim un de sequent caracteres: %s, ples usar un altri "
-"nómine."
+"Li nómine «%s» ne es valid nam it contene adminim un de sequent caracteres: "
+"%s, ples usar un altri nómine."
 
 #: characterswidget.cpp:279
 #, fuzzy, kde-format
@@ -255,8 +256,8 @@ msgstr "Automaticmen collar li últim element ex li diarium"
 #: compoundwidget.cpp:61
 #, kde-format
 msgid ""
-"When the content of this box is typed in to the ASCII line,<br />this box will automatically be "
-"added around it,<br />if this check box is selected."
+"When the content of this box is typed in to the ASCII line,<br />this box "
+"will automatically be added around it,<br />if this check box is selected."
 msgstr ""
 
 #: compoundwidget.cpp:126
@@ -276,7 +277,9 @@ msgstr ""
 
 #: errormap.cpp:47
 #, kde-format
-msgid "Your regular expression is invalid, due to something preceding a 'line start'."
+msgid ""
+"Your regular expression is invalid, due to something preceding a 'line "
+"start'."
 msgstr ""
 
 #: errormap.cpp:48 errormap.cpp:57 errormap.cpp:66
@@ -286,42 +289,47 @@ msgstr "Errore de expression regulari"
 
 #: errormap.cpp:56
 #, kde-format
-msgid "Your regular expression is invalid, due to something following a 'line end'."
+msgid ""
+"Your regular expression is invalid, due to something following a 'line end'."
 msgstr ""
 
 #: errormap.cpp:65
 #, kde-format
 msgid ""
-"Your regular expression is invalid. 'Look Ahead' regular expression must be the last sub "
-"expression."
+"Your regular expression is invalid. 'Look Ahead' regular expression must be "
+"the last sub expression."
 msgstr ""
 
 #: infopage.cpp:33
 #, kde-format
 msgctxt ""
-"Translators, feel free to add yourself in the text below, asking for a postcard ;-), also feel "
-"free to add a section saying <h2>Translators</h2>. Kind regards, and thanks for your work - Jesper."
+"Translators, feel free to add yourself in the text below, asking for a "
+"postcard ;-), also feel free to add a section saying <h2>Translators</h2>. "
+"Kind regards, and thanks for your work - Jesper."
 msgid ""
-"<h1>Regular Expression Editor</h1><p>What you are currently looking at is an editor for <i>Regular "
-"Expressions</i>.</p><p>The upper part in the middle is the editing area, the lower part is a "
-"verification window where you can try your regular expressions right away. The row of buttons is "
-"the editing actions. This is actually very similar to common drawing programs. Select an editing "
-"tool to start editing your regular expression, and press the mouse button in the editing area "
-"where you want this item inserted.</p><p>For a more detailed description of this editor see the <a "
-"href=\"doc://\">info pages</a></p><h2>What is a regular expression?</h2>If you do not know what a "
-"regular expression is, then it might be a good idea to read <a href=\"doc://whatIsARegExp\">the "
-"introduction to regular expressions</a>.<br />"
+"<h1>Regular Expression Editor</h1><p>What you are currently looking at is an "
+"editor for <i>Regular Expressions</i>.</p><p>The upper part in the middle is "
+"the editing area, the lower part is a verification window where you can try "
+"your regular expressions right away. The row of buttons is the editing "
+"actions. This is actually very similar to common drawing programs. Select an "
+"editing tool to start editing your regular expression, and press the mouse "
+"button in the editing area where you want this item inserted.</p><p>For a "
+"more detailed description of this editor see the <a href=\"doc://\">info "
+"pages</a></p><h2>What is a regular expression?</h2>If you do not know what a "
+"regular expression is, then it might be a good idea to read <a href=\"doc://"
+"whatIsARegExp\">the introduction to regular expressions</a>.<br />"
 msgstr ""
 
 #: infopage.cpp:46
 #, kde-format
 msgid ""
-"<h2>Send the author an electronic postcard</h2>I don't get any money for working on KRegExpEditor, "
-"I therefore appreciate it very much when users tell me what they think about my work. I would "
-"therefore be very happy if you <a href=\"mailto:blackie@kde.org?subject=KRegExpEditor\">sent me a "
-"short mail</a>, telling me that you use my regular expression editor.<h2>Author</h2><a "
-"href=\"http://www.blackie.dk/\">Jesper K. Pedersen</a> &lt;<a href=\"mailto:blackie@kde."
-"org\">blackie@kde.org</a>&gt;"
+"<h2>Send the author an electronic postcard</h2>I don't get any money for "
+"working on KRegExpEditor, I therefore appreciate it very much when users "
+"tell me what they think about my work. I would therefore be very happy if "
+"you <a href=\"mailto:blackie@kde.org?subject=KRegExpEditor\">sent me a short "
+"mail</a>, telling me that you use my regular expression editor.<h2>Author</"
+"h2><a href=\"http://www.blackie.dk/\">Jesper K. Pedersen</a> &lt;<a href="
+"\"mailto:blackie@kde.org\">blackie@kde.org</a>&gt;"
 msgstr ""
 
 #: KMultiFormListBox/ccp.cpp:73
@@ -349,7 +357,8 @@ msgstr "Coll&ar li contenete del Paperiere"
 msgid "Edit"
 msgstr "Modificar"
 
-#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:61 userdefinedregexps.cpp:153
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:61
+#: userdefinedregexps.cpp:153
 #, kde-format
 msgid "Delete"
 msgstr "Remover"
@@ -397,25 +406,28 @@ msgstr "Expression regulari:"
 #: kregexpeditorprivate.cpp:69
 #, kde-format
 msgid ""
-"In this window you will find predefined regular expressions. Both regular expressions you have "
-"developed and saved, and regular expressions shipped with the system."
+"In this window you will find predefined regular expressions. Both regular "
+"expressions you have developed and saved, and regular expressions shipped "
+"with the system."
 msgstr ""
 
 #: kregexpeditorprivate.cpp:78
 #, kde-format
 msgid ""
-"In this window you will develop your regular expressions. Select one of the actions from the "
-"action buttons above, and click the mouse in this window to insert the given action."
+"In this window you will develop your regular expressions. Select one of the "
+"actions from the action buttons above, and click the mouse in this window to "
+"insert the given action."
 msgstr ""
 
 #: kregexpeditorprivate.cpp:86
 #, kde-format
 msgid ""
-"<p>Type in some text in this window, and see what the regular expression you have developed "
-"matches.</p><p>Each second match will be colored in red and each other match will be colored blue, "
-"simply so you can distinguish them from each other.</p><p>If you select part of the regular "
-"expression in the editor window, then this part will be highlighted - This allows you to <i>debug</"
-"i> your regular expressions</p>"
+"<p>Type in some text in this window, and see what the regular expression you "
+"have developed matches.</p><p>Each second match will be colored in red and "
+"each other match will be colored blue, simply so you can distinguish them "
+"from each other.</p><p>If you select part of the regular expression in the "
+"editor window, then this part will be highlighted - This allows you to "
+"<i>debug</i> your regular expressions</p>"
 msgstr ""
 
 #: kregexpeditorprivate.cpp:148
@@ -426,10 +438,11 @@ msgstr "Sintaxe ASCII:"
 #: kregexpeditorprivate.cpp:161
 #, kde-format
 msgid ""
-"<p>This is the regular expression in ASCII syntax. You are likely only to be interested in this if "
-"you are a programmer, and need to develop a regular expression using QRegExp.</p><p>You may "
-"develop your regular expression both by using the graphical editor, and by typing the regular "
-"expression in this line edit.</p>"
+"<p>This is the regular expression in ASCII syntax. You are likely only to be "
+"interested in this if you are a programmer, and need to develop a regular "
+"expression using QRegExp.</p><p>You may develop your regular expression both "
+"by using the graphical editor, and by typing the regular expression in this "
+"line edit.</p>"
 msgstr ""
 
 #: kregexpeditorprivate.cpp:371
@@ -495,12 +508,14 @@ msgstr ""
 #: qregexpparser.y:205
 #, kde-format
 msgid ""
-"<p>Back reference regular expressions are not supported.</p><p><tt>\\1</tt>, <tt>\\2</tt>, ... are "
-"<i>back references</i>, meaning they refer to previous matches. Unfortunately this is not "
-"supported in the current version of this editor.</p><p>In the graphical area the text <b>%1</b> "
-"has been inserted. This is however just a workaround to ensure that the application handles the "
-"regexp at all. Therefore, as soon as you edit the regular expression in the graphical area, the "
-"back reference will be replaced by matching the text <b>%2</b> literally.</p>"
+"<p>Back reference regular expressions are not supported.</p><p><tt>\\1</tt>, "
+"<tt>\\2</tt>, ... are <i>back references</i>, meaning they refer to previous "
+"matches. Unfortunately this is not supported in the current version of this "
+"editor.</p><p>In the graphical area the text <b>%1</b> has been inserted. "
+"This is however just a workaround to ensure that the application handles the "
+"regexp at all. Therefore, as soon as you edit the regular expression in the "
+"graphical area, the back reference will be replaced by matching the text <b>"
+"%2</b> literally.</p>"
 msgstr ""
 
 #: qregexpparser.y:214
@@ -516,10 +531,12 @@ msgstr "Selection"
 #: regexpbuttons.cpp:50
 #, kde-format
 msgid ""
-"<p>This will change the state of the editor to <i>selection state</i>.</p><p>In this state you "
-"will not be inserting <i>regexp items</i>, but instead select them. To select a number of items, "
-"press down the left mouse button and drag it over the items.</p><p>When you have selected a number "
-"of items, you may use cut/copy/paste. These functions are found in the right mouse button menu.</p>"
+"<p>This will change the state of the editor to <i>selection state</i>.</"
+"p><p>In this state you will not be inserting <i>regexp items</i>, but "
+"instead select them. To select a number of items, press down the left mouse "
+"button and drag it over the items.</p><p>When you have selected a number of "
+"items, you may use cut/copy/paste. These functions are found in the right "
+"mouse button menu.</p>"
 msgstr ""
 
 #: regexpbuttons.cpp:59
@@ -530,8 +547,9 @@ msgstr "Textu"
 #: regexpbuttons.cpp:60
 #, kde-format
 msgid ""
-"<qt>This will insert a text field, where you may write text. The text you write will be matched "
-"literally. (i.e. you do not need to escape any characters)</qt>"
+"<qt>This will insert a text field, where you may write text. The text you "
+"write will be matched literally. (i.e. you do not need to escape any "
+"characters)</qt>"
 msgstr ""
 
 #: regexpbuttons.cpp:64
@@ -542,9 +560,9 @@ msgstr ""
 #: regexpbuttons.cpp:65
 #, kde-format
 msgid ""
-"<p>This will match a single character from a predefined range.</p><p>When you insert this widget a "
-"dialog box will appear, which lets you specify which characters this <i>regexp item</i> will match."
-"</p>"
+"<p>This will match a single character from a predefined range.</p><p>When "
+"you insert this widget a dialog box will appear, which lets you specify "
+"which characters this <i>regexp item</i> will match.</p>"
 msgstr ""
 
 #: regexpbuttons.cpp:70
@@ -565,20 +583,22 @@ msgstr "Repetit contenete"
 #: regexpbuttons.cpp:75
 #, kde-format
 msgid ""
-"<qt>This <i>regexp item</i> will repeat the <i>regexp items</i> it surrounds a specified number of "
-"times.<br />The number of times to repeat may be specified using ranges; e.g. it could be "
-"specified that it should match from 2 to 4 times, that it should match exactly 5 times, or that it "
-"should match at least one time.<br />Examples:<br />If you specify that it should match <i>any</i> "
-"time, and the content it surrounds is <tt>abc</tt>, then this <i>regexp item</i> will match the "
-"empty string, the string <tt>abc</tt>, the string <tt>abcabc</tt>, the string <tt>abcabcabcabc</"
-"tt>, etc.</qt>"
+"<qt>This <i>regexp item</i> will repeat the <i>regexp items</i> it surrounds "
+"a specified number of times.<br />The number of times to repeat may be "
+"specified using ranges; e.g. it could be specified that it should match from "
+"2 to 4 times, that it should match exactly 5 times, or that it should match "
+"at least one time.<br />Examples:<br />If you specify that it should match "
+"<i>any</i> time, and the content it surrounds is <tt>abc</tt>, then this "
+"<i>regexp item</i> will match the empty string, the string <tt>abc</tt>, the "
+"string <tt>abcabc</tt>, the string <tt>abcabcabcabc</tt>, etc.</qt>"
 msgstr ""
 
 #: regexpbuttons.cpp:88
 #, kde-format
 msgid ""
-"<p>This <i>regexp item</i> will match any of its alternatives.</p><p>Alternatives are specified by "
-"placing <i>regexp items</i> on top of each other inside this widget.</p>"
+"<p>This <i>regexp item</i> will match any of its alternatives.</"
+"p><p>Alternatives are specified by placing <i>regexp items</i> on top of "
+"each other inside this widget.</p>"
 msgstr ""
 
 #: regexpbuttons.cpp:93
@@ -589,10 +609,11 @@ msgstr " [Expreg]"
 #: regexpbuttons.cpp:94
 #, kde-format
 msgid ""
-"<qt>This <i>regexp item</i> serves two purposes:<ul><li>It makes it possible for you to collapse a "
-"huge <i>regexp item</i> into a small box. This makes it easier for you to get an overview of large "
-"<i>regexp items</i>. This is especially useful if you load a predefined <i>regexp item</i> that "
-"you perhaps do not care about the inner workings of.</qt>"
+"<qt>This <i>regexp item</i> serves two purposes:<ul><li>It makes it possible "
+"for you to collapse a huge <i>regexp item</i> into a small box. This makes "
+"it easier for you to get an overview of large <i>regexp items</i>. This is "
+"especially useful if you load a predefined <i>regexp item</i> that you "
+"perhaps do not care about the inner workings of.</qt>"
 msgstr ""
 
 #: regexpbuttons.cpp:101
@@ -622,7 +643,9 @@ msgstr "Límite de un parol"
 
 #: regexpbuttons.cpp:110
 #, kde-format
-msgid "<qt>This asserts a word boundary (This part does not actually match any characters)</qt>"
+msgid ""
+"<qt>This asserts a word boundary (This part does not actually match any "
+"characters)</qt>"
 msgstr ""
 
 #: regexpbuttons.cpp:113
@@ -632,7 +655,9 @@ msgstr "Límite de un non-parol"
 
 #: regexpbuttons.cpp:114
 #, kde-format
-msgid "<qt>This asserts a non-word boundary (This part does not actually match any characters)</qt>"
+msgid ""
+"<qt>This asserts a non-word boundary (This part does not actually match any "
+"characters)</qt>"
 msgstr ""
 
 #: regexpbuttons.cpp:118
@@ -643,8 +668,8 @@ msgstr "Durante tippa"
 #: regexpbuttons.cpp:119
 #, kde-format
 msgid ""
-"<qt>This asserts a regular expression (This part does not actually match any characters). You can "
-"only use this at the end of a regular expression.</qt>"
+"<qt>This asserts a regular expression (This part does not actually match any "
+"characters). You can only use this at the end of a regular expression.</qt>"
 msgstr ""
 
 #: regexpbuttons.cpp:123
@@ -655,8 +680,9 @@ msgstr "_Negative"
 #: regexpbuttons.cpp:124
 #, kde-format
 msgid ""
-"<qt>This asserts a regular expression that must not match (This part does not actually match any "
-"characters). You can only use this at the end of a regular expression.</qt>"
+"<qt>This asserts a regular expression that must not match (This part does "
+"not actually match any characters). You can only use this at the end of a "
+"regular expression.</qt>"
 msgstr ""
 
 #: regexpeditorwindow.cpp:215
@@ -737,12 +763,13 @@ msgstr "Ne successat aperter un file por scrition: %1"
 #: repeatregexp.cpp:57 repeatregexp.cpp:65
 #, kde-format
 msgid ""
-"<p>Value for attribute <b>%1</b> was not an integer for element <b>%2</b></p><p>It contained the "
-"value <b>%3</b></p>"
+"<p>Value for attribute <b>%1</b> was not an integer for element <b>%2</b></"
+"p><p>It contained the value <b>%3</b></p>"
 msgstr ""
 
-#: repeatregexp.cpp:60 repeatregexp.cpp:68 textrangeregexp.cpp:146 textregexp.cpp:54
-#: widgetfactory.cpp:165 widgetfactory.cpp:196 widgetfactory.cpp:203
+#: repeatregexp.cpp:60 repeatregexp.cpp:68 textrangeregexp.cpp:146
+#: textregexp.cpp:54 widgetfactory.cpp:165 widgetfactory.cpp:196
+#: widgetfactory.cpp:203
 #, kde-format
 msgid "Error While Loading From XML File"
 msgstr ""
@@ -825,7 +852,8 @@ msgstr "Repetit de %1 til %2 vezes"
 
 #: textrangeregexp.cpp:145
 #, kde-format
-msgid "<p>Invalid sub element to element <b>TextRange</b>. Tag was <b>%1</b></p>"
+msgid ""
+"<p>Invalid sub element to element <b>TextRange</b>. Tag was <b>%1</b></p>"
 msgstr ""
 
 #: textregexp.cpp:53
@@ -886,8 +914,8 @@ msgstr "Expression regulari:"
 #: verifybuttons.cpp:39
 #, kde-format
 msgid ""
-"Shows what part of the regular expression is being matched in the <i>verifier window</i>.(The "
-"window below the graphical editor window)."
+"Shows what part of the regular expression is being matched in the "
+"<i>verifier window</i>.(The window below the graphical editor window)."
 msgstr ""
 
 #: verifybuttons.cpp:48
@@ -903,7 +931,9 @@ msgstr "Verification del session"
 #: verifybuttons.cpp:101
 #, fuzzy, kde-format
 msgid "config menu"
-msgstr "Ne successat gardar li preferet. Assecurar que vu posse scrir in ~/.config/mate-menu"
+msgstr ""
+"Ne successat gardar li preferet. Assecurar que vu posse scrir in ~/.config/"
+"mate-menu"
 
 #: verifybuttons.cpp:104
 #, fuzzy, kde-format
@@ -918,9 +948,9 @@ msgstr ""
 #: verifybuttons.cpp:111
 #, kde-format
 msgid ""
-"Enabling this option will make the verifier update for each edit. If the verify window contains "
-"much text, or if the regular expression is either complex or matches a lot of time, this may be "
-"very slow."
+"Enabling this option will make the verifier update for each edit. If the "
+"verify window contains much text, or if the regular expression is either "
+"complex or matches a lot of time, this may be very slow."
 msgstr ""
 
 #: verifybuttons.cpp:115
@@ -936,7 +966,8 @@ msgstr ""
 #: verifybuttons.cpp:121
 #, kde-format
 msgid ""
-"When this option is enabled, the regular expression will be evaluated on a so-called greedy way."
+"When this option is enabled, the regular expression will be evaluated on a "
+"so-called greedy way."
 msgstr ""
 
 #: verifybuttons.cpp:124
@@ -967,7 +998,8 @@ msgstr "<p>Li file XML ne contenet un tag <b>%1</b>.</p>"
 #: widgetfactory.cpp:201
 #, kde-format
 msgid ""
-"<p>Error while reading XML file. The element just below the tag <b>%1</b> was not an element.</p>"
+"<p>Error while reading XML file. The element just below the tag <b>%1</b> "
+"was not an element.</p>"
 msgstr ""
 
 #: zerowidgets.cpp:72

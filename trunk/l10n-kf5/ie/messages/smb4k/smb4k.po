@@ -9,13 +9,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-10-30 00:46+0000\n"
 "PO-Revision-Date: 2022-11-01 11:29+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
@@ -175,11 +175,12 @@ msgstr "Profiles"
 #: smb4k/smb4kconfigdialog.cpp:135
 #, kde-format
 msgid ""
-"<qt>An incorrect setting has been found. You are now taken to the corresponding "
-"configuration page to fix it.</qt>"
+"<qt>An incorrect setting has been found. You are now taken to the "
+"corresponding configuration page to fix it.</qt>"
 msgstr ""
 
-#: smb4k/smb4kconfigpageauthentication.cpp:42 smb4k/smb4kconfigpageprofiles.cpp:34
+#: smb4k/smb4kconfigpageauthentication.cpp:42
+#: smb4k/smb4kconfigpageprofiles.cpp:34
 #, kde-format
 msgid "Settings"
 msgstr "Parametres"
@@ -258,7 +259,8 @@ msgid "Directories"
 msgstr "Fólderes"
 
 #: smb4k/smb4kconfigpagemounting.cpp:119 smb4k/smb4kconfigpagemounting.cpp:524
-#: smb4k/smb4kconfigpagenetwork.cpp:112 smb4k/smb4kconfigpagesynchronization.cpp:59
+#: smb4k/smb4kconfigpagenetwork.cpp:112
+#: smb4k/smb4kconfigpagesynchronization.cpp:59
 #, kde-format
 msgid "Behavior"
 msgstr "Conduida"
@@ -269,7 +271,8 @@ msgid " min"
 msgstr " min"
 
 #: smb4k/smb4kconfigpagemounting.cpp:167 smb4k/smb4kconfigpagemounting.cpp:568
-#: smb4k/smb4kconfigpagenetwork.cpp:133 smb4k/smb4kconfigpagesynchronization.cpp:131
+#: smb4k/smb4kconfigpagenetwork.cpp:133
+#: smb4k/smb4kconfigpagesynchronization.cpp:131
 #, fuzzy, kde-format
 msgid "Basic Settings"
 msgstr "_Basic"
@@ -337,11 +340,11 @@ msgstr ""
 #: smb4k/smb4kconfigpagemounting.cpp:862
 #, kde-format
 msgid ""
-"<qt>The following entry is going to be removed from the additional options: %2. "
-"Please read the handbook for details.</qt>"
-msgid_plural ""
-"<qt>The following %1 entries are going to be removed from the additional options: "
+"<qt>The following entry is going to be removed from the additional options: "
 "%2. Please read the handbook for details.</qt>"
+msgid_plural ""
+"<qt>The following %1 entries are going to be removed from the additional "
+"options: %2. Please read the handbook for details.</qt>"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -500,8 +503,8 @@ msgstr "Montet partites"
 #: smb4k/smb4kmainwindow.cpp:400
 #, kde-format
 msgid ""
-"<qt>Closing the main window will keep Smb4K running in the system tray.<br>Use "
-"<i>Quit</i> from the <i>File</i> menu to quit the application.</qt>"
+"<qt>Closing the main window will keep Smb4K running in the system tray."
+"<br>Use <i>Quit</i> from the <i>File</i> menu to quit the application.</qt>"
 msgstr ""
 
 #: smb4k/smb4kmainwindow.cpp:402
@@ -774,8 +777,8 @@ msgstr "F&ile"
 #: smb4k/smb4ksharesviewdockwidget.cpp:371
 #, kde-format
 msgid ""
-"<qt>There is no active connection to the share <b>%1</b>! You cannot drop any "
-"files here.</qt>"
+"<qt>There is no active connection to the share <b>%1</b>! You cannot drop "
+"any files here.</qt>"
 msgstr ""
 
 #: smb4k/smb4ktooltip.cpp:144 smb4k/smb4ktooltip.cpp:234
@@ -843,8 +846,9 @@ msgstr "Host:"
 msgid "Location:"
 msgstr "Localisation:"
 
-#: smb4k/smb4ktooltip.cpp:266 smb4k/smb4ktooltip.cpp:273 smb4k/smb4ktooltip.cpp:306
-#: smb4k/smb4ktooltip.cpp:310 smb4k/smb4ktooltip.cpp:311 smb4k/smb4ktooltip.cpp:324
+#: smb4k/smb4ktooltip.cpp:266 smb4k/smb4ktooltip.cpp:273
+#: smb4k/smb4ktooltip.cpp:306 smb4k/smb4ktooltip.cpp:310
+#: smb4k/smb4ktooltip.cpp:311 smb4k/smb4ktooltip.cpp:324
 #, kde-format
 msgid "unknown"
 msgstr "ínconosset"
