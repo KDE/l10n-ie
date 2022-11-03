@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-06 00:57+0000\n"
+"POT-Creation-Date: 2022-11-03 01:00+0000\n"
 "PO-Revision-Date: 2022-10-26 07:40+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -58,26 +58,6 @@ msgctxt "Name"
 msgid "Libarchive plugin (read-only formats)"
 msgstr "Plugin de Libarchive (formates solmen por letion)"
 
-#: plugins/libsinglefileplugin/kerfuffle_libbz2.json.cmake
-msgctxt "Name"
-msgid "Bzip2 plugin"
-msgstr "Plugin Bzip2"
-
-#: plugins/libsinglefileplugin/kerfuffle_libgz.json.cmake
-msgctxt "Name"
-msgid "Gzip plugin"
-msgstr "Plugin Gzip"
-
-#: plugins/libsinglefileplugin/kerfuffle_libxz.json.cmake
-msgctxt "Name"
-msgid "LZMA plugin"
-msgstr "Plugin LZMA"
-
-#: plugins/libsinglefileplugin/kerfuffle_libzstd.json.cmake
-msgctxt "Name"
-msgid "Zstd plugin"
-msgstr "Plugin Zstd"
-
 #: plugins/cli7zplugin/kerfuffle_cli7z.json.cmake
 msgctxt "Description"
 msgid "Full support for the zip and 7z archive formats"
@@ -113,22 +93,34 @@ msgctxt "Description"
 msgid "Open and extract DEB, RPM, ISO, AppImage, XAR and CAB files"
 msgstr "Aperter e extraer files DEB, RPM, ISO, AppImage, XAR e CAB"
 
-#: plugins/libsinglefileplugin/kerfuffle_libbz2.json.cmake
-msgctxt "Description"
-msgid "Open and extract single files compressed with the bzip2 algorithm"
-msgstr "Aperter e extraer singul files compresset per li algoritm bzip2"
+#~ msgctxt "Name"
+#~ msgid "Bzip2 plugin"
+#~ msgstr "Plugin Bzip2"
 
-#: plugins/libsinglefileplugin/kerfuffle_libgz.json.cmake
-msgctxt "Description"
-msgid "Open and extract single files compressed with the gzip algorithm"
-msgstr "Aperter e extraer singul files compresset per li algoritm gzip"
+#~ msgctxt "Name"
+#~ msgid "Gzip plugin"
+#~ msgstr "Plugin Gzip"
 
-#: plugins/libsinglefileplugin/kerfuffle_libxz.json.cmake
-msgctxt "Description"
-msgid "Open and extract single files compressed with the lzma algorithm"
-msgstr "Aperter e extraer singul files compresset per li algoritm lzma"
+#~ msgctxt "Name"
+#~ msgid "LZMA plugin"
+#~ msgstr "Plugin LZMA"
 
-#: plugins/libsinglefileplugin/kerfuffle_libzstd.json.cmake
-msgctxt "Description"
-msgid "Open and extract single files compressed with the zstd algorithm"
-msgstr "Aperter e extraer singul files compresset per li algoritm zstd"
+#~ msgctxt "Name"
+#~ msgid "Zstd plugin"
+#~ msgstr "Plugin Zstd"
+
+#~ msgctxt "Description"
+#~ msgid "Open and extract single files compressed with the bzip2 algorithm"
+#~ msgstr "Aperter e extraer singul files compresset per li algoritm bzip2"
+
+#~ msgctxt "Description"
+#~ msgid "Open and extract single files compressed with the gzip algorithm"
+#~ msgstr "Aperter e extraer singul files compresset per li algoritm gzip"
+
+#~ msgctxt "Description"
+#~ msgid "Open and extract single files compressed with the lzma algorithm"
+#~ msgstr "Aperter e extraer singul files compresset per li algoritm lzma"
+
+#~ msgctxt "Description"
+#~ msgid "Open and extract single files compressed with the zstd algorithm"
+#~ msgstr "Aperter e extraer singul files compresset per li algoritm zstd"

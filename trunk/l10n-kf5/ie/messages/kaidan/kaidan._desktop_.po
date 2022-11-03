@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-28 00:55+0000\n"
+"POT-Creation-Date: 2022-11-03 00:56+0000\n"
 "PO-Revision-Date: 2022-11-02 01:57+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -19,18 +19,18 @@ msgctxt "Name"
 msgid "Kaidan"
 msgstr "Kaidan"
 
-#: misc/im.kaidan.kaidan.desktop:38
+#: misc/im.kaidan.kaidan.desktop:39
 msgctxt "GenericName"
 msgid "Jabber IM Client"
 msgstr "Cliente de IM Jabber"
 
-#: misc/im.kaidan.kaidan.desktop:68
+#: misc/im.kaidan.kaidan.desktop:70
 #, fuzzy
 msgctxt "Comment"
 msgid "A QtQuick Jabber client"
 msgstr "Portage a QtQuick"
 
-#: misc/im.kaidan.kaidan.desktop:98
+#: misc/im.kaidan.kaidan.desktop:100
 msgctxt "Keywords"
 msgid "chat;messaging;im;jabber;xmpp;qt;network;"
 msgstr ""
@@ -40,24 +40,24 @@ msgctxt "Comment"
 msgid "A user-friendly XMPP client for every device"
 msgstr ""
 
-#: misc/kaidan.notifyrc:69
+#: misc/kaidan.notifyrc:70
 msgctxt "Name"
 msgid "New Message"
 msgstr "Nov missage"
 
-#: misc/kaidan.notifyrc:83
+#: misc/kaidan.notifyrc:85
 #, fuzzy
 msgctxt "Comment"
 msgid "New message received"
 msgstr "Vu have un nov missage"
 
-#: misc/kaidan.notifyrc:100
+#: misc/kaidan.notifyrc:102
 #, fuzzy
 msgctxt "Name"
 msgid "New Subsequent Message"
 msgstr "Vu have un nov missage"
 
-#: misc/kaidan.notifyrc:114
+#: misc/kaidan.notifyrc:116
 msgctxt "Comment"
 msgid ""
 "New message received in quick succession to a previous one from the same chat"
