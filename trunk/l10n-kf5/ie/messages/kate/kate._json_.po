@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-16 01:00+0000\n"
+"POT-Creation-Date: 2022-10-28 00:58+0000\n"
 "PO-Revision-Date: 2022-11-03 07:50+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: ie <kde-i18n-doc@kde.org>\n"
+"Language: ie\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
-"Language: ie\n"
 "X-Generator: Poedit 1.8.12\n"
 
 #: addons/backtracebrowser/katebacktracebrowserplugin.json
@@ -108,6 +108,11 @@ msgctxt "Name"
 msgid "Project Plugin"
 msgstr "Plugin de projectes"
 
+#: addons/python/katepythonplugin.json
+msgctxt "Name"
+msgid "Python Scripting"
+msgstr ""
+
 #: addons/rainbow-parens/rainbowparens_plugin.json
 msgctxt "Name"
 msgid "Colored Brackets"
@@ -161,8 +166,7 @@ msgstr "Utensile de navigation de backtraces de C/C++"
 #: addons/close-except-like/katecloseexceptplugin.json
 msgctxt "Description"
 msgid "Close group of documents based on a common path or file extension"
-msgstr ""
-"Cluder un gruppe de documentes secun un comun rute o extension de file"
+msgstr "Cluder un gruppe de documentes secun un comun rute o extension de file"
 
 #: addons/cmake-tools/cmaketoolsplugin.json
 msgctxt "Description"
@@ -253,6 +257,11 @@ msgctxt "Description"
 msgid "Integration with Git and other source control systems"
 msgstr "Integration con Git e altri sistemas de control de versiones"
 
+#: addons/python/katepythonplugin.json
+msgctxt "Description"
+msgid "Plugin that allows Python scripting for Kate"
+msgstr ""
+
 #: addons/rainbow-parens/rainbowparens_plugin.json
 msgctxt "Description"
 msgid "Colored brackets for readability"
@@ -297,8 +306,7 @@ msgstr "Validar files XML med xmllint"
 msgctxt "Description"
 msgid ""
 "Lists XML elements, attributes, attribute values and entities allowed by DTD"
-msgstr ""
-"Liste elementes e atributes XML, su valores e entitás permisset de DTD"
+msgstr "Liste elementes e atributes XML, su valores e entitás permisset de DTD"
 
 #: addons/preview/ktexteditorpreview.json
 msgctxt "Authors Name"
