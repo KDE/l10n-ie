@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-28 00:55+0000\n"
+"POT-Creation-Date: 2022-11-08 02:32+0000\n"
 "PO-Revision-Date: 2022-10-26 03:41+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -23,12 +23,12 @@ msgctxt "GenericName"
 msgid "Floppy Formatter"
 msgstr "Formatar un discette"
 
-#: org.kde.kfloppy.desktop:78
+#: org.kde.kfloppy.desktop:77
 msgctxt "Name"
 msgid "KFloppy"
 msgstr "KFloppy"
 
-#: org.kde.kfloppy.desktop:152
+#: org.kde.kfloppy.desktop:150
 msgctxt "Comment"
 msgid "Floppy Formatter"
 msgstr "Formatar un discette"

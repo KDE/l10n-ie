@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-02 00:59+0000\n"
+"POT-Creation-Date: 2022-11-08 02:32+0000\n"
 "PO-Revision-Date: 2022-10-25 04:48+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: ie <kde-i18n-doc@kde.org>\n"
@@ -23,17 +23,17 @@ msgctxt "GenericName"
 msgid "Advanced Text Editor"
 msgstr "Redactor avansat de textus"
 
-#: apps/kate/data/org.kde.kate.desktop:65
+#: apps/kate/data/org.kde.kate.desktop:64
 msgctxt "Name"
 msgid "Kate"
 msgstr "Kate"
 
-#: apps/kate/data/org.kde.kate.desktop:130
+#: apps/kate/data/org.kde.kate.desktop:128
 msgctxt "Comment"
 msgid "KDE Advanced Text Editor"
 msgstr "Redactor avansat de textus de KDE"
 
-#: apps/kate/data/org.kde.kate.desktop:191
+#: apps/kate/data/org.kde.kate.desktop:188
 msgctxt "Keywords"
 msgid "text;txt;editor;programming;programmer;development;developer;code;"
 msgstr "text;txt;redactor;programma;programmero;developation;developator;code;"
@@ -43,17 +43,17 @@ msgctxt "GenericName"
 msgid "Text Editor"
 msgstr "Redactor de textus"
 
-#: apps/kwrite/data/org.kde.kwrite.desktop:64
+#: apps/kwrite/data/org.kde.kwrite.desktop:63
 msgctxt "Name"
 msgid "KWrite"
 msgstr "KWrite"
 
-#: apps/kwrite/data/org.kde.kwrite.desktop:125
+#: apps/kwrite/data/org.kde.kwrite.desktop:123
 msgctxt "Comment"
 msgid "KDE Text Editor"
 msgstr "Redactor de textus de KDE"
 
-#: apps/kwrite/data/org.kde.kwrite.desktop:184
+#: apps/kwrite/data/org.kde.kwrite.desktop:181
 msgctxt "Keywords"
 msgid "text;txt;editor;note;notepad;"
 msgstr "text;txt;redactor;bloc;note;notar;notepad;"
