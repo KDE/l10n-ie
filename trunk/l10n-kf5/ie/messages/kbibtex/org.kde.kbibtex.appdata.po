@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2021-12-12 00:44+0000\n"
 "PO-Revision-Date: 2022-11-09 17:33+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
+"Language: ie\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
-"Language: ie\n"
 "X-Generator: Poedit 1.8.12\n"
 
 #. (itstool) path: component/name
@@ -24,7 +24,9 @@ msgstr ""
 
 #. (itstool) path: description/p
 #: org.kde.kbibtex.appdata.xml:17
-msgid "KBibTeX is a reference management application which can be used to collect TeX/LaTeX bibliographies and export them in various formats."
+msgid ""
+"KBibTeX is a reference management application which can be used to collect "
+"TeX/LaTeX bibliographies and export them in various formats."
 msgstr ""
 
 #. (itstool) path: description/p
@@ -34,22 +36,33 @@ msgstr ""
 
 #. (itstool) path: ul/li
 #: org.kde.kbibtex.appdata.xml:22
-msgid "Preview bibliography entries in various formats (Source (BibTeX), Source (RIS), Wikipedia, standard (XML/XSLT), fancy (XML/XSLT), and abstract-only (XML/XSLT)). Additional preview styles become available when bibtex2html is installed."
+msgid ""
+"Preview bibliography entries in various formats (Source (BibTeX), Source "
+"(RIS), Wikipedia, standard (XML/XSLT), fancy (XML/XSLT), and abstract-only "
+"(XML/XSLT)). Additional preview styles become available when bibtex2html is "
+"installed."
 msgstr ""
 
 #. (itstool) path: ul/li
 #: org.kde.kbibtex.appdata.xml:23
-msgid "Import data in various bibliography file formats such as BibTeX, RIS and ISI (requires bibutils) and export data to PDF (requires pdflatex), PostScript (requires latex), RTF (requires latex2rtf), and HTML."
+msgid ""
+"Import data in various bibliography file formats such as BibTeX, RIS and ISI "
+"(requires bibutils) and export data to PDF (requires pdflatex), PostScript "
+"(requires latex), RTF (requires latex2rtf), and HTML."
 msgstr ""
 
 #. (itstool) path: ul/li
 #: org.kde.kbibtex.appdata.xml:24
-msgid "Search for the bibliography entries data in online databases (e.g. Google Scholar, ACM, IEEE, arXiv, etc.)"
+msgid ""
+"Search for the bibliography entries data in online databases (e.g. Google "
+"Scholar, ACM, IEEE, arXiv, etc.)"
 msgstr ""
 
 #. (itstool) path: ul/li
 #: org.kde.kbibtex.appdata.xml:25
-msgid "Preview local or remote (online) resources, e.g. PDF files, linked in the BibTEX entry."
+msgid ""
+"Preview local or remote (online) resources, e.g. PDF files, linked in the "
+"BibTEX entry."
 msgstr ""
 
 #. (itstool) path: ul/li

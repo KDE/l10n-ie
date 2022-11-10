@@ -4,13 +4,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-07-31 01:00+0000\n"
 "PO-Revision-Date: 2022-11-10 00:27+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
+"Language: ie\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
-"Language: ie\n"
 "X-Generator: Poedit 1.8.12\n"
 
 #: applets/activitypager/metadata.json
@@ -315,7 +315,8 @@ msgstr "Panel del metode de intrada"
 
 #: applets/margins-separator/metadata.json
 msgctxt "Description"
-msgid "To be used as a separator between margin areas in themes that support them"
+msgid ""
+"To be used as a separator between margin areas in themes that support them"
 msgstr ""
 
 #: applets/minimizeall/package/metadata.json
@@ -335,7 +336,8 @@ msgstr "Monstrar li gerente de activitá"
 
 #: applets/showdesktop/package/metadata.json
 msgctxt "Description"
-msgid "Temporarily reveals the Desktop by moving open windows into screen corners"
+msgid ""
+"Temporarily reveals the Desktop by moving open windows into screen corners"
 msgstr ""
 
 #: applets/taskmanager/package/metadata.json
@@ -512,7 +514,8 @@ msgstr ""
 
 #: layout-templates/org.kde.plasma.desktop.defaultPanel/metadata.json
 msgctxt "Description"
-msgid "Default panel featuring application launcher, task manager and system tray"
+msgid ""
+"Default panel featuring application launcher, task manager and system tray"
 msgstr ""
 
 #: layout-templates/org.kde.plasma.desktop.emptyPanel/metadata.json

@@ -9,13 +9,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-10-17 00:47+0000\n"
 "PO-Revision-Date: 2022-11-10 01:12+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
@@ -114,7 +114,8 @@ msgstr "Local file"
 
 #, kde-format
 msgid ""
-"DOIs and URLs get handled in the &lsquo;<a href=\"#tab:external\">External</a>&rsquo; tab."
+"DOIs and URLs get handled in the &lsquo;<a href=\"#tab:external\">External</"
+"a>&rsquo; tab."
 msgstr ""
 
 #: src/config/bibtexentries.cpp:67 src/config/bibtexentries.cpp:83
@@ -281,7 +282,8 @@ msgstr "Identificator"
 #: src/config/bibtexfields.cpp:159 src/config/bibtexfields.cpp:198
 #: src/gui/preferences/settingsidsuggestionseditor.cpp:321
 #: src/gui/preferences/settingsidsuggestionseditor.cpp:616
-#: src/gui/preferences/settingsidsuggestionseditor.cpp:651 src/processing/idsuggestions.cpp:412
+#: src/gui/preferences/settingsidsuggestionseditor.cpp:651
+#: src/processing/idsuggestions.cpp:412
 #, kde-format
 msgid "Title"
 msgstr "Titul"
@@ -322,9 +324,11 @@ msgstr "Mensu"
 msgid "Year"
 msgstr "Annu"
 
-#: src/config/bibtexfields.cpp:166 src/gui/preferences/settingsidsuggestionseditor.cpp:422
+#: src/config/bibtexfields.cpp:166
+#: src/gui/preferences/settingsidsuggestionseditor.cpp:422
 #: src/gui/preferences/settingsidsuggestionseditor.cpp:628
-#: src/gui/preferences/settingsidsuggestionseditor.cpp:663 src/processing/idsuggestions.cpp:441
+#: src/gui/preferences/settingsidsuggestionseditor.cpp:663
+#: src/processing/idsuggestions.cpp:441
 #, kde-format
 msgid "Journal"
 msgstr "Revúe"
@@ -332,7 +336,8 @@ msgstr "Revúe"
 #: src/config/bibtexfields.cpp:167 src/config/bibtexfields.cpp:239
 #: src/gui/preferences/settingsidsuggestionseditor.cpp:242
 #: src/gui/preferences/settingsidsuggestionseditor.cpp:636
-#: src/gui/preferences/settingsidsuggestionseditor.cpp:671 src/processing/idsuggestions.cpp:476
+#: src/gui/preferences/settingsidsuggestionseditor.cpp:671
+#: src/processing/idsuggestions.cpp:476
 #, kde-format
 msgid "Volume"
 msgstr "Tom"
@@ -401,8 +406,9 @@ msgstr "Serie"
 #, fuzzy, kde-format
 msgid "Edition"
 msgstr ""
-"Vor sistema manca critic componentes. Un paccage que corresponde a vor redaction de Linux "
-"Mint deve provider li paccage virtual 'mint-info' e li file /etc/linuxmint/info."
+"Vor sistema manca critic componentes. Un paccage que corresponde a vor "
+"redaction de Linux Mint deve provider li paccage virtual 'mint-info' e li "
+"file /etc/linuxmint/info."
 
 #: src/config/bibtexfields.cpp:181 src/config/bibtexfields.cpp:272
 #, kde-format
@@ -453,9 +459,11 @@ msgid "Address"
 msgstr "Adresse"
 
 #: src/config/bibtexfields.cpp:190 src/config/bibtexfields.cpp:289
-#: src/gui/file/findduplicatesui.cpp:160 src/gui/preferences/settingsidsuggestionseditor.cpp:495
+#: src/gui/file/findduplicatesui.cpp:160
+#: src/gui/preferences/settingsidsuggestionseditor.cpp:495
 #: src/gui/preferences/settingsidsuggestionseditor.cpp:632
-#: src/gui/preferences/settingsidsuggestionseditor.cpp:667 src/processing/idsuggestions.cpp:459
+#: src/gui/preferences/settingsidsuggestionseditor.cpp:667
+#: src/processing/idsuggestions.cpp:459
 #, kde-format
 msgid "Type"
 msgstr "Tip"
@@ -801,7 +809,8 @@ msgstr "Localisation original"
 msgid "EID"
 msgstr "EID"
 
-#: src/config/bibtexfields.cpp:291 src/gui/preferences/settingscolorlabelwidget.cpp:195
+#: src/config/bibtexfields.cpp:291
+#: src/gui/preferences/settingscolorlabelwidget.cpp:195
 #, kde-format
 msgid "Label"
 msgstr "Etiquette"
@@ -1029,7 +1038,9 @@ msgstr " e altris"
 
 #: src/gui/element/associatedfilesui.cpp:77
 #, kde-format
-msgid "The following operations can be performed when associating the document with the entry:"
+msgid ""
+"The following operations can be performed when associating the document with "
+"the entry:"
 msgstr ""
 
 #: src/gui/element/associatedfilesui.cpp:81
@@ -1077,12 +1088,14 @@ msgstr "Personalisat"
 msgid "Path as Inserted into Entry"
 msgstr "Li dimension de icones por li panel de rute"
 
-#: src/gui/element/associatedfilesui.cpp:137 src/gui/field/fieldlistedit.cpp:604
+#: src/gui/element/associatedfilesui.cpp:137
+#: src/gui/field/fieldlistedit.cpp:604
 #, kde-format
 msgid "Relative Path"
 msgstr "Relativ rute"
 
-#: src/gui/element/associatedfilesui.cpp:140 src/gui/field/fieldlistedit.cpp:604
+#: src/gui/element/associatedfilesui.cpp:140
+#: src/gui/field/fieldlistedit.cpp:604
 #, kde-format
 msgid "Absolute Path"
 msgstr "Absolut rute"
@@ -1098,7 +1111,8 @@ msgctxt "@title:window"
 msgid "Associate Document with Entry"
 msgstr "Associar un application"
 
-#: src/gui/element/associatedfilesui.cpp:236 src/program/docklets/documentpreview.cpp:232
+#: src/gui/element/associatedfilesui.cpp:236
+#: src/program/docklets/documentpreview.cpp:232
 #: src/program/docklets/referencepreview.cpp:121
 #, fuzzy, kde-format
 msgid "No preview available"
@@ -1106,27 +1120,34 @@ msgstr "_Previder"
 
 #: src/gui/element/associatedfilesui.cpp:297
 #, kde-format
-msgid "The following remote document is about to be associated with the current entry:"
+msgid ""
+"The following remote document is about to be associated with the current "
+"entry:"
 msgstr ""
 
-#: src/gui/element/associatedfilesui.cpp:298 src/gui/element/associatedfilesui.cpp:311
+#: src/gui/element/associatedfilesui.cpp:298
+#: src/gui/element/associatedfilesui.cpp:311
 #, kde-format
 msgid "Rename after entry's id"
 msgstr ""
 
 #: src/gui/element/associatedfilesui.cpp:300
 #, kde-format
-msgid "The following remote document is about to be associated with entry '%1':"
+msgid ""
+"The following remote document is about to be associated with entry '%1':"
 msgstr ""
 
-#: src/gui/element/associatedfilesui.cpp:301 src/gui/element/associatedfilesui.cpp:314
+#: src/gui/element/associatedfilesui.cpp:301
+#: src/gui/element/associatedfilesui.cpp:314
 #, kde-format
 msgid "Rename after entry's id: '%1'"
 msgstr ""
 
 #: src/gui/element/associatedfilesui.cpp:310
 #, kde-format
-msgid "The following local document is about to be associated with the current entry:"
+msgid ""
+"The following local document is about to be associated with the current "
+"entry:"
 msgstr ""
 
 #: src/gui/element/associatedfilesui.cpp:313
@@ -1244,8 +1265,9 @@ msgstr "Altri campes"
 msgid "Name:"
 msgstr "Nómine:"
 
-#: src/gui/element/elementwidgets.cpp:973 src/gui/element/elementwidgets.cpp:1036
-#: src/gui/field/fieldlistedit.cpp:104 src/gui/preferences/settingsglobalkeywordswidget.cpp:98
+#: src/gui/element/elementwidgets.cpp:973
+#: src/gui/element/elementwidgets.cpp:1036 src/gui/field/fieldlistedit.cpp:104
+#: src/gui/preferences/settingsglobalkeywordswidget.cpp:98
 #, kde-format
 msgid "Add"
 msgstr "Adjunter"
@@ -1270,18 +1292,21 @@ msgstr "Valore"
 msgid "Delete"
 msgstr "Remover"
 
-#: src/gui/element/elementwidgets.cpp:997 src/program/docklets/referencepreview.cpp:144
+#: src/gui/element/elementwidgets.cpp:997
+#: src/program/docklets/referencepreview.cpp:144
 #: src/program/documentlist.cpp:209
 #, kde-format
 msgid "Open"
 msgstr "Aperter"
 
-#: src/gui/element/elementwidgets.cpp:1036 src/program/docklets/elementform.cpp:97
+#: src/gui/element/elementwidgets.cpp:1036
+#: src/program/docklets/elementform.cpp:97
 #, kde-format
 msgid "Apply"
 msgstr "Applicar"
 
-#: src/gui/element/elementwidgets.cpp:1105 src/gui/element/elementwidgets.cpp:1175
+#: src/gui/element/elementwidgets.cpp:1105
+#: src/gui/element/elementwidgets.cpp:1175
 #, kde-format
 msgid "Value:"
 msgstr "Valore:"
@@ -1380,11 +1405,12 @@ msgstr "&Gardar «%1»..."
 #: src/gui/element/findpdfui.cpp:545
 #, kde-format
 msgid ""
-"<qt>Number of visited pages: <b>%1</b><br/>Number of running downloads: <b>%2</b><br/>Number "
-"of found documents: <b>%3</b></qt>"
+"<qt>Number of visited pages: <b>%1</b><br/>Number of running downloads: <b>"
+"%2</b><br/>Number of found documents: <b>%3</b></qt>"
 msgstr ""
 
-#: src/gui/field/colorlabelwidget.cpp:93 src/gui/preferences/settingscolorlabelwidget.cpp:452
+#: src/gui/field/colorlabelwidget.cpp:93
+#: src/gui/preferences/settingscolorlabelwidget.cpp:452
 #, kde-format
 msgid "No color"
 msgstr "Sin color"
@@ -1625,9 +1651,9 @@ msgstr "&Gardar «%1»..."
 #: src/gui/field/fieldlistedit.cpp:604
 #, kde-format
 msgid ""
-"<qt><p>Use a filename relative to the bibliography file?</p><p>The relative path would be<br/"
-"><tt style=\"font-family: %3;\">%1</tt></p><p>The absolute path would be<br/><tt style=\"font-"
-"family: %3;\">%2</tt></p></qt>"
+"<qt><p>Use a filename relative to the bibliography file?</p><p>The relative "
+"path would be<br/><tt style=\"font-family: %3;\">%1</tt></p><p>The absolute "
+"path would be<br/><tt style=\"font-family: %3;\">%2</tt></p></qt>"
 msgstr ""
 
 #: src/gui/field/fieldlistedit.cpp:645
@@ -1667,7 +1693,8 @@ msgstr "Ordinante..."
 
 #: src/gui/file/fileview.cpp:89
 #, fuzzy, kde-format
-msgid "The current entry has been modified. Do you want to discard your changes?"
+msgid ""
+"The current entry has been modified. Do you want to discard your changes?"
 msgstr ""
 "Li actual file esset modificat.\n"
 "Esque vu vole gardar li modificationes?"
@@ -1681,8 +1708,8 @@ msgstr "Rejecter li modificationes"
 #, fuzzy, kde-format
 msgid "Continue Editing"
 msgstr ""
-"Li file que vu apertet contene quelc ínvalid caracteres. Si vu redacte ti-ci file, vu posse "
-"far it ínutil."
+"Li file que vu apertet contene quelc ínvalid caracteres. Si vu redacte ti-ci "
+"file, vu posse far it ínutil."
 
 #: src/gui/file/fileview.cpp:331
 #, kde-format
@@ -1729,8 +1756,8 @@ msgstr "Trovar duplicates"
 #: src/gui/file/findduplicatesui.cpp:682
 #, kde-format
 msgid ""
-"Multiple elements are selected. Do you want to search for duplicates only within the "
-"selection or in the whole document?"
+"Multiple elements are selected. Do you want to search for duplicates only "
+"within the selection or in the whole document?"
 msgstr ""
 
 #: src/gui/file/findduplicatesui.cpp:682
@@ -1767,8 +1794,8 @@ msgstr "Coalescer li duplicates"
 #: src/gui/preferences/kbibtexpreferencesdialog.cpp:117
 #, kde-format
 msgid ""
-"This will reset the settings to factory defaults. Should this affect only the current page or "
-"all settings?"
+"This will reset the settings to factory defaults. Should this affect only "
+"the current page or all settings?"
 msgstr ""
 
 #: src/gui/preferences/kbibtexpreferencesdialog.cpp:117
@@ -1873,17 +1900,20 @@ msgstr "Complet archives a retener"
 msgid "Saving and Exporting"
 msgstr "Exportante a ODT…"
 
-#: src/gui/preferences/settingsgeneralwidget.cpp:43 src/gui/widgets/filesettingswidget.cpp:36
+#: src/gui/preferences/settingsgeneralwidget.cpp:43
+#: src/gui/widgets/filesettingswidget.cpp:36
 #, kde-format
 msgid "John"
 msgstr "John"
 
-#: src/gui/preferences/settingsgeneralwidget.cpp:43 src/gui/widgets/filesettingswidget.cpp:36
+#: src/gui/preferences/settingsgeneralwidget.cpp:43
+#: src/gui/widgets/filesettingswidget.cpp:36
 #, kde-format
 msgid "Doe"
 msgstr "Doe"
 
-#: src/gui/preferences/settingsgeneralwidget.cpp:43 src/gui/widgets/filesettingswidget.cpp:36
+#: src/gui/preferences/settingsgeneralwidget.cpp:43
+#: src/gui/widgets/filesettingswidget.cpp:36
 #, kde-format
 msgid "Jr."
 msgstr "Jr."
@@ -1893,7 +1923,8 @@ msgstr "Jr."
 msgid "Bibliography System:"
 msgstr "Sistema de bibliografie:"
 
-#: src/gui/preferences/settingsgeneralwidget.cpp:80 src/gui/widgets/filesettingswidget.cpp:161
+#: src/gui/preferences/settingsgeneralwidget.cpp:80
+#: src/gui/widgets/filesettingswidget.cpp:161
 #, kde-format
 msgid "Person Names Formatting:"
 msgstr "Formate de personal nómines:"
@@ -1979,14 +2010,15 @@ msgid "... and last author"
 msgstr "... e li ultim autor"
 
 #: src/gui/preferences/settingsidsuggestionseditor.cpp:130
-#: src/gui/preferences/settingsidsuggestionseditor.cpp:132 src/processing/idsuggestions.cpp:501
+#: src/gui/preferences/settingsidsuggestionseditor.cpp:132
+#: src/processing/idsuggestions.cpp:501
 #, fuzzy, kde-format
 msgid "From first author to author %1 and last author"
 msgstr "<br />Autor del ultim modification: %1"
 
 #: src/gui/preferences/settingsidsuggestionseditor.cpp:130
-#: src/gui/preferences/settingsidsuggestionseditor.cpp:132 src/processing/idsuggestions.cpp:510
-#: src/processing/idsuggestions.cpp:518
+#: src/gui/preferences/settingsidsuggestionseditor.cpp:132
+#: src/processing/idsuggestions.cpp:510 src/processing/idsuggestions.cpp:518
 #, fuzzy, kde-format
 msgid "From author %1 to author %2 and last author"
 msgstr "<br />Autor del ultim modification: %1"
@@ -2053,8 +2085,8 @@ msgstr "Solmen li prim parol"
 #, fuzzy, kde-format
 msgid "No limitation"
 msgstr ""
-"Li disco sur que vu prova gardar li file have un limitation de longore de fil-nómines. Ples "
-"usar un plu curt nómine."
+"Li disco sur que vu prova gardar li file have un limitation de longore de "
+"fil-nómines. Ples usar un plu curt nómine."
 
 #: src/gui/preferences/settingsidsuggestionseditor.cpp:213
 #, kde-format
@@ -2256,8 +2288,8 @@ msgstr "Predefinit elementes:"
 #: src/gui/preferences/settingsidsuggestionswidget.cpp:379
 #, kde-format
 msgid ""
-"All token have been removed from this suggestion. Remove suggestion itself or restore "
-"original suggestion?"
+"All token have been removed from this suggestion. Remove suggestion itself "
+"or restore original suggestion?"
 msgstr ""
 
 #: src/gui/preferences/settingsidsuggestionswidget.cpp:379
@@ -2439,8 +2471,8 @@ msgid ""
 "%2"
 msgstr ""
 
-#: src/networking/onlinesearch/onlinesearchabstract.cpp:321 src/program/mainwindow.cpp:365
-#: src/program/program.cpp:52
+#: src/networking/onlinesearch/onlinesearchabstract.cpp:321
+#: src/program/mainwindow.cpp:365 src/program/program.cpp:52
 #, kde-format
 msgid "KBibTeX"
 msgstr "KBibTeX"
@@ -2541,7 +2573,8 @@ msgstr "Annu:"
 
 #: src/networking/onlinesearch/onlinesearchgooglescholar.cpp:330
 #, kde-format
-msgid "'Google Scholar' denied scrapping data because it thinks you are a robot."
+msgid ""
+"'Google Scholar' denied scrapping data because it thinks you are a robot."
 msgstr ""
 
 #: src/networking/onlinesearch/onlinesearchgooglescholar.cpp:462
@@ -2657,21 +2690,22 @@ msgstr "SpringerLink"
 #: src/networking/onlinesearch/onlinesearchzbmath.cpp:92
 #, kde-format
 msgid ""
-"The query to be sent to 'zbMATH Open' lacks author information, which may result in few or no "
-"matching results."
+"The query to be sent to 'zbMATH Open' lacks author information, which may "
+"result in few or no matching results."
 msgstr ""
 
 #: src/networking/onlinesearch/onlinesearchzbmath.cpp:92
 #, kde-format
 msgid ""
-"The query to be sent to 'zbMATH Open' lacks 'year' information, which may degrade result "
-"quality."
+"The query to be sent to 'zbMATH Open' lacks 'year' information, which may "
+"degrade result quality."
 msgstr ""
 
 #: src/networking/onlinesearch/onlinesearchzbmath.cpp:92
 #, kde-format
 msgid ""
-"The query to be sent to 'zbMATH Open' lacks both author and 'year' information.\n"
+"The query to be sent to 'zbMATH Open' lacks both author and 'year' "
+"information.\n"
 "This will most likely result in few or no matching results."
 msgstr ""
 
@@ -2688,19 +2722,21 @@ msgstr "Biblioteca de %1"
 #: src/networking/zotero/oauthwizard.cpp:82
 #, kde-format
 msgid ""
-"<html><head><title>KBibTeX authorized to use Zotero</title></head><body><p>KBibTeX got "
-"successfully authorized to read your Zotero database.</p></body></html>"
+"<html><head><title>KBibTeX authorized to use Zotero</title></"
+"head><body><p>KBibTeX got successfully authorized to read your Zotero "
+"database.</p></body></html>"
 msgstr ""
 
 #: src/networking/zotero/oauthwizard.cpp:139
 #, kde-format
 msgid ""
-"<qt><p>To allow <strong>KBibTeX</strong> access your <strong>Zotero bibliography</strong>, "
-"this KBibTeX instance has to be authorized.</p><p>The process of authorization involves "
-"multiple steps:</p><ol><li>Open the URL as shown below in a web browser.</li><li>Log in at "
-"Zotero and approve the permissions for KBibTeX.</li><li>If successful, you will be redirected "
-"to a web page telling you that KBibTeX got authorized.<br/>This window will be closed "
-"automatically.</li></ol></qt>"
+"<qt><p>To allow <strong>KBibTeX</strong> access your <strong>Zotero "
+"bibliography</strong>, this KBibTeX instance has to be authorized.</p><p>The "
+"process of authorization involves multiple steps:</p><ol><li>Open the URL as "
+"shown below in a web browser.</li><li>Log in at Zotero and approve the "
+"permissions for KBibTeX.</li><li>If successful, you will be redirected to a "
+"web page telling you that KBibTeX got authorized.<br/>This window will be "
+"closed automatically.</li></ol></qt>"
 msgstr ""
 
 #: src/networking/zotero/oauthwizard.cpp:145
@@ -2880,12 +2916,14 @@ msgstr "Lontan files"
 msgid ""
 "The document could not be saved, as it was not possible to write to '%1'.\n"
 "\n"
-"Check that you have write access to this file or that enough disk space is available."
+"Check that you have write access to this file or that enough disk space is "
+"available."
 msgstr ""
 
 #: src/parts/part.cpp:957
 #, kde-format
-msgid "Cannot apply default formatting for entry ids: No default format specified."
+msgid ""
+"Cannot apply default formatting for entry ids: No default format specified."
 msgstr ""
 
 #: src/parts/part.cpp:957
@@ -3059,18 +3097,20 @@ msgstr "Duplicates:"
 #: src/processing/idsuggestions.cpp:314
 #, kde-format
 msgctxt ""
-"Small words that can be removed from titles when generating id suggestions; separated by pipe "
-"symbol"
+"Small words that can be removed from titles when generating id suggestions; "
+"separated by pipe symbol"
 msgid ""
-"a|als|am|an|are|as|at|auf|aus|be|but|by|das|dass|de|der|des|dich|dir|du|er|es|for|from|had|"
-"have|he|her|his|how|ihr|ihre|ihres|im|in|is|ist|it|kein|la|le|les|mein|mich|mir|mit|of|on|"
-"sein|sie|that|the|this|to|un|une|von|was|wer|which|wie|wird|with|yousie|that|the|this|to|un|"
-"une|von|was|wer|which|wie|wird|with|you|und|and|ein|eine|einer|eines"
+"a|als|am|an|are|as|at|auf|aus|be|but|by|das|dass|de|der|des|dich|dir|du|er|"
+"es|for|from|had|have|he|her|his|how|ihr|ihre|ihres|im|in|is|ist|it|kein|la|"
+"le|les|mein|mich|mir|mit|of|on|sein|sie|that|the|this|to|un|une|von|was|wer|"
+"which|wie|wird|with|yousie|that|the|this|to|un|une|von|was|wer|which|wie|"
+"wird|with|you|und|and|ein|eine|einer|eines"
 msgstr ""
-"a|al|als|am|an|are|as|at|auf|aus|be|but|by|das|dass|de|del|der|des|dich|dir|du|er|es|for|from|"
-"had|have|he|her|his|how|ihr|ihre|ihres|im|in|is|ist|it|kein|la|le||li|les|mein|mich|mir|mit|"
-"of|on|sein|sie|that|the|this|to|un|une|von|was|wer|which|wie|wird|with|yousie|that|the|this|"
-"to|un|une|von|was|wer|which|wie|wird|with|you|uun|und|and|ein|eine|einer|eines"
+"a|al|als|am|an|are|as|at|auf|aus|be|but|by|das|dass|de|del|der|des|dich|dir|"
+"du|er|es|for|from|had|have|he|her|his|how|ihr|ihre|ihres|im|in|is|ist|it|"
+"kein|la|le||li|les|mein|mich|mir|mit|of|on|sein|sie|that|the|this|to|un|une|"
+"von|was|wer|which|wie|wird|with|yousie|that|the|this|to|un|une|von|was|wer|"
+"which|wie|wird|with|you|uun|und|and|ein|eine|einer|eines"
 
 #: src/processing/idsuggestions.cpp:388
 #, kde-format
@@ -3242,11 +3282,12 @@ msgstr "Actualisante li cache"
 msgid "No documents to show."
 msgstr "Monstrar recent _documentes"
 
-#: src/program/docklets/documentpreview.cpp:379 src/program/docklets/documentpreview.cpp:691
+#: src/program/docklets/documentpreview.cpp:379
+#: src/program/docklets/documentpreview.cpp:691
 #, kde-format
 msgid ""
-"<qt>No documents to show.<br/><a href=\"disableonlylocalfiles\">Disable the restriction</a> "
-"to local files to see remote documents.</qt>"
+"<qt>No documents to show.<br/><a href=\"disableonlylocalfiles\">Disable the "
+"restriction</a> to local files to see remote documents.</qt>"
 msgstr ""
 
 #: src/program/docklets/documentpreview.cpp:506
@@ -3254,7 +3295,8 @@ msgstr ""
 msgid "Cannot show requested part"
 msgstr ""
 
-#: src/program/docklets/documentpreview.cpp:533 src/program/docklets/documentpreview.cpp:537
+#: src/program/docklets/documentpreview.cpp:533
+#: src/program/docklets/documentpreview.cpp:537
 #, kde-format
 msgid "Loading..."
 msgstr "Cargante..."
@@ -3262,16 +3304,19 @@ msgstr "Cargante..."
 #: src/program/docklets/documentpreview.cpp:558
 #, kde-format
 msgctxt ""
-"Additional information in case there is not KPart available for mime type 'application/pdf'"
+"Additional information in case there is not KPart available for mime type "
+"'application/pdf'"
 msgid ""
-"<br/><br/>Please install <a href=\"https://userbase.kde.org/Okular\">Okular</a> for KDE "
-"Frameworks&nbsp;5 to make use of its PDF viewing component.<br/>Okular for KDE&nbsp;4 will "
-"not work."
+"<br/><br/>Please install <a href=\"https://userbase.kde.org/Okular\">Okular</"
+"a> for KDE Frameworks&nbsp;5 to make use of its PDF viewing component.<br/"
+">Okular for KDE&nbsp;4 will not work."
 msgstr ""
 
 #: src/program/docklets/documentpreview.cpp:559
 #, kde-format
-msgctxt "First parameter is mime type, second parameter is optional information (may be empty)"
+msgctxt ""
+"First parameter is mime type, second parameter is optional information (may "
+"be empty)"
 msgid "<qt>Don't know how to show mimetype '%1'.%2</qt>"
 msgstr ""
 
@@ -3359,7 +3404,8 @@ msgstr "Cause:"
 msgid "Open reference in web browser."
 msgstr "Ne successat aperter li navigator web predefinit"
 
-#: src/program/docklets/referencepreview.cpp:148 src/program/docklets/referencepreview.cpp:419
+#: src/program/docklets/referencepreview.cpp:148
+#: src/program/docklets/referencepreview.cpp:419
 #, kde-format
 msgid "Save as HTML"
 msgstr "Gardar quam HTML"
@@ -3379,14 +3425,17 @@ msgstr "Despermisset"
 msgid "No element selected"
 msgstr "Element"
 
-#: src/program/docklets/referencepreview.cpp:324 src/program/docklets/referencepreview.cpp:394
+#: src/program/docklets/referencepreview.cpp:324
+#: src/program/docklets/referencepreview.cpp:394
 #, fuzzy, kde-format
 msgid "No output generated"
 msgstr "Generat"
 
 #: src/program/docklets/referencepreview.cpp:353
 #, kde-format
-msgid "This type of element is not supported by Wikipedia's <tt>{{cite}}</tt> command."
+msgid ""
+"This type of element is not supported by Wikipedia's <tt>{{cite}}</tt> "
+"command."
 msgstr ""
 
 #: src/program/docklets/searchform.cpp:188
@@ -3409,7 +3458,8 @@ msgstr "Provisores"
 msgid "Use Entry"
 msgstr "Element"
 
-#: src/program/docklets/searchform.cpp:231 src/program/docklets/searchform.cpp:304
+#: src/program/docklets/searchform.cpp:231
+#: src/program/docklets/searchform.cpp:304
 #, kde-format
 msgid "Search"
 msgstr "Serchar"
@@ -3426,27 +3476,29 @@ msgstr ""
 
 #: src/program/docklets/searchform.cpp:340
 #, kde-format
-msgid "Search engine <b>%1</b> is selected (<a href=\"changeEngine\">change</a>)."
+msgid ""
+"Search engine <b>%1</b> is selected (<a href=\"changeEngine\">change</a>)."
 msgstr ""
 
 #: src/program/docklets/searchform.cpp:341
 #, kde-format
 msgid ""
-"Search engines <b>%1</b> and <b>%2</b> are selected (<a href=\"changeEngine\">change</a>)."
+"Search engines <b>%1</b> and <b>%2</b> are selected (<a href=\"changeEngine"
+"\">change</a>)."
 msgstr ""
 
 #: src/program/docklets/searchform.cpp:342
 #, kde-format
 msgid ""
-"Search engines <b>%1</b>, <b>%2</b>, and <b>%3</b> are selected (<a "
-"href=\"changeEngine\">change</a>)."
+"Search engines <b>%1</b>, <b>%2</b>, and <b>%3</b> are selected (<a href="
+"\"changeEngine\">change</a>)."
 msgstr ""
 
 #: src/program/docklets/searchform.cpp:343
 #, kde-format
 msgid ""
-"Search engines <b>%1</b>, <b>%2</b>, and more are selected (<a href=\"changeEngine\">change</"
-"a>)."
+"Search engines <b>%1</b>, <b>%2</b>, and more are selected (<a href="
+"\"changeEngine\">change</a>)."
 msgstr ""
 
 #: src/program/docklets/searchform.cpp:404
@@ -3461,7 +3513,8 @@ msgstr ""
 msgid "Searching the Internet"
 msgstr "Internet"
 
-#: src/program/docklets/searchresults.cpp:87 src/program/docklets/searchresults.cpp:102
+#: src/program/docklets/searchresults.cpp:87
+#: src/program/docklets/searchresults.cpp:102
 #, kde-format
 msgid "Import"
 msgstr "Importar"
@@ -3599,8 +3652,8 @@ msgstr "Etiquettes"
 #: src/program/docklets/zoterobrowser.cpp:241
 #, kde-format
 msgid ""
-"KBibTeX failed to retrieve the bibliography from Zotero. Please check that the provided user "
-"id and API key are valid."
+"KBibTeX failed to retrieve the bibliography from Zotero. Please check that "
+"the provided user id and API key are valid."
 msgstr ""
 
 #: src/program/docklets/zoterobrowser.cpp:241
@@ -3645,14 +3698,17 @@ msgstr "Modificat"
 
 #: src/program/documentlist.cpp:264
 #, kde-format
-msgid "The current document has to be saved before switching the viewer/editor component."
+msgid ""
+"The current document has to be saved before switching the viewer/editor "
+"component."
 msgstr ""
 
 #: src/program/documentlist.cpp:264
 #, fuzzy, kde-format
 msgid "Save before switching?"
 msgstr ""
-"Li actual schema de rapid-tastes esset modificat. Esque gardar it ante cambiar it con un nov?"
+"Li actual schema de rapid-tastes esset modificat. Esque gardar it ante "
+"cambiar it con un nov?"
 
 #: src/program/documentlist.cpp:264
 #, kde-format
@@ -3767,7 +3823,8 @@ msgstr "Configurar li parametres del gerente de files"
 #: src/program/mainwindow.cpp:301
 #, kde-format
 msgid ""
-"Creating a new document of mime type '%1' failed as no editor component could be instantiated."
+"Creating a new document of mime type '%1' failed as no editor component "
+"could be instantiated."
 msgstr ""
 
 #: src/program/mainwindow.cpp:301
@@ -3787,7 +3844,9 @@ msgstr "%1 - KBibTeX"
 
 #: src/program/mainwindow.cpp:450
 #, kde-format
-msgid "KBibTeX is not the default editor for its bibliography formats like BibTeX or RIS."
+msgid ""
+"KBibTeX is not the default editor for its bibliography formats like BibTeX "
+"or RIS."
 msgstr ""
 
 #: src/program/mainwindow.cpp:450
@@ -3868,7 +3927,8 @@ msgstr "File(s) por cargar."
 #: src/program/program.cpp:102
 #, kde-format
 msgid ""
-"KBibTeX seems to be not installed completely. KBibTeX could not locate its own KPart.\n"
+"KBibTeX seems to be not installed completely. KBibTeX could not locate its "
+"own KPart.\n"
 "\n"
 "Only limited functionality will be available."
 msgstr ""
