@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-08 02:32+0000\n"
+"POT-Creation-Date: 2022-11-10 02:36+0000\n"
 "PO-Revision-Date: 2022-11-01 15:06+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "KFind"
 msgstr "KFind"
 
-#: src/org.kde.kfind.desktop:54
+#: src/org.kde.kfind.desktop:55
 msgctxt "GenericName"
 msgid "Find Files/Folders"
 msgstr "Trovar files e fólderes"
