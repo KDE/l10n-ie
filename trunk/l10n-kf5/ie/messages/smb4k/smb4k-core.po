@@ -1908,8 +1908,8 @@ msgstr "Vacuar li liste"
 #: smb4kmounter.cpp:682
 #, kde-format
 msgid ""
-"<qt><p>The share <b>%1</b> is mounted to <br><b>%2</b> and owned by user "
-"<b>%3</b>.</p><p>Do you really want to unmount it?</p></qt>"
+"<qt><p>The share <b>%1</b> is mounted to <br><b>%2</b> and owned by user <b>"
+"%3</b>.</p><p>Do you really want to unmount it?</p></qt>"
 msgstr ""
 
 #: smb4kmounter.cpp:687
