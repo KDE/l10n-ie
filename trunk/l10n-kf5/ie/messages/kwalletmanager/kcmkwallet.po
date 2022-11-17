@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwalletmanager\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-07 00:48+0000\n"
+"POT-Creation-Date: 2022-11-08 00:50+0000\n"
 "PO-Revision-Date: 2022-11-16 16:24+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
@@ -217,47 +217,56 @@ msgstr ""
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox5)
 #: walletconfigwidget.ui:263
 #, kde-format
-msgid "Secret Service DBus API"
+msgid "Secret Service"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, _secretServiceAPI)
 #: walletconfigwidget.ui:269
 #, kde-format
-msgid "Enable Secret Service DBus API"
+msgid "Use KWallet for the Secret Service interface"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: walletconfigwidget.ui:279
+#, kde-format
+msgid ""
+"The Secret Service interface lets applications store passwords and other "
+"confidential data. Disable this to allow third-party wallet services such as "
+"KeePassXC or GNOME Keyring to manage it instead."
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab2)
-#: walletconfigwidget.ui:315
+#: walletconfigwidget.ui:328
 #, kde-format
 msgid "Access Control"
 msgstr "Control de accesse"
 
 #. i18n: ectx: property (text), widget (QCheckBox, _openPrompt)
-#: walletconfigwidget.ui:321
+#: walletconfigwidget.ui:334
 #, kde-format
 msgid "&Prompt when an application accesses a wallet"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QTreeWidget, _accessList)
-#: walletconfigwidget.ui:335
+#: walletconfigwidget.ui:348
 #, kde-format
 msgid "Wallet"
 msgstr "Porta-papere"
 
 #. i18n: ectx: property (text), widget (QTreeWidget, _accessList)
-#: walletconfigwidget.ui:346
+#: walletconfigwidget.ui:359
 #, kde-format
 msgid "Application"
 msgstr "Application"
 
 #. i18n: ectx: property (text), widget (QTreeWidget, _accessList)
-#: walletconfigwidget.ui:357
+#: walletconfigwidget.ui:370
 #, kde-format
 msgid "Policy"
 msgstr "Politica"
 
 #. i18n: ectx: property (text), widget (QPushButton, _launch)
-#: walletconfigwidget.ui:393
+#: walletconfigwidget.ui:406
 #, kde-format
 msgid "&Launch Wallet Manager"
 msgstr "&Lansar li gerente del Porta-papere"
