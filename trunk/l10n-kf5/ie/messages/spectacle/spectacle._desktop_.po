@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-03 00:56+0000\n"
+"POT-Creation-Date: 2022-11-18 00:54+0000\n"
 "PO-Revision-Date: 2022-11-02 01:03+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -33,32 +33,32 @@ msgctxt "Keywords"
 msgid "snapshot;capture;print;screenshot;snipping;snipping tool;snip;"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop.cmake:190
+#: desktop/org.kde.spectacle.desktop.cmake:191
 msgctxt "Name"
 msgid "Capture Entire Desktop"
 msgstr "Capturar li tot Pupitre"
 
-#: desktop/org.kde.spectacle.desktop.cmake:244
+#: desktop/org.kde.spectacle.desktop.cmake:245
 msgctxt "Name"
 msgid "Capture Current Monitor"
 msgstr "Capturar li actual monitor"
 
-#: desktop/org.kde.spectacle.desktop.cmake:298
+#: desktop/org.kde.spectacle.desktop.cmake:299
 msgctxt "Name"
 msgid "Capture Active Window"
 msgstr "Capturar li actual fenestre"
 
-#: desktop/org.kde.spectacle.desktop.cmake:352
+#: desktop/org.kde.spectacle.desktop.cmake:353
 msgctxt "Name"
 msgid "Capture Rectangular Region"
 msgstr "Capturar un rectangulari region"
 
-#: desktop/org.kde.spectacle.desktop.cmake:406
+#: desktop/org.kde.spectacle.desktop.cmake:407
 msgctxt "Name"
 msgid "Capture Window Under Cursor"
 msgstr "Capturar un fenestre sub li apuntator"
 
-#: desktop/org.kde.spectacle.desktop.cmake:451
+#: desktop/org.kde.spectacle.desktop.cmake:452
 #, fuzzy
 msgctxt "Name"
 msgid "Launch without taking a screenshot"
