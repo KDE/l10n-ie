@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-21 00:55+0000\n"
+"POT-Creation-Date: 2022-11-23 00:57+0000\n"
 "PO-Revision-Date: 2022-10-21 16:17+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -22,11 +22,6 @@ msgstr "Executer un action quam li superusator."
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr "Li privilegies del superusator es besonat por compleer ti action."
-
-#: src/ioslaves/telnet/ktelnetservice5.desktop:10
-msgctxt "Name"
-msgid "KTelnetService"
-msgstr "KTelnetService"
 
 #: src/ioslaves/trash/kcm_trash.desktop:7 src/ioslaves/trash/kcmtrash.desktop:1
 #: src/ioslaves/trash/kcmtrash.desktop:184
@@ -243,6 +238,11 @@ msgstr "Un URL de un localisation:"
 msgctxt "Name"
 msgid "Text File..."
 msgstr "File textual..."
+
+#: src/schemehandlers/telnet/ktelnetservice5.desktop:10
+msgctxt "Name"
+msgid "KTelnetService"
+msgstr "KTelnetService"
 
 #: src/urifilters/ikws/searchprovider.desktop:4
 msgctxt "Comment"

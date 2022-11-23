@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-31 01:00+0000\n"
+"POT-Creation-Date: 2022-11-23 01:00+0000\n"
 "PO-Revision-Date: 2022-11-10 00:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -228,6 +228,11 @@ msgstr "DataEngine de panel tactil"
 msgctxt "Name"
 msgid "Touchpad"
 msgstr "Panel tactil"
+
+#: kcms/touchscreen/kcm_touchscreen.json
+msgctxt "Name"
+msgid "Touchscreen"
+msgstr ""
 
 #: kcms/workspaceoptions/kcm_workspace.json
 msgctxt "Name"
