@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: neochat\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-28 00:49+0000\n"
+"POT-Creation-Date: 2022-11-29 00:46+0000\n"
 "PO-Revision-Date: 2022-10-28 19:18+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -626,37 +626,37 @@ msgstr ""
 msgid "Image request has been cancelled"
 msgstr "Demande de image esset anullat"
 
-#: src/messageeventmodel.cpp:349
+#: src/messageeventmodel.cpp:350
 #, kde-format
 msgid "Today"
 msgstr "Hodie"
 
-#: src/messageeventmodel.cpp:352
+#: src/messageeventmodel.cpp:353
 #, kde-format
 msgid "Yesterday"
 msgstr "Yer"
 
-#: src/messageeventmodel.cpp:355
+#: src/messageeventmodel.cpp:356
 #, kde-format
 msgid "The day before yesterday"
 msgstr "Anteyer"
 
-#: src/messageeventmodel.cpp:457
+#: src/messageeventmodel.cpp:458
 #, kde-format
 msgid "<i>[This message was deleted]</i>"
 msgstr "<i>[Ti missage esset removet]</i>"
 
-#: src/messageeventmodel.cpp:458
+#: src/messageeventmodel.cpp:459
 #, kde-format
 msgid "<i>[This message was deleted: %1]</i>"
 msgstr "<i>[Ti missage esset removet: %1]</i>"
 
-#: src/messageeventmodel.cpp:545
+#: src/messageeventmodel.cpp:546
 #, kde-format
 msgid "[REDACTED]"
 msgstr "[CENSURAT]"
 
-#: src/messageeventmodel.cpp:545
+#: src/messageeventmodel.cpp:546
 #, kde-format
 msgid "[REDACTED: %1]"
 msgstr "[CENSURAT: %1]"
@@ -904,7 +904,7 @@ msgstr "Aperter NeoChat in ti chambre"
 #: src/notificationsmanager.cpp:77
 #: src/qml/Menu/Timeline/FileDelegateContextMenu.qml:50
 #: src/qml/Menu/Timeline/MessageDelegateContextMenu.qml:37
-#: src/qml/Page/RoomPage.qml:541
+#: src/qml/Page/RoomPage.qml:543
 #, kde-format
 msgid "Reply"
 msgstr "Responder"
@@ -941,7 +941,7 @@ msgstr "Atachament:"
 
 #: src/qml/Component/ChatBox/AttachmentPane.qml:159
 #: src/qml/Menu/Timeline/MessageDelegateContextMenu.qml:28
-#: src/qml/Page/ImageEditorPage.qml:20 src/qml/Page/RoomPage.qml:529
+#: src/qml/Page/ImageEditorPage.qml:20 src/qml/Page/RoomPage.qml:531
 #, kde-format
 msgid "Edit"
 msgstr "Modificar"
@@ -1615,6 +1615,12 @@ msgstr "Raportar li missage"
 msgid "Open a private chat"
 msgstr "Aperte un privat conversation"
 
+#: src/qml/Dialog/UserDetailDialog.qml:165
+#, fuzzy, kde-format
+#| msgid "Copy"
+msgid "Copy link"
+msgstr "Copiar"
+
 #: src/qml/main.qml:125
 #, kde-format
 msgid "Warning: %1"
@@ -2026,12 +2032,18 @@ msgstr "_Missage..."
 msgid "Copy"
 msgstr "Copiar"
 
-#: src/qml/Menu/Timeline/MessageDelegateContextMenu.qml:123
+#: src/qml/Menu/Timeline/MessageDelegateContextMenu.qml:81
+#, fuzzy, kde-format
+#| msgid "Copy"
+msgid "Copy Link"
+msgstr "Copiar"
+
+#: src/qml/Menu/Timeline/MessageDelegateContextMenu.qml:130
 #, kde-format
 msgid "Search for '%1'"
 msgstr "Serchar por «%1»"
 
-#: src/qml/Menu/Timeline/MessageDelegateContextMenu.qml:144
+#: src/qml/Menu/Timeline/MessageDelegateContextMenu.qml:151
 #, kde-format
 msgid "Configure Web Shortcuts..."
 msgstr "Configurar abreviationes de web..."
@@ -2285,22 +2297,22 @@ msgstr "Selecter un local file"
 msgid "Clipboard image"
 msgstr "Image in li Paperiere"
 
-#: src/qml/Page/RoomPage.qml:357
+#: src/qml/Page/RoomPage.qml:358
 #, kde-format
 msgid "Jump to first unread message"
 msgstr "Ear al prim ínleet missage"
 
-#: src/qml/Page/RoomPage.qml:381
+#: src/qml/Page/RoomPage.qml:383
 #, kde-format
 msgid "Jump to latest message"
 msgstr "Ear al ultim missage"
 
-#: src/qml/Page/RoomPage.qml:406
+#: src/qml/Page/RoomPage.qml:408
 #, kde-format
 msgid "Drag items here to share them"
 msgstr ""
 
-#: src/qml/Page/RoomPage.qml:438
+#: src/qml/Page/RoomPage.qml:440
 #, kde-format
 msgctxt "Message displayed when some users are typing"
 msgid "%2 is typing"
@@ -2308,12 +2320,12 @@ msgid_plural "%2 are typing"
 msgstr[0] "%2 tippa"
 msgstr[1] "%2 tippa"
 
-#: src/qml/Page/RoomPage.qml:509
+#: src/qml/Page/RoomPage.qml:511
 #, kde-format
 msgid "This message was sent from a verified device"
 msgstr ""
 
-#: src/qml/Page/RoomPage.qml:515
+#: src/qml/Page/RoomPage.qml:517
 #, kde-format
 msgid "React"
 msgstr "Reacter"
@@ -2368,7 +2380,7 @@ msgstr ""
 msgid "Room settings"
 msgstr "Parametres del chambre"
 
-#: src/qml/Panel/RoomDrawer.qml:198 src/qml/Panel/RoomDrawer.qml:212
+#: src/qml/Panel/RoomDrawer.qml:212
 #, kde-format
 msgid "No name"
 msgstr "Sin nómine"
@@ -2913,46 +2925,52 @@ msgstr "Modificar li volúmine de audio e son-evenimentes"
 msgid "Show avatar update events"
 msgstr "Monstrar li avatar"
 
-#: src/qml/Settings/GeneralSettingsPage.qml:125
+#: src/qml/Settings/GeneralSettingsPage.qml:121
+#, fuzzy, kde-format
+#| msgid "Send message"
+msgid "Show deleted messages"
+msgstr "Inviar li missage"
+
+#: src/qml/Settings/GeneralSettingsPage.qml:138
 #, fuzzy, kde-format
 #| msgid "Rooms and private chats:"
 msgid "Rooms and private chats"
 msgstr "Chambres e privat conversationes:"
 
-#: src/qml/Settings/GeneralSettingsPage.qml:128
+#: src/qml/Settings/GeneralSettingsPage.qml:141
 #, kde-format
 msgid "Separated"
 msgstr "Separat"
 
-#: src/qml/Settings/GeneralSettingsPage.qml:137
+#: src/qml/Settings/GeneralSettingsPage.qml:150
 #, kde-format
 msgid "Intermixed"
 msgstr "Intermixtet"
 
-#: src/qml/Settings/GeneralSettingsPage.qml:154
+#: src/qml/Settings/GeneralSettingsPage.qml:167
 #, fuzzy, kde-format
 #| msgid "Edit"
 msgctxt "Chat Editor"
 msgid "Editor"
 msgstr "Modificar"
 
-#: src/qml/Settings/GeneralSettingsPage.qml:158
+#: src/qml/Settings/GeneralSettingsPage.qml:171
 #, kde-format
 msgid "Use s/text/replacement syntax to edit your last message"
 msgstr "Usar li sintaxe «s/quo/nov-textu» por redacter li ultim missage"
 
-#: src/qml/Settings/GeneralSettingsPage.qml:169
+#: src/qml/Settings/GeneralSettingsPage.qml:182
 #, fuzzy, kde-format
 #| msgid "Send Typing Notifications"
 msgid "Send typing notifications"
 msgstr "Inviar notificationes pri li tippada"
 
-#: src/qml/Settings/GeneralSettingsPage.qml:186
+#: src/qml/Settings/GeneralSettingsPage.qml:199
 #, fuzzy, kde-format
 msgid "Developer Settings"
 msgstr "Parametres del chambre"
 
-#: src/qml/Settings/GeneralSettingsPage.qml:189
+#: src/qml/Settings/GeneralSettingsPage.qml:202
 #, kde-format
 msgid "Enable developer tools"
 msgstr ""
