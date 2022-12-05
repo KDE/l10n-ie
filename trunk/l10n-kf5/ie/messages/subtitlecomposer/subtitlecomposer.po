@@ -9,13 +9,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-11-19 00:45+0000\n"
 "PO-Revision-Date: 2022-12-04 23:24+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "X-Generator: Poedit 1.8.12\n"
 
 #: src/actions/kcodecactionext.cpp:29
@@ -84,8 +84,8 @@ msgstr ""
 #: src/application.cpp:798
 #, kde-format
 msgid ""
-"Unable to perform texts synchronization (sent and received lines count do not "
-"match)."
+"Unable to perform texts synchronization (sent and received lines count do "
+"not match)."
 msgstr ""
 
 #: src/application.cpp:802
@@ -111,7 +111,8 @@ msgstr "Errore: %1"
 msgid "Open Video"
 msgstr "Aperter un video"
 
-#: src/application.cpp:1055 src/application.cpp:1062 src/application_subtitle.cpp:659
+#: src/application.cpp:1055 src/application.cpp:1062
+#: src/application_subtitle.cpp:659
 #, kde-format
 msgid "Untitled"
 msgstr "Sin nómine"
@@ -894,7 +895,8 @@ msgstr ""
 
 #: src/application_actions.cpp:673
 #, kde-format
-msgid "Set current line show time to video position by equally shifting all lines"
+msgid ""
+"Set current line show time to video position by equally shifting all lines"
 msgstr ""
 
 #: src/application_actions.cpp:681
@@ -986,8 +988,8 @@ msgstr "Ancre:"
 #: src/application_actions.cpp:753
 #, kde-format
 msgid ""
-"(Un)Anchor current line's show time to timeline (Editing anchored line's show time "
-"will stretch/compact the timeline between adjacent anchors)"
+"(Un)Anchor current line's show time to timeline (Editing anchored line's "
+"show time will stretch/compact the timeline between adjacent anchors)"
 msgstr ""
 
 #: src/application_actions.cpp:760
@@ -1064,8 +1066,8 @@ msgstr "Audio-files"
 #: src/application_subtitle.cpp:128
 #, kde-format
 msgid ""
-"The requested action would make the subtitle and its translation share the same "
-"file, possibly resulting in loss of information when saving.\n"
+"The requested action would make the subtitle and its translation share the "
+"same file, possibly resulting in loss of information when saving.\n"
 "Are you sure you want to continue?"
 msgstr ""
 
@@ -1083,8 +1085,8 @@ msgstr "Aperter un file de subtitules"
 #: src/application_subtitle.cpp:477 src/application_subtitle.cpp:502
 #, kde-format
 msgid ""
-"<qt>Could not parse the subtitle file.<br/>This may have been caused by usage of "
-"the wrong encoding.</qt>"
+"<qt>Could not parse the subtitle file.<br/>This may have been caused by "
+"usage of the wrong encoding.</qt>"
 msgstr ""
 
 #: src/application_subtitle.cpp:271 src/application_subtitle.cpp:318
@@ -1282,7 +1284,8 @@ msgid " lines"
 msgstr " lineas"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_MaxCharacters)
-#: src/configs/errorsconfigwidget.ui:36 src/dialogs/smarttextsadjustdialog.cpp:26
+#: src/configs/errorsconfigwidget.ui:36
+#: src/dialogs/smarttextsadjustdialog.cpp:26
 #, kde-format
 msgid " characters"
 msgstr " caracteres"
@@ -1314,9 +1317,12 @@ msgstr "A_djustar durationes..."
 #. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_MinDuration)
 #. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_MaxDuration)
 #: src/configs/errorsconfigwidget.ui:69 src/configs/errorsconfigwidget.ui:79
-#: src/configs/generalconfigwidget.ui:114 src/configs/generalconfigwidget.ui:124
-#: src/configs/generalconfigwidget.ui:134 src/configs/generalconfigwidget.ui:154
-#: src/configs/generalconfigwidget.ui:173 src/configs/generalconfigwidget.ui:183
+#: src/configs/generalconfigwidget.ui:114
+#: src/configs/generalconfigwidget.ui:124
+#: src/configs/generalconfigwidget.ui:134
+#: src/configs/generalconfigwidget.ui:154
+#: src/configs/generalconfigwidget.ui:173
+#: src/configs/generalconfigwidget.ui:183
 #, kde-format
 msgid " msec"
 msgstr " msec"
@@ -1584,8 +1590,8 @@ msgstr "_Internal autentication"
 #: src/configs/waveformconfigwidget.ui:104
 #, kde-format
 msgid ""
-"Autoscroll page when play position reaches ScrollPadding distance (percentage) "
-"from page border"
+"Autoscroll page when play position reaches ScrollPadding distance "
+"(percentage) from page border"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_wfAutoscrollPadding)
@@ -1650,7 +1656,8 @@ msgstr "Nró de subtitul"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_wfSubNumberFontSize)
 #. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_wfSubTextFontSize)
-#: src/configs/waveformconfigwidget.ui:287 src/configs/waveformconfigwidget.ui:333
+#: src/configs/waveformconfigwidget.ui:287
+#: src/configs/waveformconfigwidget.ui:333
 #, kde-format
 msgid " pt"
 msgstr " pt"
@@ -1722,8 +1729,8 @@ msgstr "Rapiditá de cadres"
 msgid "Insert Line"
 msgstr "Inserter un linea-separator"
 
-#: src/core/subtitle.cpp:448 src/core/subtitle.cpp:458 src/core/subtitle.cpp:475
-#: src/core/undo/subtitleactions.cpp:122
+#: src/core/subtitle.cpp:448 src/core/subtitle.cpp:458
+#: src/core/subtitle.cpp:475 src/core/undo/subtitleactions.cpp:122
 #, kde-format
 msgid "Remove Lines"
 msgstr "Remover lineas"
@@ -1969,13 +1976,15 @@ msgstr ""
 
 #: src/core/subtitleline.cpp:118
 #, kde-format
-msgid "Has capital letter after line continuation ellipsis in translation text."
+msgid ""
+"Has capital letter after line continuation ellipsis in translation text."
 msgstr ""
 
 #: src/core/subtitleline.cpp:119
 #, kde-format
 msgid "Has too long duration per character in primary text (1 msec/char)."
-msgid_plural "Has too long duration per character in primary text (%1 msecs/char)."
+msgid_plural ""
+"Has too long duration per character in primary text (%1 msecs/char)."
 msgstr[0] ""
 msgstr[1] ""
 
@@ -1990,7 +1999,8 @@ msgstr[1] ""
 #: src/core/subtitleline.cpp:121
 #, kde-format
 msgid "Has too short duration per character in primary text (1 msec/char)."
-msgid_plural "Has too short duration per character in primary text (%1 msecs/char)."
+msgid_plural ""
+"Has too short duration per character in primary text (%1 msecs/char)."
 msgstr[0] ""
 msgstr[1] ""
 
@@ -2171,9 +2181,11 @@ msgstr "Prim corespondent linea"
 msgid "Last spoken line:"
 msgstr "Ultim linea"
 
-#: src/dialogs/autodurationsdialog.cpp:24 src/dialogs/changeframeratedialog.cpp:24
+#: src/dialogs/autodurationsdialog.cpp:24
+#: src/dialogs/changeframeratedialog.cpp:24
 #: src/dialogs/fixoverlappingtimesdialog.cpp:20
-#: src/dialogs/fixpunctuationdialog.cpp:19 src/dialogs/smarttextsadjustdialog.cpp:20
+#: src/dialogs/fixpunctuationdialog.cpp:19
+#: src/dialogs/smarttextsadjustdialog.cpp:20
 #: src/dialogs/splitsubtitledialog.cpp:29 src/dialogs/translatedialog.cpp:22
 #, fuzzy, kde-format
 msgctxt "@title:group"
@@ -2195,7 +2207,8 @@ msgstr "millisecondes"
 msgid "Milliseconds per character:"
 msgstr "millisecondes"
 
-#: src/dialogs/autodurationsdialog.cpp:54 src/dialogs/durationlimitsdialog.cpp:30
+#: src/dialogs/autodurationsdialog.cpp:54
+#: src/dialogs/durationlimitsdialog.cpp:30
 #, kde-format
 msgid "Prevent overlapping"
 msgstr ""
@@ -2373,7 +2386,8 @@ msgstr "_Inserter..."
 msgid "Shift subtitle forwards before append"
 msgstr ""
 
-#: src/dialogs/joinsubtitlesdialog.cpp:36 src/dialogs/splitsubtitledialog.cpp:35
+#: src/dialogs/joinsubtitlesdialog.cpp:36
+#: src/dialogs/splitsubtitledialog.cpp:35
 #, fuzzy, kde-format
 msgid "Set from video length"
 msgstr "Assignar li _fin ex li position"
@@ -2981,8 +2995,8 @@ msgstr "un video"
 #, kde-format
 msgid ""
 "The translation subtitle to be edited.\n"
-"If included, a second pane gets added to the right of the primary subtitle for "
-"side-by-side translation."
+"If included, a second pane gets added to the right of the primary subtitle "
+"for side-by-side translation."
 msgstr ""
 
 #: src/main.cpp:153
@@ -3206,8 +3220,8 @@ msgstr ""
 #: src/scconfig.kcfg:126
 #, kde-format
 msgid ""
-"Autoscroll page when play position reaches ScrollPadding distance (percentage) "
-"from page border."
+"Autoscroll page when play position reaches ScrollPadding distance "
+"(percentage) from page border."
 msgstr ""
 
 #. i18n: ectx: label, entry (wfSubBackground), group (Waveform Widget)
@@ -3609,8 +3623,8 @@ msgstr ""
 #: src/speechplugins/pocketsphinx/pocketsphinxconfigwidget.ui:126
 #, kde-format
 msgid ""
-"Threshold for decision between noise and silence frames. Log-ratio between signal "
-"level and noise level"
+"Threshold for decision between noise and silence frames. Log-ratio between "
+"signal level and noise level"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, grpModel)
@@ -3643,8 +3657,8 @@ msgstr "Modelle psico-acustic"
 msgid ""
 "<html><head/><body><p align=\"center\">Acoustic and Language Models can be "
 "downloaded from <a href=\"https://cmusphinx.github.io/wiki/download/\"><span "
-"style=\" text-decoration: underline; color:#007af4;\">CMU Sphinx</span></a></p></"
-"body></html>"
+"style=\" text-decoration: underline; color:#007af4;\">CMU Sphinx</span></a></"
+"p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, grpVAD)
