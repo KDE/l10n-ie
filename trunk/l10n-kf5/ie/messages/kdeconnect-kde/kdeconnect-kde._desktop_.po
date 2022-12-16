@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-18 00:54+0000\n"
+"POT-Creation-Date: 2022-12-16 01:00+0000\n"
 "PO-Revision-Date: 2022-11-16 15:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -42,12 +42,12 @@ msgctxt "GenericName"
 msgid "Open on connected device via KDE Connect"
 msgstr ""
 
-#: data/org.kde.kdeconnect_open.desktop:43
+#: data/org.kde.kdeconnect_open.desktop:44
 msgctxt "Name"
 msgid "Open on connected device via KDE Connect"
 msgstr ""
 
-#: data/org.kde.kdeconnect_open.desktop:84
+#: data/org.kde.kdeconnect_open.desktop:86
 msgctxt "Comment"
 msgid "Open on a connected device using KDE Connect"
 msgstr ""
@@ -70,7 +70,7 @@ msgctxt "Comment"
 msgid "Connect and sync your devices"
 msgstr "Sincronisar aparates _Palm™ pos conexion"
 
-#: kcm/kcm_kdeconnect.desktop:111
+#: kcm/kcm_kdeconnect.desktop:112
 msgctxt "X-KDE-Keywords"
 msgid ""
 "network,kde connect,connect,phone,sync,mobile,android,ios,send files,share "
@@ -103,80 +103,80 @@ msgctxt "Comment"
 msgid "Pairing request received from a device"
 msgstr "Demande de acuplation recivet de un aparate"
 
-#: plugins/kdeconnect.notifyrc:203
+#: plugins/kdeconnect.notifyrc:204
 msgctxt "Name"
 msgid "Incoming Call"
 msgstr "Telefonada intrant"
 
-#: plugins/kdeconnect.notifyrc:251
+#: plugins/kdeconnect.notifyrc:252
 msgctxt "Comment"
 msgid "Someone is calling you"
 msgstr "Alcun telefona vos"
 
-#: plugins/kdeconnect.notifyrc:303
+#: plugins/kdeconnect.notifyrc:304
 msgctxt "Name"
 msgid "Missed Call"
 msgstr "Telefonada ne atinget"
 
-#: plugins/kdeconnect.notifyrc:351
+#: plugins/kdeconnect.notifyrc:352
 #, fuzzy
 msgctxt "Comment"
 msgid "You have a missed call"
 msgstr "Vu ne have apertet conversationes"
 
-#: plugins/kdeconnect.notifyrc:402
+#: plugins/kdeconnect.notifyrc:403
 msgctxt "Name"
 msgid "Battery Low"
 msgstr "Batterie exhauste"
 
-#: plugins/kdeconnect.notifyrc:449
+#: plugins/kdeconnect.notifyrc:450
 #, fuzzy
 msgctxt "Comment"
 msgid "Your battery is in low state"
 msgstr "Vor batterie ea exhaustet"
 
-#: plugins/kdeconnect.notifyrc:499
+#: plugins/kdeconnect.notifyrc:501
 #, fuzzy
 msgctxt "Name"
 msgid "Ping Received"
 msgstr "&Ping"
 
-#: plugins/kdeconnect.notifyrc:546
+#: plugins/kdeconnect.notifyrc:548
 #, fuzzy
 msgctxt "Comment"
 msgid "Ping received"
 msgstr "&Ping"
 
-#: plugins/kdeconnect.notifyrc:597
+#: plugins/kdeconnect.notifyrc:599
 msgctxt "Name"
 msgid "Generic Notification"
 msgstr "Géneric notification"
 
-#: plugins/kdeconnect.notifyrc:644
+#: plugins/kdeconnect.notifyrc:646
 #, fuzzy
 msgctxt "Comment"
 msgid "Notification received"
 msgstr "Recivet:"
 
-#: plugins/kdeconnect.notifyrc:696
+#: plugins/kdeconnect.notifyrc:698
 #, fuzzy
 msgctxt "Name"
 msgid "Remote Lock Successful"
 msgstr "Verification successat"
 
-#: plugins/kdeconnect.notifyrc:733
+#: plugins/kdeconnect.notifyrc:735
 #, fuzzy
 msgctxt "Comment"
 msgid "Remote lock successful"
 msgstr "Verification successat"
 
-#: plugins/kdeconnect.notifyrc:773
+#: plugins/kdeconnect.notifyrc:775
 #, fuzzy
 msgctxt "Name"
 msgid "Remote Lock Failure"
 msgstr "Serrar"
 
-#: plugins/kdeconnect.notifyrc:810
+#: plugins/kdeconnect.notifyrc:812
 #, fuzzy
 msgctxt "Comment"
 msgid "Remote lock failed"
