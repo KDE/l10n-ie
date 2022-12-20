@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-07 00:54+0000\n"
+"POT-Creation-Date: 2022-12-20 00:55+0000\n"
 "PO-Revision-Date: 2022-12-18 16:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Svg Part"
 msgstr "Parte de Svg"
 
-#: src/svgpart.desktop.in:67
+#: src/svgpart.desktop.in:68
 msgctxt "Comment"
 msgid "A KPart to display SVG images"
 msgstr "Un KPart por monstrar images SVG"
