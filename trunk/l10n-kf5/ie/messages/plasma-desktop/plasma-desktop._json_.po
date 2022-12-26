@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-23 01:00+0000\n"
+"POT-Creation-Date: 2022-12-26 01:06+0000\n"
 "PO-Revision-Date: 2022-11-10 00:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -340,10 +340,12 @@ msgid "Shows the activity manager"
 msgstr "Monstrar li gerente de activitá"
 
 #: applets/showdesktop/package/metadata.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Shows the desktop by minimizing all windows"
 msgctxt "Description"
-msgid ""
-"Temporarily reveals the Desktop by moving open windows into screen corners"
-msgstr ""
+msgid "Temporarily shows the desktop by moving windows away"
+msgstr "Minimisar omni fenestres e monstrar li Pupitre"
 
 #: applets/taskmanager/package/metadata.json
 msgctxt "Description"
