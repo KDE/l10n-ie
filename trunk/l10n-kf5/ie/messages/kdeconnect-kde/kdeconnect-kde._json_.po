@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-24 00:56+0000\n"
+"POT-Creation-Date: 2022-12-29 01:05+0000\n"
 "PO-Revision-Date: 2022-11-16 15:55+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -56,6 +56,11 @@ msgstr "Trovar ti aparate"
 #: plugins/lockdevice/kdeconnect_lockdevice.json
 msgctxt "Name"
 msgid "LockDevice"
+msgstr ""
+
+#: plugins/mmtelephony/kdeconnect_mmtelephony.json
+msgctxt "Name"
+msgid "ModemManager Telephony integration"
 msgstr ""
 
 #: plugins/mousepad/kdeconnect_mousepad.json
@@ -203,6 +208,12 @@ msgctxt "Description"
 msgid "Locks your systems"
 msgstr ""
 
+#: plugins/mmtelephony/kdeconnect_mmtelephony.json
+#: plugins/telephony/kdeconnect_telephony.json
+msgctxt "Description"
+msgid "Show notifications for incoming calls"
+msgstr ""
+
 #: plugins/mousepad/kdeconnect_mousepad.json
 msgctxt "Description"
 msgid "Use your phone as a touchpad and keyboard"
@@ -293,11 +304,6 @@ msgctxt "Description"
 msgid "Control the system volume from your phone"
 msgstr ""
 
-#: plugins/telephony/kdeconnect_telephony.json
-msgctxt "Description"
-msgid "Show notifications for incoming calls"
-msgstr ""
-
 #: plugins/virtualmonitor/kdeconnect_virtualmonitor.json
 msgctxt "Description"
 msgid "Use your devices as virtual monitors"
@@ -355,6 +361,11 @@ msgstr "Friedrich W. H. Kossebau"
 msgctxt "Authors Name"
 msgid "Aleix Pol"
 msgstr "Aleix Pol"
+
+#: plugins/mmtelephony/kdeconnect_mmtelephony.json
+msgctxt "Authors Name"
+msgid "Yoram Bar-Haim"
+msgstr ""
 
 #: plugins/mousepad/kdeconnect_mousepad.json
 msgctxt "Authors Name"
