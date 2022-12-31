@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-16 01:00+0000\n"
+"POT-Creation-Date: 2022-12-31 01:01+0000\n"
 "PO-Revision-Date: 2022-11-16 15:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -15,8 +15,7 @@ msgstr ""
 
 #: app/org.kde.kdeconnect.app.desktop:2
 #: daemon/org.kde.kdeconnect.daemon.desktop.cmake:11
-#: kcm/kcm_kdeconnect.desktop:13 plasmoid/package/metadata.desktop:2
-#: plugins/kdeconnect.notifyrc:3
+#: plasmoid/package/metadata.desktop:2 plugins/kdeconnect.notifyrc:3
 #: urlhandler/org.kde.kdeconnect.handler.desktop:2
 msgctxt "Name"
 msgid "KDE Connect"
@@ -63,24 +62,6 @@ msgstr "Parametres de KDE Connect"
 msgctxt "Comment"
 msgid "Display information about your devices"
 msgstr "Monstrar information pri ristretto"
-
-#: kcm/kcm_kdeconnect.desktop:64
-#, fuzzy
-msgctxt "Comment"
-msgid "Connect and sync your devices"
-msgstr "Sincronisar aparates _Palm™ pos conexion"
-
-#: kcm/kcm_kdeconnect.desktop:112
-msgctxt "X-KDE-Keywords"
-msgid ""
-"network,kde connect,connect,phone,sync,mobile,android,ios,send files,share "
-"files,transfer files,receive files,devices,device,synchronization,calls,"
-"telephone,smartphone,contacts,sms,phone notifications,control volume,system "
-"volume,ringtone,play sound,presentation,take picture,take photo,shared "
-"clipboard,conectivity monitor,remote input,remote mouse,remote keyboard,"
-"mpris,phone integration,commands,lock device,multimedia control,sftp,browse "
-"phone,share"
-msgstr ""
 
 #: plasmoid/package/metadata.desktop:52
 msgctxt "Comment"
@@ -231,3 +212,8 @@ msgstr "SMS"
 msgctxt "Comment"
 msgid "Text Messaging"
 msgstr "Menú de comunication"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Connect and sync your devices"
+#~ msgstr "Sincronisar aparates _Palm™ pos conexion"
