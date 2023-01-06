@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-24 00:59+0000\n"
+"POT-Creation-Date: 2023-01-06 00:57+0000\n"
 "PO-Revision-Date: 2022-11-10 00:32+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -187,7 +187,7 @@ msgstr "Tip"
 #: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:918
 #: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:690
 #: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:155
-#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:298
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:300
 #: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:156
 #: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:383
 #: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:461
@@ -343,18 +343,18 @@ msgctxt "Name"
 msgid "Can Change Frequency"
 msgstr "Frequentie: "
 
-#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:75
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:76
 #, fuzzy
 msgctxt "Name"
 msgid "Instruction Sets"
 msgstr "Codificationes de caracteres"
 
-#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:146
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:148
 msgctxt "Name"
 msgid "Max Speed"
 msgstr "Max velocitá"
 
-#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:222
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:224
 #, fuzzy
 msgctxt "Name"
 msgid "Number"
@@ -381,29 +381,29 @@ msgctxt "Name"
 msgid "Touchpad"
 msgstr "Panel tactil"
 
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:55
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:56
 msgctxt "Comment"
 msgid "Touchpad"
 msgstr "Panel tactil"
 
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:109
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:111
 #, fuzzy
 msgctxt "Name"
 msgid "Touchpad was disabled"
 msgstr "Panel tactil es ínactiv"
 
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:160
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:163
 msgctxt "Comment"
 msgid "Touchpad was disabled because mouse is detected"
 msgstr ""
 
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:215
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:219
 #, fuzzy
 msgctxt "Name"
 msgid "Touchpad was enabled"
 msgstr "Panel tactil es activ"
 
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:266
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:271
 msgctxt "Comment"
 msgid "Touchpad was enabled because the mouse was unplugged"
 msgstr ""
@@ -424,7 +424,7 @@ msgctxt "Comment"
 msgid "Default panel toolbox for the Plasma desktop shell"
 msgstr ""
 
-#: toolboxes/plasma-toolbox-paneltoolbox.desktop:65
+#: toolboxes/plasma-toolbox-paneltoolbox.desktop:66
 #, fuzzy
 msgctxt "Name"
 msgid "Panel toolbox"
