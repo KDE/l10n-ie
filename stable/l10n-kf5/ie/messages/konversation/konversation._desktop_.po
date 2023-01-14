@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-03 02:42+0000\n"
+"POT-Creation-Date: 2023-01-14 02:43+0000\n"
 "PO-Revision-Date: 2022-11-01 00:17+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -51,7 +51,7 @@ msgctxt "Name"
 msgid "Default Theme (Dark variant)"
 msgstr "Tema predefinit (variant obscur)"
 
-#: data/images/nickicons/default-dark/index.desktop:34
+#: data/images/nickicons/default-dark/index.desktop:35
 #: data/images/nickicons/default/index.desktop:57
 #, fuzzy
 msgctxt "Comment"
@@ -122,184 +122,184 @@ msgctxt "Comment"
 msgid "New message arrived in a channel"
 msgstr "Vu have un nov missage"
 
-#: data/konversation.notifyrc:174
+#: data/konversation.notifyrc:175
 #, fuzzy
 msgctxt "Name"
 msgid "Nick written"
 msgstr "Scrit de"
 
-#: data/konversation.notifyrc:225
+#: data/konversation.notifyrc:227
 msgctxt "Comment"
 msgid "Someone wrote your nick in a message"
 msgstr ""
 
-#: data/konversation.notifyrc:278
+#: data/konversation.notifyrc:281
 #, fuzzy
 msgctxt "Name"
 msgid "Highlight triggered"
 msgstr "Marcar: "
 
-#: data/konversation.notifyrc:324
+#: data/konversation.notifyrc:328
 #, fuzzy
 msgctxt "Comment"
 msgid "Someone triggered a highlight"
 msgstr "Marcar: "
 
-#: data/konversation.notifyrc:373
+#: data/konversation.notifyrc:378
 #, fuzzy
 msgctxt "Name"
 msgid "Private message"
 msgstr "Privat"
 
-#: data/konversation.notifyrc:425
+#: data/konversation.notifyrc:430
 #, fuzzy
 msgctxt "Comment"
 msgid "You received a private message"
 msgstr "Vu ha recivet «%s» per Bluetooth"
 
-#: data/konversation.notifyrc:479
+#: data/konversation.notifyrc:485
 #, fuzzy
 msgctxt "Name"
 msgid "Nick changed"
 msgstr "Nómine"
 
-#: data/konversation.notifyrc:531
+#: data/konversation.notifyrc:537
 #, fuzzy
 msgctxt "Comment"
 msgid "Someone changed their nick"
 msgstr "Nick Shaforostoff"
 
-#: data/konversation.notifyrc:584
+#: data/konversation.notifyrc:591
 msgctxt "Name"
 msgid "Incoming file"
 msgstr "Intrante file"
 
-#: data/konversation.notifyrc:639
+#: data/konversation.notifyrc:646
 msgctxt "Comment"
 msgid "Someone wants to transmit a file to you over DCC"
 msgstr ""
 
-#: data/konversation.notifyrc:692
+#: data/konversation.notifyrc:700
 #, fuzzy
 msgctxt "Name"
 msgid "DCC transfer error"
 msgstr "Transferte de files med DCC"
 
-#: data/konversation.notifyrc:741
+#: data/konversation.notifyrc:749
 #, fuzzy
 msgctxt "Comment"
 msgid "An error occurred in a DCC transfer"
 msgstr "Transferte de files med DCC"
 
-#: data/konversation.notifyrc:791
+#: data/konversation.notifyrc:800
 #, fuzzy
 msgctxt "Name"
 msgid "DCC transfer complete"
 msgstr "Transferte de files med DCC"
 
-#: data/konversation.notifyrc:839
+#: data/konversation.notifyrc:849
 #, fuzzy
 msgctxt "Comment"
 msgid "A DCC transfer successfully completed"
 msgstr "Transferte es compleet"
 
-#: data/konversation.notifyrc:889
+#: data/konversation.notifyrc:900
 #, fuzzy
 msgctxt "Name"
 msgid "Nick joined channel"
 msgstr "Nómine"
 
-#: data/konversation.notifyrc:938
+#: data/konversation.notifyrc:950
 msgctxt "Comment"
 msgid "New nick joined a channel"
 msgstr ""
 
-#: data/konversation.notifyrc:990
+#: data/konversation.notifyrc:1003
 #, fuzzy
 msgctxt "Name"
 msgid "Nick left channel"
 msgstr "Canal"
 
-#: data/konversation.notifyrc:1040
+#: data/konversation.notifyrc:1054
 #, fuzzy
 msgctxt "Comment"
 msgid "A nick left a channel"
 msgstr "Canal"
 
-#: data/konversation.notifyrc:1093
+#: data/konversation.notifyrc:1108
 #, fuzzy
 msgctxt "Name"
 msgid "Mode change"
 msgstr "Cambiar li mode de coloration"
 
-#: data/konversation.notifyrc:1143
+#: data/konversation.notifyrc:1159
 msgctxt "Comment"
 msgid "A user or channel mode was changed"
 msgstr ""
 
-#: data/konversation.notifyrc:1196
+#: data/konversation.notifyrc:1213
 #, fuzzy
 msgctxt "Name"
 msgid "Nick online"
 msgstr "Nómine"
 
-#: data/konversation.notifyrc:1237
+#: data/konversation.notifyrc:1255
 msgctxt "Comment"
 msgid "A user on your watched nicks list has come online"
 msgstr ""
 
-#: data/konversation.notifyrc:1289
+#: data/konversation.notifyrc:1308
 #, fuzzy
 msgctxt "Name"
 msgid "Query"
 msgstr "demandar capabilitás del servitor"
 
-#: data/konversation.notifyrc:1344
+#: data/konversation.notifyrc:1363
 msgctxt "Comment"
 msgid "Someone started a conversation (query) with you"
 msgstr ""
 
-#: data/konversation.notifyrc:1396
+#: data/konversation.notifyrc:1416
 #, fuzzy
 msgctxt "Name"
 msgid "Kick"
 msgstr "Remover"
 
-#: data/konversation.notifyrc:1450
+#: data/konversation.notifyrc:1470
 msgctxt "Comment"
 msgid "Someone kicked you out of a channel"
 msgstr ""
 
-#: data/konversation.notifyrc:1502
+#: data/konversation.notifyrc:1523
 #, fuzzy
 msgctxt "Name"
 msgid "Connection failure"
 msgstr "Conexion ne successat"
 
-#: data/konversation.notifyrc:1555
+#: data/konversation.notifyrc:1576
 #, fuzzy
 msgctxt "Comment"
 msgid "Failed to connect to server"
 msgstr "Ne successat conexer"
 
-#: data/konversation.notifyrc:1609
+#: data/konversation.notifyrc:1631
 #, fuzzy
 msgctxt "Name"
 msgid "You joined a channel"
 msgstr "Adheret"
 
-#: data/konversation.notifyrc:1658
+#: data/konversation.notifyrc:1681
 #, fuzzy
 msgctxt "Comment"
 msgid "You joined a channel"
 msgstr "Adheret"
 
-#: data/konversation.notifyrc:1710
+#: data/konversation.notifyrc:1734
 msgctxt "Name"
 msgid "DCC Chat"
 msgstr "Conversation DCC"
 
-#: data/konversation.notifyrc:1764
+#: data/konversation.notifyrc:1788
 msgctxt "Comment"
 msgid "Someone started a DCC chat with you"
 msgstr ""
