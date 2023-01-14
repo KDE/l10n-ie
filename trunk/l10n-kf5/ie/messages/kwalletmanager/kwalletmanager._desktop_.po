@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-22 00:57+0000\n"
+"POT-Creation-Date: 2023-01-14 01:04+0000\n"
 "PO-Revision-Date: 2022-11-16 16:29+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -48,28 +48,18 @@ msgctxt "Description"
 msgid "Allow saving wallet configuration settings"
 msgstr "Gardar li configuration del Porta-papere"
 
-#: src/konfigurator/kwalletconfig5.desktop:13
-msgctxt "Name"
-msgid "KDE Wallet"
-msgstr "Porta-papere de KDE"
-
-#: src/konfigurator/kwalletconfig5.desktop:85
-msgctxt "Comment"
-msgid "KDE Wallet Configuration"
-msgstr "Configuration del Porta-papere de KDE"
-
-#: src/konfigurator/kwalletconfig5.desktop:156
-msgctxt "X-KDE-Keywords"
-msgid ""
-"wallet,form fill,passwords,form data,secret service,kwallet,kdewallet,kde "
-"wallet,keepassxc,keyring,encryption,decryption,blowfish,pgp,access control,"
-"confidential,wallet manager"
-msgstr ""
-
 #: src/manager/kwalletmanager5_show.desktop:2
 msgctxt "Name"
 msgid "Wallet Management Tool"
 msgstr "Gerentie del Porta-papere"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Wallet"
+#~ msgstr "Porta-papere de KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Wallet Configuration"
+#~ msgstr "Configuration del Porta-papere de KDE"
 
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "Wallet,Form Fill,Passwords,Form Data"

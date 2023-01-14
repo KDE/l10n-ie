@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-22 00:57+0000\n"
+"POT-Creation-Date: 2023-01-14 01:07+0000\n"
 "PO-Revision-Date: 2022-11-16 16:29+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -13,63 +13,50 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.12\n"
 
-#: kwalletmanager5-kwalletd.desktop:2
-msgctxt "Name"
-msgid "KDE Wallet Management Tool"
-msgstr "Gerente del Porta-papere de KDE"
-
-#: kwalletmanager5-kwalletd.desktop:42 org.kde.kwalletmanager5.desktop:63
-msgctxt "Comment"
-msgid "KDE Wallet Management Tool"
-msgstr "Gerente del Porta-papere de KDE"
-
-#: org.kde.kwalletmanager5.desktop:2
-msgctxt "Name"
-msgid "KWalletManager"
-msgstr "KWalletManager"
-
-#: org.kde.kwalletmanager5.desktop:110
-msgctxt "GenericName"
-msgid "KDE Wallet Management Tool"
-msgstr "Gerente del Porta-papere de KDE"
-
-#: src/konfigurator/kwallet.actions:2
-msgctxt "Name"
-msgid "KDE Wallet system"
-msgstr "Sistema del Porta-papere de KDE"
-
-#: src/konfigurator/kwallet.actions:56
-msgctxt "Name"
-msgid "Save wallet configuration"
-msgstr "Gardar li configuration del Porta-papere"
-
-#: src/konfigurator/kwallet.actions:107
-msgctxt "Description"
-msgid "Allow saving wallet configuration settings"
-msgstr "Gardar li configuration del Porta-papere"
-
-#: src/konfigurator/kwalletconfig5.desktop:13
+#: src/konfigurator/kwalletconfig.json
 msgctxt "Name"
 msgid "KDE Wallet"
 msgstr "Porta-papere de KDE"
 
-#: src/konfigurator/kwalletconfig5.desktop:85
-msgctxt "Comment"
+#: src/konfigurator/kwalletconfig.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "KDE Wallet Configuration"
+msgctxt "Description"
 msgid "KDE Wallet Configuration"
 msgstr "Configuration del Porta-papere de KDE"
 
-#: src/konfigurator/kwalletconfig5.desktop:156
-msgctxt "X-KDE-Keywords"
-msgid ""
-"wallet,form fill,passwords,form data,secret service,kwallet,kdewallet,kde "
-"wallet,keepassxc,keyring,encryption,decryption,blowfish,pgp,access control,"
-"confidential,wallet manager"
-msgstr ""
+#~ msgctxt "Name"
+#~ msgid "KDE Wallet Management Tool"
+#~ msgstr "Gerente del Porta-papere de KDE"
 
-#: src/manager/kwalletmanager5_show.desktop:2
-msgctxt "Name"
-msgid "Wallet Management Tool"
-msgstr "Gerentie del Porta-papere"
+#~ msgctxt "Comment"
+#~ msgid "KDE Wallet Management Tool"
+#~ msgstr "Gerente del Porta-papere de KDE"
+
+#~ msgctxt "Name"
+#~ msgid "KWalletManager"
+#~ msgstr "KWalletManager"
+
+#~ msgctxt "GenericName"
+#~ msgid "KDE Wallet Management Tool"
+#~ msgstr "Gerente del Porta-papere de KDE"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Wallet system"
+#~ msgstr "Sistema del Porta-papere de KDE"
+
+#~ msgctxt "Name"
+#~ msgid "Save wallet configuration"
+#~ msgstr "Gardar li configuration del Porta-papere"
+
+#~ msgctxt "Description"
+#~ msgid "Allow saving wallet configuration settings"
+#~ msgstr "Gardar li configuration del Porta-papere"
+
+#~ msgctxt "Name"
+#~ msgid "Wallet Management Tool"
+#~ msgstr "Gerentie del Porta-papere"
 
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "Wallet,Form Fill,Passwords,Form Data"
