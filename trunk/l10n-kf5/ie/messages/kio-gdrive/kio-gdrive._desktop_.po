@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-04 00:55+0000\n"
+"POT-Creation-Date: 2023-01-17 01:07+0000\n"
 "PO-Revision-Date: 2022-11-02 07:57+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -23,12 +23,12 @@ msgctxt "Comment"
 msgid "KIO GDrive"
 msgstr "gdrive por KIO"
 
-#: kaccounts/gdrive.notifyrc:46
+#: kaccounts/gdrive.notifyrc:47
 msgctxt "Name"
 msgid "New Account Added"
 msgstr "Un nov conto esset adjuntet"
 
-#: kaccounts/gdrive.notifyrc:88
+#: kaccounts/gdrive.notifyrc:90
 msgctxt "Comment"
 msgid ""
 " Shortcut to browse Google Drive files as soon as a new Google account has "
