@@ -1,0 +1,431 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-06 00:57+0000\n"
+"PO-Revision-Date: 2022-11-10 00:32+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
+"Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
+"Language: ie\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.12\n"
+
+#: emojier/app/org.kde.plasma.emojier.desktop:3
+msgctxt "Name"
+msgid "Emoji Selector"
+msgstr "Selector de emoji"
+
+#: emojier/app/org.kde.plasma.emojier.desktop:55
+msgctxt "Keywords"
+msgid ""
+"characters;unicode;punctuation;letters;emoji;emoticon;symbols;smiley face;"
+msgstr ""
+
+#: kaccess/kaccess.desktop:3
+msgctxt "Name"
+msgid "Accessibility"
+msgstr "Accessibilitá"
+
+#: kaccess/kaccess.notifyrc:3
+msgctxt "Comment"
+msgid "Accessibility"
+msgstr "Accessibilitá"
+
+#: kaccess/kaccess.notifyrc:98
+msgctxt "Name"
+msgid "A modifier key has become active"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:179
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has changed its state and is now active"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:261
+msgctxt "Name"
+msgid "A modifier key has become inactive"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:342
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:424
+#, fuzzy
+msgctxt "Name"
+msgid "A modifier key has been locked"
+msgstr "Li clave esset deplazzat"
+
+#: kaccess/kaccess.notifyrc:505
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has been locked and is now active for "
+"all of the following keypresses"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:587
+#, fuzzy
+msgctxt "Name"
+msgid "A lock key has been activated"
+msgstr "Li clave esset revocat"
+
+#: kaccess/kaccess.notifyrc:668
+msgctxt "Comment"
+msgid ""
+"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
+"active"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:750
+#, fuzzy
+msgctxt "Name"
+msgid "A lock key has been deactivated"
+msgstr "Li clave esset revocat"
+
+#: kaccess/kaccess.notifyrc:831
+msgctxt "Comment"
+msgid ""
+"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
+"inactive"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:913
+msgctxt "Name"
+msgid "Sticky keys has been enabled or disabled"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:993
+msgctxt "Comment"
+msgid "Sticky keys has been enabled or disabled"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:1078
+msgctxt "Name"
+msgid "Slow keys has been enabled or disabled"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:1157
+msgctxt "Comment"
+msgid "Slow keys has been enabled or disabled"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:1241
+msgctxt "Name"
+msgid "Bounce keys has been enabled or disabled"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:1319
+msgctxt "Comment"
+msgid "Bounce keys has been enabled or disabled"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:1402
+msgctxt "Name"
+msgid "Mouse keys has been enabled or disabled"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:1482
+msgctxt "Comment"
+msgid "Mouse keys has been enabled or disabled"
+msgstr ""
+
+#: kcms/dateandtime/kcmclock_actions.actions:2
+msgctxt "Name"
+msgid "Date and Time Control Module"
+msgstr "Module de control del date e hora de KDE"
+
+#: kcms/dateandtime/kcmclock_actions.actions:79
+msgctxt "Name"
+msgid "Save the date/time settings"
+msgstr "Gardar li parametres de date e hora"
+
+#: kcms/dateandtime/kcmclock_actions.actions:153
+msgctxt "Description"
+msgid "System policies prevent you from saving the date/time settings."
+msgstr ""
+
+#: kcms/ksplash/ksplash.knsrc:2
+#, fuzzy
+msgctxt "Name"
+msgid "Splash Screens"
+msgstr "baniere de inicie"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:2
+msgctxt "Name"
+msgid "Charge Percent"
+msgstr "Percentage de charge"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:78
+msgctxt "Name"
+msgid "Charge State"
+msgstr "Statu de charge"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:154
+msgctxt "Name|battery plugged in"
+msgid "Plugged"
+msgstr "Conexet"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:214
+msgctxt "Name"
+msgid "Rechargeable"
+msgstr "Rechargeabil"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:287
+msgctxt "Name"
+msgid "Type"
+msgstr "Tip"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:366
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:228
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:155
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:918
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:690
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:155
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:300
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:156
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:383
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:461
+msgctxt "Name"
+msgid "Solid Device"
+msgstr "Aparate solid"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:2
+msgctxt "Name"
+msgid "Device"
+msgstr "Aparate"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:79
+msgctxt "Name"
+msgid "Major"
+msgstr "Majori"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:153
+msgctxt "Name"
+msgid "Minor"
+msgstr "Minori"
+
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:2
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Supported Drivers"
+msgstr "Driveres"
+
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:78
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:78
+msgctxt "Name"
+msgid "Supported Protocols"
+msgstr "Suportat protocoles"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:2
+msgctxt "Name"
+msgid "Appendable"
+msgstr "Apensibil"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:77
+msgctxt "Name"
+msgid "Available Content"
+msgstr "Disponibil contenete"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:154
+msgctxt "Name"
+msgid "Blank"
+msgstr "Blanc"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:230
+msgctxt "Name"
+msgid "Capacity"
+msgstr "Capacitá"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:306
+msgctxt "Name"
+msgid "Disc Type"
+msgstr "Tip de disco"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:383
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Fs Type"
+msgstr "&Virtual FS..."
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:459
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:78
+msgctxt "Name"
+msgid "Ignored"
+msgstr "Ignorat"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:535
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:154
+msgctxt "Name"
+msgid "Label"
+msgstr "Etiquette"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:612
+msgctxt "Name"
+msgid "Rewritable"
+msgstr "Rescritibil"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:688
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:381
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:305
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:231
+msgctxt "Name"
+msgid "Size"
+msgstr "Grandore"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:765
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:308
+msgctxt "Name"
+msgid "Usage"
+msgstr "Usage"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:841
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:384
+msgctxt "Name"
+msgid "Uuid"
+msgstr "UUID"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:2
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Bus"
+msgstr "Ne registrar se in li bus del session de D-BUS"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:77
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:77
+msgctxt "Name"
+msgid "Drive Type"
+msgstr "Tip de unité"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:154
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:154
+msgctxt "Name"
+msgid "Hotpluggable"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:227
+msgctxt "Name"
+msgid "Read Speed"
+msgstr "Velocitá de letion"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:303
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:227
+msgctxt "Name"
+msgid "Removable"
+msgstr "Removibil"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:458
+msgctxt "Name"
+msgid "Supported Media"
+msgstr "Supportat medies"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:535
+msgctxt "Name"
+msgid "Write Speed"
+msgstr "Velocitá de scrition"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:612
+msgctxt "Name"
+msgid "Write Speeds"
+msgstr "Velocitás de scrition"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Can Change Frequency"
+msgstr "Frequentie: "
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:76
+#, fuzzy
+msgctxt "Name"
+msgid "Instruction Sets"
+msgstr "Codificationes de caracteres"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:148
+msgctxt "Name"
+msgid "Max Speed"
+msgstr "Max velocitá"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:224
+#, fuzzy
+msgctxt "Name"
+msgid "Number"
+msgstr "Numeró"
+
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:2
+msgctxt "Name"
+msgid "Accessible"
+msgstr "Accessibil"
+
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:78
+msgctxt "Name"
+msgid "File Path"
+msgstr "Rute de file"
+
+#: kcms/solid_actions/solid-device-type.desktop:4
+#, fuzzy
+msgctxt "Name"
+msgid "Solid Device Type"
+msgstr "_Tip de aparate:"
+
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:2
+msgctxt "Name"
+msgid "Touchpad"
+msgstr "Panel tactil"
+
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:56
+msgctxt "Comment"
+msgid "Touchpad"
+msgstr "Panel tactil"
+
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:111
+#, fuzzy
+msgctxt "Name"
+msgid "Touchpad was disabled"
+msgstr "Panel tactil es ínactiv"
+
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:163
+msgctxt "Comment"
+msgid "Touchpad was disabled because mouse is detected"
+msgstr ""
+
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:219
+#, fuzzy
+msgctxt "Name"
+msgid "Touchpad was enabled"
+msgstr "Panel tactil es activ"
+
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:271
+msgctxt "Comment"
+msgid "Touchpad was enabled because the mouse was unplugged"
+msgstr ""
+
+#: knetattach/org.kde.knetattach.desktop:2
+msgctxt "Name"
+msgid "KNetAttach"
+msgstr "KNetAttach"
+
+#: knetattach/org.kde.knetattach.desktop:91
+#, fuzzy
+msgctxt "GenericName"
+msgid "Network Folder Wizard"
+msgstr "Adjunter un fólder in li rete"
+
+#: toolboxes/plasma-toolbox-paneltoolbox.desktop:2
+msgctxt "Comment"
+msgid "Default panel toolbox for the Plasma desktop shell"
+msgstr ""
+
+#: toolboxes/plasma-toolbox-paneltoolbox.desktop:66
+#, fuzzy
+msgctxt "Name"
+msgid "Panel toolbox"
+msgstr "_Panel"
