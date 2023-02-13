@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-29 01:02+0000\n"
+"POT-Creation-Date: 2023-02-13 01:05+0000\n"
 "PO-Revision-Date: 2022-11-05 16:46+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,12 +18,12 @@ msgctxt "Name"
 msgid "Icons"
 msgstr "Icones"
 
-#: src/dolphinpartactions.desktop:71
+#: src/dolphinpartactions.desktop:72
 msgctxt "Name"
 msgid "Compact"
 msgstr "Compact"
 
-#: src/dolphinpartactions.desktop:132
+#: src/dolphinpartactions.desktop:134
 msgctxt "Name"
 msgid "Details"
 msgstr "Detallies"
@@ -33,12 +33,12 @@ msgctxt "Name"
 msgid "Dolphin"
 msgstr "Dolphin"
 
-#: src/org.kde.dolphin.desktop:64
+#: src/org.kde.dolphin.desktop:65
 msgctxt "GenericName"
 msgid "File Manager"
 msgstr "Gerente de files"
 
-#: src/org.kde.dolphin.desktop:123
+#: src/org.kde.dolphin.desktop:125
 msgctxt "Keywords"
 msgid ""
 "files;file management;file browsing;samba;network shares;Explorer;Finder;"
