@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2021-05-29 00:16+0000\n"
+"POT-Creation-Date: 2023-02-20 00:57+0000\n"
 "PO-Revision-Date: 2022-11-02 02:12+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -19,12 +19,8 @@ msgstr "Kaidan"
 
 #. (itstool) path: component/summary
 #: im.kaidan.kaidan.appdata.xml:5
-msgid ""
-"Kaidan, a simple and user-friendly Jabber/XMPP client for every device and "
-"platform"
+msgid "User-friendly and modern chat app for every device"
 msgstr ""
-"Kaidan, un simplic e comprensibil cliente de Jabber/XMPP por omni aparate e "
-"platform"
 
 #. (itstool) path: component/developer_name
 #: im.kaidan.kaidan.appdata.xml:8
@@ -34,24 +30,28 @@ msgstr "Developatores e contributores de Kaidan"
 #. (itstool) path: description/p
 #: im.kaidan.kaidan.appdata.xml:10
 msgid ""
-"Kaidan is a simple, user-friendly Jabber/XMPP client providing a modern user-"
-"interface using Kirigami and QtQuick. The back-end of Kaidan is entirely "
-"written in C++ using the qxmpp XMPP client library and Qt 5."
+"Kaidan is a user-friendly and modern chat app for every device. It uses the "
+"open communication protocol XMPP (Jabber). Unlike other chat apps, you are "
+"not dependent on one specific service provider."
 msgstr ""
 
 #. (itstool) path: description/p
 #: im.kaidan.kaidan.appdata.xml:11
 msgid ""
-"Kaidan is not finished yet, so don’t expect it working as well as a finished "
-"client will do."
-msgstr ""
-
-#. (itstool) path: description/p
-#: im.kaidan.kaidan.appdata.xml:12
-msgid "For a list of supported XEPs, have a look at the Wiki."
+"Kaidan does not have all basic features yet and has still some stability "
+"issues. But we do our best to improve it!"
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: im.kaidan.kaidan.appdata.xml:28
-msgid "Example chat on a desktop and on a mobile device"
+#: im.kaidan.kaidan.appdata.xml:27
+#, fuzzy
+#| msgid "Example chat on a desktop and on a mobile device"
+msgid "Chat on a desktop and mobile device"
 msgstr "Exemples de conversation sur un computator e un mobil aparate"
+
+#~ msgid ""
+#~ "Kaidan, a simple and user-friendly Jabber/XMPP client for every device "
+#~ "and platform"
+#~ msgstr ""
+#~ "Kaidan, un simplic e comprensibil cliente de Jabber/XMPP por omni aparate "
+#~ "e platform"
