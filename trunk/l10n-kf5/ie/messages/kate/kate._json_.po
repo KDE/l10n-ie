@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-02-18 01:10+0000\n"
+"POT-Creation-Date: 2023-02-28 01:09+0000\n"
 "PO-Revision-Date: 2022-11-03 07:50+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: ie <kde-i18n-doc@kde.org>\n"
@@ -54,8 +54,11 @@ msgid "File System Browser"
 msgstr "Navigator del sistema de files"
 
 #: addons/filetree/katefiletreeplugin.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Document Tree View"
 msgctxt "Name"
-msgid "Document Tree View"
+msgid "Documents Tree"
 msgstr "Vise de árbor de documentes"
 
 #: addons/format/FormatPlugin.json
