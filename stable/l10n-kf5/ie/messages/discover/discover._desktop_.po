@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-12 01:03+0000\n"
+"POT-Creation-Date: 2023-02-28 03:07+0000\n"
 "PO-Revision-Date: 2022-10-27 19:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -34,7 +34,7 @@ msgstr ""
 "programma;repositoria;paccage;adjunter;installar;deinstallar;actualisar;app;"
 "applicationes;ludes;flatpak;snap;addons;add-ons;firmware;"
 
-#: discover/org.kde.discover.desktop.cmake:157
+#: discover/org.kde.discover.desktop.cmake:158
 msgctxt "Name"
 msgid "See Available Updates"
 msgstr "Vider li disponibil actualisamentes"
@@ -89,22 +89,22 @@ msgctxt "Name"
 msgid "Repair Started"
 msgstr "Reparation iniciat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:387
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:388
 msgctxt "Name"
 msgid "Repaired Successfully"
 msgstr "Reparation successat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:425
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:427
 msgctxt "Name"
 msgid "Repair Failed"
 msgstr "Reparation ne successat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:468
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:470
 msgctxt "Comment"
 msgid "Repair failure after offline update"
 msgstr "Reparation ne successat pos un ajornat actualisation"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:515
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:517
 msgctxt "Name"
 msgid "Restart is Required"
 msgstr "Un restarta es besonat"
