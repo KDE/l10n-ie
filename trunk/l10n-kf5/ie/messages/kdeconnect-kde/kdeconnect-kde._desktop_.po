@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-17 01:07+0000\n"
+"POT-Creation-Date: 2023-03-28 00:54+0000\n"
 "PO-Revision-Date: 2022-11-16 15:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -145,19 +145,19 @@ msgctxt "Name"
 msgid "Remote Lock Successful"
 msgstr "Verification successat"
 
-#: plugins/kdeconnect.notifyrc:735
+#: plugins/kdeconnect.notifyrc:736
 #, fuzzy
 msgctxt "Comment"
 msgid "Remote lock successful"
 msgstr "Verification successat"
 
-#: plugins/kdeconnect.notifyrc:775
+#: plugins/kdeconnect.notifyrc:777
 #, fuzzy
 msgctxt "Name"
 msgid "Remote Lock Failure"
 msgstr "Serrar"
 
-#: plugins/kdeconnect.notifyrc:812
+#: plugins/kdeconnect.notifyrc:815
 #, fuzzy
 msgctxt "Comment"
 msgid "Remote lock failed"
