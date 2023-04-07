@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-03-28 00:54+0000\n"
+"POT-Creation-Date: 2023-04-07 00:54+0000\n"
 "PO-Revision-Date: 2022-11-16 15:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -162,6 +162,17 @@ msgstr "Serrar"
 msgctxt "Comment"
 msgid "Remote lock failed"
 msgstr "Ne successat cargar un lontan file."
+
+#: plugins/kdeconnect.notifyrc:856
+#, fuzzy
+msgctxt "Name"
+msgid "Text Received"
+msgstr "&Ping"
+
+#: plugins/kdeconnect.notifyrc:857
+msgctxt "Comment"
+msgid "Received some text"
+msgstr ""
 
 #: runners/findmyphone/plasma-runner-kdeconnect-findmyphone.desktop:2
 msgctxt "Name"
