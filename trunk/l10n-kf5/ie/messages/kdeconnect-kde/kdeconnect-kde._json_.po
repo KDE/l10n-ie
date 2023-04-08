@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-31 01:04+0000\n"
+"POT-Creation-Date: 2023-04-08 00:56+0000\n"
 "PO-Revision-Date: 2022-11-16 15:55+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -33,7 +33,7 @@ msgstr "Monitor del batterie"
 
 #: plugins/bigscreen/kdeconnect_bigscreen.json
 msgctxt "Name"
-msgid "Bigscreen"
+msgid "Bigscreen Voice Control"
 msgstr ""
 
 #: plugins/clipboard/kdeconnect_clipboard.json
@@ -188,7 +188,7 @@ msgstr ""
 
 #: plugins/bigscreen/kdeconnect_bigscreen.json
 msgctxt "Description"
-msgid "Bigscreen Plugin"
+msgid "Send voice commands to your TV running Plasma Bigscreen"
 msgstr ""
 
 #: plugins/clipboard/kdeconnect_clipboard.json
@@ -331,8 +331,11 @@ msgstr ""
 #: plugins/runcommand/kdeconnect_runcommand.json
 #: plugins/share/kdeconnect_share.json
 #: plugins/telephony/kdeconnect_telephony.json
+#, fuzzy
+#| msgctxt "Authors Name"
+#| msgid "Albert Vaca"
 msgctxt "Authors Name"
-msgid "Albert Vaca"
+msgid "Albert Vaca Cintora"
 msgstr "Albert Vaca"
 
 #: plugins/bigscreen/kdeconnect_bigscreen.json
