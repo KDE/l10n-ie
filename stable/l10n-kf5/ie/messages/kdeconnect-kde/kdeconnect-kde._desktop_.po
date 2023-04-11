@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-03-28 03:37+0000\n"
+"POT-Creation-Date: 2023-04-11 03:36+0000\n"
 "PO-Revision-Date: 2022-11-16 15:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -57,7 +57,7 @@ msgctxt "Name"
 msgid "KDE Connect Indicator"
 msgstr "Parametres de KDE Connect"
 
-#: indicator/org.kde.kdeconnect.nonplasma.desktop:47
+#: indicator/org.kde.kdeconnect.nonplasma.desktop:48
 #, fuzzy
 msgctxt "Comment"
 msgid "Display information about your devices"
@@ -133,31 +133,31 @@ msgctxt "Name"
 msgid "Generic Notification"
 msgstr "Géneric notification"
 
-#: plugins/kdeconnect.notifyrc:646
+#: plugins/kdeconnect.notifyrc:647
 #, fuzzy
 msgctxt "Comment"
 msgid "Notification received"
 msgstr "Recivet:"
 
-#: plugins/kdeconnect.notifyrc:698
+#: plugins/kdeconnect.notifyrc:699
 #, fuzzy
 msgctxt "Name"
 msgid "Remote Lock Successful"
 msgstr "Verification successat"
 
-#: plugins/kdeconnect.notifyrc:736
+#: plugins/kdeconnect.notifyrc:738
 #, fuzzy
 msgctxt "Comment"
 msgid "Remote lock successful"
 msgstr "Verification successat"
 
-#: plugins/kdeconnect.notifyrc:777
+#: plugins/kdeconnect.notifyrc:780
 #, fuzzy
 msgctxt "Name"
 msgid "Remote Lock Failure"
 msgstr "Serrar"
 
-#: plugins/kdeconnect.notifyrc:815
+#: plugins/kdeconnect.notifyrc:819
 #, fuzzy
 msgctxt "Comment"
 msgid "Remote lock failed"
