@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-04-17 00:55+0000\n"
+"POT-Creation-Date: 2023-04-18 00:54+0000\n"
 "PO-Revision-Date: 2022-11-16 15:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -169,7 +169,7 @@ msgctxt "Name"
 msgid "Text Received"
 msgstr "&Ping"
 
-#: plugins/kdeconnect.notifyrc:881
+#: plugins/kdeconnect.notifyrc:882
 msgctxt "Comment"
 msgid "Received some text"
 msgstr ""
