@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-04-08 02:22+0000\n"
+"POT-Creation-Date: 2023-04-26 02:19+0000\n"
 "PO-Revision-Date: 2022-10-26 03:48+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -23,12 +23,12 @@ msgctxt "Name"
 msgid "Authentication System"
 msgstr "Sistema de autentication"
 
-#: policykit1-kde.notifyrc:99
+#: policykit1-kde.notifyrc:100
 msgctxt "Name"
 msgid "Authenticate"
 msgstr "Autenticar"
 
-#: policykit1-kde.notifyrc:142
+#: policykit1-kde.notifyrc:144
 msgctxt "Comment"
 msgid "You are required to authenticate"
 msgstr "Autentication es besonat"
