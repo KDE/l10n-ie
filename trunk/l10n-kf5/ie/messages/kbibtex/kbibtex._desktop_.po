@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-11 00:55+0000\n"
+"POT-Creation-Date: 2023-04-27 00:56+0000\n"
 "PO-Revision-Date: 2022-11-10 01:12+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -23,7 +23,7 @@ msgctxt "Name"
 msgid "BibTeX Viewer and Editor"
 msgstr "Navigator e redactor BibTeX"
 
-#: src/parts/kbibtexpart.desktop:40
+#: src/parts/kbibtexpart.desktop:41
 msgctxt "Comment"
 msgid "KParts component to view and edit bibliographic files"
 msgstr ""
@@ -33,17 +33,17 @@ msgctxt "Name"
 msgid "KBibTeX"
 msgstr "KBibTeX"
 
-#: src/program/org.kde.kbibtex.desktop:39
+#: src/program/org.kde.kbibtex.desktop:40
 msgctxt "Comment"
 msgid "KDE-based editor for bibliographic files"
 msgstr "Redactor de KDE por files de bibliografie"
 
-#: src/program/org.kde.kbibtex.desktop:71
+#: src/program/org.kde.kbibtex.desktop:73
 msgctxt "GenericName"
 msgid "BibTeX Editor"
 msgstr "Redactor BibTeX"
 
-#: src/program/org.kde.kbibtex.desktop:113
+#: src/program/org.kde.kbibtex.desktop:116
 msgctxt "Keywords"
 msgid "BibTeX;bibliography;editor;LaTeX;"
 msgstr "BibTeX;bibliografie;redactor;LaTeX;"
