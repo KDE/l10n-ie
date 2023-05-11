@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-05-06 02:12+0000\n"
+"POT-Creation-Date: 2023-05-11 02:07+0000\n"
 "PO-Revision-Date: 2022-11-16 16:38+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -29,7 +29,7 @@ msgctxt "GenericName"
 msgid "System Monitor"
 msgstr "Monitor del sistema"
 
-#: org.kde.plasma-systemmonitor.desktop:95
+#: org.kde.plasma-systemmonitor.desktop:96
 msgctxt "Keywords"
 msgid "task;manager;process;cpu;memory;"
 msgstr "tache;gerente;processe;cpu;memorie;"
@@ -44,7 +44,7 @@ msgctxt "Name"
 msgid "Process Table"
 msgstr "Tabelle de processes"
 
-#: src/pages/applications.page:10 src/pages/overview.page:499
+#: src/pages/applications.page:10 src/pages/overview.page:501
 msgctxt "Title"
 msgid "Applications"
 msgstr "Applicationes"
@@ -54,23 +54,23 @@ msgctxt "Title"
 msgid "History"
 msgstr "Diarium"
 
-#: src/pages/history.page:82 src/pages/overview.page:168
+#: src/pages/history.page:82 src/pages/overview.page:169
 msgctxt "Title"
 msgid "CPU"
 msgstr "CPU"
 
-#: src/pages/history.page:130 src/pages/history.page:234
-#: src/pages/history.page:338
+#: src/pages/history.page:131 src/pages/history.page:235
+#: src/pages/history.page:340
 msgctxt "Title"
 msgid "false"
 msgstr "fals"
 
-#: src/pages/history.page:186 src/pages/overview.page:6
+#: src/pages/history.page:187 src/pages/overview.page:6
 msgctxt "Title"
 msgid "Memory"
 msgstr "Memorie"
 
-#: src/pages/history.page:290
+#: src/pages/history.page:291
 msgctxt "Title"
 msgid "Network"
 msgstr "Rete"
@@ -80,28 +80,28 @@ msgctxt "Title"
 msgid "Networks"
 msgstr "Retes"
 
-#: src/pages/overview.page:115
+#: src/pages/overview.page:116
 msgctxt "Title"
 msgid "Disk"
 msgstr "Disco"
 
-#: src/pages/overview.page:224
+#: src/pages/overview.page:226
 msgctxt "Title"
 msgid "System"
 msgstr "Sistema"
 
-#: src/pages/overview.page:273
+#: src/pages/overview.page:275
 #, fuzzy
 msgctxt "Title"
 msgid "Network Rates"
 msgstr "Rete: "
 
-#: src/pages/overview.page:331
+#: src/pages/overview.page:333
 msgctxt "Title"
 msgid "Overview"
 msgstr "Compendie"
 
-#: src/pages/overview.page:415
+#: src/pages/overview.page:417
 msgctxt "Title"
 msgid "Network & System"
 msgstr "Rete e sistema"
