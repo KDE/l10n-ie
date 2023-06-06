@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-31 00:59+0000\n"
+"POT-Creation-Date: 2023-06-06 02:13+0000\n"
 "PO-Revision-Date: 2022-10-27 19:46+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -22,6 +22,36 @@ msgstr "Ligar files a activitás"
 msgctxt "Name"
 msgid "Search Folder Updater"
 msgstr "Actualisation del fólderes de sercha"
+
+#: kcms/cookies/kcm_cookies.json
+msgctxt "Name"
+msgid "Cookies"
+msgstr ""
+
+#: kcms/netpref/kcm_netpref.json
+msgctxt "Name"
+msgid "Connection Preferences"
+msgstr ""
+
+#: kcms/proxy/kcm_proxy.json
+msgctxt "Name"
+msgid "Proxy"
+msgstr ""
+
+#: kcms/smb/kcm_smb.json
+msgctxt "Name"
+msgid "Windows Shares"
+msgstr ""
+
+#: kcms/trash/kcm_trash.json
+msgctxt "Name"
+msgid "Trash"
+msgstr ""
+
+#: kcms/webshortcuts/kcm_webshortcuts.json
+msgctxt "Name"
+msgid "Web Search Keywords"
+msgstr ""
 
 #: mtp/kiod_module/kmtpd.json
 msgctxt "Name"
@@ -121,6 +151,36 @@ msgstr "Images de Microsoft Windows"
 #: filenamesearch/kded/filenamesearchmodule.json
 msgctxt "Description"
 msgid "Allows automatic updates of Search Folders"
+msgstr ""
+
+#: kcms/cookies/kcm_cookies.json
+msgctxt "Description"
+msgid "Configure the way cookies work"
+msgstr ""
+
+#: kcms/netpref/kcm_netpref.json
+msgctxt "Description"
+msgid "Configure generic network preferences, like timeout values"
+msgstr ""
+
+#: kcms/proxy/kcm_proxy.json
+msgctxt "Description"
+msgid "Configure the proxy servers used"
+msgstr ""
+
+#: kcms/smb/kcm_smb.json
+msgctxt "Description"
+msgid "Credentials used to access SMB shares"
+msgstr ""
+
+#: kcms/trash/kcm_trash.json
+msgctxt "Description"
+msgid "Configure trash settings"
+msgstr ""
+
+#: kcms/webshortcuts/kcm_webshortcuts.json
+msgctxt "Description"
+msgid "Configure web search keywords"
 msgstr ""
 
 #: mtp/kiod_module/kmtpd.json
