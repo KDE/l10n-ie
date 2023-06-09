@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-05-06 02:12+0000\n"
+"POT-Creation-Date: 2023-06-09 02:17+0000\n"
 "PO-Revision-Date: 2022-11-10 00:32+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -370,12 +370,6 @@ msgctxt "Name"
 msgid "File Path"
 msgstr "Rute de file"
 
-#: kcms/solid_actions/solid-device-type.desktop:4
-#, fuzzy
-msgctxt "Name"
-msgid "Solid Device Type"
-msgstr "_Tip de aparate:"
-
 #: kcms/touchpad/kded/kcm_touchpad.notifyrc:2
 msgctxt "Name"
 msgid "Touchpad"
@@ -429,3 +423,8 @@ msgstr ""
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "_Panel"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Solid Device Type"
+#~ msgstr "_Tip de aparate:"
