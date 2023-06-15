@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-04-11 03:36+0000\n"
+"POT-Creation-Date: 2023-06-15 02:50+0000\n"
 "PO-Revision-Date: 2022-11-16 15:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -36,17 +36,17 @@ msgctxt "Name"
 msgid "Send via KDE Connect"
 msgstr "Inviar per KDE Connect"
 
-#: data/org.kde.kdeconnect_open.desktop:2
+#: data/org.kde.kdeconnect_open.desktop:3
 msgctxt "GenericName"
 msgid "Open on connected device via KDE Connect"
 msgstr ""
 
-#: data/org.kde.kdeconnect_open.desktop:44
+#: data/org.kde.kdeconnect_open.desktop:45
 msgctxt "Name"
 msgid "Open on connected device via KDE Connect"
 msgstr ""
 
-#: data/org.kde.kdeconnect_open.desktop:86
+#: data/org.kde.kdeconnect_open.desktop:87
 msgctxt "Comment"
 msgid "Open on a connected device using KDE Connect"
 msgstr ""
