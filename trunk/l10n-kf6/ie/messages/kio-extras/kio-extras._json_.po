@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-06 02:13+0000\n"
+"POT-Creation-Date: 2023-06-19 02:25+0000\n"
 "PO-Revision-Date: 2022-10-27 19:46+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -57,11 +57,6 @@ msgstr ""
 msgctxt "Name"
 msgid "KDE MTP daemon"
 msgstr "Daemon de MTP de KDE"
-
-#: recentdocuments/recentdocumentsnotifier.json
-msgctxt "Name"
-msgid "Recent Document Watcher"
-msgstr "Monitor de recent documentes"
 
 #: recentlyused/forgetfileitemaction.json
 msgctxt "Name"
@@ -189,12 +184,11 @@ msgctxt "Description"
 msgid "TODO"
 msgstr "Agenda"
 
-#: recentdocuments/recentdocumentsnotifier.json
-msgctxt "Description"
-msgid "Monitors \"Recent Documents\" folder for changes"
-msgstr ""
-
 #: smb/kded/kded_smbwatcher.json
 msgctxt "Description"
 msgid "Monitors directories on the smb:/ protocol for changes"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Recent Document Watcher"
+#~ msgstr "Monitor de recent documentes"
