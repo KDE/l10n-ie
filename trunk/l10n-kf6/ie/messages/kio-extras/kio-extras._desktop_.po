@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-27 00:55+0000\n"
+"POT-Creation-Date: 2023-06-28 02:13+0000\n"
 "PO-Revision-Date: 2022-10-27 03:57+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -36,12 +36,11 @@ msgctxt "Name"
 msgid "Shared Folders (SMB)"
 msgstr "Partit fólderes (SMB)"
 
-#: thumbnail/directorythumbnail.desktop:3
-msgctxt "Name"
-msgid "Folders"
-msgstr "Fólderes"
-
 #: thumbnail/thumbcreator.desktop:4
 msgctxt "Comment"
 msgid "Thumbnail Handler"
 msgstr "Processor de miniaturas"
+
+#~ msgctxt "Name"
+#~ msgid "Folders"
+#~ msgstr "Fólderes"
