@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2023-05-13 00:47+0000\n"
+"POT-Creation-Date: 2023-07-10 00:47+0000\n"
 "PO-Revision-Date: 2022-10-24 23:46+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -77,6 +77,16 @@ msgstr ""
 #: org.kde.neochat.appdata.xml:30
 msgid "The KDE Community"
 msgstr "Li comunité de KDE"
+
+#. (itstool) path: custom/value
+#: org.kde.neochat.appdata.xml:42
+msgid "Main view with room list, chat, and room information"
+msgstr ""
+
+#. (itstool) path: custom/value
+#: org.kde.neochat.appdata.xml:44
+msgid "Login screen"
+msgstr ""
 
 #~ msgid ""
 #~ "Matrix is a decentralized communication protocol, putting the user back "
