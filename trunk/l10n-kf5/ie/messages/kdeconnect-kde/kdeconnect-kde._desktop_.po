@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-15 00:54+0000\n"
+"POT-Creation-Date: 2023-07-24 07:44+0000\n"
 "PO-Revision-Date: 2022-11-16 15:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #: app/org.kde.kdeconnect.app.desktop:2
 #: daemon/org.kde.kdeconnect.daemon.desktop.cmake:10
-#: plasmoid/package/metadata.desktop:2 plugins/kdeconnect.notifyrc:3
+#: plugins/kdeconnect.notifyrc:3
 #: urlhandler/org.kde.kdeconnect.handler.desktop:2
 msgctxt "Name"
 msgid "KDE Connect"
@@ -62,11 +62,6 @@ msgstr "Parametres de KDE Connect"
 msgctxt "Comment"
 msgid "Display information about your devices"
 msgstr "Monstrar information pri ristretto"
-
-#: plasmoid/package/metadata.desktop:52
-msgctxt "Comment"
-msgid "Show notifications from your devices using KDE Connect"
-msgstr ""
 
 #: plugins/kdeconnect.notifyrc:53
 #, fuzzy
@@ -174,27 +169,6 @@ msgctxt "Comment"
 msgid "Received some text"
 msgstr ""
 
-#: runners/findmyphone/plasma-runner-kdeconnect-findmyphone.desktop:2
-msgctxt "Name"
-msgid " Find my device"
-msgstr " Trovar mi aparate"
-
-#: runners/findmyphone/plasma-runner-kdeconnect-findmyphone.desktop:45
-msgctxt "Comment"
-msgid "Ring connected devices"
-msgstr "Sonar conexet aparates"
-
-#: runners/remotecommands/plasma-runner-kdeconnect-remotecommands.desktop:2
-msgctxt "Name"
-msgid "Run command"
-msgstr "Lansar un comande"
-
-#: runners/remotecommands/plasma-runner-kdeconnect-remotecommands.desktop:45
-#, fuzzy
-msgctxt "Comment"
-msgid "Run commands on connected devices"
-msgstr "Conexet aparates"
-
 #: settings/org.kde.kdeconnect-settings.desktop:6
 #, fuzzy
 msgctxt "Name"
@@ -223,6 +197,23 @@ msgstr "SMS"
 msgctxt "Comment"
 msgid "Text Messaging"
 msgstr "Menú de comunication"
+
+#~ msgctxt "Name"
+#~ msgid " Find my device"
+#~ msgstr " Trovar mi aparate"
+
+#~ msgctxt "Comment"
+#~ msgid "Ring connected devices"
+#~ msgstr "Sonar conexet aparates"
+
+#~ msgctxt "Name"
+#~ msgid "Run command"
+#~ msgstr "Lansar un comande"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Run commands on connected devices"
+#~ msgstr "Conexet aparates"
 
 #, fuzzy
 #~ msgctxt "Comment"

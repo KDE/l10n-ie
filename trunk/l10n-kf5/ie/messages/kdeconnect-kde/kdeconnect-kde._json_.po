@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-07-19 01:00+0000\n"
+"POT-Creation-Date: 2023-07-24 07:46+0000\n"
 "PO-Revision-Date: 2022-11-16 15:55+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Send file via KDE Connect"
 msgstr "Inviar un file per KDE Connect"
 
-#: kcm/kcm_kdeconnect.json
+#: kcm/kcm_kdeconnect.json plasmoid/package/metadata.json
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Send file via KDE Connect"
@@ -186,6 +186,11 @@ msgctxt "Description"
 msgid "Connect and sync your devices"
 msgstr ""
 
+#: plasmoid/package/metadata.json
+msgctxt "Description"
+msgid "Show notifications from your devices using KDE Connect"
+msgstr ""
+
 #: plugins/battery/kdeconnect_battery.json
 msgctxt "Description"
 msgid "Show your phone battery next to your computer battery"
@@ -334,7 +339,7 @@ msgctxt "Description"
 msgid "Use your devices as virtual monitors"
 msgstr ""
 
-#: plugins/battery/kdeconnect_battery.json
+#: plasmoid/package/metadata.json plugins/battery/kdeconnect_battery.json
 #: plugins/clipboard/kdeconnect_clipboard.json
 #: plugins/mpriscontrol/kdeconnect_mpriscontrol.json
 #: plugins/notifications/kdeconnect_notifications.json
