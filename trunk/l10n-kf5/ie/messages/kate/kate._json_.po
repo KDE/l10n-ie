@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-04-30 00:58+0000\n"
+"POT-Creation-Date: 2023-07-29 00:55+0000\n"
 "PO-Revision-Date: 2022-11-03 07:50+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: ie <kde-i18n-doc@kde.org>\n"
@@ -77,8 +77,11 @@ msgid "Git Blame"
 msgstr "Git Blame"
 
 #: addons/katebuild-plugin/katebuildplugin.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Build Plugin"
 msgctxt "Name"
-msgid "Build Plugin"
+msgid "Build & Run"
 msgstr "Plugin de construction"
 
 #: addons/kate-ctags/katectagsplugin.json
@@ -247,8 +250,8 @@ msgstr "Monstrar un autor de git (blame) al fin de lineas"
 
 #: addons/katebuild-plugin/katebuildplugin.json
 msgctxt "Description"
-msgid "Compile or Make and parse error messages"
-msgstr "Compilar o constructer med make e analisar li errores"
+msgid "Build, parse output and run applications"
+msgstr ""
 
 #: addons/kate-ctags/katectagsplugin.json
 msgctxt "Description"
@@ -351,6 +354,10 @@ msgstr "Liste elementes e atributes XML, su valores e entitás permisset de DTD"
 msgctxt "Authors Name"
 msgid "Friedrich W. H. Kossebau"
 msgstr "Friedrich W. H. Kossebau"
+
+#~ msgctxt "Description"
+#~ msgid "Compile or Make and parse error messages"
+#~ msgstr "Compilar o constructer med make e analisar li errores"
 
 #~ msgctxt "Name"
 #~ msgid "GDB"
