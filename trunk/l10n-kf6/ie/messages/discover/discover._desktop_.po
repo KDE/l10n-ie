@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-07-21 02:24+0000\n"
+"POT-Creation-Date: 2023-08-01 02:19+0000\n"
 "PO-Revision-Date: 2022-10-27 19:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -44,7 +44,7 @@ msgctxt "Name"
 msgid "Snap login action"
 msgstr "Inregistration snap"
 
-#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:56
+#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:57
 msgctxt "Description"
 msgid "Allows snap front-ends to log in"
 msgstr "Permisse a interfacies snap inregistrar se"
