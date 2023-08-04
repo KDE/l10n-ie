@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-28 02:14+0000\n"
+"POT-Creation-Date: 2023-08-04 02:04+0000\n"
 "PO-Revision-Date: 2022-10-27 19:46+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -22,11 +22,6 @@ msgstr "Ligar files a activitás"
 msgctxt "Name"
 msgid "Search Folder Updater"
 msgstr "Actualisation del fólderes de sercha"
-
-#: kcms/cookies/kcm_cookies.json
-msgctxt "Name"
-msgid "Cookies"
-msgstr ""
 
 #: kcms/netpref/kcm_netpref.json
 msgctxt "Name"
@@ -151,11 +146,6 @@ msgstr "Images de Microsoft Windows"
 #: filenamesearch/kded/filenamesearchmodule.json
 msgctxt "Description"
 msgid "Allows automatic updates of Search Folders"
-msgstr ""
-
-#: kcms/cookies/kcm_cookies.json
-msgctxt "Description"
-msgid "Configure the way cookies work"
 msgstr ""
 
 #: kcms/netpref/kcm_netpref.json
