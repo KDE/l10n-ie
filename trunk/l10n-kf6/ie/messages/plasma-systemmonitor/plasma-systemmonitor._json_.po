@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-05-11 02:07+0000\n"
+"PO-Revision-Date: 2022-11-16 16:38+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
+"Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
+"Language: ie\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.12\n"
+
+#: kcm_external_plasma-systemmonitor.desktop:14
+#: org.kde.plasma-systemmonitor.desktop:2
+msgctxt "Name"
+msgid "System Monitor"
+msgstr "Monitor del sistema"
+
+#: kcm_external_plasma-systemmonitor.desktop:60
+msgctxt "X-KDE-Keywords"
+msgid "Memory,RAM,cpu,disk,gpu,network"
+msgstr "Memorie,RAM,cpu,disco,gpu,rete"
+
+#: org.kde.plasma-systemmonitor.desktop:47
+msgctxt "GenericName"
+msgid "System Monitor"
+msgstr "Monitor del sistema"
+
+#: org.kde.plasma-systemmonitor.desktop:96
+msgctxt "Keywords"
+msgid "task;manager;process;cpu;memory;"
+msgstr "tache;gerente;processe;cpu;memorie;"
+
+#: src/faces/applicationstable/metadata.desktop:2
+msgctxt "Name"
+msgid "Applications Table"
+msgstr "Tabelle de applicationes"
+
+#: src/faces/processtable/metadata.desktop:2
+msgctxt "Name"
+msgid "Process Table"
+msgstr "Tabelle de processes"
+
+#: src/pages/applications.page:10 src/pages/overview.page:501
+msgctxt "Title"
+msgid "Applications"
+msgstr "Applicationes"
+
+#: src/pages/history.page:34
+msgctxt "Title"
+msgid "History"
+msgstr "Diarium"
+
+#: src/pages/history.page:82 src/pages/overview.page:169
+msgctxt "Title"
+msgid "CPU"
+msgstr "CPU"
+
+#: src/pages/history.page:131 src/pages/history.page:235
+#: src/pages/history.page:340
+msgctxt "Title"
+msgid "false"
+msgstr "fals"
+
+#: src/pages/history.page:187 src/pages/overview.page:6
+msgctxt "Title"
+msgid "Memory"
+msgstr "Memorie"
+
+#: src/pages/history.page:291
+msgctxt "Title"
+msgid "Network"
+msgstr "Rete"
+
+#: src/pages/overview.page:59
+msgctxt "Title"
+msgid "Networks"
+msgstr "Retes"
+
+#: src/pages/overview.page:116
+msgctxt "Title"
+msgid "Disk"
+msgstr "Disco"
+
+#: src/pages/overview.page:226
+msgctxt "Title"
+msgid "System"
+msgstr "Sistema"
+
+#: src/pages/overview.page:275
+#, fuzzy
+msgctxt "Title"
+msgid "Network Rates"
+msgstr "Rete: "
+
+#: src/pages/overview.page:333
+msgctxt "Title"
+msgid "Overview"
+msgstr "Compendie"
+
+#: src/pages/overview.page:417
+msgctxt "Title"
+msgid "Network & System"
+msgstr "Rete e sistema"
+
+#: src/pages/processes.page:10
+msgctxt "Title"
+msgid "Processes"
+msgstr "Processes"
+
+#: src/plasma-systemmonitor.knsrc:4
+msgctxt "Name"
+msgid "Pages"
+msgstr "Págines"
