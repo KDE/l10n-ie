@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-05-11 02:07+0000\n"
+"POT-Creation-Date: 2023-09-13 02:09+0000\n"
 "PO-Revision-Date: 2022-11-16 16:38+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -33,16 +33,6 @@ msgstr "Monitor del sistema"
 msgctxt "Keywords"
 msgid "task;manager;process;cpu;memory;"
 msgstr "tache;gerente;processe;cpu;memorie;"
-
-#: src/faces/applicationstable/metadata.desktop:2
-msgctxt "Name"
-msgid "Applications Table"
-msgstr "Tabelle de applicationes"
-
-#: src/faces/processtable/metadata.desktop:2
-msgctxt "Name"
-msgid "Process Table"
-msgstr "Tabelle de processes"
 
 #: src/pages/applications.page:10 src/pages/overview.page:501
 msgctxt "Title"
@@ -115,3 +105,11 @@ msgstr "Processes"
 msgctxt "Name"
 msgid "Pages"
 msgstr "Págines"
+
+#~ msgctxt "Name"
+#~ msgid "Applications Table"
+#~ msgstr "Tabelle de applicationes"
+
+#~ msgctxt "Name"
+#~ msgid "Process Table"
+#~ msgstr "Tabelle de processes"
