@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-10-03 01:43+0000\n"
+"POT-Creation-Date: 2023-10-21 01:43+0000\n"
 "PO-Revision-Date: 2022-11-10 13:10+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Mail Serializer"
 msgstr "Serialisator de postage"
 
-#: serializers/akonadi_serializer_mail.desktop:57
+#: serializers/akonadi_serializer_mail.desktop:58
 msgctxt "Comment"
 msgid "An Akonadi serializer plugin for mail objects"
 msgstr "Un plugin de Aconadi por serialisar objectes de e-postage"
