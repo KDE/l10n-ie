@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-09-15 00:52+0000\n"
+"POT-Creation-Date: 2023-10-22 00:48+0000\n"
 "PO-Revision-Date: 2022-11-16 15:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -42,7 +42,7 @@ msgctxt "Name"
 msgid "KDE Connect Indicator"
 msgstr "Parametres de KDE Connect"
 
-#: indicator/org.kde.kdeconnect.nonplasma.desktop:49
+#: indicator/org.kde.kdeconnect.nonplasma.desktop:50
 #, fuzzy
 msgctxt "Comment"
 msgid "Display information about your devices"
@@ -90,66 +90,66 @@ msgctxt "Name"
 msgid "Battery Low"
 msgstr "Batterie exhauste"
 
-#: plugins/kdeconnect.notifyrc:459
+#: plugins/kdeconnect.notifyrc:460
 #, fuzzy
 msgctxt "Comment"
 msgid "Your battery is in low state"
 msgstr "Vor batterie ea exhaustet"
 
-#: plugins/kdeconnect.notifyrc:511
+#: plugins/kdeconnect.notifyrc:512
 #, fuzzy
 msgctxt "Name"
 msgid "Ping Received"
 msgstr "&Ping"
 
-#: plugins/kdeconnect.notifyrc:559
+#: plugins/kdeconnect.notifyrc:560
 #, fuzzy
 msgctxt "Comment"
 msgid "Ping received"
 msgstr "&Ping"
 
-#: plugins/kdeconnect.notifyrc:611
+#: plugins/kdeconnect.notifyrc:612
 msgctxt "Name"
 msgid "Generic Notification"
 msgstr "Géneric notification"
 
-#: plugins/kdeconnect.notifyrc:660
+#: plugins/kdeconnect.notifyrc:661
 #, fuzzy
 msgctxt "Comment"
 msgid "Notification received"
 msgstr "Recivet:"
 
-#: plugins/kdeconnect.notifyrc:713
+#: plugins/kdeconnect.notifyrc:714
 #, fuzzy
 msgctxt "Name"
 msgid "Remote Lock Successful"
 msgstr "Verification successat"
 
-#: plugins/kdeconnect.notifyrc:753
+#: plugins/kdeconnect.notifyrc:755
 #, fuzzy
 msgctxt "Comment"
 msgid "Remote lock successful"
 msgstr "Verification successat"
 
-#: plugins/kdeconnect.notifyrc:796
+#: plugins/kdeconnect.notifyrc:799
 #, fuzzy
 msgctxt "Name"
 msgid "Remote Lock Failure"
 msgstr "Serrar"
 
-#: plugins/kdeconnect.notifyrc:836
+#: plugins/kdeconnect.notifyrc:840
 #, fuzzy
 msgctxt "Comment"
 msgid "Remote lock failed"
 msgstr "Ne successat cargar un lontan file."
 
-#: plugins/kdeconnect.notifyrc:879
+#: plugins/kdeconnect.notifyrc:884
 #, fuzzy
 msgctxt "Name"
 msgid "Text Received"
 msgstr "&Ping"
 
-#: plugins/kdeconnect.notifyrc:910
+#: plugins/kdeconnect.notifyrc:916
 msgctxt "Comment"
 msgid "Received some text"
 msgstr ""
@@ -172,12 +172,12 @@ msgctxt "Name"
 msgid "KDE Connect SMS"
 msgstr "KDE Connect"
 
-#: smsapp/org.kde.kdeconnect.sms.desktop:45
+#: smsapp/org.kde.kdeconnect.sms.desktop:46
 msgctxt "GenericName"
 msgid "SMS"
 msgstr "SMS"
 
-#: smsapp/org.kde.kdeconnect.sms.desktop:89
+#: smsapp/org.kde.kdeconnect.sms.desktop:91
 #, fuzzy
 msgctxt "Comment"
 msgid "Text Messaging"
