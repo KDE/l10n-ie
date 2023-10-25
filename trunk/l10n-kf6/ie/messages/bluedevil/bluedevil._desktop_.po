@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-05-10 02:08+0000\n"
+"POT-Creation-Date: 2023-10-25 01:54+0000\n"
 "PO-Revision-Date: 2022-10-27 03:17+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -78,7 +78,7 @@ msgctxt "Name"
 msgid "Device Setup Finished"
 msgstr "Configuration del aparate es finit"
 
-#: src/bluedevil.notifyrc:702
+#: src/bluedevil.notifyrc:703
 msgctxt "Comment"
 msgid "Setting up a Bluetooth device finished successfully"
 msgstr "Configuration de un aparate Bluetooth compleet successosimen"
@@ -88,12 +88,12 @@ msgctxt "Name"
 msgid "Bluetooth File Transfer"
 msgstr "Transferte de files Bluetooth"
 
-#: src/sendfile/org.kde.bluedevilsendfile.desktop:43
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:44
 msgctxt "GenericName"
 msgid "Bluetooth File Transfer"
 msgstr "Transferte de files Bluetooth"
 
-#: src/sendfile/org.kde.bluedevilsendfile.desktop:83
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:85
 msgctxt "Comment"
 msgid "Send files via Bluetooth"
 msgstr "Inviar files per Bluetooth"
@@ -103,12 +103,12 @@ msgctxt "Name"
 msgid "Add Bluetooth Device"
 msgstr "Adjunter un aparate Bluetooth"
 
-#: src/wizard/org.kde.bluedevilwizard.desktop:42
+#: src/wizard/org.kde.bluedevilwizard.desktop:43
 msgctxt "GenericName"
 msgid "Add Bluetooth Device"
 msgstr "Adjunter un aparate Bluetooth"
 
-#: src/wizard/org.kde.bluedevilwizard.desktop:82
+#: src/wizard/org.kde.bluedevilwizard.desktop:84
 msgctxt "Comment"
 msgid "Add Bluetooth Device"
 msgstr "Adjunter un aparate Bluetooth"
