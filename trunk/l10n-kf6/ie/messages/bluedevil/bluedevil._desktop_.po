@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-10-25 01:54+0000\n"
+"POT-Creation-Date: 2023-10-27 01:45+0000\n"
 "PO-Revision-Date: 2022-10-27 03:17+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,67 +18,67 @@ msgctxt "Name"
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: src/bluedevil.notifyrc:55
+#: src/bluedevil.notifyrc:56
 msgctxt "Comment"
 msgid "Bluetooth system"
 msgstr "Sistema Bluetooth"
 
-#: src/bluedevil.notifyrc:110
+#: src/bluedevil.notifyrc:111
 msgctxt "Name"
 msgid "Authorization Requested"
 msgstr "Autorisation es besonat"
 
-#: src/bluedevil.notifyrc:162
+#: src/bluedevil.notifyrc:163
 msgctxt "Comment"
 msgid "A device wants to connect"
 msgstr "Un aparate vole conexer"
 
-#: src/bluedevil.notifyrc:220
+#: src/bluedevil.notifyrc:221
 msgctxt "Name"
 msgid "Confirm PIN"
 msgstr "Confirmar li PIN"
 
-#: src/bluedevil.notifyrc:273
+#: src/bluedevil.notifyrc:274
 msgctxt "Comment"
 msgid "Confirm a device request using matching PINs"
 msgstr "Confirma un demande de aparate con un correspondent PIN"
 
-#: src/bluedevil.notifyrc:330
+#: src/bluedevil.notifyrc:331
 msgctxt "Name"
 msgid "Request PIN"
 msgstr "Demandar un PIN"
 
-#: src/bluedevil.notifyrc:382
+#: src/bluedevil.notifyrc:383
 msgctxt "Comment"
 msgid "A PIN is needed"
 msgstr "Un PIN es besonat"
 
-#: src/bluedevil.notifyrc:440
+#: src/bluedevil.notifyrc:441
 msgctxt "Name"
 msgid "Incoming File"
 msgstr "Intrante file"
 
-#: src/bluedevil.notifyrc:493
+#: src/bluedevil.notifyrc:495
 msgctxt "Comment"
 msgid "Incoming file transfer"
 msgstr "Intrante transferte de file"
 
-#: src/bluedevil.notifyrc:550
+#: src/bluedevil.notifyrc:552
 msgctxt "Name"
 msgid "Connection Failed"
 msgstr "Conexion ne successat"
 
-#: src/bluedevil.notifyrc:602
+#: src/bluedevil.notifyrc:604
 msgctxt "Comment"
 msgid "Connection to device failed"
 msgstr "Conexion al aparate ne successat"
 
-#: src/bluedevil.notifyrc:659
+#: src/bluedevil.notifyrc:661
 msgctxt "Name"
 msgid "Device Setup Finished"
 msgstr "Configuration del aparate es finit"
 
-#: src/bluedevil.notifyrc:703
+#: src/bluedevil.notifyrc:705
 msgctxt "Comment"
 msgid "Setting up a Bluetooth device finished successfully"
 msgstr "Configuration de un aparate Bluetooth compleet successosimen"
