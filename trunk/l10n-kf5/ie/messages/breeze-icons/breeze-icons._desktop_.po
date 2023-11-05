@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-07-02 00:55+0000\n"
+"POT-Creation-Date: 2023-11-05 12:46+0000\n"
 "PO-Revision-Date: 2022-10-27 19:09+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Breeze Dark"
 msgstr "Brise obscur"
 
-#: icons-dark/index.theme:55
+#: icons-dark/index.theme:54
 msgctxt "Comment"
 msgid "Breeze Dark by the KDE VDG"
 msgstr "Brise obscur del KDE VDG"
@@ -28,7 +28,7 @@ msgctxt "Name"
 msgid "Breeze"
 msgstr "Brise"
 
-#: icons/index.theme:55
+#: icons/index.theme:54
 msgctxt "Comment"
 msgid "Breeze by the KDE VDG"
 msgstr "Brise del KDE VDG"
