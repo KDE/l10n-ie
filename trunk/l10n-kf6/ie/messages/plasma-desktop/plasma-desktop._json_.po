@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-05-22 02:11+0000\n"
+"POT-Creation-Date: 2023-11-07 02:50+0000\n"
 "PO-Revision-Date: 2022-11-10 00:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -130,7 +130,7 @@ msgctxt "Name"
 msgid "Locations"
 msgstr "Localisationes"
 
-#: kcms/joystick/kcm_joystick.json
+#: kcms/gamecontroller/kcm_gamecontroller.json
 msgctxt "Name"
 msgid "Game Controller"
 msgstr "Controlero de lude"
@@ -410,9 +410,12 @@ msgctxt "Description"
 msgid "Location for Personal Files"
 msgstr "Localisation de personal files"
 
-#: kcms/joystick/kcm_joystick.json
+#: kcms/gamecontroller/kcm_gamecontroller.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Calibrate Game Controller"
 msgctxt "Description"
-msgid "Calibrate Game Controller"
+msgid "Test and Configure Game Controllers"
 msgstr "Configurar un controlero de lude"
 
 #: kcms/kded/kcm_kded.json

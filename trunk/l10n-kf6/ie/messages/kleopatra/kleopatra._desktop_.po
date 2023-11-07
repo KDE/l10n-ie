@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-10-31 01:43+0000\n"
+"POT-Creation-Date: 2023-11-07 02:48+0000\n"
 "PO-Revision-Date: 2022-10-27 20:06+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Kleopatra Decrypt/Verify Files"
 msgstr "Kleopatra: Deciffrar e verificar files"
 
-#: src/data/kleopatra_decryptverifyfiles.desktop:60
+#: src/data/kleopatra_decryptverifyfiles.desktop:59
 msgctxt "Name"
 msgid "Decrypt/Verify File"
 msgstr "Deciffrar e verificar un file"
@@ -28,7 +28,7 @@ msgctxt "Name"
 msgid "Kleopatra Decrypt/Verify All Files In Folder"
 msgstr "Kleopatra: Deciffrar e verificar omni files il li fólder"
 
-#: src/data/kleopatra_decryptverifyfolders.desktop:60
+#: src/data/kleopatra_decryptverifyfolders.desktop:59
 msgctxt "Name"
 msgid "Decrypt/Verify All Files In Folder"
 msgstr "Deciffrar e verificar omni files il li fólder"
@@ -38,7 +38,7 @@ msgctxt "Name"
 msgid "Kleopatra"
 msgstr "Kleopatra"
 
-#: src/data/kleopatra_import.desktop:79
+#: src/data/kleopatra_import.desktop:78
 msgctxt "Comment"
 msgid "Certificate Manager and Unified Crypto GUI"
 msgstr "Gerente de certificates e integrat interfacie de criptografie"
@@ -48,22 +48,22 @@ msgctxt "Name"
 msgid "Kleopatra Sign/Encrypt Files"
 msgstr "Kleopatra: Signar e ciffrar files"
 
-#: src/data/kleopatra_signencryptfiles.desktop:61
+#: src/data/kleopatra_signencryptfiles.desktop:60
 msgctxt "Name"
 msgid "Sign & Encrypt File"
 msgstr "Signar e ciffrar un file"
 
-#: src/data/kleopatra_signencryptfiles.desktop:118
+#: src/data/kleopatra_signencryptfiles.desktop:116
 msgctxt "Name"
 msgid "Encrypt File"
 msgstr "Ciffrar un file"
 
-#: src/data/kleopatra_signencryptfiles.desktop:178
+#: src/data/kleopatra_signencryptfiles.desktop:175
 msgctxt "Name"
 msgid "OpenPGP-Sign File"
 msgstr "Signar un file per OpenPGP"
 
-#: src/data/kleopatra_signencryptfiles.desktop:235
+#: src/data/kleopatra_signencryptfiles.desktop:231
 msgctxt "Name"
 msgid "S/MIME-Sign File"
 msgstr "Signar un file per S/MIME"
@@ -73,17 +73,17 @@ msgctxt "Name"
 msgid "Kleopatra Sign/Encrypt Folders"
 msgstr "Kleopatra: Signar e ciffrar fólderes"
 
-#: src/data/kleopatra_signencryptfolders.desktop:60
+#: src/data/kleopatra_signencryptfolders.desktop:59
 msgctxt "Name"
 msgid "Archive, Sign && Encrypt Folder"
 msgstr "Archivar, signar e ciffrar un fólder"
 
-#: src/data/kleopatra_signencryptfolders.desktop:116
+#: src/data/kleopatra_signencryptfolders.desktop:114
 msgctxt "Name"
 msgid "Archive && Encrypt Folder"
 msgstr "Archivar e ciffrar un fólder"
 
-#: src/data/org.kde.kleopatra.desktop:77
+#: src/data/org.kde.kleopatra.desktop:76
 msgctxt "GenericName"
 msgid "Certificate Manager and Unified Crypto GUI"
 msgstr "Gerente de certificates e integrat interfacie de criptografie"
