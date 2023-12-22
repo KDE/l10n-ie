@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-12-14 01:40+0000\n"
+"POT-Creation-Date: 2023-12-22 01:44+0000\n"
 "PO-Revision-Date: 2022-10-27 20:06+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Kleopatra Decrypt/Verify Files"
 msgstr "Kleopatra: Deciffrar e verificar files"
 
-#: src/data/kleopatra_decryptverifyfiles.desktop:60
+#: src/data/kleopatra_decryptverifyfiles.desktop:61
 msgctxt "Name"
 msgid "Decrypt/Verify File"
 msgstr "Deciffrar e verificar un file"
@@ -28,7 +28,7 @@ msgctxt "Name"
 msgid "Kleopatra Decrypt/Verify All Files In Folder"
 msgstr "Kleopatra: Deciffrar e verificar omni files il li fólder"
 
-#: src/data/kleopatra_decryptverifyfolders.desktop:60
+#: src/data/kleopatra_decryptverifyfolders.desktop:61
 msgctxt "Name"
 msgid "Decrypt/Verify All Files In Folder"
 msgstr "Deciffrar e verificar omni files il li fólder"
@@ -48,22 +48,22 @@ msgctxt "Name"
 msgid "Kleopatra Sign/Encrypt Files"
 msgstr "Kleopatra: Signar e ciffrar files"
 
-#: src/data/kleopatra_signencryptfiles.desktop:61
+#: src/data/kleopatra_signencryptfiles.desktop:62
 msgctxt "Name"
 msgid "Sign & Encrypt File"
 msgstr "Signar e ciffrar un file"
 
-#: src/data/kleopatra_signencryptfiles.desktop:118
+#: src/data/kleopatra_signencryptfiles.desktop:120
 msgctxt "Name"
 msgid "Encrypt File"
 msgstr "Ciffrar un file"
 
-#: src/data/kleopatra_signencryptfiles.desktop:178
+#: src/data/kleopatra_signencryptfiles.desktop:181
 msgctxt "Name"
 msgid "OpenPGP-Sign File"
 msgstr "Signar un file per OpenPGP"
 
-#: src/data/kleopatra_signencryptfiles.desktop:235
+#: src/data/kleopatra_signencryptfiles.desktop:239
 msgctxt "Name"
 msgid "S/MIME-Sign File"
 msgstr "Signar un file per S/MIME"
@@ -73,12 +73,12 @@ msgctxt "Name"
 msgid "Kleopatra Sign/Encrypt Folders"
 msgstr "Kleopatra: Signar e ciffrar fólderes"
 
-#: src/data/kleopatra_signencryptfolders.desktop:60
+#: src/data/kleopatra_signencryptfolders.desktop:61
 msgctxt "Name"
 msgid "Archive, Sign && Encrypt Folder"
 msgstr "Archivar, signar e ciffrar un fólder"
 
-#: src/data/kleopatra_signencryptfolders.desktop:116
+#: src/data/kleopatra_signencryptfolders.desktop:118
 msgctxt "Name"
 msgid "Archive && Encrypt Folder"
 msgstr "Archivar e ciffrar un fólder"
@@ -93,12 +93,12 @@ msgctxt "Name"
 msgid "KWatchGnuPG"
 msgstr ""
 
-#: src/kwatchgnupg/org.kde.kwatchgnupg.desktop:23
+#: src/kwatchgnupg/org.kde.kwatchgnupg.desktop:24
 msgctxt "GenericName"
 msgid "GnuPG Log Viewer"
 msgstr ""
 
-#: src/kwatchgnupg/org.kde.kwatchgnupg.desktop:41
+#: src/kwatchgnupg/org.kde.kwatchgnupg.desktop:43
 msgctxt "Comment"
 msgid "View the GnuPG log"
 msgstr ""
