@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-08 00:49+0000\n"
+"POT-Creation-Date: 2023-12-23 00:47+0000\n"
 "PO-Revision-Date: 2022-11-02 01:57+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -61,4 +61,14 @@ msgstr "Vu have un nov missage"
 msgctxt "Comment"
 msgid ""
 "New message received in quick succession to a previous one from the same chat"
+msgstr ""
+
+#: misc/kaidan.notifyrc:182
+msgctxt "Name"
+msgid "Request to share personal data"
+msgstr ""
+
+#: misc/kaidan.notifyrc:183
+msgctxt "Comment"
+msgid "A contact asks for receiving personal data"
 msgstr ""
