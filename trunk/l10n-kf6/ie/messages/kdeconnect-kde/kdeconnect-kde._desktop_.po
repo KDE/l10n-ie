@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-12-11 00:47+0000\n"
+"POT-Creation-Date: 2023-12-31 01:59+0000\n"
 "PO-Revision-Date: 2022-11-16 15:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -125,31 +125,31 @@ msgctxt "Name"
 msgid "Remote Lock Successful"
 msgstr "Verification successat"
 
-#: plugins/kdeconnect.notifyrc:755
+#: plugins/kdeconnect.notifyrc:756
 #, fuzzy
 msgctxt "Comment"
 msgid "Remote lock successful"
 msgstr "Verification successat"
 
-#: plugins/kdeconnect.notifyrc:799
+#: plugins/kdeconnect.notifyrc:801
 #, fuzzy
 msgctxt "Name"
 msgid "Remote Lock Failure"
 msgstr "Serrar"
 
-#: plugins/kdeconnect.notifyrc:840
+#: plugins/kdeconnect.notifyrc:843
 #, fuzzy
 msgctxt "Comment"
 msgid "Remote lock failed"
 msgstr "Ne successat cargar un lontan file."
 
-#: plugins/kdeconnect.notifyrc:884
+#: plugins/kdeconnect.notifyrc:888
 #, fuzzy
 msgctxt "Name"
 msgid "Text Received"
 msgstr "&Ping"
 
-#: plugins/kdeconnect.notifyrc:918
+#: plugins/kdeconnect.notifyrc:922
 msgctxt "Comment"
 msgid "Received some text"
 msgstr ""
