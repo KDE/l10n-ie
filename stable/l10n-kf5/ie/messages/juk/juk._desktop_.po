@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-29 14:40+0000\n"
+"POT-Creation-Date: 2024-01-07 03:13+0000\n"
 "PO-Revision-Date: 2022-11-09 16:23+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -43,13 +43,13 @@ msgctxt "Comment"
 msgid "A requested cover has failed to download"
 msgstr ""
 
-#: juk.notifyrc:334
+#: juk.notifyrc:335
 #, fuzzy
 msgctxt "Name"
 msgid "JuK running in dock mode"
 msgstr "In li mode de presentation"
 
-#: juk.notifyrc:380
+#: juk.notifyrc:382
 msgctxt "Comment"
 msgid "Use context menu in system tray to restore."
 msgstr ""
