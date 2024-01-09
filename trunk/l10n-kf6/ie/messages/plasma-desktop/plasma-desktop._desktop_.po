@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-03 01:44+0000\n"
+"POT-Creation-Date: 2024-01-09 01:37+0000\n"
 "PO-Revision-Date: 2022-11-10 00:32+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Emoji Selector"
 msgstr "Selector de emoji"
 
-#: emojier/app/org.kde.plasma.emojier.desktop:59
+#: emojier/app/org.kde.plasma.emojier.desktop:60
 msgctxt "Keywords"
 msgid ""
 "characters;unicode;punctuation;letters;emoji;emoticon;symbols;smiley face;"
@@ -174,17 +174,17 @@ msgctxt "Name|battery plugged in"
 msgid "Plugged"
 msgstr "Conexet"
 
-#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:217
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:218
 msgctxt "Name"
 msgid "Rechargeable"
 msgstr "Rechargeabil"
 
-#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:292
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:293
 msgctxt "Name"
 msgid "Type"
 msgstr "Tip"
 
-#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:372
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:373
 #: kcms/solid_actions/device-actions/solid-device-Block.desktop:232
 #: kcms/solid_actions/device-actions/solid-device-Camera.desktop:157
 #: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:934
@@ -378,29 +378,29 @@ msgctxt "Name"
 msgid "Touchpad"
 msgstr "Panel tactil"
 
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:58
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:59
 msgctxt "Comment"
 msgid "Touchpad"
 msgstr "Panel tactil"
 
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:115
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:117
 #, fuzzy
 msgctxt "Name"
 msgid "Touchpad was disabled"
 msgstr "Panel tactil es ínactiv"
 
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:168
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:171
 msgctxt "Comment"
 msgid "Touchpad was disabled because mouse is detected"
 msgstr ""
 
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:225
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:229
 #, fuzzy
 msgctxt "Name"
 msgid "Touchpad was enabled"
 msgstr "Panel tactil es activ"
 
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:278
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:283
 msgctxt "Comment"
 msgid "Touchpad was enabled because the mouse was unplugged"
 msgstr ""
