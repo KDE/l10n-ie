@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-12-24 02:03+0000\n"
+"POT-Creation-Date: 2024-01-10 22:32+0000\n"
 "PO-Revision-Date: 2022-10-27 19:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -20,12 +20,12 @@ msgctxt "Name"
 msgid "Discover"
 msgstr "Discover"
 
-#: discover/org.kde.discover.desktop.cmake:69
+#: discover/org.kde.discover.desktop.cmake:70
 msgctxt "GenericName"
 msgid "Software Center"
 msgstr "Programmarium"
 
-#: discover/org.kde.discover.desktop.cmake:129
+#: discover/org.kde.discover.desktop.cmake:131
 msgctxt "Keywords"
 msgid ""
 "program;software;repository;package;add;install;uninstall;remove;update;apps;"
@@ -34,7 +34,7 @@ msgstr ""
 "programma;repositoria;paccage;adjunter;installar;deinstallar;actualisar;app;"
 "applicationes;ludes;flatpak;snap;addons;add-ons;firmware;"
 
-#: discover/org.kde.discover.desktop.cmake:178
+#: discover/org.kde.discover.desktop.cmake:181
 msgctxt "Name"
 msgid "See Available Updates"
 msgstr "Vider li disponibil actualisamentes"
@@ -44,7 +44,7 @@ msgctxt "Name"
 msgid "Snap login action"
 msgstr "Inregistration snap"
 
-#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:59
+#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:60
 msgctxt "Description"
 msgid "Allows snap front-ends to log in"
 msgstr "Permisse a interfacies snap inregistrar se"
@@ -54,62 +54,62 @@ msgctxt "Comment"
 msgid "Discover"
 msgstr "Discover"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:64
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:65
 msgctxt "Name"
 msgid "Updates Are Available"
 msgstr "Actualisamentes es disponibil"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:122
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:124
 msgctxt "Comment"
 msgid "Updates Available"
 msgstr "Actualisamentes disponibil"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:183
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:186
 msgctxt "Name"
 msgid "Successful Offline Update"
 msgstr "Ajornat actualisation successat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:234
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:238
 msgctxt "Comment"
 msgid "System updated successfully"
 msgstr "Sistema esset actualisat successosimen"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:289
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:294
 msgctxt "Name"
 msgid "Failed Offline Update"
 msgstr "Ajornat actualisation ne successat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:340
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:346
 msgctxt "Comment"
 msgid "System update failed"
 msgstr "Actualisation del sistema ne successat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:395
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:402
 msgctxt "Name"
 msgid "Repair Started"
 msgstr "Reparation iniciat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:443
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:451
 msgctxt "Name"
 msgid "Repaired Successfully"
 msgstr "Reparation successat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:492
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:501
 msgctxt "Name"
 msgid "Repair Failed"
 msgstr "Reparation ne successat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:543
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:553
 msgctxt "Comment"
 msgid "Repair failure after offline update"
 msgstr "Reparation ne successat pos un ajornat actualisation"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:598
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:609
 msgctxt "Name"
 msgid "Restart is Required"
 msgstr "Un restarta es besonat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:654
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:666
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Updates Available"
