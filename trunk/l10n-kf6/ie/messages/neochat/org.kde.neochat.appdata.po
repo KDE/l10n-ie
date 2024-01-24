@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2023-08-24 00:46+0000\n"
+"POT-Creation-Date: 2024-01-24 00:37+0000\n"
 "PO-Revision-Date: 2022-10-24 23:46+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -73,20 +73,18 @@ msgstr ""
 msgid "Location Events - MSC3488"
 msgstr ""
 
-#. (itstool) path: component/developer_name
-#: org.kde.neochat.appdata.xml:30
-msgid "The KDE Community"
-msgstr "Li comunité de KDE"
-
 #. (itstool) path: screenshot/caption
-#: org.kde.neochat.appdata.xml:52
+#: org.kde.neochat.appdata.xml:56
 msgid "Main view with room list, chat, and room information"
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.neochat.appdata.xml:56
+#: org.kde.neochat.appdata.xml:60
 msgid "Login screen"
 msgstr ""
+
+#~ msgid "The KDE Community"
+#~ msgstr "Li comunité de KDE"
 
 #~ msgid "A client for matrix, the decentralized communication protocol"
 #~ msgstr "Un cliente de Matrix, li protocol de communication decentralisat"
