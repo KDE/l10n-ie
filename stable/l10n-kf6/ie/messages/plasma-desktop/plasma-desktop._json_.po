@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-07 02:50+0000\n"
+"POT-Creation-Date: 2024-02-21 02:30+0000\n"
 "PO-Revision-Date: 2022-11-10 00:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -215,13 +215,7 @@ msgctxt "Name"
 msgid "Drawing Tablet"
 msgstr "Tabulette de dessine"
 
-#: kcms/touchpad/applet/plasma-dataengine-touchpad.json
-msgctxt "Name"
-msgid "Touchpad DataEngine"
-msgstr "DataEngine de panel tactil"
-
-#: kcms/touchpad/applet/qml/metadata.json kcms/touchpad/kcm/kcm_touchpad.json
-#: kcms/touchpad/kded/kded_touchpad.json
+#: kcms/touchpad/kcm/kcm_touchpad.json kcms/touchpad/kded/kded_touchpad.json
 msgctxt "Name"
 msgid "Touchpad"
 msgstr "Panel tactil"
@@ -488,12 +482,6 @@ msgctxt "Description"
 msgid "Spell Checker Dictionaries and Options"
 msgstr "Dictionariums e parametres ortografic"
 
-#: kcms/touchpad/applet/qml/metadata.json
-#, fuzzy
-msgctxt "Description"
-msgid "Shows current touchpad state"
-msgstr "Vider li actual processus e monitorar li statu del sistema"
-
 #: kcms/touchpad/kcm/kcm_touchpad.json
 msgctxt "Description"
 msgid "Touchpad settings"
@@ -624,12 +612,6 @@ msgctxt "Authors Name"
 msgid "Marco Martin"
 msgstr "Marco Martin"
 
-#: kcms/touchpad/applet/plasma-dataengine-touchpad.json
-#: kcms/touchpad/applet/qml/metadata.json
-msgctxt "Authors Name"
-msgid "Alexander Mezin"
-msgstr "Alexander Mezin"
-
 #: layout-templates/org.kde.plasma.desktop.appmenubar/metadata.json
 msgctxt "Authors Name"
 msgid "Kai Uwe Broulik"
@@ -650,6 +632,19 @@ msgstr "David Edmundson"
 msgctxt "Authors Name"
 msgid "Plasma Team"
 msgstr "Li equipe de Plasma"
+
+#~ msgctxt "Name"
+#~ msgid "Touchpad DataEngine"
+#~ msgstr "DataEngine de panel tactil"
+
+#, fuzzy
+#~ msgctxt "Description"
+#~ msgid "Shows current touchpad state"
+#~ msgstr "Vider li actual processus e monitorar li statu del sistema"
+
+#~ msgctxt "Authors Name"
+#~ msgid "Alexander Mezin"
+#~ msgstr "Alexander Mezin"
 
 #~ msgctxt "Name"
 #~ msgid "Removable Devices"
