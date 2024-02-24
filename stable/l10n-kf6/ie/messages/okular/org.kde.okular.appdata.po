@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2024-02-07 02:22+0000\n"
+"POT-Creation-Date: 2024-02-24 02:19+0000\n"
 "PO-Revision-Date: 2022-10-29 21:45+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -11,11 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.12\n"
-
-#. (itstool) path: component/developer_name
-#: org.kde.okular.appdata.xml:6
-msgid "KDE"
-msgstr ""
 
 #. (itstool) path: component/name
 #: org.kde.okular.appdata.xml:7
