@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2024-01-24 00:37+0000\n"
+"POT-Creation-Date: 2024-03-01 00:38+0000\n"
 "PO-Revision-Date: 2022-10-24 23:46+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -24,24 +24,14 @@ msgstr ""
 
 #. (itstool) path: description/p
 #: org.kde.neochat.appdata.xml:15
-#, fuzzy
-#| msgid ""
-#| "NeoChat is a Matrix client. It allows you to send text messages, videos "
-#| "and audio files to your family, colleagues and friends using the Matrix "
-#| "protocol."
 msgid ""
-"NeoChat is a client for Matrix, the decentralized communication protocol for "
-"instant messaging. It allows you to send text messages, videos and audio "
-"files to your family, colleagues and friends. It uses KDE frameworks and "
-"most notably Kirigami to provide a convergent experience across multiple "
-"platforms."
+"NeoChat is a chat app that lets you take full advantage of the Matrix "
+"network. It provides you with a secure way to send text messages, videos and "
+"audio files to your family, colleagues and friends."
 msgstr ""
-"NeoChat es un cliente de Matrix. On posse usar it por inviar missages "
-"textual, video- e audiofiles a su familie, colegos e amics med li protocol "
-"Matrix."
 
 #. (itstool) path: description/p
-#: org.kde.neochat.appdata.xml:17
+#: org.kde.neochat.appdata.xml:16
 msgid ""
 "NeoChat aims to be a fully featured application for the Matrix "
 "specification. As such everything in the current stable specification with "
@@ -52,36 +42,57 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: description/p
-#: org.kde.neochat.appdata.xml:18
+#: org.kde.neochat.appdata.xml:17
 msgid ""
 "Due to the nature of the Matrix specification development NeoChat also "
 "supports numerous unstable features. Currently these are:"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.neochat.appdata.xml:20
+#: org.kde.neochat.appdata.xml:19
 msgid "Polls - MSC3381"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.neochat.appdata.xml:21
+#: org.kde.neochat.appdata.xml:20
 msgid "Sticker Packs - MSC2545"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.neochat.appdata.xml:22
+#: org.kde.neochat.appdata.xml:21
 msgid "Location Events - MSC3488"
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.neochat.appdata.xml:56
+#: org.kde.neochat.appdata.xml:57 org.kde.neochat.appdata.xml:72
 msgid "Main view with room list, chat, and room information"
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.neochat.appdata.xml:60
+#: org.kde.neochat.appdata.xml:61
+msgid "Discover new communities with Matrix Spaces"
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#: org.kde.neochat.appdata.xml:76
 msgid "Login screen"
 msgstr ""
+
+#, fuzzy
+#~| msgid ""
+#~| "NeoChat is a Matrix client. It allows you to send text messages, videos "
+#~| "and audio files to your family, colleagues and friends using the Matrix "
+#~| "protocol."
+#~ msgid ""
+#~ "NeoChat is a client for Matrix, the decentralized communication protocol "
+#~ "for instant messaging. It allows you to send text messages, videos and "
+#~ "audio files to your family, colleagues and friends. It uses KDE "
+#~ "frameworks and most notably Kirigami to provide a convergent experience "
+#~ "across multiple platforms."
+#~ msgstr ""
+#~ "NeoChat es un cliente de Matrix. On posse usar it por inviar missages "
+#~ "textual, video- e audiofiles a su familie, colegos e amics med li "
+#~ "protocol Matrix."
 
 #~ msgid "The KDE Community"
 #~ msgstr "Li comunité de KDE"
