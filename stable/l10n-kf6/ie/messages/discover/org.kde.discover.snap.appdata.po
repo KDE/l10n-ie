@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2018-01-10 05:09+0100\n"
+"POT-Creation-Date: 2024-03-09 02:28+0000\n"
 "PO-Revision-Date: 2022-10-27 19:30+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -13,16 +13,16 @@ msgstr ""
 "X-Generator: Poedit 1.8.12\n"
 
 #. (itstool) path: component/name
-#: org.kde.discover.snap.appdata.xml:4
+#: org.kde.discover.snap.appdata.xml:5
 msgid "Snap backend"
 msgstr "Infrastructura Snap"
 
 #. (itstool) path: component/summary
-#: org.kde.discover.snap.appdata.xml:5
+#: org.kde.discover.snap.appdata.xml:6
 msgid "Integrates Snap applications into Discover"
 msgstr "Integra applicationes Snap con Discover"
 
 #. (itstool) path: component/developer_name
-#: org.kde.discover.snap.appdata.xml:9
+#: org.kde.discover.snap.appdata.xml:10
 msgid "Aleix Pol Gonzalez"
 msgstr "Aleix Pol Gonzalez"
