@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2023-11-05 12:41+0000\n"
+"POT-Creation-Date: 2024-03-11 01:36+0000\n"
 "PO-Revision-Date: 2022-10-26 21:10+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -13,80 +13,80 @@ msgstr ""
 "X-Generator: Poedit 1.8.12\n"
 
 #. (itstool) path: component/name
-#: org.kde.okteta.appdata.xml:6
+#: org.kde.okteta.appdata.xml:9
 msgid "Okteta"
 msgstr "Okteta"
 
 #. (itstool) path: component/summary
-#: org.kde.okteta.appdata.xml:7
+#: org.kde.okteta.appdata.xml:10
 msgid "Hex editor"
 msgstr "Hexadecimal redactor"
 
 #. (itstool) path: description/p
-#: org.kde.okteta.appdata.xml:9
+#: org.kde.okteta.appdata.xml:12
 msgid "Okteta is a simple editor for the raw data of files."
 msgstr "Okteta es un simplic editor de fundamental data de files."
 
 #. (itstool) path: description/p
-#: org.kde.okteta.appdata.xml:10
+#: org.kde.okteta.appdata.xml:13
 msgid "Features:"
 msgstr "Caracteristicas:"
 
 #. (itstool) path: ul/li
-#: org.kde.okteta.appdata.xml:12
+#: org.kde.okteta.appdata.xml:15
 msgid ""
 "Values and characters shown either in two columns (the traditional display "
 "in hex editors) or in rows with the value on top of the character"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.okteta.appdata.xml:13
+#: org.kde.okteta.appdata.xml:16
 msgid "Editing and navigating similar to a text editor"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.okteta.appdata.xml:14
+#: org.kde.okteta.appdata.xml:17
 msgid "Customizable data views, with loadable and storable profiles"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.okteta.appdata.xml:15
+#: org.kde.okteta.appdata.xml:18
 msgid "Tools dockable on all sides or floating"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.okteta.appdata.xml:16
+#: org.kde.okteta.appdata.xml:19
 msgid "Numerical encodings: Hexadecimal, Decimal, Octal, Binary"
 msgstr "Codification de númeres: (Hexa)decimal, octal, binari"
 
 #. (itstool) path: ul/li
-#: org.kde.okteta.appdata.xml:17
+#: org.kde.okteta.appdata.xml:20
 msgid "Character encodings: All 8-bit encodings as supplied by Qt, EBCDIC"
 msgstr "Codificationes de caracteres: Omni 8-bit codificationes de Qt, EBCDIC"
 
 #. (itstool) path: ul/li
-#: org.kde.okteta.appdata.xml:18
+#: org.kde.okteta.appdata.xml:21
 msgid "Fast data rendering on screen"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.okteta.appdata.xml:19
+#: org.kde.okteta.appdata.xml:22
 msgid "Multiple open files"
 msgstr "Aperter multiplic files"
 
 #. (itstool) path: ul/li
-#: org.kde.okteta.appdata.xml:20
+#: org.kde.okteta.appdata.xml:23
 msgid "Undo/redo support"
 msgstr "Defar e refar"
 
 #. (itstool) path: ul/li
-#: org.kde.okteta.appdata.xml:21
+#: org.kde.okteta.appdata.xml:24
 msgid ""
 "Structures tool for analyzing and editing based on user-creatable structure "
 "definitions"
 msgstr "Analise e modification de structuras creat per li usator"
 
 #. (itstool) path: ul/li
-#: org.kde.okteta.appdata.xml:22
+#: org.kde.okteta.appdata.xml:25
 msgid "And more..."
 msgstr "E plu..."
