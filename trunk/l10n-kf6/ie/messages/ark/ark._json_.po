@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 12:48+0000\n"
+"POT-Creation-Date: 2024-03-18 00:46+0000\n"
 "PO-Revision-Date: 2022-10-26 07:40+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -104,8 +104,11 @@ msgid "Full support for compressed TAR archives"
 msgstr "Complet supporte por compresset archives TAR"
 
 #: plugins/libarchive/kerfuffle_libarchive_readonly.json.cmake
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Open and extract DEB, RPM, ISO, AppImage, XAR and CAB files"
 msgctxt "Description"
-msgid "Open and extract DEB, RPM, ISO, AppImage, XAR and CAB files"
+msgid "Open and extract DEB, RPM, ISO, AppImage, XAR, CAB, and EXE files"
 msgstr "Aperter e extraer files DEB, RPM, ISO, AppImage, XAR e CAB"
 
 #~ msgctxt "Name"
