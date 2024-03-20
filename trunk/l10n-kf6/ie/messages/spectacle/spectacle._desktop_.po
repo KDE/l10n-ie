@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-03-04 00:42+0000\n"
+"POT-Creation-Date: 2024-03-20 00:43+0000\n"
 "PO-Revision-Date: 2022-11-02 01:03+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -66,17 +66,17 @@ msgctxt "Name"
 msgid "Record Rectangular Region"
 msgstr "Capturar un rectangulari region"
 
-#: desktop/org.kde.spectacle.desktop.cmake:519
+#: desktop/org.kde.spectacle.desktop.cmake:520
 msgctxt "Name"
 msgid "Record Screen"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop.cmake:556
+#: desktop/org.kde.spectacle.desktop.cmake:558
 msgctxt "Name"
 msgid "Record Window"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop.cmake:593
+#: desktop/org.kde.spectacle.desktop.cmake:596
 #, fuzzy
 msgctxt "Name"
 msgid "Launch without taking a screenshot"
@@ -103,7 +103,7 @@ msgctxt "Name"
 msgid "Recording Saved"
 msgstr ""
 
-#: desktop/spectacle.notifyrc:247
+#: desktop/spectacle.notifyrc:248
 msgctxt "Comment"
 msgid "A recording was captured and saved"
 msgstr ""
