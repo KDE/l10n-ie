@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2023-11-05 12:31+0000\n"
+"POT-Creation-Date: 2024-03-25 02:00+0000\n"
 "PO-Revision-Date: 2022-11-02 02:12+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -22,11 +22,6 @@ msgstr "Kaidan"
 msgid "User-friendly and modern chat app for every device"
 msgstr ""
 
-#. (itstool) path: component/developer_name
-#: im.kaidan.kaidan.appdata.xml:13
-msgid "Kaidan Developers &amp; Contributors"
-msgstr "Developatores e contributores de Kaidan"
-
 #. (itstool) path: description/p
 #: im.kaidan.kaidan.appdata.xml:15
 msgid ""
@@ -43,11 +38,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: im.kaidan.kaidan.appdata.xml:32
+#: im.kaidan.kaidan.appdata.xml:33
 #, fuzzy
 #| msgid "Example chat on a desktop and on a mobile device"
 msgid "Chat on a desktop and mobile device"
 msgstr "Exemples de conversation sur un computator e un mobil aparate"
+
+#~ msgid "Kaidan Developers &amp; Contributors"
+#~ msgstr "Developatores e contributores de Kaidan"
 
 #~ msgid ""
 #~ "Kaidan, a simple and user-friendly Jabber/XMPP client for every device "
