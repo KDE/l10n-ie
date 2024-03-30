@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-29 01:44+0000\n"
+"POT-Creation-Date: 2024-03-30 00:46+0000\n"
 "PO-Revision-Date: 2022-11-03 07:50+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: ie <kde-i18n-doc@kde.org>\n"
@@ -136,6 +136,11 @@ msgstr "Plugin de projectes"
 msgctxt "Name"
 msgid "Colored Brackets"
 msgstr "Colorat crampones"
+
+#: addons/rbql/RBQLPlugin.json
+msgctxt "Name"
+msgid "Rainbow CSV"
+msgstr ""
 
 #: addons/replicode/katereplicodeplugin.json
 msgctxt "Name"
@@ -298,6 +303,11 @@ msgstr "Integration con Git e altri sistemas de control de versiones"
 msgctxt "Description"
 msgid "Colored brackets for readability"
 msgstr "Colorat crampones por augmentar leibilitá"
+
+#: addons/rbql/RBQLPlugin.json
+msgctxt "Description"
+msgid "Run SQL-like queries using RBQL"
+msgstr ""
 
 #: addons/replicode/katereplicodeplugin.json
 msgctxt "Description"
