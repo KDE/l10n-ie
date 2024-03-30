@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-03-28 03:37+0000\n"
+"POT-Creation-Date: 2024-03-30 03:05+0000\n"
 "PO-Revision-Date: 2022-11-16 16:38+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -19,17 +19,17 @@ msgctxt "Name"
 msgid "System Monitor"
 msgstr "Monitor del sistema"
 
-#: kcm_external_plasma-systemmonitor.desktop:57
+#: kcm_external_plasma-systemmonitor.desktop:58
 msgctxt "X-KDE-Keywords"
 msgid "Memory,RAM,cpu,disk,gpu,network"
 msgstr "Memorie,RAM,cpu,disco,gpu,rete"
 
-#: org.kde.plasma-systemmonitor.desktop:44
+#: org.kde.plasma-systemmonitor.desktop:45
 msgctxt "GenericName"
 msgid "System Monitor"
 msgstr "Monitor del sistema"
 
-#: org.kde.plasma-systemmonitor.desktop:90
+#: org.kde.plasma-systemmonitor.desktop:92
 msgctxt "Keywords"
 msgid "task;manager;process;cpu;memory;"
 msgstr "tache;gerente;processe;cpu;memorie;"
@@ -44,7 +44,7 @@ msgctxt "Name"
 msgid "Process Table"
 msgstr "Tabelle de processes"
 
-#: src/pages/applications.page:10 src/pages/overview.page:483
+#: src/pages/applications.page:10 src/pages/overview.page:491
 msgctxt "Title"
 msgid "Applications"
 msgstr "Applicationes"
@@ -54,54 +54,54 @@ msgctxt "Title"
 msgid "History"
 msgstr "Diarium"
 
-#: src/pages/history.page:80 src/pages/overview.page:162
+#: src/pages/history.page:81 src/pages/overview.page:165
 msgctxt "Title"
 msgid "CPU"
 msgstr "CPU"
 
-#: src/pages/history.page:126 src/pages/history.page:226
-#: src/pages/history.page:326
+#: src/pages/history.page:128 src/pages/history.page:230
+#: src/pages/history.page:332
 msgctxt "Title"
 msgid "false"
 msgstr "fals"
 
-#: src/pages/history.page:180 src/pages/overview.page:6
+#: src/pages/history.page:183 src/pages/overview.page:6
 msgctxt "Title"
 msgid "Memory"
 msgstr "Memorie"
 
-#: src/pages/history.page:280
+#: src/pages/history.page:285
 msgctxt "Title"
 msgid "Network"
 msgstr "Rete"
 
-#: src/pages/overview.page:57
+#: src/pages/overview.page:58
 msgctxt "Title"
 msgid "Networks"
 msgstr "Retes"
 
-#: src/pages/overview.page:111
+#: src/pages/overview.page:113
 msgctxt "Title"
 msgid "Disk"
 msgstr "Disco"
 
-#: src/pages/overview.page:216
+#: src/pages/overview.page:220
 msgctxt "Title"
 msgid "System"
 msgstr "Sistema"
 
-#: src/pages/overview.page:263
+#: src/pages/overview.page:268
 #, fuzzy
 msgctxt "Title"
 msgid "Network Rates"
 msgstr "Rete: "
 
-#: src/pages/overview.page:319
+#: src/pages/overview.page:325
 msgctxt "Title"
 msgid "Overview"
 msgstr "Compendie"
 
-#: src/pages/overview.page:401
+#: src/pages/overview.page:408
 msgctxt "Title"
 msgid "Network & System"
 msgstr "Rete e sistema"
