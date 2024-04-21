@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-02-09 00:43+0000\n"
+"POT-Creation-Date: 2024-04-21 00:43+0000\n"
 "PO-Revision-Date: 2022-10-27 20:29+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,6 @@ msgctxt "Comment"
 msgid "File format backend for Okular"
 msgstr "Infrastructura de formate de file por Okular"
 
-#: generators/chm/okularApplication_chm.desktop:4
 #: generators/comicbook/okularApplication_comicbook.desktop:4
 #: generators/djvu/okularApplication_djvu.desktop:4
 #: generators/dvi/okularApplication_dvi.desktop:4
@@ -39,7 +38,6 @@ msgctxt "Name"
 msgid "Okular"
 msgstr "Okular"
 
-#: generators/chm/okularApplication_chm.desktop:70
 #: generators/comicbook/okularApplication_comicbook.desktop:70
 #: generators/djvu/okularApplication_djvu.desktop:70
 #: generators/dvi/okularApplication_dvi.desktop:70
@@ -59,7 +57,6 @@ msgctxt "GenericName"
 msgid "Document Viewer"
 msgstr "Visor de documentes"
 
-#: generators/chm/okularApplication_chm.desktop:139
 #: generators/comicbook/okularApplication_comicbook.desktop:139
 #: generators/djvu/okularApplication_djvu.desktop:139
 #: generators/dvi/okularApplication_dvi.desktop:139
@@ -79,13 +76,11 @@ msgctxt "Comment"
 msgid "Universal document viewer"
 msgstr "Universal visor de documentes"
 
-#: generators/chm/okularApplication_chm.desktop:197
-#: generators/chm/org.kde.mobile.okular_chm.desktop:190
+#: generators/comicbook/okularApplication_comicbook.desktop:197
 msgctxt "X-KDE-Keywords"
-msgid "chm"
-msgstr "chm"
+msgid "cbr, cbz, cbt, cb7, Comic Book"
+msgstr "cbr, cbz, cbt, cb7, Comic Book, dessinat"
 
-#: generators/chm/org.kde.mobile.okular_chm.desktop:2
 #: generators/comicbook/org.kde.mobile.okular_comicbook.desktop:3
 #: generators/djvu/org.kde.mobile.okular_djvu.desktop:3
 #: generators/dvi/org.kde.mobile.okular_dvi.desktop:3
@@ -104,7 +99,6 @@ msgctxt "Name"
 msgid "Reader"
 msgstr "Letor"
 
-#: generators/chm/org.kde.mobile.okular_chm.desktop:61
 #: generators/comicbook/org.kde.mobile.okular_comicbook.desktop:62
 #: generators/djvu/org.kde.mobile.okular_djvu.desktop:62
 #: generators/dvi/org.kde.mobile.okular_dvi.desktop:62
@@ -124,7 +118,6 @@ msgctxt "GenericName"
 msgid "Document viewer"
 msgstr "Visor de documentes"
 
-#: generators/chm/org.kde.mobile.okular_chm.desktop:121
 #: generators/comicbook/org.kde.mobile.okular_comicbook.desktop:122
 #: generators/djvu/org.kde.mobile.okular_djvu.desktop:122
 #: generators/dvi/org.kde.mobile.okular_dvi.desktop:122
@@ -142,11 +135,6 @@ msgstr "Visor de documentes"
 msgctxt "Comment"
 msgid "Viewer for various types of documents"
 msgstr "Visor por varie tipes de documentes"
-
-#: generators/comicbook/okularApplication_comicbook.desktop:197
-msgctxt "X-KDE-Keywords"
-msgid "cbr, cbz, cbt, cb7, Comic Book"
-msgstr "cbr, cbz, cbt, cb7, Comic Book, dessinat"
 
 #: generators/comicbook/org.kde.mobile.okular_comicbook.desktop:190
 msgctxt "X-KDE-Keywords"
@@ -211,6 +199,10 @@ msgstr "txt"
 msgctxt "X-KDE-Keywords"
 msgid "XPS"
 msgstr "XPS"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "chm"
+#~ msgstr "chm"
 
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "plucker"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-02-09 00:45+0000\n"
+"POT-Creation-Date: 2024-04-21 00:45+0000\n"
 "PO-Revision-Date: 2022-11-01 00:10+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -12,11 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.12\n"
-
-#: generators/chm/libokularGenerator_chmlib.json
-msgctxt "Name"
-msgid "CHM Backend"
-msgstr "Infrastructura CHM"
 
 #: generators/comicbook/libokularGenerator_comicbook.json
 msgctxt "Name"
@@ -93,11 +88,6 @@ msgctxt "Name"
 msgid "Okular"
 msgstr ""
 
-#: generators/chm/libokularGenerator_chmlib.json
-msgctxt "Description"
-msgid "A Microsoft Windows help file renderer"
-msgstr ""
-
 #: generators/comicbook/libokularGenerator_comicbook.json
 msgctxt "Description"
 msgid "A renderer for various comic book formats"
@@ -165,15 +155,6 @@ msgstr "Infrastructura Txt"
 msgctxt "Description"
 msgid "An XPS backend"
 msgstr "Un infrastructura XPS"
-
-#: generators/chm/libokularGenerator_chmlib.json
-msgctxt "Copyright"
-msgid ""
-"© 2005-2007 Piotr Szymański\n"
-"© 2008 Albert Astals Cid"
-msgstr ""
-"© 2005-2007 Piotr Szymański\n"
-"© 2008 Albert Astals Cid"
 
 #: generators/comicbook/libokularGenerator_comicbook.json
 #: generators/fictionbook/libokularGenerator_fb.json
@@ -249,19 +230,6 @@ msgstr ""
 "© 2007 Jiri Klement\n"
 "© 2008 Pino Toscano"
 
-#: generators/chm/libokularGenerator_chmlib.json
-msgctxt "Authors Name"
-msgid "Piotr Szymański"
-msgstr "Piotr Szymański"
-
-#: generators/chm/libokularGenerator_chmlib.json
-#: generators/kimgio/libokularGenerator_kimgio.json
-#: generators/poppler/libokularGenerator_poppler.json
-#: generators/spectre/libokularGenerator_ghostview.json
-msgctxt "Authors Name"
-msgid "Albert Astals Cid"
-msgstr "Albert Astals Cid"
-
 #: generators/comicbook/libokularGenerator_comicbook.json
 #: generators/fax/libokularGenerator_fax.json
 #: generators/fictionbook/libokularGenerator_fb.json
@@ -288,6 +256,13 @@ msgctxt "Authors Name"
 msgid "Ely Levy"
 msgstr "Ely Levy"
 
+#: generators/kimgio/libokularGenerator_kimgio.json
+#: generators/poppler/libokularGenerator_poppler.json
+#: generators/spectre/libokularGenerator_ghostview.json
+msgctxt "Authors Name"
+msgid "Albert Astals Cid"
+msgstr "Albert Astals Cid"
+
 #: generators/markdown/libokularGenerator_md.json
 msgctxt "Authors Name"
 msgid "Julian Wolff"
@@ -312,6 +287,22 @@ msgstr "Brad Hards"
 msgctxt "Authors Name"
 msgid "Jiri Klement"
 msgstr "Jiri Klement"
+
+#~ msgctxt "Name"
+#~ msgid "CHM Backend"
+#~ msgstr "Infrastructura CHM"
+
+#~ msgctxt "Copyright"
+#~ msgid ""
+#~ "© 2005-2007 Piotr Szymański\n"
+#~ "© 2008 Albert Astals Cid"
+#~ msgstr ""
+#~ "© 2005-2007 Piotr Szymański\n"
+#~ "© 2008 Albert Astals Cid"
+
+#~ msgctxt "Authors Name"
+#~ msgid "Piotr Szymański"
+#~ msgstr "Piotr Szymański"
 
 #~ msgctxt "Name"
 #~ msgid "Plucker Document Backend"
