@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-02-21 00:45+0000\n"
+"POT-Creation-Date: 2024-05-03 00:46+0000\n"
 "PO-Revision-Date: 2022-11-10 00:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -73,9 +73,10 @@ msgid "Peek at Desktop"
 msgstr "sur li Pupitre"
 
 #: applets/taskmanager/package/metadata.json
+#, fuzzy
 msgctxt "Name"
-msgid "Task Manager"
-msgstr "Gerente de taches"
+msgid "Icons-and-Text Task Manager"
+msgstr "Fonde del gerente de taches"
 
 #: applets/trash/package/metadata.json
 msgctxt "Name"
@@ -288,7 +289,7 @@ msgstr "Alterar li activitás"
 
 #: applets/icontasks/metadata.json
 msgctxt "Description"
-msgid "Modern dock-style window switcher displaying only icons"
+msgid "App bar displaying only icons"
 msgstr ""
 
 #: applets/keyboardlayout/metadata.json
@@ -343,7 +344,7 @@ msgstr "Minimisar omni fenestres e monstrar li Pupitre"
 
 #: applets/taskmanager/package/metadata.json
 msgctxt "Description"
-msgid "Classic taskbar-style window switcher displaying icons and text"
+msgid "Window bar displaying icons and text"
 msgstr ""
 
 #: applets/trash/package/metadata.json
@@ -632,6 +633,10 @@ msgstr "David Edmundson"
 msgctxt "Authors Name"
 msgid "Plasma Team"
 msgstr "Li equipe de Plasma"
+
+#~ msgctxt "Name"
+#~ msgid "Task Manager"
+#~ msgstr "Gerente de taches"
 
 #~ msgctxt "Name"
 #~ msgid "Touchpad DataEngine"
