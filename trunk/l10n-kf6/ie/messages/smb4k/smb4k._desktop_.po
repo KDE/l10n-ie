@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-04-18 00:43+0000\n"
+"POT-Creation-Date: 2024-05-13 00:44+0000\n"
 "PO-Revision-Date: 2022-11-01 11:16+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Smb4K"
 msgstr "Smb4K"
 
-#: core/smb4k.notifyrc:41 smb4k/org.kde.smb4k.desktop:72
+#: core/smb4k.notifyrc:41 smb4k/org.kde.smb4k.desktop:73
 msgctxt "Comment"
 msgid "Advanced Network Neighborhood Browser"
 msgstr "Avansat navigator de vicinitá del rete"
@@ -318,18 +318,18 @@ msgctxt "Name"
 msgid "Network communication failed"
 msgstr "Communication"
 
-#: core/smb4k.notifyrc:1957
+#: core/smb4k.notifyrc:1958
 msgctxt "Comment"
 msgid "A network related action could not be performed or failed"
 msgstr ""
 
-#: core/smb4k.notifyrc:1992
+#: core/smb4k.notifyrc:1994
 #, fuzzy
 msgctxt "Name"
 msgid "Zeroconf error"
 msgstr "Processe"
 
-#: core/smb4k.notifyrc:2020
+#: core/smb4k.notifyrc:2023
 msgctxt "Comment"
 msgid "An error with the Zeroconf daemon occurred"
 msgstr ""
