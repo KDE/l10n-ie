@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-03 00:46+0000\n"
+"POT-Creation-Date: 2024-05-21 00:47+0000\n"
 "PO-Revision-Date: 2022-11-10 00:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -271,11 +271,6 @@ msgctxt "Name"
 msgid "Removable Device Automounter"
 msgstr "Aparate _removibil..."
 
-#: toolboxes/desktoptoolbox/metadata.json
-msgctxt "Name"
-msgid "Declarative Toolbox"
-msgstr ""
-
 #: toolboxes/paneltoolbox/metadata.json
 #, fuzzy
 msgctxt "Name"
@@ -538,11 +533,6 @@ msgctxt "Description"
 msgid "Automatically mounts devices as needed"
 msgstr "Automatic _expander columnes si necessi"
 
-#: toolboxes/desktoptoolbox/metadata.json
-msgctxt "Description"
-msgid "Manage Plasma"
-msgstr "Gerentie de Plasma"
-
 #: toolboxes/paneltoolbox/metadata.json
 msgctxt "Description"
 msgid "Manage Plasma panel"
@@ -587,7 +577,6 @@ msgstr "Niccolo Venerandi"
 
 #: applets/minimizeall/package/metadata.json
 #: containments/desktop/package/metadata.json
-#: toolboxes/desktoptoolbox/metadata.json
 msgctxt "Authors Name"
 msgid "Sebastian Kügler"
 msgstr "Sebastian Kügler"
@@ -633,6 +622,10 @@ msgstr "David Edmundson"
 msgctxt "Authors Name"
 msgid "Plasma Team"
 msgstr "Li equipe de Plasma"
+
+#~ msgctxt "Description"
+#~ msgid "Manage Plasma"
+#~ msgstr "Gerentie de Plasma"
 
 #~ msgctxt "Name"
 #~ msgid "Task Manager"
