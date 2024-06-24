@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2022-10-22 00:48+0000\n"
+"POT-Creation-Date: 2024-06-24 00:40+0000\n"
 "PO-Revision-Date: 2022-10-25 00:37+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -13,17 +13,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. (itstool) path: component/name
-#: org.kde.filelight.appdata.xml:6
+#: org.kde.filelight.appdata.xml:10
 msgid "Filelight"
 msgstr "Filelight"
 
 #. (itstool) path: component/summary
-#: org.kde.filelight.appdata.xml:7
+#: org.kde.filelight.appdata.xml:11
 msgid "Show disk usage and delete unused files"
 msgstr "Monstrar li usage de disco e remover ínnecessi files"
 
 #. (itstool) path: description/p
-#: org.kde.filelight.appdata.xml:9
+#: org.kde.filelight.appdata.xml:13
 msgid ""
 "Filelight is an application to visualize the disk usage on your computer by "
 "showing folders using an easy-to-understand view of concentric rings. "
@@ -34,31 +34,31 @@ msgstr ""
 "liberation de spacie!"
 
 #. (itstool) path: description/p
-#: org.kde.filelight.appdata.xml:12
+#: org.kde.filelight.appdata.xml:16
 msgid "Features:"
 msgstr "Caracteristicas:"
 
 #. (itstool) path: ul/li
-#: org.kde.filelight.appdata.xml:14
+#: org.kde.filelight.appdata.xml:18
 msgid "Scan local, remote, or removable disks"
 msgstr "Analisar local, lontan o removibil discos"
 
 #. (itstool) path: ul/li
-#: org.kde.filelight.appdata.xml:15
+#: org.kde.filelight.appdata.xml:19
 msgid "View detailed information about files and folders"
 msgstr "Vider detalliat information pri files e fólderes"
 
 #. (itstool) path: ul/li
-#: org.kde.filelight.appdata.xml:16
+#: org.kde.filelight.appdata.xml:20
 msgid "Delete files or folders that are taking up too much space"
 msgstr "Remover files e fólderes quel ocupa tro mult spacie"
 
 #. (itstool) path: ul/li
-#: org.kde.filelight.appdata.xml:17
+#: org.kde.filelight.appdata.xml:21
 msgid "Integration into the Dolphin, Konqueror, and Krusader file managers"
 msgstr "Integration con gerentes de file Dolphin, Konqueror e Krusader"
 
 #. (itstool) path: ul/li
-#: org.kde.filelight.appdata.xml:18
+#: org.kde.filelight.appdata.xml:22
 msgid "Configurable color schemes"
 msgstr "Configurabil schemas de colores"

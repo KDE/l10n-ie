@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-06-23 00:44+0000\n"
+"POT-Creation-Date: 2024-06-24 00:44+0000\n"
 "PO-Revision-Date: 2022-11-01 11:16+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -109,229 +109,230 @@ msgctxt "Name"
 msgid "Migrating login credentials"
 msgstr ""
 
-#: core/smb4k.notifyrc:613
+#: core/smb4k.notifyrc:621
 msgctxt "Comment"
 msgid ""
 "The login credentials are migrated to the new format and the active password "
 "manager"
 msgstr ""
 
-#: core/smb4k.notifyrc:618
+#: core/smb4k.notifyrc:634
 #, fuzzy
 msgctxt "Name"
 msgid "Mimetype not supported"
 msgstr "Tip MIME"
 
-#: core/smb4k.notifyrc:653
+#: core/smb4k.notifyrc:669
 #, fuzzy
 msgctxt "Comment"
 msgid "The mimetype of the file that is to be printed is not supported"
 msgstr "&Suportat tipes de file:"
 
-#: core/smb4k.notifyrc:692
+#: core/smb4k.notifyrc:708
 #, fuzzy
 msgctxt "Name"
 msgid "Bookmark exists"
 msgstr "Existe"
 
-#: core/smb4k.notifyrc:727
+#: core/smb4k.notifyrc:743
 #, fuzzy
 msgctxt "Comment"
 msgid "The bookmark exists"
 msgstr "Existe"
 
-#: core/smb4k.notifyrc:767
+#: core/smb4k.notifyrc:783
 #, fuzzy
 msgctxt "Name"
 msgid "Bookmark label in use"
 msgstr "Usar quam fonte de marca-págines"
 
-#: core/smb4k.notifyrc:802
+#: core/smb4k.notifyrc:818
 #, fuzzy
 msgctxt "Comment"
 msgid "The label for the bookmark already exists"
 msgstr "Li fólder con ti-ci nómine ja existe."
 
-#: core/smb4k.notifyrc:842
+#: core/smb4k.notifyrc:858
 #, fuzzy
 msgctxt "Name"
 msgid "Mounting failed"
 msgstr "Montage"
 
-#: core/smb4k.notifyrc:878
+#: core/smb4k.notifyrc:894
 #, fuzzy
 msgctxt "Comment"
 msgid "Mounting a share failed"
 msgstr "Montage"
 
-#: core/smb4k.notifyrc:918
+#: core/smb4k.notifyrc:934
 #, fuzzy
 msgctxt "Name"
 msgid "Unmounting failed"
 msgstr "Desmontente…"
 
-#: core/smb4k.notifyrc:955
+#: core/smb4k.notifyrc:971
 #, fuzzy
 msgctxt "Comment"
 msgid "Unmounting a share failed"
 msgstr "Demontage"
 
-#: core/smb4k.notifyrc:995
+#: core/smb4k.notifyrc:1011
 #, fuzzy
 msgctxt "Name"
 msgid "Unmounting not allowed"
 msgstr "Desmontente…"
 
-#: core/smb4k.notifyrc:1030
+#: core/smb4k.notifyrc:1046
 msgctxt "Comment"
 msgid "The unmounting of a certain share is not allowed"
 msgstr ""
 
-#: core/smb4k.notifyrc:1070
+#: core/smb4k.notifyrc:1086
 msgctxt "Name"
 msgid "Synchronization failed"
 msgstr "Sincronisation ne successat"
 
-#: core/smb4k.notifyrc:1106
+#: core/smb4k.notifyrc:1122
 msgctxt "Comment"
 msgid "The synchronization of a share and a local copy failed"
 msgstr ""
 
-#: core/smb4k.notifyrc:1145
+#: core/smb4k.notifyrc:1161
 msgctxt "Name"
 msgid "Command not found"
 msgstr "Comande ne esset trovat"
 
-#: core/smb4k.notifyrc:1183
+#: core/smb4k.notifyrc:1199
 #, fuzzy
 msgctxt "Comment"
 msgid "A required command could not be found"
 msgstr "Ne successat lansar un comande: %s"
 
-#: core/smb4k.notifyrc:1223
+#: core/smb4k.notifyrc:1239
 #, fuzzy
 msgctxt "Name"
 msgid "Cannot bookmark printer"
 msgstr "Printator:"
 
-#: core/smb4k.notifyrc:1258
+#: core/smb4k.notifyrc:1274
 #, fuzzy
 msgctxt "Comment"
 msgid "A printer cannot be bookmarked"
 msgstr "Omni ligamentes sur li págine ja es adjuntet."
 
-#: core/smb4k.notifyrc:1298
+#: core/smb4k.notifyrc:1314
 msgctxt "Name"
 msgid "File not found"
 msgstr "File ne esset trovat"
 
-#: core/smb4k.notifyrc:1337
+#: core/smb4k.notifyrc:1353
 #, fuzzy
 msgctxt "Comment"
 msgid "A file could not be found"
 msgstr "Ne successat trovar li file «%1»"
 
-#: core/smb4k.notifyrc:1377
+#: core/smb4k.notifyrc:1393
 #, fuzzy
 msgctxt "Name"
 msgid "Opening file failed"
 msgstr "Ne successat aperter un file «%s»: %s"
 
-#: core/smb4k.notifyrc:1412
+#: core/smb4k.notifyrc:1428
 #, fuzzy
 msgctxt "Comment"
 msgid "A file could not be opened"
 msgstr "Li file ne posset esser apertet"
 
-#: core/smb4k.notifyrc:1452
+#: core/smb4k.notifyrc:1468
 #, fuzzy
 msgctxt "Name"
 msgid "Reading file failed"
 msgstr "Un errore evenit leente un file"
 
-#: core/smb4k.notifyrc:1487
+#: core/smb4k.notifyrc:1503
 #, fuzzy
 msgctxt "Comment"
 msgid "A file could not be read"
 msgstr "Ne successat leer li file %1."
 
-#: core/smb4k.notifyrc:1527
+#: core/smb4k.notifyrc:1543
 msgctxt "Name"
 msgid "mkdir failed"
 msgstr "mkdir ne successat"
 
-#: core/smb4k.notifyrc:1563
+#: core/smb4k.notifyrc:1579
 #, fuzzy
 msgctxt "Comment"
 msgid "A directory could not be created"
 msgstr ""
 "Directoria «%s» ne posse esser creat: g_mkdir_with_parents() ne successat: %s"
 
-#: core/smb4k.notifyrc:1603
+#: core/smb4k.notifyrc:1619
 #, fuzzy
 msgctxt "Name"
 msgid "Process error"
 msgstr "Processe"
 
-#: core/smb4k.notifyrc:1641
+#: core/smb4k.notifyrc:1657
 #, fuzzy
 msgctxt "Comment"
 msgid "A process error occurred"
 msgstr "Un errore evenit!"
 
-#: core/smb4k.notifyrc:1681
+#: core/smb4k.notifyrc:1697
 msgctxt "Name"
 msgid "Action failed"
 msgstr "Action ne successat"
 
-#: core/smb4k.notifyrc:1718
+#: core/smb4k.notifyrc:1734
 #, fuzzy
 msgctxt "Comment"
 msgid "A KAuth action failed"
 msgstr "Ne successat lansar li action «%s»"
 
-#: core/smb4k.notifyrc:1757
+#: core/smb4k.notifyrc:1773
 msgctxt "Name"
 msgid "Invalid URL"
 msgstr "Ínvalid URL"
 
-#: core/smb4k.notifyrc:1796
+#: core/smb4k.notifyrc:1812
 #, fuzzy
 msgctxt "Comment"
 msgid "An invalid URL was passed"
 msgstr "Ressurse URL es ínvalid"
 
-#: core/smb4k.notifyrc:1835
+#: core/smb4k.notifyrc:1851
 #, fuzzy
 msgctxt "Name"
 msgid "Network communication failed"
 msgstr "Communication"
 
-#: core/smb4k.notifyrc:1867
+#: core/smb4k.notifyrc:1883
 msgctxt "Comment"
 msgid "A network related action could not be performed or failed"
 msgstr ""
 
-#: core/smb4k.notifyrc:1904
+#: core/smb4k.notifyrc:1920
 #, fuzzy
 msgctxt "Name"
 msgid "Zeroconf error"
 msgstr "Processe"
 
-#: core/smb4k.notifyrc:1934
+#: core/smb4k.notifyrc:1950
 msgctxt "Comment"
 msgid "An error with the Zeroconf daemon occurred"
 msgstr ""
 
-#: core/smb4k.notifyrc:1968
+#: core/smb4k.notifyrc:1984
 #, fuzzy
 msgctxt "Name"
 msgid "Keychain error"
 msgstr "Processe"
 
-#: core/smb4k.notifyrc:1986
+#: core/smb4k.notifyrc:2002
 msgctxt "Comment"
-msgid "An error occurred while reading the credentials from the secure storage"
+msgid ""
+"An error occurred while reading the login credentials from the secure storage"
 msgstr ""
 
 #: helpers/smb4kmounthelper.actions:2
