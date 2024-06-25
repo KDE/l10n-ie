@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2024-02-24 01:35+0000\n"
+"POT-Creation-Date: 2024-06-25 01:43+0000\n"
 "PO-Revision-Date: 2022-10-31 23:15+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -13,17 +13,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. (itstool) path: component/name
-#: org.kde.lokalize.appdata.xml:7
+#: org.kde.lokalize.appdata.xml:8
 msgid "Lokalize"
 msgstr "Lokalize"
 
 #. (itstool) path: component/summary
-#: org.kde.lokalize.appdata.xml:8
+#: org.kde.lokalize.appdata.xml:9
 msgid "Computer-aided translation system"
 msgstr "Sistema de traduction assistet de computator"
 
 #. (itstool) path: description/p
-#: org.kde.lokalize.appdata.xml:10
+#: org.kde.lokalize.appdata.xml:11
 msgid ""
 "Lokalize is the localization tool for KDE software and other free and open "
 "source software. It is also a general computer-aided translation system "
