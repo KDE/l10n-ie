@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2023-11-05 12:30+0000\n"
+"POT-Creation-Date: 2024-07-03 00:38+0000\n"
 "PO-Revision-Date: 2022-11-09 16:28+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -13,17 +13,17 @@ msgstr ""
 "X-Generator: Poedit 1.8.12\n"
 
 #. (itstool) path: component/name
-#: org.kde.juk.appdata.xml:6
+#: org.kde.juk.appdata.xml:7
 msgid "JuK"
 msgstr "JuK"
 
 #. (itstool) path: component/summary
-#: org.kde.juk.appdata.xml:7
+#: org.kde.juk.appdata.xml:9
 msgid "Music Player"
 msgstr "Reproductor de musica"
 
 #. (itstool) path: description/p
-#: org.kde.juk.appdata.xml:9
+#: org.kde.juk.appdata.xml:11
 msgid ""
 "JuK is an audio jukebox application, supporting collections of MP3, Ogg "
 "Vorbis, and FLAC audio files. It allows you to edit the \"tags\" of your "
@@ -32,58 +32,58 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: description/p
-#: org.kde.juk.appdata.xml:10
+#: org.kde.juk.appdata.xml:12
 msgid "Features:"
 msgstr "Caracteristicas:"
 
 #. (itstool) path: ul/li
-#: org.kde.juk.appdata.xml:12
+#: org.kde.juk.appdata.xml:14
 msgid "Collection list and multiple user defined playlists"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.juk.appdata.xml:13
+#: org.kde.juk.appdata.xml:15
 msgid ""
 "Ability to scan directories to automatically import playlists and music "
 "files on start up"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.juk.appdata.xml:14
+#: org.kde.juk.appdata.xml:16
 msgid ""
 "Dynamic Search Playlists that are automatically updated as fields in the "
 "collection change"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.juk.appdata.xml:15
+#: org.kde.juk.appdata.xml:17
 msgid ""
 "A Tree View mode where playlists are automatically generated for sets of "
 "albums, artists and genres"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.juk.appdata.xml:16
+#: org.kde.juk.appdata.xml:18
 msgid "Playlist history to indicate which files have been played and when"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.juk.appdata.xml:17
+#: org.kde.juk.appdata.xml:19
 msgid "Inline search for filtering the list of visible items"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.juk.appdata.xml:18
+#: org.kde.juk.appdata.xml:20
 msgid "The ability to guess tag information based on the track's file name"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.juk.appdata.xml:19
+#: org.kde.juk.appdata.xml:21
 msgid "File renamer that can rename files based on the tag content"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.juk.appdata.xml:20
+#: org.kde.juk.appdata.xml:22
 msgid ""
 "Tag reading and editing support for many formats including ID3v1, ID3v2 and "
 "Ogg Vorbis"
