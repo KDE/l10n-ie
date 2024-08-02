@@ -12,7 +12,7 @@ msgstr ""
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 24.07.70\n"
@@ -660,8 +660,8 @@ msgstr "Sincronisar li terminal"
 #, kde-format
 msgid "Sync the terminal current working directory to the browser location."
 msgstr ""
-"Sincronisar li labor-fólder del terminal con li actual localisation del naviga"
-"tor."
+"Sincronisar li labor-fólder del terminal con li actual localisation del "
+"navigator."
 
 #: src/widgets/views/SettingsDialog.qml:372
 #, fuzzy, kde-format
@@ -775,5 +775,3 @@ msgstr "Trovar un carte"
 #, kde-format
 msgid "Tagged files for quick access"
 msgstr "Etiquettar files por un rapid accesse"
-
-
