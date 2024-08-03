@@ -12,7 +12,7 @@ msgstr ""
 "Language-Team: Interlingue <>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 24.07.70\n"
@@ -29,8 +29,6 @@ msgstr "mistresssilvara@hotmail.com"
 
 #: applet/plugin/devicesstateproxymodel.cpp:220
 #, kde-format
-#| msgctxt "DeviceName Network (Service)"
-#| msgid "%1 Network (%2)"
 msgctxt ""
 "@label %1 is human-readable device name, %2 is low-level device address"
 msgid "%1 (%2)"
@@ -44,7 +42,6 @@ msgstr "Conexente al aparate"
 
 #: applet/plugin/devicesstateproxymodel.cpp:236
 #, kde-format
-#| msgid "Connecting to the device"
 msgctxt "Notification when the connection failed due to Failed"
 msgid "Connection to the device failed"
 msgstr "Li conexion al aparate ne successat"
@@ -548,4 +545,3 @@ msgstr "Li aparate esset configurat e posse esser usat."
 msgctxt "Placeholder is device name"
 msgid "The device '%1' has been set up and can now be used."
 msgstr "Li aparate «%1» esset configurat e posse esser usat."
-

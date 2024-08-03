@@ -12,7 +12,7 @@ msgstr ""
 "Language-Team: Interlingue <>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 24.07.70\n"
@@ -60,8 +60,8 @@ msgstr[1] "Extinter"
 #, kde-format
 msgid "When restarted, the computer will enter the firmware setup screen."
 msgstr ""
-"Pos reiniciation li computator va monstrar li ecran de configuration de firmwa"
-"re."
+"Pos reiniciation li computator va monstrar li ecran de configuration de "
+"firmware."
 
 #: contents/logout/Logout.qml:200
 #, kde-format
@@ -146,4 +146,3 @@ msgctxt ""
 "product. Plasma is the project name so shouldn't be translated."
 msgid "Plasma made by KDE"
 msgstr "Plasma es creat de KDE"
-

@@ -12,7 +12,7 @@ msgstr ""
 "Language-Team: Interlingue <>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 24.07.70\n"
@@ -23,8 +23,8 @@ msgid ""
 "Finds local directories and files, network locations and Internet sites with "
 "paths matching :q:."
 msgstr ""
-"Trova local fólders e files, localisationes in li rete e sites Internet, li ru"
-"te de queles coresponde a :q:."
+"Trova local fólders e files, localisationes in li rete e sites Internet, li "
+"rute de queles coresponde a :q:."
 
 #: locationrunner.cpp:52
 #, kde-format
@@ -45,4 +45,3 @@ msgstr "Ear a %1"
 #, kde-format
 msgid "Send email to %1"
 msgstr "Scrir un e-missage a %1"
-
