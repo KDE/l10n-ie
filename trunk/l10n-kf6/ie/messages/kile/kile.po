@@ -1,22 +1,21 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR This file is copyright:
+# Copyright (C) 2024 This file is copyright:
 # This file is distributed under the same license as the kile package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# SPDX-FileCopyrightText: 2024 OIS <mistresssilvara@hotmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: kile\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-06-24 00:38+0000\n"
-"PO-Revision-Date: 2022-11-12 08:09+0700\n"
+"PO-Revision-Date: 2024-08-04 16:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
-"Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
+"Language-Team: Interlingue <>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.12\n"
+"X-Generator: Lokalize 24.07.70\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -7357,7 +7356,7 @@ msgid "Undefined"
 msgstr "Índefinit"
 
 #: kileinfo.cpp:359
-#, fuzzy, kde-format
+#, kde-format
 msgid "Script"
 msgstr "Scripte"
 
@@ -7454,7 +7453,7 @@ msgid "Add BibTeX database"
 msgstr "BibTeX"
 
 #: kilelyxserver.cpp:251
-#, fuzzy, kde-format
+#, kde-format
 msgid "Paste"
 msgstr "Collar"
 
@@ -10403,7 +10402,7 @@ msgstr ""
 #: main.cpp:107
 #, kde-format
 msgid "Michel Ludwig"
-msgstr ""
+msgstr "Michel Ludwig"
 
 #: main.cpp:107
 #, fuzzy, kde-format
@@ -10433,7 +10432,7 @@ msgstr "Developator"
 #: main.cpp:110
 #, kde-format
 msgid "Jeroen Wijnhout"
-msgstr ""
+msgstr "Jeroen Wijnhout"
 
 #: main.cpp:110
 #, fuzzy, kde-format
@@ -10478,7 +10477,7 @@ msgstr "Semantic integration"
 #: main.cpp:116
 #, kde-format
 msgid "Thorsten Lück"
-msgstr ""
+msgstr "Thorsten Lück"
 
 #: main.cpp:116
 #, fuzzy, kde-format
@@ -10508,7 +10507,7 @@ msgstr "Documentation"
 #: main.cpp:119
 #, kde-format
 msgid "Federico Zenith"
-msgstr ""
+msgstr "Federico Zenith"
 
 #: main.cpp:137
 #, fuzzy, kde-format
@@ -12512,3 +12511,4 @@ msgstr "Monstrar li element «Locs» in li panel de menú"
 
 #~ msgid "*.ps|PS Files\\n*.ps.gz|Zipped PS Files"
 #~ msgstr "*.ps|Files PS\\n*.ps.gz|Files PS zippat"
+
