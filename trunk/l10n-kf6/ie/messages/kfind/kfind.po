@@ -12,7 +12,7 @@ msgstr ""
 "Language-Team: Interlingue <>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 24.07.70\n"
@@ -181,29 +181,24 @@ msgstr "&Nominat:"
 
 #: kftabdlg.cpp:68
 #, kde-format
-#| msgid ""
-#| "You can use wildcard matching and \";\" for separating multiple names"
 msgctxt "@info:tooltip"
 msgid "You can use wildcard matching and \";\" for separating multiple names"
 msgstr "On posse usar mustres, anc «;» por separar multiplic nómines"
 
 #: kftabdlg.cpp:74
 #, kde-format
-#| msgid "Look &in:"
 msgctxt "@label:textbox"
 msgid "Look &in:"
 msgstr "Serchar &in:"
 
 #: kftabdlg.cpp:77
 #, kde-format
-#| msgid "Include &subfolders"
 msgctxt "@option:check"
 msgid "Include &subfolders"
 msgstr "Includer &sub-fólderes"
 
 #: kftabdlg.cpp:78
 #, kde-format
-#| msgid "Case s&ensitive search"
 msgctxt "@option:check"
 msgid "Case s&ensitive search"
 msgstr "Correspondentie &exact"
@@ -215,14 +210,12 @@ msgstr "&Trovar..."
 
 #: kftabdlg.cpp:80
 #, kde-format
-#| msgid "&Use files index"
 msgctxt "@option:check"
 msgid "&Use files index"
 msgstr "&Usar li index de files"
 
 #: kftabdlg.cpp:81
 #, kde-format
-#| msgid "Show &hidden files"
 msgctxt "@option:check"
 msgid "Show &hidden files"
 msgstr "Revelar &celat files"
@@ -265,42 +258,36 @@ msgstr ""
 
 #: kftabdlg.cpp:165
 #, kde-format
-#| msgid "Find all files created or &modified:"
 msgctxt "@option:check"
 msgid "Find all files created or &modified:"
 msgstr "Trovar omni files creat o &modificat:"
 
 #: kftabdlg.cpp:167
 #, kde-format
-#| msgid "&between"
 msgctxt "@option:radio"
 msgid "&between"
 msgstr "&inter"
 
 #: kftabdlg.cpp:169
 #, kde-format
-#| msgid "and"
 msgctxt "@label:textbox"
 msgid "and"
 msgstr "e"
 
 #: kftabdlg.cpp:191
 #, kde-format
-#| msgid "File &size is:"
 msgctxt "@label:textbox"
 msgid "File &size is:"
 msgstr "Gr&andore de file es:"
 
 #: kftabdlg.cpp:204
 #, kde-format
-#| msgid "Files owned by &user:"
 msgctxt "@label:textbox"
 msgid "Files owned by &user:"
 msgstr "Possedet per &usator:"
 
 #: kftabdlg.cpp:209
 #, kde-format
-#| msgid "Owned by &group:"
 msgctxt "@label:textbox"
 msgid "Owned by &group:"
 msgstr "Possedet per &gruppe:"
@@ -356,7 +343,6 @@ msgstr "&Tip de file:"
 
 #: kftabdlg.cpp:288
 #, kde-format
-#| msgid "C&ontaining text:"
 msgctxt "@label:textbox"
 msgid "C&ontaining text:"
 msgstr "Quel c&ontene textu:"
@@ -371,14 +357,12 @@ msgstr ""
 
 #: kftabdlg.cpp:302
 #, kde-format
-#| msgid "Case s&ensitive"
 msgctxt "@option:check"
 msgid "Case s&ensitive"
 msgstr "Correspondentie &exact"
 
 #: kftabdlg.cpp:303
 #, kde-format
-#| msgid "Include &binary files"
 msgctxt "@option:check"
 msgid "Include &binary files"
 msgstr "Includer &binari files"
@@ -400,7 +384,6 @@ msgstr "po&r:"
 
 #: kftabdlg.cpp:315
 #, kde-format
-#| msgid "Search &metainfo sections:"
 msgctxt "@label:textbox"
 msgid "Search &metainfo sections:"
 msgstr "Serchar sectiones de &metainfo:"
@@ -600,7 +583,6 @@ msgstr "(c) 1998-2021, Li developatores de KDE"
 
 #: main.cpp:30
 #, kde-format
-#| msgid "Kai Uwe Broulik"
 msgctxt "@info:credit"
 msgid "Kai Uwe Broulik"
 msgstr "Kai Uwe Broulik"
@@ -612,7 +594,6 @@ msgstr "Actual mantenetor"
 
 #: main.cpp:31
 #, kde-format
-#| msgid "Eric Coquelle"
 msgctxt "@info:credit"
 msgid "Eric Coquelle"
 msgstr "Eric Coquelle"
@@ -624,7 +605,6 @@ msgstr "Anteyan mantenetor"
 
 #: main.cpp:32
 #, kde-format
-#| msgid "Mark W. Webb"
 msgctxt "@info:credit"
 msgid "Mark W. Webb"
 msgstr "Mark W. Webb"
@@ -636,7 +616,6 @@ msgstr "Developator"
 
 #: main.cpp:33
 #, kde-format
-#| msgid "Beppe Grimaldi"
 msgctxt "@info:credit"
 msgid "Beppe Grimaldi"
 msgstr "Beppe Grimaldi"
@@ -648,70 +627,60 @@ msgstr "Dessine del interfacie e plu optiones de sercha"
 
 #: main.cpp:34
 #, kde-format
-#| msgid "Martin Hartig"
 msgctxt "@info:credit"
 msgid "Martin Hartig"
 msgstr "Martin Hartig"
 
 #: main.cpp:35
 #, kde-format
-#| msgid "Stephan Kulow"
 msgctxt "@info:credit"
 msgid "Stephan Kulow"
 msgstr "Stephan Kulow"
 
 #: main.cpp:36
 #, kde-format
-#| msgid "Mario Weilguni"
 msgctxt "@info:credit"
 msgid "Mario Weilguni"
 msgstr "Mario Weilguni"
 
 #: main.cpp:37
 #, kde-format
-#| msgid "Alex Zepeda"
 msgctxt "@info:credit"
 msgid "Alex Zepeda"
 msgstr "Alex Zepeda"
 
 #: main.cpp:38
 #, kde-format
-#| msgid "Miroslav Flídr"
 msgctxt "@info:credit"
 msgid "Miroslav Flídr"
 msgstr "Miroslav Flídr"
 
 #: main.cpp:39
 #, kde-format
-#| msgid "Harri Porten"
 msgctxt "@info:credit"
 msgid "Harri Porten"
 msgstr "Harri Porten"
 
 #: main.cpp:40
 #, kde-format
-#| msgid "Dima Rogozin"
 msgctxt "@info:credit"
 msgid "Dima Rogozin"
 msgstr "Dima Rogozin"
 
 #: main.cpp:41
 #, kde-format
-#| msgid "Carsten Pfeiffer"
 msgctxt "@info:credit"
 msgid "Carsten Pfeiffer"
 msgstr "Carsten Pfeiffer"
 
 #: main.cpp:42
 #, kde-format
-#| msgid "Hans Petter Bieker"
 msgctxt "@info:credit"
 msgid "Hans Petter Bieker"
 msgstr "Hans Petter Bieker"
 
 #: main.cpp:43
 #, kde-format
-#| msgid "Waldo Bastian"
 msgctxt "@info:credit"
 msgid "Waldo Bastian"
 msgstr "Waldo Bastian"
@@ -723,14 +692,12 @@ msgstr "Dessin de interfacie"
 
 #: main.cpp:44
 #, kde-format
-#| msgid "Alexander Neundorf"
 msgctxt "@info:credit"
 msgid "Alexander Neundorf"
 msgstr "Alexander Neundorf"
 
 #: main.cpp:45
 #, kde-format
-#| msgid "Clarence Dang"
 msgctxt "@info:credit"
 msgid "Clarence Dang"
 msgstr "Clarence Dang"
@@ -751,4 +718,3 @@ msgstr "mistresssilvara@hotmail.com"
 #, kde-format
 msgid "Path(s) to search"
 msgstr "Rute(s) de sercha"
-

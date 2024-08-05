@@ -6,13 +6,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kmail\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-07-30 00:42+0000\n"
+"POT-Creation-Date: 2024-08-02 00:41+0000\n"
 "PO-Revision-Date: 2024-08-01 21:54+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 24.07.70\n"
@@ -27,37 +27,37 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "mistresssilvara@hotmail.com"
 
-#: ./about/introduction_kmail.html:5
+#: about/introduction_kmail.html:5
 #, fuzzy, kde-format
 msgctxt "%1 is version"
 msgid "Welcome to KMail %1"
 msgstr "KMail"
 
-#: ./about/introduction_kmail.html:7
+#: about/introduction_kmail.html:7
 #, fuzzy
 msgid ""
 "KMail is the email client by KDE. It is designed to be fully compatible with "
 "Internet mailing standards including IMAP, POP3 and SMTP."
 msgstr "KMail"
 
-#: ./about/introduction_kmail.html:10
+#: about/introduction_kmail.html:10
 #, fuzzy
 msgid ""
 "KMail has many powerful features that are described in the <a href='help:/"
 "kmail2/index.html'>documentation</a>."
 msgstr "KMail"
 
-#: ./about/introduction_kmail.html:16
+#: about/introduction_kmail.html:16
 #, fuzzy
 msgid "Important changes since last version:"
 msgstr "Modificat:"
 
-#: ./about/introduction_kmail.html:25
+#: about/introduction_kmail.html:25
 #, fuzzy
 msgid "Some of the new features in this release of KMail include:"
 msgstr "KMail"
 
-#: ./about/introduction_kmail.html:34
+#: about/introduction_kmail.html:34
 #, fuzzy
 msgid ""
 "Please take a moment to fill in the KMail configuration panel at Settings-"
@@ -65,17 +65,17 @@ msgid ""
 "incoming as well as outgoing mail account."
 msgstr "KMail"
 
-#: ./about/introduction_kmail.html:38
+#: about/introduction_kmail.html:38
 #, fuzzy
 msgid "We hope that you will enjoy KMail."
 msgstr "KMail"
 
-#: ./about/introduction_kmail.html:39
+#: about/introduction_kmail.html:39
 #, fuzzy
 msgid "Thank you,"
 msgstr "Lingue al quel vu traducte"
 
-#: ./about/introduction_kmail.html:40
+#: about/introduction_kmail.html:40
 #, fuzzy
 msgid "The KMail Team"
 msgstr "KMail"
@@ -184,9 +184,9 @@ msgstr ""
 #, fuzzy
 msgid "Enhanced configuration dialogs"
 msgstr ""
-"Alterar inter un <emphasis>barra de menú</emphasis> e un <interface>buton hamb"
-"urger</interface>. Amb optiones provide presc li sam comandes e parametres de "
-"configuration."
+"Alterar inter un <emphasis>barra de menú</emphasis> e un <interface>buton "
+"hamburger</interface>. Amb optiones provide presc li sam comandes e "
+"parametres de configuration."
 
 #: aboutdata.cpp:76
 #, fuzzy
@@ -360,9 +360,9 @@ msgstr "Lontan e aparates"
 #, fuzzy
 msgid "Patch composer configuration"
 msgstr ""
-"Alterar inter un <emphasis>barra de menú</emphasis> e un <interface>buton hamb"
-"urger</interface>. Amb optiones provide presc li sam comandes e parametres de "
-"configuration."
+"Alterar inter un <emphasis>barra de menú</emphasis> e un <interface>buton "
+"hamburger</interface>. Amb optiones provide presc li sam comandes e "
+"parametres de configuration."
 
 #: aboutdata.cpp:170 aboutdata.cpp:185
 #, fuzzy
@@ -494,8 +494,7 @@ msgctxt "@label:textbox"
 msgid "URL for mailing list posting:"
 msgstr "Liste de fólderes:"
 
-#: collectionpage/collectionmailinglistpage.cpp:112
-#: messageactions.cpp:452
+#: collectionpage/collectionmailinglistpage.cpp:112 messageactions.cpp:452
 #, fuzzy, kde-format
 msgid "Subscribe to List"
 msgstr "A"
@@ -742,8 +741,8 @@ msgstr ""
 msgctxt "@title:window"
 msgid "Unable to start account wizard"
 msgstr ""
-"Ne successat trovar li componente KPart de Ark; ples controlar vor installatio"
-"n."
+"Ne successat trovar li componente KPart de Ark; ples controlar vor "
+"installation."
 
 #: configuredialog/configureaccountpage.cpp:257
 #, fuzzy, kde-format
@@ -1040,104 +1039,110 @@ msgstr "Date"
 msgid "Date Display:"
 msgstr "Date"
 
-#: configuredialog/configureappearancepage.cpp:814
+#: configuredialog/configureappearancepage.cpp:811
+#, fuzzy, kde-format
+msgctxt "@option:check"
+msgid "Display Own Identity"
+msgstr "&Identitá"
+
+#: configuredialog/configureappearancepage.cpp:816
 #, fuzzy, kde-format
 msgid "Message Window"
 msgstr "Proprietás de missage"
 
-#: configuredialog/configureappearancepage.cpp:821
+#: configuredialog/configureappearancepage.cpp:823
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid ""
 "Close the standalone message window after replying or forwarding the message"
 msgstr "Proprietás de missage"
 
-#: configuredialog/configureappearancepage.cpp:829
+#: configuredialog/configureappearancepage.cpp:835
 #, fuzzy, kde-format
 msgid "System Tray"
 msgstr "Sistema"
 
-#: configuredialog/configureappearancepage.cpp:835
+#: configuredialog/configureappearancepage.cpp:841
 #, fuzzy, kde-format
 msgctxt "@option:check"
 msgid "Enable system tray icon"
 msgstr "Icone:"
 
-#: configuredialog/configureappearancepage.cpp:839
+#: configuredialog/configureappearancepage.cpp:845
 #, fuzzy, kde-format
 msgctxt "@option:check"
 msgid "Start minimized to tray"
 msgstr "A"
 
-#: configuredialog/configureappearancepage.cpp:857
+#: configuredialog/configureappearancepage.cpp:863
 #, fuzzy, kde-format
 msgctxt "@option:check"
 msgid "Show unread email in Taskbar"
 msgstr "Cliente de postage de KDE"
 
-#: configuredialog/configureappearancepage.cpp:862
+#: configuredialog/configureappearancepage.cpp:868
 #, fuzzy, kde-format
 msgid "Plasma activities"
 msgstr "KDE Plasma %1"
 
-#: configuredialog/configureappearancepage.cpp:867
+#: configuredialog/configureappearancepage.cpp:873
 #, fuzzy, kde-format
 msgctxt "@option:check"
 msgid "Enable"
 msgstr "Activ"
 
-#: configuredialog/configureappearancepage.cpp:930
+#: configuredialog/configureappearancepage.cpp:939
 #, fuzzy, kde-format
 msgid "A&vailable Tags"
 msgstr "Etiquettes"
 
-#: configuredialog/configureappearancepage.cpp:943
+#: configuredialog/configureappearancepage.cpp:952
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid "Add new tag"
 msgstr "Adjunter"
 
-#: configuredialog/configureappearancepage.cpp:948
+#: configuredialog/configureappearancepage.cpp:957
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid "Remove selected tag"
 msgstr "Remover"
 
-#: configuredialog/configureappearancepage.cpp:957
+#: configuredialog/configureappearancepage.cpp:966
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid "Increase tag priority"
 msgstr "Prioritá"
 
-#: configuredialog/configureappearancepage.cpp:963
+#: configuredialog/configureappearancepage.cpp:972
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid "Decrease tag priority"
 msgstr "Prioritá"
 
-#: configuredialog/configureappearancepage.cpp:987
+#: configuredialog/configureappearancepage.cpp:996
 #, fuzzy, kde-format
 msgid "Ta&g Settings"
 msgstr "Parametres"
 
-#: configuredialog/configureappearancepage.cpp:1037
+#: configuredialog/configureappearancepage.cpp:1046
 #, fuzzy, kde-format
 msgid "Delete"
 msgstr "Remover"
 
-#: configuredialog/configureappearancepage.cpp:1167
+#: configuredialog/configureappearancepage.cpp:1176
 #, fuzzy, kde-format
 msgid "Do you want to remove tag '%1'?"
 msgstr "Remover"
 
-#: configuredialog/configureappearancepage.cpp:1168
+#: configuredialog/configureappearancepage.cpp:1177
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "Remove Tag"
 msgstr "Remover"
 
-#: configuredialog/configureappearancepage.cpp:1213
-#: configuredialog/configureappearancepage.cpp:1248
+#: configuredialog/configureappearancepage.cpp:1222
+#: configuredialog/configureappearancepage.cpp:1257
 #, fuzzy, kde-format
 msgid "We cannot create tag. A tag with same name already exists."
 msgstr "Crear..."
@@ -1240,8 +1245,8 @@ msgstr "Avisar quande on crea archives zip con ciffration AES"
 #, fuzzy, kde-format
 msgid "Enable automatic word wrapping at the specified width"
 msgstr ""
-"Li archive <filename>%1</filename> ne plu existe, e ne posse "
-"esser copiat al providet localisation."
+"Li archive <filename>%1</filename> ne plu existe, e ne posse esser copiat al "
+"providet localisation."
 
 #: configuredialog/configurecomposerpage.cpp:216
 #, fuzzy, kde-format
@@ -1297,8 +1302,8 @@ msgstr "Recipientes de missage"
 msgctxt "@info:tooltip"
 msgid "Warn if too many recipients are specified"
 msgstr ""
-"Li archive <filename>%1</filename> ne plu existe, e ne posse "
-"esser copiat al providet localisation."
+"Li archive <filename>%1</filename> ne plu existe, e ne posse esser copiat al "
+"providet localisation."
 
 #: configuredialog/configurecomposerpage.cpp:321
 #, fuzzy, kde-format
@@ -1361,7 +1366,7 @@ msgid "No autosave"
 msgstr "no"
 
 #: configuredialog/configurecomposerpage.cpp:412
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Interval suffix"
 msgid " minute"
 msgid_plural " minutes"
@@ -1426,8 +1431,7 @@ msgid "For&ward Subject Prefixes"
 msgstr "&Tema"
 
 #. i18n: ectx: property (text), widget (QPushButton, mRemoveButton)
-#: configuredialog/configurecomposerpage.cpp:657
-#: ui/identitypage.ui:66
+#: configuredialog/configurecomposerpage.cpp:657 ui/identitypage.ui:66
 #, fuzzy, kde-format
 msgid "Remo&ve"
 msgstr "Remover"
@@ -1573,8 +1577,7 @@ msgctxt "@action"
 msgid "Add"
 msgstr "Adjunter"
 
-#: configuredialog/configuredialoglistview.cpp:57
-#: identity/identitypage.cpp:277
+#: configuredialog/configuredialoglistview.cpp:57 identity/identitypage.cpp:277
 #, kde-format
 msgctxt "@action"
 msgid "Remove"
@@ -1733,8 +1736,7 @@ msgid "This option requires dirmngr >= 0.9.0"
 msgstr "Remover ti-ci zone horari"
 
 #. i18n: ectx: property (text), widget (QLabel, systemHTTPProxy)
-#: configuredialog/configuresecuritypage.cpp:532
-#: ui/smimeconfiguration.ui:186
+#: configuredialog/configuresecuritypage.cpp:532 ui/smimeconfiguration.ui:186
 #, fuzzy, kde-format
 msgid "no proxy"
 msgstr "no"
@@ -2820,8 +2822,8 @@ msgid ""
 "Transport was not found. Please verify that you will use a correct mail "
 "transport."
 msgstr ""
-"Ne successat trovar li componente KPart de Ark; ples controlar vor installatio"
-"n."
+"Ne successat trovar li componente KPart de Ark; ples controlar vor "
+"installation."
 
 #: editor/warningwidgets/incorrectidentityfolderwarning.cpp:70
 #, fuzzy, kde-format
@@ -2958,7 +2960,8 @@ msgid "Reopen Closed Viewer"
 msgstr "Pri li componente de visor"
 
 #. i18n: ectx: property (text), widget (QLabel, image)
-#: identity/encodedimagepicker.cpp:86 kmcommands.cpp:1925 ui/encodedimagepicker.ui:37
+#: identity/encodedimagepicker.cpp:86 kmcommands.cpp:1925
+#: ui/encodedimagepicker.ui:37
 #, kde-format
 msgid "Image"
 msgstr "Image"
@@ -2987,8 +2990,7 @@ msgctxt "@title:window"
 msgid "Create own vCard"
 msgstr "Crear..."
 
-#: identity/identityaddvcarddialog.cpp:48
-#: identity/newidentitydialog.cpp:70
+#: identity/identityaddvcarddialog.cpp:48 identity/newidentitydialog.cpp:70
 #, fuzzy, kde-format
 msgctxt "@option:radio"
 msgid "&With empty fields"
@@ -3012,8 +3014,7 @@ msgctxt "@option:radio"
 msgid "&Duplicate existing vCard"
 msgstr ""
 
-#: identity/identityaddvcarddialog.cpp:89
-#: identity/newidentitydialog.cpp:91
+#: identity/identityaddvcarddialog.cpp:89 identity/newidentitydialog.cpp:91
 #, fuzzy, kde-format
 msgctxt "@label:textbox"
 msgid "&Existing identities:"
@@ -3772,7 +3773,8 @@ msgid "Clear Akonadi Cache"
 msgstr "Vacuar li recent files"
 
 #: job/clearcachejobinfolderandsubfolderjob.cpp:94
-#: job/removeduplicatemailjob.cpp:58 job/removeduplicatemessageinfolderandsubfolderjob.cpp:90
+#: job/removeduplicatemailjob.cpp:58
+#: job/removeduplicatemessageinfolderandsubfolderjob.cpp:90
 #: manageshowcollectionproperties.cpp:171
 #, kde-format
 msgid "Done"
@@ -3885,17 +3887,20 @@ msgctxt "@action:button Delete folder"
 msgid "&Delete"
 msgstr "&Remover"
 
-#: job/removeduplicatemailjob.cpp:31 job/removeduplicatemessageinfolderandsubfolderjob.cpp:72
+#: job/removeduplicatemailjob.cpp:31
+#: job/removeduplicatemessageinfolderandsubfolderjob.cpp:72
 #, kde-format
 msgid "Removing duplicates"
 msgstr ""
 
-#: job/removeduplicatemailjob.cpp:63 job/removeduplicatemessageinfolderandsubfolderjob.cpp:96
+#: job/removeduplicatemailjob.cpp:63
+#: job/removeduplicatemessageinfolderandsubfolderjob.cpp:96
 #, fuzzy, kde-format
 msgid "Error occurred during removing duplicate emails: '%1'"
 msgstr "mistresssilvara@hotmail.com"
 
-#: job/removeduplicatemailjob.cpp:64 job/removeduplicatemessageinfolderandsubfolderjob.cpp:97
+#: job/removeduplicatemailjob.cpp:64
+#: job/removeduplicatemessageinfolderandsubfolderjob.cpp:97
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "Error while removing duplicates"
@@ -4042,8 +4047,8 @@ msgid "F&older"
 msgstr "Liste de fólderes:"
 
 #. i18n: ectx: Menu (apply_filters_folder_actions)
-#: kmail_part.rc:134 kmail_part.rc:288 kmmainwidget.cpp:3478
-#: kmmainwin.rc:134 kmmainwin.rc:291
+#: kmail_part.rc:134 kmail_part.rc:288 kmmainwidget.cpp:3478 kmmainwin.rc:134
+#: kmmainwin.rc:291
 #, fuzzy, kde-format
 msgid "Apply Filters on Folder"
 msgstr "Filtres de POP"
@@ -4109,8 +4114,8 @@ msgstr "Panel de instrumentarium"
 msgctxt "@title:window"
 msgid "Please wait"
 msgstr ""
-"Ne successat trovar li componente KPart de Ark; ples controlar vor installatio"
-"n."
+"Ne successat trovar li componente KPart de Ark; ples controlar vor "
+"installation."
 
 #: kmcommands.cpp:306 kmcommands.cpp:377
 #, fuzzy, kde-format
@@ -4290,6 +4295,7 @@ msgstr "File"
 
 #: kmkernel.cpp:879
 #, fuzzy, kde-format
+msgctxt "@title:window"
 msgid "Opening Autosave File Failed"
 msgstr "File"
 
@@ -4390,8 +4396,8 @@ msgstr "mistresssilvara@hotmail.com"
 msgctxt "@title:window"
 msgid "Unable to start \"PIM Data Exporter\" program"
 msgstr ""
-"Ne successat trovar li componente KPart de Ark; ples controlar vor installatio"
-"n."
+"Ne successat trovar li componente KPart de Ark; ples controlar vor "
+"installation."
 
 #: kmlaunchexternalcomponent.cpp:137
 #, fuzzy, kde-format
@@ -5719,8 +5725,8 @@ msgstr "Liste de fólderes:"
 #, fuzzy, kde-format
 msgid "Please wait . . ."
 msgstr ""
-"Ne successat trovar li componente KPart de Ark; ples controlar vor installatio"
-"n."
+"Ne successat trovar li componente KPart de Ark; ples controlar vor "
+"installation."
 
 #: kmreaderwin.cpp:324 kmreaderwin.cpp:333
 #, kde-format
@@ -7444,8 +7450,8 @@ msgstr "Compresser li selectet files a un nov."
 #, fuzzy, kde-format
 msgid "&Validate certificates using CRLs"
 msgstr ""
-"Filelight analisa li usage de disco por vider quo occupa mult spacie. "
-"Ples selecter un fólder por continuar:"
+"Filelight analisa li usage de disco por vider quo occupa mult spacie. Ples "
+"selecter un fólder por continuar:"
 
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, OCSPRB)
 #: ui/smimeconfiguration.ui:30
@@ -7530,9 +7536,9 @@ msgid ""
 "If this option is checked, missing issuer certificates are fetched when "
 "necessary (this applies to both validation methods, CRLs and OCSP)"
 msgstr ""
-"Alterar inter un <emphasis>barra de menú</emphasis> e un <interface>buton hamb"
-"urger</interface>. Amb optiones provide presc li sam comandes e parametres de "
-"configuration."
+"Alterar inter un <emphasis>barra de menú</emphasis> e un <interface>buton "
+"hamburger</interface>. Amb optiones provide presc li sam comandes e "
+"parametres de configuration."
 
 #. i18n: ectx: property (text), widget (QCheckBox, fetchMissingCB)
 #: ui/smimeconfiguration.ui:124
@@ -7826,4 +7832,3 @@ msgstr[1] "&Responder"
 #, kde-format
 msgid "Zoom: %1%"
 msgstr "Scale: %1%"
-

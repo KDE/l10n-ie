@@ -12,7 +12,7 @@ msgstr ""
 "Language-Team: Interlingue <>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 24.07.70\n"
@@ -2172,8 +2172,8 @@ msgid "Modified"
 msgstr "Modificat"
 
 #: kitemviews/kfileitemmodel.cpp:2731 kitemviews/kfileitemmodel.cpp:2732
-#, fuzzy
 #: kitemviews/kfileitemmodel.cpp:2733
+#, fuzzy
 msgctxt "@tooltip"
 msgid "The date format can be selected in settings."
 msgstr "Parametres"
@@ -2713,8 +2713,6 @@ msgstr "Revelar celat files"
 
 #: panels/information/informationpanel.cpp:168
 #, kde-format
-#| msgctxt "@action:inmenu menu for configure actions"
-#| msgid "Configure"
 msgctxt "@action:inmenu"
 msgid "Configure…"
 msgstr "Configurar..."
@@ -2975,8 +2973,6 @@ msgstr "Vor files"
 
 #: search/dolphinsearchbox.cpp:419
 #, kde-format
-#| msgctxt "@action:inmenu Tools"
-#| msgid "Open %1"
 msgid "Open %1"
 msgstr "Aperter %1"
 
@@ -3261,7 +3257,6 @@ msgstr "Selecter"
 
 #: settings/contextmenu/contextmenusettingspage.cpp:64
 #, kde-format
-#| msgid "Search"
 msgctxt "@label:textbox"
 msgid "Search…"
 msgstr "Sercha..."
@@ -3892,7 +3887,6 @@ msgstr "Interfacie"
 
 #: settings/dolphinsettingsdialog.cpp:59
 #, kde-format
-#| msgid "&View"
 msgctxt "@title:group"
 msgid "View"
 msgstr "Vise"
@@ -4659,8 +4653,6 @@ msgstr "Rute"
 
 #: settings/viewmodes/viewsettingspage.cpp:29
 #, kde-format
-#| msgctxt "@title:group General settings"
-#| msgid "General"
 msgctxt "@title:tab General View settings"
 msgid "General"
 msgstr "General"
@@ -5191,9 +5183,6 @@ msgstr[1] "%1 files selectet"
 
 #: views/dolphinview.cpp:659
 #, kde-format
-#| msgctxt "@info:status"
-#| msgid "1 Folder"
-#| msgid_plural "%1 Folders"
 msgctxt "@info:status"
 msgid "1 folder"
 msgid_plural "%1 folders"
@@ -5202,8 +5191,6 @@ msgstr[1] "%1 fólderes"
 
 #: views/dolphinview.cpp:660
 #, kde-format
-#| msgctxt "action:button"
-#| msgid "Your files"
 msgctxt "@info:status"
 msgid "1 file"
 msgid_plural "%1 files"
@@ -5906,4 +5893,3 @@ msgstr "Version"
 #~ msgctxt "separator in list of apps blocking device unmount"
 #~ msgid ", "
 #~ msgstr ", "
-

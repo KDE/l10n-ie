@@ -12,7 +12,7 @@ msgstr ""
 "Language-Team: Interlingue <>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 24.07.70\n"
@@ -24,7 +24,6 @@ msgstr "Rectangulari region"
 
 #: src/CaptureModeModel.cpp:104
 #, kde-format
-#| msgid "Full Screen"
 msgid "All Screens"
 msgstr "Omni ecranes"
 
@@ -370,14 +369,11 @@ msgstr "Accesse al linea de comandes"
 
 #: src/Gui/AnnotationsToolBarContents.qml:121
 #, kde-format
-#| msgctxt "Keyboard action"
-#| msgid "Arrow keys"
 msgid "Arrow"
 msgstr "Flechette"
 
 #: src/Gui/AnnotationsToolBarContents.qml:128
 #, kde-format
-#| msgid "Rectangular Region"
 msgid "Rectangle"
 msgstr "Rectangul"
 
@@ -408,9 +404,6 @@ msgstr "Nró"
 
 #: src/Gui/CaptureModeButtonsColumn.qml:31 src/Gui/MainToolBarContents.qml:109
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "%1 second"
-#| msgid_plural "%1 seconds"
 msgid "Cancel (%1 second)"
 msgid_plural "Cancel (%1 seconds)"
 msgstr[0] "Anullar (%1 seconde)"
@@ -418,7 +411,6 @@ msgstr[1] "Anullar (%1 secondes)"
 
 #: src/Gui/CaptureOptions.qml:17
 #, kde-format
-#| msgid "Take a new Screenshot"
 msgid "Take a new screenshot"
 msgstr "Fa un nov captura"
 
@@ -453,7 +445,6 @@ msgstr "Captura del ecran"
 
 #: src/Gui/CaptureSettingsColumn.qml:34 src/Gui/OptionsMenu.cpp:96
 #, kde-format
-#| msgid "Include window titlebar and borders"
 msgid "Include window shadow"
 msgstr "Includer li ombre de fenestre"
 
@@ -488,7 +479,6 @@ msgstr "Spectacle"
 
 #: src/Gui/CaptureSettingsColumn.qml:64
 #, kde-format
-#| msgid "On Click"
 msgid "Capture on click"
 msgstr "Capturar pos un clic"
 
@@ -509,16 +499,12 @@ msgstr "Captura del ecran"
 
 #: src/Gui/DelaySpinBox.qml:15
 #, kde-format
-#| msgid "No Delay"
 msgctxt "0 second delay"
 msgid "No Delay"
 msgstr "Sin retarde"
 
 #: src/Gui/DelaySpinBox.qml:24
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "%1 second"
-#| msgid_plural "%1 seconds"
 msgctxt "Integer number of seconds"
 msgid "%2 second"
 msgid_plural "%2 seconds"
@@ -527,9 +513,6 @@ msgstr[1] "%2 secondes"
 
 #: src/Gui/DelaySpinBox.qml:26
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "%1 second"
-#| msgid_plural "%1 seconds"
 msgctxt "Decimal number of seconds"
 msgid "%1 seconds"
 msgstr "%1 secondes"
@@ -546,21 +529,18 @@ msgstr "Auxilie"
 
 #: src/Gui/DialogPage.qml:87
 #, kde-format
-#| msgid "Take Screenshot:"
 msgctxt "@title:group"
 msgid "Take a Screenshot:"
 msgstr "Capturar li ecran:"
 
 #: src/Gui/DialogPage.qml:102 src/Gui/DialogPage.qml:143
 #, kde-format
-#| msgid "<b>Options</b>"
 msgctxt "@title:group"
 msgid "Options"
 msgstr "Parametres"
 
 #: src/Gui/DialogPage.qml:128
 #, kde-format
-#| msgid "Record Screen"
 msgctxt "@title:group"
 msgid "Make a Recording:"
 msgstr "Far un registration:"
@@ -573,7 +553,6 @@ msgstr "Captura del ecran"
 
 #: src/Gui/DialogPage.qml:170
 #, kde-format
-#| msgid "Record Screen"
 msgctxt "@title:tab"
 msgid "Recording"
 msgstr "Registration"
@@ -600,7 +579,6 @@ msgstr "Captura del ecran"
 
 #: src/Gui/ImageView.qml:167
 #, kde-format
-#| msgid "Record Screen"
 msgid "Recording"
 msgstr "Registration"
 
@@ -645,7 +623,6 @@ msgstr "Copiar"
 
 #: src/Gui/MainToolBarContents.qml:79
 #, kde-format
-#| msgid "Copy Location to Clipboard"
 msgid "Copy Location"
 msgstr "Copiar li localisation"
 
@@ -667,7 +644,6 @@ msgstr "Nov captura"
 
 #: src/Gui/MainToolBarContents.qml:133
 #, kde-format
-#| msgid "<b>Options</b>"
 msgid "Options"
 msgstr "Parametres"
 
@@ -678,7 +654,6 @@ msgstr "Configurar..."
 
 #: src/Gui/OptionsMenu.cpp:42
 #, kde-format
-#| msgid "<b>Capture Mode</b>"
 msgid "Capture Mode"
 msgstr "Mode de captura"
 
@@ -718,7 +693,6 @@ msgstr "Spectacle"
 
 #: src/Gui/OptionsMenu.cpp:137
 #, kde-format
-#| msgid "On Click"
 msgid "Capture On Click"
 msgstr "Capturar pos un clic"
 
@@ -745,13 +719,10 @@ msgstr "Capturar un fenestre sub li apuntator"
 
 #: src/Gui/RecordingView.qml:52
 #, kde-format
-#| msgid "Record Screen"
 msgid ""
 "Recording:\n"
 "%1"
-msgstr ""
-"Registration: "
-"%1"
+msgstr "Registration: %1"
 
 #: src/Gui/RecordingView.qml:83
 #, kde-format
@@ -765,7 +736,6 @@ msgstr "Reproducter"
 
 #: src/Gui/RecordOptions.qml:23
 #, kde-format
-#| msgid "Record Screen"
 msgid "Recording Settings"
 msgstr "Parametres de registration"
 
@@ -924,9 +894,7 @@ msgstr "Usar lucid funde"
 #: src/Gui/SettingsDialog/GeneralOptions.ui:181
 #, fuzzy, kde-format
 msgid "Accept on click-and-release"
-msgstr ""
-"Ja registrat: %1 "
-"Fa un clic por finir"
+msgstr "Ja registrat: %1 Fa un clic por finir"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_showCaptureInstructions)
 #: src/Gui/SettingsDialog/GeneralOptions.ui:188
@@ -937,7 +905,6 @@ msgstr "Monstrar instructiones por captura"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/Gui/SettingsDialog/GeneralOptions.ui:195
 #, kde-format
-#| msgid "Show magnifier"
 msgid "Show magnifier:"
 msgstr "Monstrar un lupe:"
 
@@ -1017,8 +984,6 @@ msgstr "Previder:"
 
 #: src/Gui/SettingsDialog/SaveOptionsUtils.h:40
 #, kde-kuit-format
-#| msgctxt "@info"
-#| msgid "<filename>%1.%2</filename>"
 msgctxt "@info"
 msgid "<filename>%1</filename>"
 msgstr "<filename>%1</filename>"
@@ -1049,7 +1014,6 @@ msgstr "Monstrar un lupe:"
 
 #: src/Gui/SettingsDialog/SettingsDialog.cpp:34
 #, kde-format
-#| msgid "General"
 msgctxt "Settings category"
 msgid "General"
 msgstr "General"
@@ -1068,7 +1032,6 @@ msgstr "Formate predefinit de video"
 
 #: src/Gui/SettingsDialog/SettingsDialog.cpp:37
 #, kde-format
-#| msgid "Shortcuts"
 msgctxt "Settings category"
 msgid "Shortcuts"
 msgstr "Rapid-tastes"
@@ -1436,20 +1399,17 @@ msgstr "Includer li ombre de fenestre"
 #. i18n: ectx: property (text), widget (QLabel, saveLocationLabel)
 #: src/Gui/SettingsDialog/VideoSaveOptions.ui:9
 #, kde-format
-#| msgid "Save Location:"
 msgid "Save &Location:"
 msgstr "&Loc a gardar:"
 
 #: src/Gui/SharedMessage.qml:13
 #, kde-format
-#| msgid "Image shared"
 msgctxt "@info"
 msgid "Video shared"
 msgstr "Video sta partit"
 
 #: src/Gui/SharedMessage.qml:13
 #, kde-format
-#| msgid "Image shared"
 msgctxt "@info"
 msgid "Image shared"
 msgstr "Image sta partit"
@@ -1619,8 +1579,6 @@ msgstr[1] "%1 secondes"
 
 #: src/Gui/SpectacleWindow.cpp:177
 #, kde-format
-#| msgctxt "@title:window Unsaved Screenshot"
-#| msgid "Unsaved[*]"
 msgctxt "@title:window Unsaved Screenshot"
 msgid "Unsaved"
 msgstr "Íngardat"
@@ -1725,9 +1683,7 @@ msgctxt "@info"
 msgid ""
 "Potentially relevant information:\n"
 "%1"
-msgstr ""
-"Registration: "
-"%1"
+msgstr "Registration: %1"
 
 #: src/Platforms/ImagePlatformKWin.cpp:302
 #, fuzzy, kde-format
@@ -1841,24 +1797,18 @@ msgstr "Ne successat selecter un fenestre: %1"
 
 #: src/RecordingModeModel.cpp:71
 #, kde-format
-#| msgid "Rectangular Region"
 msgctxt "@item recording mode"
 msgid "Rectangular Region"
 msgstr "Rectangulari region"
 
 #: src/RecordingModeModel.cpp:74
 #, kde-format
-#| msgid "Full Screen"
 msgctxt "@item recording mode"
 msgid "Full Screen"
 msgstr "Plen-ecran"
 
 #: src/RecordingModeModel.cpp:77
 #, kde-format
-#| msgctxt ""
-#| "A placeholder in the user configurable filename will replaced by the "
-#| "specified value"
-#| msgid "Window Title"
 msgctxt "@item recording mode"
 msgid "Window"
 msgstr "Fenestre"
@@ -1895,19 +1845,16 @@ msgstr "Capturar un fenestre sub li apuntator"
 
 #: src/ShortcutActions.cpp:74
 #, kde-format
-#| msgid "Record Screen"
 msgid "Record Screen"
 msgstr "Registrar li ecran"
 
 #: src/ShortcutActions.cpp:80
 #, kde-format
-#| msgid "Record Screen"
 msgid "Record Window"
 msgstr "Registrar un fenestre"
 
 #: src/ShortcutActions.cpp:86
 #, kde-format
-#| msgid "Rectangular Region"
 msgid "Record Rectangular Region"
 msgstr "Registrar un rectangulari region"
 
@@ -1948,9 +1895,7 @@ msgctxt "@info:tooltip subtitle for recording tray icon"
 msgid ""
 "Time recorded: %1\n"
 "Click to finish recording"
-msgstr ""
-"Ja registrat: %1 "
-"Fa un clic por finir"
+msgstr "Ja registrat: %1 Fa un clic por finir"
 
 #: src/SpectacleCore.cpp:318
 #, fuzzy, kde-format
@@ -2002,15 +1947,12 @@ msgstr "mistresssilvara@hotmail.com"
 
 #: src/SpectacleCore.cpp:968
 #, kde-format
-#| msgctxt "Placeholder is filename"
-#| msgid "A screenshot was saved as '%1' to your Pictures folder."
 msgctxt "Placeholder is filename"
 msgid "A recording was saved as '%1' to your Videos folder."
 msgstr "Li registration sta gardat quam «%1» a vor fólder Videos."
 
 #: src/SpectacleCore.cpp:970
 #, kde-format
-#| msgid "A screenshot was saved as '%1' to '%2'."
 msgid "A recording was saved as '%1' to '%2'."
 msgstr "Li captura sta gardat quam «%1» a «%2»."
 
@@ -2235,5 +2177,3 @@ msgstr "MP4/H.264"
 #~ msgctxt "A rectangular region was captured, heading"
 #~ msgid "Rectangular Region Captured"
 #~ msgstr "Un rectangulari region esset capturat"
-
-

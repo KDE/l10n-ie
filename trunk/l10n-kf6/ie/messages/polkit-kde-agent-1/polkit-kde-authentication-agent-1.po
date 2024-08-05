@@ -12,7 +12,7 @@ msgstr ""
 "Language-Team: Interlingue <>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 24.07.70\n"
@@ -98,7 +98,6 @@ msgstr "Cambiar..."
 
 #: qml/MobileQuickAuthDialog.qml:154 qml/QuickAuthDialog.qml:184
 #, kde-format
-#| msgid "Password:"
 msgid "Password…"
 msgstr "Contrasigne..."
 
@@ -134,7 +133,6 @@ msgstr "Venditor:"
 
 #: qml/QuickAuthDialog.qml:158
 #, kde-format
-#| msgid "Authentication Required"
 msgid "Authenticating as %1"
 msgstr "Autentication quam %1"
 
@@ -182,4 +180,3 @@ msgstr "Autentication quam %1"
 
 #~ msgid "PolicyKit1 KDE Agent"
 #~ msgstr "Agente PolicyKit1 de KDE"
-

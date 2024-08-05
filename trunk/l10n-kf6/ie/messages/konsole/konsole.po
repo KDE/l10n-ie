@@ -12,7 +12,7 @@ msgstr ""
 "Language-Team: Interlingue <>\n"
 "Language: ie\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 24.07.70\n"
@@ -217,9 +217,9 @@ msgid ""
 "Force re-using the existing instance even if it breaks functionality, e. g. "
 "--new-tab. Mostly for debugging."
 msgstr ""
-"Alterar inter un <emphasis>barra de menú</emphasis> e un <interface>buton hamb"
-"urger</interface>. Amb optiones provide presc li sam comandes e parametres de "
-"configuration."
+"Alterar inter un <emphasis>barra de menú</emphasis> e un <interface>buton "
+"hamburger</interface>. Amb optiones provide presc li sam comandes e "
+"parametres de configuration."
 
 #: Application.cpp:86
 #, fuzzy, kde-format
@@ -1849,7 +1849,6 @@ msgstr "Profil predefinit"
 
 #: profile/ProfileManager.cpp:280
 #, kde-format
-#| msgid "Profile"
 msgctxt "New profile name, %1 is a number"
 msgid "Profile %1"
 msgstr "Profil %1"
@@ -2261,8 +2260,6 @@ msgstr "Mus"
 
 #: session/SessionController.cpp:834
 #, kde-format
-#| msgctxt "@item:inmenu A read only (locked) session"
-#| msgid "Read-only"
 msgctxt "@item:inmenu A read only (locked) session"
 msgid "Read-Only"
 msgstr "Solmen letion"
@@ -2602,8 +2599,8 @@ msgstr "Notificationes:"
 #, fuzzy, kde-format
 msgid "All dialogs will be shown again"
 msgstr ""
-"Pos reiniciation li computator va monstrar li ecran de configuration de firmwa"
-"re."
+"Pos reiniciation li computator va monstrar li ecran de configuration de "
+"firmware."
 
 #. i18n: ectx: property (text), widget (QPushButton, enableAllMessagesButton)
 #: settings/GeneralSettings.ui:227
@@ -2934,8 +2931,8 @@ msgstr "Monstrar:"
 #, fuzzy, kde-format
 msgid "When needed"
 msgstr ""
-"Pos reiniciation li computator va monstrar li ecran de configuration de firmwa"
-"re."
+"Pos reiniciation li computator va monstrar li ecran de configuration de "
+"firmware."
 
 #. i18n: ectx: property (text), widget (QRadioButton, AlwaysShowTabBar)
 #: settings/TabBarSettings.ui:73
@@ -3087,8 +3084,8 @@ msgstr "Monstrar li buton «Nov carte»"
 msgctxt "@option:radio When needed show the split header"
 msgid "When needed"
 msgstr ""
-"Pos reiniciation li computator va monstrar li ecran de configuration de firmwa"
-"re."
+"Pos reiniciation li computator va monstrar li ecran de configuration de "
+"firmware."
 
 #. i18n: ectx: property (text), widget (QRadioButton, AlwaysHideSplitHeader)
 #: settings/TabBarSettings.ui:420
@@ -3706,7 +3703,6 @@ msgstr "Numerós de lineas"
 #. i18n: ectx: property (text), widget (QRadioButton, lineNumsNever)
 #: widgets/EditProfileAdvancedPage.ui:293
 #, kde-format
-#| msgid "&Never"
 msgctxt "Never"
 msgid "&Never"
 msgstr "&Nequande"
@@ -3987,8 +3983,6 @@ msgstr "Fortie:"
 #. i18n: ectx: property (text), widget (QLabel, borderLabel)
 #: widgets/EditProfileAppearancePage.ui:543
 #, kde-format
-#| msgctxt "Cursor color options"
-#| msgid "Color:"
 msgctxt "Border color options"
 msgid "Color:"
 msgstr "Color:"
@@ -4128,7 +4122,6 @@ msgstr "Collar &sin caracteres de control"
 #. i18n: ectx: property (text), widget (QCheckBox, wordModeAscii)
 #: widgets/EditProfileAppearancePage.ui:896
 #, kde-format
-#| msgid "Word characters:"
 msgid "ASCII characters "
 msgstr "Caracteres ASCII"
 
@@ -4283,7 +4276,7 @@ msgid "The highlighted characters are invalid in profile names: %1."
 msgstr "Un profil con li nómine «%1» ja existe."
 
 #: widgets/EditProfileDialog.cpp:416
-#, fuzzy, kde-format
+#, kde-format
 msgid "Editing profile: %2"
 msgid_plural "Editing %1 profiles: %2"
 msgstr[0] ""
@@ -5148,8 +5141,6 @@ msgstr "Restituer li terminal"
 #. i18n: ectx: property (text), widget (QRadioButton, unlimitedHistoryButton)
 #: widgets/HistorySizeWidget.ui:137
 #, kde-format
-#| msgctxt "Save all lines to the scrollback history"
-#| msgid "Unlimited"
 msgctxt "Save all lines to the scrollback history"
 msgid "&Unlimited"
 msgstr "Ínli&mitat"
@@ -5163,8 +5154,6 @@ msgstr "Precedent carte"
 #. i18n: ectx: property (text), widget (QRadioButton, noHistoryButton)
 #: widgets/HistorySizeWidget.ui:175
 #, kde-format
-#| msgctxt "@action:inmenu Do not select any tabs"
-#| msgid "&None"
 msgctxt "Do not save any lines to the scrollback history"
 msgid "&None"
 msgstr "&Null"
@@ -5324,7 +5313,6 @@ msgstr "Formate de titul de un normal carte:"
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: widgets/RenameTabWidget.ui:105
 #, kde-format
-#| msgid "Tab Color:"
 msgid "Tab Co&lor:"
 msgstr "Co&lor de carte:"
 
@@ -5462,5 +5450,3 @@ msgstr "Cluder li carte"
 
 #~ msgid "text/css"
 #~ msgstr "text/css"
-
-
