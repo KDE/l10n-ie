@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-07-20 00:45+0000\n"
+"POT-Creation-Date: 2024-08-06 00:45+0000\n"
 "PO-Revision-Date: 2024-08-04 16:14+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <>\n"
@@ -19,17 +19,17 @@ msgctxt "GenericName"
 msgid "KDE System Settings"
 msgstr "Parametres del sistema de KDE"
 
-#: app/kdesystemsettings.desktop:75
+#: app/kdesystemsettings.desktop:76
 msgctxt "Name"
 msgid "KDE System Settings"
 msgstr "Parametres del sistema de KDE"
 
-#: app/kdesystemsettings.desktop:142 app/systemsettings.desktop:192
+#: app/kdesystemsettings.desktop:144 app/systemsettings.desktop:194
 msgctxt "Comment"
 msgid "Configuration tools for your computer"
 msgstr "Utensiles de configuration por vor computator"
 
-#: app/kdesystemsettings.desktop:206 app/systemsettings.desktop:253
+#: app/kdesystemsettings.desktop:209 app/systemsettings.desktop:256
 msgctxt "Keywords"
 msgid "systemsettings"
 msgstr ""
@@ -39,32 +39,32 @@ msgctxt "GenericName"
 msgid "System Settings"
 msgstr "Parametres del sistema"
 
-#: app/systemsettings.desktop:100
+#: app/systemsettings.desktop:101
 msgctxt "Name"
 msgid "System Settings"
 msgstr "Parametres del sistema"
 
-#: app/systemsettings.desktop:295
+#: app/systemsettings.desktop:298
 msgctxt "Name"
 msgid "Global Theme"
 msgstr "Global tema"
 
-#: app/systemsettings.desktop:352
+#: app/systemsettings.desktop:356
 msgctxt "Name"
 msgid "Users"
 msgstr "Usatores"
 
-#: app/systemsettings.desktop:411
+#: app/systemsettings.desktop:416
 msgctxt "Name"
 msgid "Screen Locking"
 msgstr "Serrar li ecran"
 
-#: app/systemsettings.desktop:469
+#: app/systemsettings.desktop:475
 msgctxt "Name"
 msgid "Power Management"
 msgstr "Gerentie de energie"
 
-#: app/systemsettings.desktop:554
+#: app/systemsettings.desktop:561
 msgctxt "Name"
 msgid "Display Configuration"
 msgstr "Configuration de monitor"
@@ -114,7 +114,7 @@ msgctxt "Name"
 msgid "Display & Monitor"
 msgstr "Monitor"
 
-#: categories/settings-hardware-display.desktop:53
+#: categories/settings-hardware-display.desktop:54
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr "Parametres de monitor"
