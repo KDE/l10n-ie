@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-08-15 00:45+0000\n"
+"POT-Creation-Date: 2024-08-16 00:45+0000\n"
 "PO-Revision-Date: 2022-11-16 15:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -168,7 +168,7 @@ msgctxt "GenericName"
 msgid "Device Synchronization Settings"
 msgstr "Sincronisation del aparate"
 
-#: settings/org.kde.kdeconnect-settings.desktop:78
+#: settings/org.kde.kdeconnect-settings.desktop:79
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Device Synchronization"
@@ -188,7 +188,7 @@ msgctxt "GenericName"
 msgid "Text Messaging"
 msgstr "Menú de comunication"
 
-#: smsapp/org.kde.kdeconnect.sms.desktop:70
+#: smsapp/org.kde.kdeconnect.sms.desktop:71
 #, fuzzy
 msgctxt "Comment"
 msgid "Read and send SMS messages on connected devices"
