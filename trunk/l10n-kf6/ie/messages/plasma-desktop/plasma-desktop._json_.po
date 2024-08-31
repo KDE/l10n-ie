@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-06-03 00:46+0000\n"
+"POT-Creation-Date: 2024-08-31 00:47+0000\n"
 "PO-Revision-Date: 2022-11-10 00:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -61,10 +61,12 @@ msgid "Pager"
 msgstr "Monstrar in li paginator"
 
 #: applets/showActivityManager/package/metadata.json
-#: kcms/activities/kcm_activities.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Shows the activity manager"
 msgctxt "Name"
-msgid "Activities"
-msgstr "Activitás"
+msgid "Show Activity Manager"
+msgstr "Monstrar li gerente de activitá"
 
 #: applets/showdesktop/package/metadata.json
 #, fuzzy
@@ -110,6 +112,11 @@ msgstr "Panel"
 msgctxt "Name"
 msgid "Accessibility"
 msgstr "Accessibilitá"
+
+#: kcms/activities/kcm_activities.json
+msgctxt "Name"
+msgid "Activities"
+msgstr "Activitás"
 
 #: kcms/baloo/kcm_baloofile.json
 msgctxt "Name"
