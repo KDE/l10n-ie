@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-31 01:00+0000\n"
+"POT-Creation-Date: 2024-09-13 03:26+0000\n"
 "PO-Revision-Date: 2022-10-26 06:51+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -12,6 +12,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.12\n"
+
+#: src/kcm/kcm_bluetooth.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"bluetooth,hardware,connection,devices,find devices,connect,disconnect,send "
+"file,receive file,transfer,wireless,visible,adapter,pin,trusted devices"
+msgstr ""
 
 #: src/kcm/kcm_bluetooth.json src/kded/bluedevil.json
 msgctxt "Name"
