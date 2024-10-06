@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio-gdrive\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-02-16 01:40+0000\n"
+"POT-Creation-Date: 2024-10-06 00:39+0000\n"
 "PO-Revision-Date: 2022-11-02 08:21+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -33,7 +33,7 @@ msgstr ""
 "Nu vu posse gerer li files de Google Drive de vor conto <emphasis "
 "strong='true'>%1</emphasis>."
 
-#: kaccounts/kaccountsplugin.cpp:45 kaccounts/kaccountsplugin.cpp:48
+#: kaccounts/kaccountsplugin.cpp:44
 #, kde-format
 msgid "Open"
 msgstr "Aperter"
@@ -73,7 +73,7 @@ msgstr "Copiar li URL"
 msgid "Open in browser"
 msgstr "Aperter in li navigator"
 
-#: src/integration/propertiesplugin/gdrivepropertiesplugin.cpp:111
+#: src/integration/propertiesplugin/gdrivepropertiesplugin.cpp:106
 #, kde-format
 msgid "G&oogle Drive"
 msgstr "G&oogle Drive"
