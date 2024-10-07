@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-08-11 02:40+0000\n"
+"POT-Creation-Date: 2024-10-07 02:33+0000\n"
 "PO-Revision-Date: 2022-10-24 23:40+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -59,7 +59,7 @@ msgctxt "Name"
 msgid "Share"
 msgstr ""
 
-#: src/neochat.notifyrc:290
+#: src/neochat.notifyrc:291
 msgctxt "Comment"
 msgid "The result of sharing a piece of content"
 msgstr ""
