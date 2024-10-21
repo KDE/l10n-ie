@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2024-06-19 00:41+0000\n"
+"POT-Creation-Date: 2024-10-21 00:42+0000\n"
 "PO-Revision-Date: 2024-08-02 15:40+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <>\n"
@@ -24,7 +24,7 @@ msgid "Use the command line interface"
 msgstr "Usar un interfacie de linea de comandes"
 
 #. (itstool) path: description/p
-#: org.kde.konsole.appdata.xml:10
+#: org.kde.konsole.appdata.xml:12
 msgid ""
 "Konsole is a terminal to run a command shell. It provides a command line "
 "interface for directly controlling your computer."
@@ -33,42 +33,42 @@ msgstr ""
 "interfacie del linea de comandes por controlar vor computator directmen."
 
 #. (itstool) path: description/p
-#: org.kde.konsole.appdata.xml:11
+#: org.kde.konsole.appdata.xml:13
 msgid "Features:"
 msgstr "Caracteristicas:"
 
 #. (itstool) path: ul/li
-#: org.kde.konsole.appdata.xml:13
+#: org.kde.konsole.appdata.xml:15
 msgid "Tabs"
 msgstr "Cartes"
 
 #. (itstool) path: ul/li
-#: org.kde.konsole.appdata.xml:14
+#: org.kde.konsole.appdata.xml:16
 msgid "Multiple profiles"
 msgstr "Multiplic profiles"
 
 #. (itstool) path: ul/li
-#: org.kde.konsole.appdata.xml:15
+#: org.kde.konsole.appdata.xml:17
 msgid "Silence and Activity monitoring"
 msgstr "Control de activitá e ínaction"
 
 #. (itstool) path: ul/li
-#: org.kde.konsole.appdata.xml:16
+#: org.kde.konsole.appdata.xml:18
 msgid "Bookmark support"
 msgstr "Supporte de marca-págines"
 
 #. (itstool) path: ul/li
-#: org.kde.konsole.appdata.xml:17
+#: org.kde.konsole.appdata.xml:19
 msgid "Searching"
 msgstr "Sercha"
 
 #. (itstool) path: ul/li
-#: org.kde.konsole.appdata.xml:18
+#: org.kde.konsole.appdata.xml:20
 msgid "Saving output"
 msgstr "Gardation de production"
 
 #. (itstool) path: screenshot/caption
-#: org.kde.konsole.appdata.xml:30
+#: org.kde.konsole.appdata.xml:32
 msgid "Konsole being used as a terminal emulator"
 msgstr "Konsole es usat quam un emulator de terminal"
 
