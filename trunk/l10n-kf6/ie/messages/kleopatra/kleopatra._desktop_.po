@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-10-24 00:45+0000\n"
+"POT-Creation-Date: 2024-10-25 00:46+0000\n"
 "PO-Revision-Date: 2022-10-27 20:06+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -81,7 +81,7 @@ msgctxt "Name"
 msgid "Archive, Sign & Encrypt Folder"
 msgstr "Archivar, signar e ciffrar un fólder"
 
-#: src/data/kleopatra_signencryptfolders.desktop:84
+#: src/data/kleopatra_signencryptfolders.desktop:85
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Archive && Encrypt Folder"
