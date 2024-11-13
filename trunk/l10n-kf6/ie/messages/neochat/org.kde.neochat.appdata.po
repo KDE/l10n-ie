@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2024-10-22 00:39+0000\n"
+"POT-Creation-Date: 2024-11-13 00:40+0000\n"
 "PO-Revision-Date: 2022-10-24 23:46+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -64,17 +64,17 @@ msgid "Location Events - MSC3488"
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.neochat.appdata.xml:56 org.kde.neochat.appdata.xml:71
+#: org.kde.neochat.appdata.xml:57 org.kde.neochat.appdata.xml:72
 msgid "Main view with room list, chat, and room information"
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.neochat.appdata.xml:60
+#: org.kde.neochat.appdata.xml:61
 msgid "Discover new communities with Matrix Spaces"
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.neochat.appdata.xml:75
+#: org.kde.neochat.appdata.xml:76
 msgid "Login screen"
 msgstr ""
 
