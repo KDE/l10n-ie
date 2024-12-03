@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-09-13 00:48+0000\n"
+"POT-Creation-Date: 2024-12-03 00:48+0000\n"
 "PO-Revision-Date: 2022-10-27 19:46+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -31,6 +31,11 @@ msgstr ""
 #: kcms/proxy/kcm_proxy.json
 msgctxt "Name"
 msgid "Proxy"
+msgstr ""
+
+#: kcms/proxy/wpad-detector/wpad-detector.json
+msgctxt "Name"
+msgid "Proxy Verifier"
 msgstr ""
 
 #: kcms/trash/kcm_trash.json
@@ -151,6 +156,11 @@ msgstr ""
 #: kcms/proxy/kcm_proxy.json
 msgctxt "Description"
 msgid "Configure the proxy servers used"
+msgstr ""
+
+#: kcms/proxy/wpad-detector/wpad-detector.json
+msgctxt "Description"
+msgid "Verifies proxy setup is performing as expected"
 msgstr ""
 
 #: kcms/trash/kcm_trash.json
