@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-03 00:46+0000\n"
+"POT-Creation-Date: 2024-12-04 00:46+0000\n"
 "PO-Revision-Date: 2022-10-27 19:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -25,12 +25,12 @@ msgctxt "Comment"
 msgid "Install and remove apps and add-ons"
 msgstr ""
 
-#: discover/org.kde.discover.desktop.cmake:90
+#: discover/org.kde.discover.desktop.cmake:92
 msgctxt "GenericName"
 msgid "Software Center"
 msgstr "Programmarium"
 
-#: discover/org.kde.discover.desktop.cmake:151
+#: discover/org.kde.discover.desktop.cmake:153
 #, fuzzy
 #| msgctxt "Keywords"
 #| msgid ""
@@ -44,7 +44,7 @@ msgstr ""
 "programma;repositoria;paccage;adjunter;installar;deinstallar;actualisar;app;"
 "applicationes;ludes;flatpak;snap;addons;add-ons;firmware;"
 
-#: discover/org.kde.discover.desktop.cmake:190
+#: discover/org.kde.discover.desktop.cmake:192
 msgctxt "Name"
 msgid "See Available Updates"
 msgstr "Vider li disponibil actualisamentes"
