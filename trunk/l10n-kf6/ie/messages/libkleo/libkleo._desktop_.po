@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-15 00:47+0000\n"
+"POT-Creation-Date: 2024-12-16 00:53+0000\n"
 "PO-Revision-Date: 2022-10-27 00:16+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,32 +18,32 @@ msgctxt "Name"
 msgid "TAR (PGP®-compatible)"
 msgstr "TAR (compatibil con PGP®)"
 
-#: src/libkleopatrarc.desktop:96
+#: src/libkleopatrarc.desktop:97
 msgctxt "Name"
 msgid "TAR (with bzip2 compression)"
 msgstr "TAR (compresset med bzip2)"
 
-#: src/libkleopatrarc.desktop:146 src/libkleopatrarc-win32.desktop:57
+#: src/libkleopatrarc.desktop:148 src/libkleopatrarc-win32.desktop:58
 msgctxt "Name"
 msgid "sha256sum"
 msgstr "sha256sum"
 
-#: src/libkleopatrarc.desktop:196 src/libkleopatrarc-win32.desktop:108
+#: src/libkleopatrarc.desktop:199 src/libkleopatrarc-win32.desktop:110
 msgctxt "Name"
 msgid "sha1sum"
 msgstr "sha1sum"
 
-#: src/libkleopatrarc.desktop:246
+#: src/libkleopatrarc.desktop:250
 msgctxt "Name"
 msgid "sha512sum"
 msgstr "sha512sum"
 
-#: src/libkleopatrarc.desktop:293 src/libkleopatrarc-win32.desktop:158
+#: src/libkleopatrarc.desktop:298 src/libkleopatrarc-win32.desktop:161
 msgctxt "Name"
 msgid "md5sum"
 msgstr "md5sum"
 
-#: src/libkleopatrarc.desktop:344 src/libkleopatrarc-win32.desktop:209
+#: src/libkleopatrarc.desktop:350 src/libkleopatrarc-win32.desktop:213
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Expired Key"
@@ -51,14 +51,14 @@ msgctxt "Name"
 msgid "Expired"
 msgstr "Expirat clave"
 
-#: src/libkleopatrarc.desktop:371 src/libkleopatrarc-win32.desktop:236
+#: src/libkleopatrarc.desktop:379 src/libkleopatrarc-win32.desktop:242
 msgctxt "Description"
 msgid ""
 "Certificates that are invalid because they have expired (except disabled "
 "ones)"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:397 src/libkleopatrarc-win32.desktop:262
+#: src/libkleopatrarc.desktop:407 src/libkleopatrarc-win32.desktop:270
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Revoked Key"
@@ -66,36 +66,36 @@ msgctxt "Name"
 msgid "Revoked"
 msgstr "Revocat clave"
 
-#: src/libkleopatrarc.desktop:424 src/libkleopatrarc-win32.desktop:289
+#: src/libkleopatrarc.desktop:436 src/libkleopatrarc-win32.desktop:299
 msgctxt "Description"
 msgid ""
 "Certificates that are invalid because they have been revoked (except "
 "disabled ones)"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:451 src/libkleopatrarc-win32.desktop:316
+#: src/libkleopatrarc.desktop:465 src/libkleopatrarc-win32.desktop:328
 #, fuzzy
 msgctxt "Name"
 msgid "Trusted Root Certificates"
 msgstr "Qu_am li superusator"
 
-#: src/libkleopatrarc.desktop:478 src/libkleopatrarc-win32.desktop:343
+#: src/libkleopatrarc.desktop:494 src/libkleopatrarc-win32.desktop:357
 msgctxt "Description"
 msgid "S/MIME root certificates that are trusted"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:511 src/libkleopatrarc-win32.desktop:376
+#: src/libkleopatrarc.desktop:529 src/libkleopatrarc-win32.desktop:392
 #, fuzzy
 msgctxt "Name"
 msgid "Not Trusted Root Certificates"
 msgstr "Qu_am li superusator"
 
-#: src/libkleopatrarc.desktop:538 src/libkleopatrarc-win32.desktop:403
+#: src/libkleopatrarc.desktop:558 src/libkleopatrarc-win32.desktop:421
 msgctxt "Description"
 msgid "S/MIME root certificates that are not trusted"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:568 src/libkleopatrarc-win32.desktop:433
+#: src/libkleopatrarc.desktop:590 src/libkleopatrarc-win32.desktop:453
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Keys for Qualified Signatures"
@@ -103,7 +103,7 @@ msgctxt "Name"
 msgid "For Qualified Signatures"
 msgstr "Claves por qualificat signatures"
 
-#: src/libkleopatrarc.desktop:595 src/libkleopatrarc-win32.desktop:460
+#: src/libkleopatrarc.desktop:619 src/libkleopatrarc-win32.desktop:482
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Keys for Qualified Signatures"
@@ -111,7 +111,7 @@ msgctxt "Description"
 msgid "Certificates usable for qualified signatures"
 msgstr "Claves por qualificat signatures"
 
-#: src/libkleopatrarc.desktop:625 src/libkleopatrarc-win32.desktop:490
+#: src/libkleopatrarc.desktop:651 src/libkleopatrarc-win32.desktop:514
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Smartcard Key"
@@ -119,17 +119,17 @@ msgctxt "Name"
 msgid "On Smart Card"
 msgstr "Clave de smartcarte"
 
-#: src/libkleopatrarc.desktop:652 src/libkleopatrarc-win32.desktop:517
+#: src/libkleopatrarc.desktop:680 src/libkleopatrarc-win32.desktop:543
 msgctxt "Description"
 msgid "Certificates stored on smart cards (except disabled ones)"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:679 src/libkleopatrarc-win32.desktop:544
+#: src/libkleopatrarc.desktop:709 src/libkleopatrarc-win32.desktop:572
 msgctxt "Name"
 msgid "OpenPGP"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:706 src/libkleopatrarc-win32.desktop:571
+#: src/libkleopatrarc.desktop:738 src/libkleopatrarc-win32.desktop:601
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "OpenPGP Certificates"
@@ -137,12 +137,12 @@ msgctxt "Description"
 msgid "OpenPGP certificates (except disabled ones)"
 msgstr "Certificates OpenPGP"
 
-#: src/libkleopatrarc.desktop:732 src/libkleopatrarc-win32.desktop:597
+#: src/libkleopatrarc.desktop:766 src/libkleopatrarc-win32.desktop:629
 msgctxt "Name"
 msgid "S/MIME"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:759 src/libkleopatrarc-win32.desktop:624
+#: src/libkleopatrarc.desktop:795 src/libkleopatrarc-win32.desktop:658
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "X509 Certificates"
@@ -150,66 +150,66 @@ msgctxt "Description"
 msgid "S/MIME certificates"
 msgstr "Certificates X509"
 
-#: src/libkleopatrarc.desktop:794 src/libkleopatrarc-win32.desktop:659
+#: src/libkleopatrarc.desktop:832 src/libkleopatrarc-win32.desktop:695
 msgctxt "Name"
 msgid "VS-NfD Compliant"
 msgstr "Conformant a VS-NfD"
 
-#: src/libkleopatrarc.desktop:829 src/libkleopatrarc-win32.desktop:694
+#: src/libkleopatrarc.desktop:868 src/libkleopatrarc-win32.desktop:731
 msgctxt "Description"
 msgid "Certificates that are VS-NfD compliant (except disabled ones)"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:859 src/libkleopatrarc-win32.desktop:724
+#: src/libkleopatrarc.desktop:900 src/libkleopatrarc-win32.desktop:763
 msgctxt "Name"
 msgid "Not VS-NfD Compliant"
 msgstr "Ínconformant a VS-NfD"
 
-#: src/libkleopatrarc.desktop:894 src/libkleopatrarc-win32.desktop:759
+#: src/libkleopatrarc.desktop:936 src/libkleopatrarc-win32.desktop:799
 msgctxt "Description"
 msgid "Certificates that are not VS-NfD compliant (except disabled ones)"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:926 src/libkleopatrarc-win32.desktop:791
+#: src/libkleopatrarc.desktop:970 src/libkleopatrarc-win32.desktop:833
 msgctxt "Name"
 msgid "Not VS-NfD Compliant (Expired)"
 msgstr "Ínconformant a VS-NfD (expirat)"
 
-#: src/libkleopatrarc.desktop:959 src/libkleopatrarc-win32.desktop:824
+#: src/libkleopatrarc.desktop:1004 src/libkleopatrarc-win32.desktop:867
 msgctxt "Description"
 msgid ""
 "Expired certificates (if VS-NfD compliance mode is active, except disabled "
 "ones)"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:990 src/libkleopatrarc-win32.desktop:855
+#: src/libkleopatrarc.desktop:1037 src/libkleopatrarc-win32.desktop:900
 msgctxt "Name"
 msgid "Not VS-NfD Compliant (Revoked)"
 msgstr "Ínconformant a VS-NfD (revocat)"
 
-#: src/libkleopatrarc.desktop:1023 src/libkleopatrarc-win32.desktop:888
+#: src/libkleopatrarc.desktop:1071 src/libkleopatrarc-win32.desktop:934
 msgctxt "Description"
 msgid ""
 "Revoked certificates (if VS-NfD compliance mode is active, except disabled "
 "ones)"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:1049 src/libkleopatrarc-win32.desktop:914
+#: src/libkleopatrarc.desktop:1099 src/libkleopatrarc-win32.desktop:962
 msgctxt "Name"
 msgid "Disabled"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:1063 src/libkleopatrarc-win32.desktop:928
+#: src/libkleopatrarc.desktop:1115 src/libkleopatrarc-win32.desktop:978
 msgctxt "Description"
 msgid "Certificates that are disabled"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:1094 src/libkleopatrarc-win32.desktop:959
+#: src/libkleopatrarc.desktop:1148 src/libkleopatrarc-win32.desktop:1011
 msgctxt "Name"
 msgid "My Own"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:1116 src/libkleopatrarc-win32.desktop:981
+#: src/libkleopatrarc.desktop:1172 src/libkleopatrarc-win32.desktop:1035
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "X509 Certificates"
