@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-17 00:47+0000\n"
+"POT-Creation-Date: 2025-01-07 00:47+0000\n"
 "PO-Revision-Date: 2022-11-16 16:38+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -25,11 +25,11 @@ msgid "Memory,RAM,cpu,disk,gpu,network"
 msgstr "Memorie,RAM,cpu,disco,gpu,rete"
 
 #: org.kde.plasma-systemmonitor.desktop:52
-msgctxt "GenericName"
-msgid "System Monitor"
-msgstr "Monitor del sistema"
+msgctxt "Comment"
+msgid "Monitor app and system resource usage"
+msgstr ""
 
-#: org.kde.plasma-systemmonitor.desktop:106
+#: org.kde.plasma-systemmonitor.desktop:57
 msgctxt "Keywords"
 msgid "task;manager;process;cpu;memory;"
 msgstr "tache;gerente;processe;cpu;memorie;"
@@ -105,6 +105,10 @@ msgstr "Processes"
 msgctxt "Name"
 msgid "Pages"
 msgstr "Págines"
+
+#~ msgctxt "GenericName"
+#~ msgid "System Monitor"
+#~ msgstr "Monitor del sistema"
 
 #~ msgctxt "Name"
 #~ msgid "Applications Table"
