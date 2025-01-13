@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-30 00:48+0000\n"
+"POT-Creation-Date: 2025-01-13 00:47+0000\n"
 "PO-Revision-Date: 2022-10-27 00:16+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -199,17 +199,17 @@ msgctxt "Name"
 msgid "Disabled"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:1160 src/libkleopatrarc-win32.desktop:1023
+#: src/libkleopatrarc.desktop:1161 src/libkleopatrarc-win32.desktop:1024
 msgctxt "Description"
 msgid "Certificates that are disabled"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:1195 src/libkleopatrarc-win32.desktop:1058
+#: src/libkleopatrarc.desktop:1196 src/libkleopatrarc-win32.desktop:1059
 msgctxt "Name"
 msgid "My Own"
 msgstr ""
 
-#: src/libkleopatrarc.desktop:1222 src/libkleopatrarc-win32.desktop:1085
+#: src/libkleopatrarc.desktop:1223 src/libkleopatrarc-win32.desktop:1086
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "X509 Certificates"
