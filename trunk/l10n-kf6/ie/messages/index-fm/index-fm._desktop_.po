@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-01-11 00:46+0000\n"
+"POT-Creation-Date: 2025-01-14 00:47+0000\n"
 "PO-Revision-Date: 2024-08-01 20:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -24,22 +24,22 @@ msgctxt "Comment"
 msgid "File Manager"
 msgstr "Gerente de files"
 
-#: src/data/org.kde.index.notifyrc:82
+#: src/data/org.kde.index.notifyrc:83
 msgctxt "Name"
 msgid "Operations"
 msgstr "Operationes"
 
-#: src/data/org.kde.index.notifyrc:117
+#: src/data/org.kde.index.notifyrc:119
 msgctxt "Comment"
 msgid "File operations"
 msgstr "Operationes con files"
 
-#: src/data/org.kde.index.notifyrc:154
+#: src/data/org.kde.index.notifyrc:157
 msgctxt "Name"
 msgid "File Operation"
 msgstr "Operation con files"
 
-#: src/data/org.kde.index.notifyrc:189
+#: src/data/org.kde.index.notifyrc:193
 msgctxt "Comment"
 msgid "Performing a file operation"
 msgstr "Operante con un file"
