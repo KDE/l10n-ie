@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-08 00:46+0000\n"
+"POT-Creation-Date: 2025-02-11 00:47+0000\n"
 "PO-Revision-Date: 2022-10-21 16:17+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -943,13 +943,16 @@ msgstr "https://www.baidu.com/s?wd=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/kde_apps.desktop:3
 msgctxt "Name"
-msgid "KDE App Search"
-msgstr "KDE App Search"
+msgid "Plasma Add-Ons and Extensions"
+msgstr ""
 
 #: src/urifilters/ikws/searchproviders/kde_apps.desktop:101
+#, fuzzy
+#| msgctxt "Query"
+#| msgid "https://invent.kde.org/search?search=\\\\{@}"
 msgctxt "Query"
-msgid "https://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
-msgstr "https://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
+msgid "https://store.kde.org/browse?tag=\\\\{@}"
+msgstr "https://invent.kde.org/search?search=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/kde.desktop:6
 msgctxt "Name"
@@ -1757,6 +1760,16 @@ msgstr ""
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr "Modelle de KIO Worker"
+
+#~ msgctxt "Name"
+#~ msgid "KDE App Search"
+#~ msgstr "KDE App Search"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "https://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
+#~ msgstr ""
+#~ "https://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 
 #~ msgctxt "Comment"
 #~ msgid "Network Proxy Configuration"
