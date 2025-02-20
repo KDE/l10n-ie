@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-16 00:48+0000\n"
+"POT-Creation-Date: 2025-02-20 00:47+0000\n"
 "PO-Revision-Date: 2022-10-27 20:06+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -22,16 +22,6 @@ msgstr "Kleopatra: Deciffrar e verificar files"
 msgctxt "Name"
 msgid "Decrypt/Verify File"
 msgstr "Deciffrar e verificar un file"
-
-#: src/data/kleopatra_decryptverifyfolders.desktop:4
-msgctxt "Name"
-msgid "Kleopatra Decrypt/Verify All Files In Folder"
-msgstr "Kleopatra: Deciffrar e verificar omni files il li fólder"
-
-#: src/data/kleopatra_decryptverifyfolders.desktop:63
-msgctxt "Name"
-msgid "Decrypt/Verify All Files In Folder"
-msgstr "Deciffrar e verificar omni files il li fólder"
 
 #: src/data/kleopatra_import.desktop:8 src/data/org.kde.kleopatra.desktop:6
 msgctxt "Name"
@@ -110,6 +100,14 @@ msgstr ""
 msgctxt "Comment"
 msgid "Viewer for GnuPG daemon and application logs"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Kleopatra Decrypt/Verify All Files In Folder"
+#~ msgstr "Kleopatra: Deciffrar e verificar omni files il li fólder"
+
+#~ msgctxt "Name"
+#~ msgid "Decrypt/Verify All Files In Folder"
+#~ msgstr "Deciffrar e verificar omni files il li fólder"
 
 #~ msgctxt "Name"
 #~ msgid "OpenPGP-Sign File"
