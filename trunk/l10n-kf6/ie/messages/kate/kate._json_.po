@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-22 00:50+0000\n"
+"POT-Creation-Date: 2025-03-02 00:50+0000\n"
 "PO-Revision-Date: 2022-11-03 07:50+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: ie <kde-i18n-doc@kde.org>\n"
@@ -24,9 +24,12 @@ msgid "Close Except/Like"
 msgstr "Cluder exept/quam"
 
 #: addons/cmake-tools/cmaketoolsplugin.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "XML Completion"
 msgctxt "Name"
-msgid "CMake Tools"
-msgstr "Utensiles CMake"
+msgid "CMake Completion"
+msgstr "Completion de XML"
 
 #: addons/colorpicker/katecolorpickerplugin.json
 msgctxt "Name"
@@ -207,8 +210,8 @@ msgstr "Cluder un gruppe de documentes secun un comun rute o extension de file"
 
 #: addons/cmake-tools/cmaketoolsplugin.json
 msgctxt "Description"
-msgid "CMake plugin for kate"
-msgstr "Plugin de CMake por Kate"
+msgid "Code completion for CMake files"
+msgstr ""
 
 #: addons/colorpicker/katecolorpickerplugin.json
 msgctxt "Description"
@@ -374,6 +377,14 @@ msgstr "Liste elementes e atributes XML, su valores e entitás permisset de DTD"
 msgctxt "Authors Name"
 msgid "Friedrich W. H. Kossebau"
 msgstr "Friedrich W. H. Kossebau"
+
+#~ msgctxt "Name"
+#~ msgid "CMake Tools"
+#~ msgstr "Utensiles CMake"
+
+#~ msgctxt "Description"
+#~ msgid "CMake plugin for kate"
+#~ msgstr "Plugin de CMake por Kate"
 
 #~ msgctxt "Description"
 #~ msgid "Compile or Make and parse error messages"
