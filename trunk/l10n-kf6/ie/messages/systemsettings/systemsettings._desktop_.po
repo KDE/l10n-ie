@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-13 09:57+0000\n"
+"POT-Creation-Date: 2025-03-05 00:49+0000\n"
 "PO-Revision-Date: 2024-08-04 16:14+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <>\n"
@@ -19,17 +19,17 @@ msgctxt "GenericName"
 msgid "KDE System Settings"
 msgstr "Parametres del sistema de KDE"
 
-#: app/kdesystemsettings.desktop:76
+#: app/kdesystemsettings.desktop:77
 msgctxt "Name"
 msgid "KDE System Settings"
 msgstr "Parametres del sistema de KDE"
 
-#: app/kdesystemsettings.desktop:144 app/systemsettings.desktop:194
+#: app/kdesystemsettings.desktop:146 app/systemsettings.desktop:194
 msgctxt "Comment"
 msgid "Configuration tools for your computer"
 msgstr "Utensiles de configuration por vor computator"
 
-#: app/kdesystemsettings.desktop:209 app/systemsettings.desktop:256
+#: app/kdesystemsettings.desktop:212 app/systemsettings.desktop:257
 msgctxt "Keywords"
 msgid "systemsettings"
 msgstr ""
@@ -44,27 +44,27 @@ msgctxt "Name"
 msgid "System Settings"
 msgstr "Parametres del sistema"
 
-#: app/systemsettings.desktop:302
+#: app/systemsettings.desktop:304
 msgctxt "Name"
 msgid "Global Theme"
 msgstr "Global tema"
 
-#: app/systemsettings.desktop:360
+#: app/systemsettings.desktop:363
 msgctxt "Name"
 msgid "Users"
 msgstr "Usatores"
 
-#: app/systemsettings.desktop:420
+#: app/systemsettings.desktop:424
 msgctxt "Name"
 msgid "Screen Locking"
 msgstr "Serrar li ecran"
 
-#: app/systemsettings.desktop:479
+#: app/systemsettings.desktop:484
 msgctxt "Name"
 msgid "Power Management"
 msgstr "Gerentie de energie"
 
-#: app/systemsettings.desktop:565
+#: app/systemsettings.desktop:570
 msgctxt "Name"
 msgid "Display Configuration"
 msgstr "Configuration de monitor"
@@ -114,7 +114,7 @@ msgctxt "Name"
 msgid "Display & Monitor"
 msgstr "Monitor"
 
-#: categories/settings-hardware-display.desktop:56
+#: categories/settings-hardware-display.desktop:57
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr "Parametres de monitor"
