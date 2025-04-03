@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-10 03:04+0000\n"
+"POT-Creation-Date: 2025-04-03 02:38+0000\n"
 "PO-Revision-Date: 2022-10-27 20:06+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -46,7 +46,7 @@ msgctxt "Name"
 msgid "Sign/Encrypt File…"
 msgstr "Signar e ciffrar un file"
 
-#: src/data/kleopatra_signencryptfiles.desktop:94
+#: src/data/kleopatra_signencryptfiles.desktop:95
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Encrypt File"
@@ -54,7 +54,7 @@ msgctxt "Name"
 msgid "Encrypt File…"
 msgstr "Ciffrar un file"
 
-#: src/data/kleopatra_signencryptfiles.desktop:125
+#: src/data/kleopatra_signencryptfiles.desktop:127
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "S/MIME-Sign File"
