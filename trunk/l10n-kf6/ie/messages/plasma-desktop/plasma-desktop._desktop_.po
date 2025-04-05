@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-04-04 00:48+0000\n"
+"POT-Creation-Date: 2025-04-05 00:48+0000\n"
 "PO-Revision-Date: 2022-11-10 00:32+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -383,9 +383,9 @@ msgctxt "Name"
 msgid "Touchpad"
 msgstr "Panel tactil"
 
-#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:64
-#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:85
-#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:106
+#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:65
+#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:86
+#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:107
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Touchpad"
