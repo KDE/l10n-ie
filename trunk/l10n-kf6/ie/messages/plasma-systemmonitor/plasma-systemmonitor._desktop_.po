@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-04-20 00:47+0000\n"
+"POT-Creation-Date: 2025-05-01 00:48+0000\n"
 "PO-Revision-Date: 2022-11-16 16:38+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -12,6 +12,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.12\n"
+
+#: autotests/data/global/basepage.page:12
+msgctxt "Title"
+msgid "New Base Page"
+msgstr ""
+
+#: autotests/data/global/newtestpage.page:12
+msgctxt "Title"
+msgid "New Test Page"
+msgstr ""
+
+#: autotests/data/global/old-basepage.page:12
+msgctxt "Title"
+msgid "Old Base Page"
+msgstr ""
+
+#: autotests/data/global/oldtestpage.page:12
+msgctxt "Title"
+msgid "Old Test Page"
+msgstr ""
+
+#: autotests/data/global/replacepage.page:12
+msgctxt "Title"
+msgid "Replace Page"
+msgstr ""
+
+#: autotests/data/local/basepage.page:8
+msgctxt "Title"
+msgid "Base Page"
+msgstr ""
+
+#: autotests/data/local/localpage.page:12
+msgctxt "Title"
+msgid "Local Page"
+msgstr ""
+
+#: autotests/data/local/replacepage.page:12
+msgctxt "Title"
+msgid "Local Replaced Page"
+msgstr ""
 
 #: kcm_external_plasma-systemmonitor.desktop:14
 #: org.kde.plasma-systemmonitor.desktop:2
@@ -34,36 +74,51 @@ msgctxt "Keywords"
 msgid "task;manager;process;cpu;memory;"
 msgstr "tache;gerente;processe;cpu;memorie;"
 
-#: src/pages/applications.page:10 src/pages/overview.page:555
+#: src/pages/applications.page:12 src/pages/overview.page:555
 msgctxt "Title"
 msgid "Applications"
 msgstr "Applicationes"
 
-#: src/pages/history.page:34
+#: src/pages/history.page:51
 msgctxt "Title"
 msgid "History"
 msgstr "Diarium"
 
-#: src/pages/history.page:89 src/pages/overview.page:189
+#: src/pages/history.page:106 src/pages/old-history.page:40
+#: src/pages/overview.page:189
 msgctxt "Title"
 msgid "CPU"
 msgstr "CPU"
 
-#: src/pages/history.page:144 src/pages/history.page:261
-#: src/pages/history.page:378
+#: src/pages/history.page:193
+#, fuzzy
+#| msgctxt "Title"
+#| msgid "CPU"
 msgctxt "Title"
-msgid "false"
-msgstr "fals"
+msgid "GPU"
+msgstr "CPU"
 
-#: src/pages/history.page:206 src/pages/overview.page:6
+#: src/pages/history.page:215 src/pages/old-history.page:157
+#: src/pages/overview.page:6
 msgctxt "Title"
 msgid "Memory"
 msgstr "Memorie"
 
-#: src/pages/history.page:323
+#: src/pages/history.page:286 src/pages/old-history.page:274
 msgctxt "Title"
 msgid "Network"
 msgstr "Rete"
+
+#: src/pages/old-history.page:34
+msgctxt "Title"
+msgid "History (Old Version)"
+msgstr ""
+
+#: src/pages/old-history.page:95 src/pages/old-history.page:212
+#: src/pages/old-history.page:329
+msgctxt "Title"
+msgid "false"
+msgstr "fals"
 
 #: src/pages/overview.page:66
 msgctxt "Title"
@@ -96,7 +151,7 @@ msgctxt "Title"
 msgid "Network & System"
 msgstr "Rete e sistema"
 
-#: src/pages/processes.page:10
+#: src/pages/processes.page:12
 msgctxt "Title"
 msgid "Processes"
 msgstr "Processes"
