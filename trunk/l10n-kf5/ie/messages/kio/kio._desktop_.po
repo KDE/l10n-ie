@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-17 01:57+0000\n"
+"POT-Creation-Date: 2025-05-11 02:03+0000\n"
 "PO-Revision-Date: 2022-10-21 16:17+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Execute action as root."
 msgstr "Executer un action quam li superusator."
 
-#: src/ioslaves/file/kauth/file.actions:59
+#: src/ioslaves/file/kauth/file.actions:60
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr "Li privilegies del superusator es besonat por compleer ti action."
@@ -49,12 +49,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "Cookies"
 
-#: src/kcms/cookies/cookies.desktop:77
+#: src/kcms/cookies/cookies.desktop:78
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "Configurar li usage de cookies"
 
-#: src/kcms/cookies/cookies.desktop:172
+#: src/kcms/cookies/cookies.desktop:173
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr "Cookies,Navigation,Internet,WWW,Rete,Politica,Dominias"
@@ -99,7 +99,7 @@ msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr "Information por accesse al partites SMB"
 
-#: src/kcms/smb/smb.desktop:168
+#: src/kcms/smb/smb.desktop:169
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -118,7 +118,7 @@ msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "Configurar li clav-paroles del sercha web"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:124
+#: src/kcms/webshortcuts/webshortcuts.desktop:125
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -133,7 +133,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "Vacuator del cache HTTP"
 
-#: src/kioworkers/http/http_cache_cleaner.desktop:73
+#: src/kioworkers/http/http_cache_cleaner.desktop:74
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "Efaciar old elementes in li cache HTTP"
@@ -143,32 +143,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Configuration del proxy per li rete"
 
-#: src/kpac/proxyscout.notifyrc:71
+#: src/kpac/proxyscout.notifyrc:72
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Li scripte de proxy es ínvalid"
 
-#: src/kpac/proxyscout.notifyrc:139
+#: src/kpac/proxyscout.notifyrc:140
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "Li cargat scripte de configuration de proxy es ínvalid"
 
-#: src/kpac/proxyscout.notifyrc:211
+#: src/kpac/proxyscout.notifyrc:212
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Errore de descarga de scripte"
 
-#: src/kpac/proxyscout.notifyrc:279
+#: src/kpac/proxyscout.notifyrc:280
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "Li scripte de configuration de proxy ne posse esser cargat"
 
-#: src/kpac/proxyscout.notifyrc:352
+#: src/kpac/proxyscout.notifyrc:353
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Errore de evaluation de scripte"
 
-#: src/kpac/proxyscout.notifyrc:419
+#: src/kpac/proxyscout.notifyrc:420
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Un errore evenit executente li scripte de configuration de proxy"
@@ -188,7 +188,7 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr "Vacui file..."
 
-#: src/new_file_templates/EmptyFile.desktop:51
+#: src/new_file_templates/EmptyFile.desktop:52
 #: src/new_file_templates/TextFile.desktop:94
 msgctxt "Comment"
 msgid "Enter text filename:"
@@ -209,7 +209,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "Ligament a un file o fólder..."
 
-#: src/new_file_templates/linkPath.desktop:57
+#: src/new_file_templates/linkPath.desktop:58
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr "Un file o fólder:"
@@ -982,7 +982,7 @@ msgctxt "Name"
 msgid "KDE Invent Issues"
 msgstr "Problemas del KDE Invent"
 
-#: src/urifilters/ikws/searchproviders/invent_issues.desktop:52
+#: src/urifilters/ikws/searchproviders/invent_issues.desktop:53
 msgctxt "Query"
 msgid "https://invent.kde.org/search?scope=issues&search=\\\\{@}"
 msgstr "https://invent.kde.org/search?scope=issues&search=\\\\{@}"
@@ -992,7 +992,7 @@ msgctxt "Name"
 msgid "KDE Invent Merge Requests"
 msgstr "KDE Invent Merge Requests"
 
-#: src/urifilters/ikws/searchproviders/invent_mr.desktop:51
+#: src/urifilters/ikws/searchproviders/invent_mr.desktop:52
 msgctxt "Query"
 msgid "https://invent.kde.org/search?scope=merge_requests&search=\\\\{@}"
 msgstr "https://invent.kde.org/search?scope=merge_requests&search=\\\\{@}"
@@ -1002,7 +1002,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr "Repositorias del KDE Invent"
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:55
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:56
 msgctxt "Query"
 msgid "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
 msgstr "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
@@ -1809,7 +1809,7 @@ msgctxt "Name"
 msgid "C++"
 msgstr "C++"
 
-#: templates/kioworker/kioworker.kdevtemplate:48
+#: templates/kioworker/kioworker.kdevtemplate:49
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr "Modelle de KIO Worker"
