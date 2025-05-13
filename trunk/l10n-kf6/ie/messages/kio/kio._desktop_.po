@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-04-08 00:48+0000\n"
+"POT-Creation-Date: 2025-05-13 00:48+0000\n"
 "PO-Revision-Date: 2022-10-21 16:17+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -44,9 +44,11 @@ msgid "Empty File..."
 msgstr "Vacui file..."
 
 #: src/new_file_templates/EmptyFile.desktop:59
-#: src/new_file_templates/TextFile.desktop:96
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Enter text filename:"
 msgctxt "Comment"
-msgid "Enter text filename:"
+msgid "Enter name for empty file:"
 msgstr "Provide un nómine de un file textual:"
 
 #: src/new_file_templates/HTMLFile.desktop:2
@@ -93,6 +95,11 @@ msgstr "Un URL de un localisation:"
 msgctxt "Name"
 msgid "Text File..."
 msgstr "File textual..."
+
+#: src/new_file_templates/TextFile.desktop:96
+msgctxt "Comment"
+msgid "Enter text filename:"
+msgstr "Provide un nómine de un file textual:"
 
 #: src/schemehandlers/telnet/ktelnetservice6.desktop:9
 msgctxt "Name"
