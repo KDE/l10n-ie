@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-05-14 00:50+0000\n"
+"POT-Creation-Date: 2025-05-15 00:49+0000\n"
 "PO-Revision-Date: 2022-11-16 16:38+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -74,7 +74,8 @@ msgctxt "Keywords"
 msgid "task;manager;process;cpu;memory;"
 msgstr "tache;gerente;processe;cpu;memorie;"
 
-#: src/pages/applications.page:12 src/pages/overview.page:555
+#: src/pages/applications.page:12 src/pages/old-overview.page:506
+#: src/pages/overview.page:205
 msgctxt "Title"
 msgid "Applications"
 msgstr "Applicationes"
@@ -85,12 +86,12 @@ msgid "History"
 msgstr "Diarium"
 
 #: src/pages/history.page:106 src/pages/old-history.page:57
-#: src/pages/overview.page:189
+#: src/pages/old-overview.page:189 src/pages/overview.page:66
 msgctxt "Title"
 msgid "CPU"
 msgstr "CPU"
 
-#: src/pages/history.page:193
+#: src/pages/history.page:193 src/pages/overview.page:126
 #, fuzzy
 #| msgctxt "Title"
 #| msgid "CPU"
@@ -99,7 +100,7 @@ msgid "GPU"
 msgstr "CPU"
 
 #: src/pages/history.page:232 src/pages/old-history.page:174
-#: src/pages/overview.page:6
+#: src/pages/old-overview.page:6 src/pages/overview.page:137
 msgctxt "Title"
 msgid "Memory"
 msgstr "Memorie"
@@ -120,36 +121,54 @@ msgctxt "Title"
 msgid "false"
 msgstr "fals"
 
-#: src/pages/overview.page:66
+#: src/pages/old-overview.page:66 src/pages/overview.page:6
 msgctxt "Title"
 msgid "Networks"
 msgstr "Retes"
 
-#: src/pages/overview.page:129
+#: src/pages/old-overview.page:129
 msgctxt "Title"
 msgid "Disk"
 msgstr "Disco"
 
-#: src/pages/overview.page:252
+#: src/pages/old-overview.page:252
 msgctxt "Title"
 msgid "System"
 msgstr "Sistema"
 
-#: src/pages/overview.page:308
+#: src/pages/old-overview.page:308
 #, fuzzy
 msgctxt "Title"
 msgid "Network Rates"
 msgstr "Rete: "
 
-#: src/pages/overview.page:373
+#: src/pages/old-overview.page:373
 msgctxt "Title"
-msgid "Overview"
-msgstr "Compendie"
+msgid "Overview (Old Version)"
+msgstr ""
 
-#: src/pages/overview.page:464
+#: src/pages/old-overview.page:415
 msgctxt "Title"
 msgid "Network & System"
 msgstr "Rete e sistema"
+
+#: src/pages/overview.page:197
+#, fuzzy
+#| msgctxt "Title"
+#| msgid "Disk"
+msgctxt "Title"
+msgid "Disks"
+msgstr "Disco"
+
+#: src/pages/overview.page:261
+msgctxt "Title"
+msgid "Swap"
+msgstr ""
+
+#: src/pages/overview.page:276
+msgctxt "Title"
+msgid "Overview"
+msgstr "Compendie"
 
 #: src/pages/processes.page:12
 msgctxt "Title"
