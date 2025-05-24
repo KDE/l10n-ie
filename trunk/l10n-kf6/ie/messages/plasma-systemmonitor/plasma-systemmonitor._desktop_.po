@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-05-23 00:49+0000\n"
+"POT-Creation-Date: 2025-05-24 00:49+0000\n"
 "PO-Revision-Date: 2022-11-16 16:38+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -69,12 +69,12 @@ msgctxt "GenericName"
 msgid "System Monitor"
 msgstr "Monitor del sistema"
 
-#: org.kde.plasma-systemmonitor.desktop:53
+#: org.kde.plasma-systemmonitor.desktop:94
 msgctxt "Comment"
 msgid "Monitor app and system resource usage"
 msgstr ""
 
-#: org.kde.plasma-systemmonitor.desktop:88
+#: org.kde.plasma-systemmonitor.desktop:129
 msgctxt "Keywords"
 msgid "task;manager;process;cpu;memory;"
 msgstr "tache;gerente;processe;cpu;memorie;"
