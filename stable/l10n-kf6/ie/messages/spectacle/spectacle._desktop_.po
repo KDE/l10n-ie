@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-17 00:46+0000\n"
+"POT-Creation-Date: 2025-06-04 02:39+0000\n"
 "PO-Revision-Date: 2024-08-04 16:21+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <>\n"
@@ -64,17 +64,17 @@ msgctxt "Name"
 msgid "Record Rectangular Region"
 msgstr "Registrar un rectangulari region"
 
-#: desktop/org.kde.spectacle.desktop.cmake:548
+#: desktop/org.kde.spectacle.desktop.cmake:549
 msgctxt "Name"
 msgid "Record Screen"
 msgstr "Registrar li ecran"
 
-#: desktop/org.kde.spectacle.desktop.cmake:595
+#: desktop/org.kde.spectacle.desktop.cmake:597
 msgctxt "Name"
 msgid "Record Window"
 msgstr "Registrar un fenestre"
 
-#: desktop/org.kde.spectacle.desktop.cmake:642
+#: desktop/org.kde.spectacle.desktop.cmake:645
 msgctxt "Name"
 msgid "Launch without taking a screenshot"
 msgstr "Lansar sin capturar li ecran"
@@ -99,7 +99,7 @@ msgctxt "Name"
 msgid "Recording Saved"
 msgstr "Li registration sta gardat"
 
-#: desktop/spectacle.notifyrc:267
+#: desktop/spectacle.notifyrc:268
 msgctxt "Comment"
 msgid "A recording was captured and saved"
 msgstr "Un nov registration sta gardat"
