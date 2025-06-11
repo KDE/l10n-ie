@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-02 00:50+0000\n"
+"POT-Creation-Date: 2025-06-11 00:53+0000\n"
 "PO-Revision-Date: 2022-11-03 07:50+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: ie <kde-i18n-doc@kde.org>\n"
@@ -160,7 +160,7 @@ msgstr "Serchar e vicear"
 #| msgctxt "Name"
 #| msgid "Snippets Tool View"
 msgctxt "Name"
-msgid "Snippets"
+msgid "Scripts & Snippets"
 msgstr "Fragmentes"
 
 #: addons/symbolviewer/katesymbolviewerplugin.json
@@ -334,8 +334,8 @@ msgstr "Serchar e substituer in documentes, fólderes o projectes"
 
 #: addons/snippets/katesnippetsplugin.json
 msgctxt "Description"
-msgid "Manage your code snippets or download new ones"
-msgstr "Gerer vor fragmentes de code o descargar li novis"
+msgid "Create or download code snippets and editor scripts"
+msgstr ""
 
 #: addons/symbolviewer/katesymbolviewerplugin.json
 msgctxt "Description"
@@ -377,6 +377,10 @@ msgstr "Liste elementes e atributes XML, su valores e entitás permisset de DTD"
 msgctxt "Authors Name"
 msgid "Friedrich W. H. Kossebau"
 msgstr "Friedrich W. H. Kossebau"
+
+#~ msgctxt "Description"
+#~ msgid "Manage your code snippets or download new ones"
+#~ msgstr "Gerer vor fragmentes de code o descargar li novis"
 
 #~ msgctxt "Name"
 #~ msgid "CMake Tools"
