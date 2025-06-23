@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-06-22 00:50+0000\n"
+"POT-Creation-Date: 2025-06-23 00:49+0000\n"
 "PO-Revision-Date: 2024-08-04 16:21+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <>\n"
@@ -64,17 +64,17 @@ msgctxt "Name"
 msgid "Start/Stop Region Recording"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop.cmake:501
+#: desktop/org.kde.spectacle.desktop.cmake:502
 msgctxt "Name"
 msgid "Start/Stop Screen Recording"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop.cmake:524
+#: desktop/org.kde.spectacle.desktop.cmake:526
 msgctxt "Name"
 msgid "Start/Stop Window Recording"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop.cmake:547
+#: desktop/org.kde.spectacle.desktop.cmake:550
 msgctxt "Name"
 msgid "Launch without taking a screenshot"
 msgstr "Lansar sin capturar li ecran"
