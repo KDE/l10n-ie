@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-27 00:48+0000\n"
+"POT-Creation-Date: 2025-06-25 00:49+0000\n"
 "PO-Revision-Date: 2022-11-16 15:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -154,28 +154,6 @@ msgctxt "Comment"
 msgid "Received some text"
 msgstr ""
 
-#: settings/org.kde.kdeconnect-settings.desktop:6
-#, fuzzy
-msgctxt "Name"
-msgid "KDE Connect Settings"
-msgstr "Parametres de KDE Connect"
-
-#: settings/org.kde.kdeconnect-settings.desktop:58
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Device Synchronization"
-msgctxt "GenericName"
-msgid "Device Synchronization Settings"
-msgstr "Sincronisation del aparate"
-
-#: settings/org.kde.kdeconnect-settings.desktop:96
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Device Synchronization"
-msgctxt "Comment"
-msgid "Configure device synchronization"
-msgstr "Sincronisation del aparate"
-
 #: smsapp/org.kde.kdeconnect.sms.desktop:2
 #, fuzzy
 msgctxt "Name"
@@ -193,6 +171,25 @@ msgstr "Menú de comunication"
 msgctxt "Comment"
 msgid "Read and send SMS messages on connected devices"
 msgstr "Conexet aparates"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "KDE Connect Settings"
+#~ msgstr "Parametres de KDE Connect"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Device Synchronization"
+#~ msgctxt "GenericName"
+#~ msgid "Device Synchronization Settings"
+#~ msgstr "Sincronisation del aparate"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Device Synchronization"
+#~ msgctxt "Comment"
+#~ msgid "Configure device synchronization"
+#~ msgstr "Sincronisation del aparate"
 
 #, fuzzy
 #~ msgctxt "GenericName"
