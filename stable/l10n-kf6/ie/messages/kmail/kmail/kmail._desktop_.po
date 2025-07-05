@@ -1,0 +1,304 @@
+# SPDX-FileCopyrightText: 2024 OIS <mistresssilvara@hotmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-12-16 00:53+0000\n"
+"PO-Revision-Date: 2024-08-01 21:42+0700\n"
+"Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
+"Language-Team: Interlingue <>\n"
+"Language: ie\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 24.07.70\n"
+
+#: agents/archivemailagent/akonadi_archivemail_agent.notifyrc:3
+#: agents/archivemailagent/archivemailagent.desktop:56
+#, fuzzy
+msgctxt "Comment"
+msgid "Archive Mail Agent"
+msgstr "&Archive"
+
+#: agents/archivemailagent/akonadi_archivemail_agent.notifyrc:57
+#: agents/archivemailagent/archivemailagent.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Archive Mail Agent"
+msgstr "Controlar li postage"
+
+#: agents/archivemailagent/akonadi_archivemail_agent.notifyrc:113
+#, fuzzy
+msgctxt "Name"
+msgid "Archive Mail finished"
+msgstr "Controlar li postage"
+
+#: agents/archivemailagent/akonadi_archivemail_agent.notifyrc:170
+#, fuzzy
+msgctxt "Name"
+msgid "Archive Mail started"
+msgstr "Controlar li postage"
+
+#: agents/archivemailagent/akonadi_archivemail_agent.notifyrc:227
+#, fuzzy
+msgctxt "Name"
+msgid "Directory does not exist"
+msgstr "Ne successat mover li extraet file al fólder de destination."
+
+#: agents/archivemailagent/akonadi_archivemail_agent.notifyrc:278
+#, fuzzy
+msgctxt "Name"
+msgid "Archive Mail Error"
+msgstr "Controlar li postage"
+
+#: agents/followupreminderagent/akonadi_followupreminder_agent.notifyrc:3
+msgctxt "Comment"
+msgid "Followup reminder agent"
+msgstr ""
+
+#: agents/followupreminderagent/akonadi_followupreminder_agent.notifyrc:53
+#, fuzzy
+msgctxt "Name"
+msgid "Mail Follow Up Received"
+msgstr "Controlar li postage"
+
+#: agents/followupreminderagent/followupreminder.desktop:2
+msgctxt "Name"
+msgid "Followup Reminder Agent"
+msgstr ""
+
+#: agents/followupreminderagent/followupreminder.desktop:50
+#, fuzzy
+msgctxt "Comment"
+msgid ""
+"Followup Reminder Agent allows to remind you when an email was not answered."
+msgstr "Índex posse navigar vor computator e previder files multimedia."
+
+#: agents/mailfilteragent/akonadi_mailfilter_agent.notifyrc:3
+#, fuzzy
+msgctxt "Comment"
+msgid "Mail Filter Agent"
+msgstr "Cliente de postage"
+
+#: agents/mailfilteragent/akonadi_mailfilter_agent.notifyrc:57
+#: agents/mailfilteragent/mailfilteragent.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Mail Filter Agent"
+msgstr "Controlar li postage"
+
+#: agents/mailfilteragent/akonadi_mailfilter_agent.notifyrc:113
+#, fuzzy
+msgctxt "Name"
+msgid "Mail filter log enabled"
+msgstr "Controlar li postage"
+
+#: agents/mailfilteragent/akonadi_mailfilter_agent.notifyrc:170
+#, fuzzy
+msgctxt "Name"
+msgid "An error occurred during filtering"
+msgstr "Un errore evenit apertente files"
+
+#: agents/mailfilteragent/mailfilteragent.desktop:56
+#, fuzzy
+msgctxt "Comment"
+msgid "Extension to filter emails"
+msgstr "mistresssilvara@hotmail.com"
+
+#: agents/mailmergeagent/akonadi_mailmerge_agent.notifyrc:3
+#: agents/mailmergeagent/mailmergeagent.desktop:39
+#, fuzzy
+msgctxt "Comment"
+msgid "Mail Merge Agent"
+msgstr "Cliente de postage"
+
+#: agents/mailmergeagent/mailmergeagent.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Mail Merge Agent"
+msgstr "Controlar li postage"
+
+#: agents/sendlateragent/akonadi_sendlater_agent.notifyrc:3
+#: agents/sendlateragent/sendlateragent.desktop:53
+#, fuzzy
+msgctxt "Comment"
+msgid "Send Later Agent"
+msgstr "Reveni plu tard."
+
+#: agents/sendlateragent/akonadi_sendlater_agent.notifyrc:56
+#, fuzzy
+msgctxt "Name"
+msgid "Mail is sent"
+msgstr "Controlar li postage"
+
+#: agents/sendlateragent/akonadi_sendlater_agent.notifyrc:110
+#, fuzzy
+msgctxt "Name"
+msgid "Send mail failed"
+msgstr "Controlar li postage"
+
+#: agents/sendlateragent/sendlateragent.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Send Later Agent"
+msgstr "Reveni plu tard."
+
+#: agents/unifiedmailboxagent/unifiedmailboxagent.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Unified Mailbox Agent"
+msgstr "Unit lettre-buxes"
+
+#: agents/unifiedmailboxagent/unifiedmailboxagent.desktop:43
+#, fuzzy
+msgctxt "Comment"
+msgid "Unified Mailbox Agent"
+msgstr "Unit lettre-buxes"
+
+#: kmail-refresh-settings/org.kde.kmail-refresh-settings.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "KMail Refresh Settings"
+msgstr "KMail"
+
+#: kmail-refresh-settings/org.kde.kmail-refresh-settings.desktop:47
+#, fuzzy
+msgctxt "GenericName"
+msgid "KMail refresh settings"
+msgstr "KMail"
+
+#: kmail-refresh-settings/org.kde.kmail-refresh-settings.desktop:88
+#, fuzzy
+msgctxt "Comment"
+msgid "Refresh KMail settings"
+msgstr "KMail"
+
+#: ktnef/src/org.kde.ktnef.desktop:2
+msgctxt "Name"
+msgid "KTnef"
+msgstr "KTnef"
+
+#: ktnef/src/org.kde.ktnef.desktop:67
+#, fuzzy
+msgctxt "GenericName"
+msgid "TNEF File Viewer (proprietary format used by outlook)"
+msgstr "Gerente de files"
+
+#: ktnef/src/org.kde.ktnef.desktop:120
+#, fuzzy
+msgctxt "Comment"
+msgid "A viewer/extractor for TNEF files"
+msgstr "Contene removet files"
+
+#: src/data/kmail2.notifyrc:4
+msgctxt "Comment"
+msgid "KMail"
+msgstr "KMail"
+
+#: src/data/kmail2.notifyrc:79
+#, fuzzy
+msgctxt "Name"
+msgid "Akonadi server sent a warning"
+msgstr "Avise"
+
+#: src/data/kmail2.notifyrc:133
+#, fuzzy
+msgctxt "Comment"
+msgid "Akonadi server sent a warning"
+msgstr "Avise"
+
+#: src/data/kmail2.notifyrc:190
+#, fuzzy
+msgctxt "Name"
+msgid "Akonadi server sent an error"
+msgstr "Un errore evenit apertente files"
+
+#: src/data/kmail2.notifyrc:244
+#, fuzzy
+msgctxt "Comment"
+msgid "Akonadi server sent an error"
+msgstr ""
+"Un errore evenit extraente <filename>%1</filename>. Omni sequent archives ne "
+"va esser extraet."
+
+#: src/data/kmail2.notifyrc:301
+#, fuzzy
+msgctxt "Name"
+msgid "A resource is broken"
+msgstr "<filename>%1</filename> es un folder."
+
+#: src/data/kmail2.notifyrc:355
+#, fuzzy
+msgctxt "Comment"
+msgid "A resource change its state to broken"
+msgstr "Schema de colores del terminal."
+
+#: src/data/kmail2.notifyrc:412
+#, fuzzy
+msgctxt "Name"
+msgid "Impossible to send email"
+msgstr "Copiar li originale al traduction"
+
+#: src/data/kmail2.notifyrc:453
+#, fuzzy
+msgctxt "Comment"
+msgid "Problem during send mail"
+msgstr "Cliente de postage"
+
+#: src/data/kmail2.notifyrc:497
+#, fuzzy
+msgctxt "Name"
+msgid "Archive Mails in Folder done"
+msgstr "Aperter li contenent fólder"
+
+#: src/data/kmail2.notifyrc:549
+#, fuzzy
+msgctxt "Name"
+msgid "Folder Archive Error"
+msgstr "Un errore evenit apertente files"
+
+#: src/data/kmail2.notifyrc:600
+#, fuzzy
+msgctxt "Name"
+msgid "Email added to the send later queue"
+msgstr "Reveni plu tard."
+
+#: src/data/kmail2.notifyrc:641
+#, fuzzy
+msgctxt "Comment"
+msgid "A delayed email delivery is configured and can be canceled"
+msgstr "E-post de autor manca"
+
+#: src/data/kmail_view.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "KMail view"
+msgstr "KMail"
+
+#: src/data/org.kde.kmail2.desktop:2
+msgctxt "Name"
+msgid "KMail"
+msgstr "KMail"
+
+#: src/data/org.kde.kmail2.desktop:83
+msgctxt "GenericName"
+msgid "Mail Client"
+msgstr "Cliente de postage"
+
+#: src/data/org.kde.kmail2.desktop:161
+#, fuzzy
+msgctxt "Comment"
+msgid "Send, receive and manage your mail with KMail"
+msgstr "KMail"
+
+#: src/data/org.kde.kmail2.desktop:216
+#, fuzzy
+msgctxt "Name"
+msgid "New Message..."
+msgstr "Proprietás de missage"
+
+#: src/data/org.kde.kmail2.desktop:262
+msgctxt "Name"
+msgid "Check Mail"
+msgstr "Controlar li postage"
