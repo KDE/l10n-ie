@@ -7805,6 +7805,14 @@ msgstr "Scale: %1%"
 #~ msgstr "KMail"
 
 #, fuzzy
+#~ msgid "Add Windows Support"
+#~ msgstr "Complet supporte por archives de formates zip e 7z"
+
+#, fuzzy
+#~ msgid "Allow to reopen closed viewer"
+#~ msgstr "Pri li componente de visor"
+
+#, fuzzy
 #~ msgid "Push email (IMAP IDLE)"
 #~ msgstr "Cliente de postage de KDE"
 
@@ -7846,10 +7854,6 @@ msgstr "Scale: %1%"
 
 #, fuzzy
 #~ msgid "Added Microsoft Exchange Web Services resource support"
-#~ msgstr "Complet supporte por archives de formates zip e 7z"
-
-#, fuzzy
-#~ msgid "Add Windows Support"
 #~ msgstr "Complet supporte por archives de formates zip e 7z"
 
 #, fuzzy
