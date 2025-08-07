@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-05-26 00:48+0000\n"
+"POT-Creation-Date: 2025-08-07 20:31+0000\n"
 "PO-Revision-Date: 2022-10-27 20:06+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -46,7 +46,7 @@ msgctxt "Name"
 msgid "Sign/Encrypt File…"
 msgstr "Signar e ciffrar un file"
 
-#: src/data/kleopatra_signencryptfiles.desktop:97
+#: src/data/kleopatra_signencryptfiles.desktop:98
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Encrypt File"
@@ -54,7 +54,7 @@ msgctxt "Name"
 msgid "Encrypt File…"
 msgstr "Ciffrar un file"
 
-#: src/data/kleopatra_signencryptfiles.desktop:131
+#: src/data/kleopatra_signencryptfiles.desktop:133
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "S/MIME-Sign File"
@@ -75,7 +75,7 @@ msgctxt "Name"
 msgid "Archive, Sign & Encrypt Folder"
 msgstr "Archivar, signar e ciffrar un fólder"
 
-#: src/data/kleopatra_signencryptfolders.desktop:100
+#: src/data/kleopatra_signencryptfolders.desktop:101
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Archive && Encrypt Folder"
@@ -96,7 +96,7 @@ msgctxt "Name"
 msgid "GnuPG Log Viewer"
 msgstr ""
 
-#: src/kwatchgnupg/org.kde.kwatchgnupg.desktop:36
+#: src/kwatchgnupg/org.kde.kwatchgnupg.desktop:37
 msgctxt "Comment"
 msgid "Viewer for GnuPG daemon and application logs"
 msgstr ""
