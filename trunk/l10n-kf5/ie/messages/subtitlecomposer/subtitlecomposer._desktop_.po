@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-27 02:12+0000\n"
+"POT-Creation-Date: 2025-09-09 02:45+0000\n"
 "PO-Revision-Date: 2022-12-04 23:22+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,12 +18,12 @@ msgctxt "Name"
 msgid "Subtitle Composer"
 msgstr "Compositor de subtitules"
 
-#: src/org.kde.subtitlecomposer.desktop:35
+#: src/org.kde.subtitlecomposer.desktop:34
 msgctxt "GenericName"
 msgid "Subtitle Editor"
 msgstr "Redactor de subtitules"
 
-#: src/org.kde.subtitlecomposer.desktop:68
+#: src/org.kde.subtitlecomposer.desktop:66
 msgctxt "Comment"
 msgid "KDE subtitle editor"
 msgstr "Redactor de subtitules de KDE"
