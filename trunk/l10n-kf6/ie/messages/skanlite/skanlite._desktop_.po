@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-16 00:53+0000\n"
+"POT-Creation-Date: 2025-09-09 01:13+0000\n"
 "PO-Revision-Date: 2022-11-01 10:39+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,12 +18,12 @@ msgctxt "Name"
 msgid "Skanlite"
 msgstr "Skanlite"
 
-#: src/org.kde.skanlite.desktop:68
+#: src/org.kde.skanlite.desktop:67
 msgctxt "GenericName"
 msgid "Image Scanning Application"
 msgstr "Scannation de images"
 
-#: src/org.kde.skanlite.desktop:128
+#: src/org.kde.skanlite.desktop:126
 msgctxt "Comment"
 msgid "Scan and save images"
 msgstr "Scannar e gardar images"
