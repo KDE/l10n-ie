@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-04-05 00:48+0000\n"
+"POT-Creation-Date: 2025-09-09 03:42+0000\n"
 "PO-Revision-Date: 2022-10-27 03:17+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -18,67 +18,67 @@ msgctxt "Name"
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: src/bluedevil.notifyrc:60
+#: src/bluedevil.notifyrc:59
 msgctxt "Comment"
 msgid "Bluetooth system"
 msgstr "Sistema Bluetooth"
 
-#: src/bluedevil.notifyrc:119
+#: src/bluedevil.notifyrc:117
 msgctxt "Name"
 msgid "Authorization Requested"
 msgstr "Autorisation es besonat"
 
-#: src/bluedevil.notifyrc:175
+#: src/bluedevil.notifyrc:172
 msgctxt "Comment"
 msgid "A device wants to connect"
 msgstr "Un aparate vole conexer"
 
-#: src/bluedevil.notifyrc:237
+#: src/bluedevil.notifyrc:233
 msgctxt "Name"
 msgid "Confirm PIN"
 msgstr "Confirmar li PIN"
 
-#: src/bluedevil.notifyrc:294
+#: src/bluedevil.notifyrc:289
 msgctxt "Comment"
 msgid "Confirm a device request using matching PINs"
 msgstr "Confirma un demande de aparate con un correspondent PIN"
 
-#: src/bluedevil.notifyrc:355
+#: src/bluedevil.notifyrc:349
 msgctxt "Name"
 msgid "Request PIN"
 msgstr "Demandar un PIN"
 
-#: src/bluedevil.notifyrc:411
+#: src/bluedevil.notifyrc:404
 msgctxt "Comment"
 msgid "A PIN is needed"
 msgstr "Un PIN es besonat"
 
-#: src/bluedevil.notifyrc:473
+#: src/bluedevil.notifyrc:465
 msgctxt "Name"
 msgid "Incoming File"
 msgstr "Intrante file"
 
-#: src/bluedevil.notifyrc:531
+#: src/bluedevil.notifyrc:522
 msgctxt "Comment"
 msgid "Incoming file transfer"
 msgstr "Intrante transferte de file"
 
-#: src/bluedevil.notifyrc:592
+#: src/bluedevil.notifyrc:582
 msgctxt "Name"
 msgid "Connection Failed"
 msgstr "Conexion ne successat"
 
-#: src/bluedevil.notifyrc:648
+#: src/bluedevil.notifyrc:637
 msgctxt "Comment"
 msgid "Connection to device failed"
 msgstr "Conexion al aparate ne successat"
 
-#: src/bluedevil.notifyrc:709
+#: src/bluedevil.notifyrc:697
 msgctxt "Name"
 msgid "Device Setup Finished"
 msgstr "Configuration del aparate es finit"
 
-#: src/bluedevil.notifyrc:758
+#: src/bluedevil.notifyrc:745
 msgctxt "Comment"
 msgid "Setting up a Bluetooth device finished successfully"
 msgstr "Configuration de un aparate Bluetooth compleet successosimen"
@@ -88,12 +88,12 @@ msgctxt "Name"
 msgid "Bluetooth File Transfer"
 msgstr "Transferte de files Bluetooth"
 
-#: src/sendfile/org.kde.bluedevilsendfile.desktop:50
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:49
 msgctxt "GenericName"
 msgid "Bluetooth File Transfer"
 msgstr "Transferte de files Bluetooth"
 
-#: src/sendfile/org.kde.bluedevilsendfile.desktop:97
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:95
 msgctxt "Comment"
 msgid "Send files via Bluetooth"
 msgstr "Inviar files per Bluetooth"
@@ -103,12 +103,12 @@ msgctxt "Name"
 msgid "Add Bluetooth Device"
 msgstr "Adjunter un aparate Bluetooth"
 
-#: src/wizard/org.kde.bluedevilwizard.desktop:49
+#: src/wizard/org.kde.bluedevilwizard.desktop:48
 msgctxt "GenericName"
 msgid "Add Bluetooth Device"
 msgstr "Adjunter un aparate Bluetooth"
 
-#: src/wizard/org.kde.bluedevilwizard.desktop:96
+#: src/wizard/org.kde.bluedevilwizard.desktop:94
 msgctxt "Comment"
 msgid "Add Bluetooth Device"
 msgstr "Adjunter un aparate Bluetooth"
