@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-13 02:39+0000\n"
+"POT-Creation-Date: 2025-09-07 00:44+0000\n"
 "PO-Revision-Date: 2024-08-02 14:52+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <>\n"
@@ -250,7 +250,7 @@ msgctxt ""
 msgid "Could not find an example for this locale"
 msgstr "Ne successat trovar un exemple por ti locale"
 
-#: kcmregionandlang.cpp:129
+#: glibclocaleconstructor.cpp:164
 #, fuzzy, kde-kuit-format
 msgctxt "@info this will be shown as an error message"
 msgid ""
@@ -259,13 +259,13 @@ msgid ""
 "org</link>"
 msgstr "File"
 
-#: languagelistmodel.cpp:94
+#: languagelistmodel.cpp:95
 #, kde-format
 msgctxt "%1 is language name, %2 is language code name"
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
-#: languagelistmodel.cpp:100
+#: languagelistmodel.cpp:101
 #, kde-format
 msgctxt ""
 "%1 is português in system locale name, Brazil is to distinguish European "
@@ -280,21 +280,25 @@ msgid "Can't locate executable `check-language-support`"
 msgstr "Ne successat trovar li executibile `check-language-support`"
 
 #: localegeneratorubuntu.cpp:56
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "the arg is the output of failed check-language-support call"
+#| msgid "check-language-support failed, output: %1"
 msgctxt "the arg is the output of failed check-language-support call"
-msgid "check-language-support failed, output: %1"
+msgid "check-language-support failed, output: %1 %2"
 msgstr "check-language-support ne successat, production: %1"
 
-#: localegeneratorubuntu.cpp:87
+#: localegeneratorubuntu.cpp:88
 #, kde-format
 msgctxt "%1 is a list of package names"
 msgid "Not all missing packages managed to resolve! %1"
 msgstr ""
 
-#: localegeneratorubuntu.cpp:93
-#, kde-format
-msgctxt "%1 is a list of package names"
-msgid "Failed to install package %1"
+#: localegeneratorubuntu.cpp:96
+#, fuzzy, kde-format
+#| msgctxt "%1 is a list of package names"
+#| msgid "Failed to install package %1"
+msgctxt "%1 is a list of package names, %2 is the error explanation"
+msgid "Failed to install language packages (%1): %2"
 msgstr "Ne successat installar li paccage %1"
 
 #: localegenhelper/localegenhelper.cpp:45
@@ -324,17 +328,17 @@ msgstr "Ne successat trovar li executibile `locale-gen`"
 msgid "Unknown"
 msgstr "Ínconosset"
 
-#: localelistmodel.cpp:22
+#: localelistmodel.cpp:24
 #, kde-format
 msgid "Default for System"
 msgstr "Predefinit del sistema"
 
-#: localelistmodel.cpp:22 localelistmodel.cpp:71 ui/main.qml:383
+#: localelistmodel.cpp:24 localelistmodel.cpp:146 ui/main.qml:387
 #, kde-format
 msgid "Default"
 msgstr "Predefinit"
 
-#: localelistmodel.cpp:67
+#: localelistmodel.cpp:142
 #, kde-format
 msgctxt ""
 "the first is language name, the second is the country name, like 'English "
@@ -342,14 +346,14 @@ msgctxt ""
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
-#: localelistmodel.cpp:154
+#: localelistmodel.cpp:229
 #, kde-format
 msgctxt ""
 "@info:title, meaning the current locale is system default(which is `C`)"
 msgid "System Default C"
 msgstr "Predefinit del sistema (C)"
 
-#: localelistmodel.cpp:157
+#: localelistmodel.cpp:232
 #, kde-format
 msgctxt ""
 "@info:title the current locale is the default for %1, %1 is the country name"
@@ -480,43 +484,43 @@ msgstr "Li lingue «%1» es ínsupportat"
 msgid "Add languages in the order you want to see them in your applications."
 msgstr "OIS"
 
-#: ui/AdvancedLanguageSelectPage.qml:96
+#: ui/AdvancedLanguageSelectPage.qml:100
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Change Language"
 msgstr "Cambiar li lingue"
 
-#: ui/AdvancedLanguageSelectPage.qml:100
+#: ui/AdvancedLanguageSelectPage.qml:104
 #, kde-format
 msgctxt "@title:window"
 msgid "Change Language"
 msgstr "Cambiar li lingue"
 
-#: ui/AdvancedLanguageSelectPage.qml:111
+#: ui/AdvancedLanguageSelectPage.qml:113
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid "Move to top"
 msgstr "Copiar li originale al traduction"
 
-#: ui/AdvancedLanguageSelectPage.qml:117
+#: ui/AdvancedLanguageSelectPage.qml:122
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Remove"
 msgstr "Remover"
 
-#: ui/AdvancedLanguageSelectPage.qml:130
+#: ui/AdvancedLanguageSelectPage.qml:137
 #, fuzzy, kde-format
 msgctxt "@info:placeholder"
 msgid "No Language Configured"
 msgstr "Lingue"
 
-#: ui/AdvancedLanguageSelectPage.qml:172 ui/AdvancedLanguageSelectPage.qml:206
+#: ui/AdvancedLanguageSelectPage.qml:179 ui/AdvancedLanguageSelectPage.qml:213
 #, kde-format
 msgctxt "@title:window"
 msgid "Add Languages"
 msgstr "Adjunter lingues"
 
-#: ui/AdvancedLanguageSelectPage.qml:229
+#: ui/AdvancedLanguageSelectPage.qml:236
 #, kde-format
 msgctxt "@action:button"
 msgid "Add More…"
@@ -560,56 +564,56 @@ msgid ""
 "safe to turn off the computer."
 msgstr "Lingue"
 
-#: ui/main.qml:175
+#: ui/main.qml:179
 #, kde-format
 msgctxt "@action:button for change the locale used"
 msgid "Modify…"
 msgstr ""
 
-#: ui/main.qml:211
+#: ui/main.qml:215
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "Data and Storage Sizes"
 msgstr "date e/o hora"
 
-#: ui/main.qml:277
+#: ui/main.qml:281
 #, kde-format
 msgid "Numbers"
 msgstr "Númeres"
 
-#: ui/main.qml:279
+#: ui/main.qml:283
 #, kde-format
 msgid "Time"
 msgstr "Hora"
 
-#: ui/main.qml:281
+#: ui/main.qml:285
 #, kde-format
 msgid "Currency"
 msgstr "Valuta"
 
-#: ui/main.qml:283
+#: ui/main.qml:287
 #, kde-format
 msgid "Measurements"
 msgstr "Mesuras"
 
-#: ui/main.qml:285
+#: ui/main.qml:289
 #, kde-format
 msgid "Paper Size"
 msgstr "Dimension de papere"
 
-#: ui/main.qml:287
+#: ui/main.qml:291
 #, kde-format
 msgctxt "Postal Address"
 msgid "Address"
 msgstr "Adresse"
 
-#: ui/main.qml:289
+#: ui/main.qml:293
 #, kde-format
 msgctxt "Name Style"
 msgid "Name"
 msgstr "Nómine"
 
-#: ui/main.qml:291
+#: ui/main.qml:295
 #, kde-format
 msgctxt "Phone Numbers"
 msgid "Phone number"

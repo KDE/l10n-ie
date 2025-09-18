@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-09 03:42+0000\n"
+"POT-Creation-Date: 2025-09-09 01:13+0000\n"
 "PO-Revision-Date: 2024-08-04 16:21+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <>\n"
@@ -26,55 +26,55 @@ msgstr "Spectacle"
 
 #: desktop/org.kde.spectacle.desktop.cmake:107
 msgctxt "Comment"
-msgid "Screenshot capture utility"
-msgstr "Utensile de captura del ecran"
+msgid "Take screenshots and screen recordings"
+msgstr ""
 
-#: desktop/org.kde.spectacle.desktop.cmake:157
+#: desktop/org.kde.spectacle.desktop.cmake:138
 msgctxt "Keywords"
 msgid "snapshot;capture;print;screenshot;snipping;snipping tool;snip;"
 msgstr "snapshot;captura;printar;ecran;tonder;"
 
-#: desktop/org.kde.spectacle.desktop.cmake:213
+#: desktop/org.kde.spectacle.desktop.cmake:194
 msgctxt "Name"
 msgid "Capture Entire Desktop"
 msgstr "Capturar li tot Pupitre"
 
-#: desktop/org.kde.spectacle.desktop.cmake:270
+#: desktop/org.kde.spectacle.desktop.cmake:251
 msgctxt "Name"
 msgid "Capture Current Monitor"
 msgstr "Capturar li actual monitor"
 
-#: desktop/org.kde.spectacle.desktop.cmake:327
+#: desktop/org.kde.spectacle.desktop.cmake:308
 msgctxt "Name"
 msgid "Capture Active Window"
 msgstr "Capturar li actual fenestre"
 
-#: desktop/org.kde.spectacle.desktop.cmake:384
+#: desktop/org.kde.spectacle.desktop.cmake:365
 msgctxt "Name"
 msgid "Capture Rectangular Region"
 msgstr "Capturar un rectangulari region"
 
-#: desktop/org.kde.spectacle.desktop.cmake:441
+#: desktop/org.kde.spectacle.desktop.cmake:422
 msgctxt "Name"
 msgid "Capture Window Under Cursor"
 msgstr "Capturar un fenestre sub li apuntator"
 
-#: desktop/org.kde.spectacle.desktop.cmake:492
+#: desktop/org.kde.spectacle.desktop.cmake:473
 msgctxt "Name"
-msgid "Record Rectangular Region"
-msgstr "Registrar un rectangulari region"
+msgid "Start/Stop Region Recording"
+msgstr ""
 
-#: desktop/org.kde.spectacle.desktop.cmake:539
+#: desktop/org.kde.spectacle.desktop.cmake:504
 msgctxt "Name"
-msgid "Record Screen"
-msgstr "Registrar li ecran"
+msgid "Start/Stop Screen Recording"
+msgstr ""
 
-#: desktop/org.kde.spectacle.desktop.cmake:586
+#: desktop/org.kde.spectacle.desktop.cmake:535
 msgctxt "Name"
-msgid "Record Window"
-msgstr "Registrar un fenestre"
+msgid "Start/Stop Window Recording"
+msgstr ""
 
-#: desktop/org.kde.spectacle.desktop.cmake:633
+#: desktop/org.kde.spectacle.desktop.cmake:566
 msgctxt "Name"
 msgid "Launch without taking a screenshot"
 msgstr "Lansar sin capturar li ecran"
@@ -103,3 +103,19 @@ msgstr "Li registration sta gardat"
 msgctxt "Comment"
 msgid "A recording was captured and saved"
 msgstr "Un nov registration sta gardat"
+
+#~ msgctxt "Name"
+#~ msgid "Record Rectangular Region"
+#~ msgstr "Registrar un rectangulari region"
+
+#~ msgctxt "Name"
+#~ msgid "Record Screen"
+#~ msgstr "Registrar li ecran"
+
+#~ msgctxt "Name"
+#~ msgid "Record Window"
+#~ msgstr "Registrar un fenestre"
+
+#~ msgctxt "Comment"
+#~ msgid "Screenshot capture utility"
+#~ msgstr "Utensile de captura del ecran"

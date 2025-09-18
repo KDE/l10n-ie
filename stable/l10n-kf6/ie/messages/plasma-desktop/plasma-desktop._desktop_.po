@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-09 03:42+0000\n"
+"POT-Creation-Date: 2025-09-09 01:13+0000\n"
 "PO-Revision-Date: 2022-11-10 00:32+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -19,11 +19,19 @@ msgid "Emoji Selector"
 msgstr "Selector de emoji"
 
 #: emojier/app/org.kde.plasma.emojier.desktop:54
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Emoji Selector"
+msgctxt "GenericName"
+msgid "Emoji Selector"
+msgstr "Selector de emoji"
+
+#: emojier/app/org.kde.plasma.emojier.desktop:83
 msgctxt "Comment"
 msgid "Copy emojis to the clipboard"
 msgstr ""
 
-#: emojier/app/org.kde.plasma.emojier.desktop:96
+#: emojier/app/org.kde.plasma.emojier.desktop:125
 msgctxt "Keywords"
 msgid ""
 "characters;unicode;punctuation;letters;emoji;emoticon;symbols;smiley face;"
@@ -50,92 +58,92 @@ msgid ""
 "A modifier key (e.g. Shift or Ctrl) has changed its state and is now active"
 msgstr ""
 
-#: kaccess/kaccess.notifyrc:262
+#: kaccess/kaccess.notifyrc:260
 msgctxt "Name"
 msgid "A modifier key has become inactive"
 msgstr ""
 
-#: kaccess/kaccess.notifyrc:343
+#: kaccess/kaccess.notifyrc:341
 msgctxt "Comment"
 msgid ""
 "A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive"
 msgstr ""
 
-#: kaccess/kaccess.notifyrc:425
+#: kaccess/kaccess.notifyrc:421
 #, fuzzy
 msgctxt "Name"
 msgid "A modifier key has been locked"
 msgstr "Li clave esset deplazzat"
 
-#: kaccess/kaccess.notifyrc:506
+#: kaccess/kaccess.notifyrc:502
 msgctxt "Comment"
 msgid ""
 "A modifier key (e.g. Shift or Ctrl) has been locked and is now active for "
 "all of the following keypresses"
 msgstr ""
 
-#: kaccess/kaccess.notifyrc:588
+#: kaccess/kaccess.notifyrc:582
 #, fuzzy
 msgctxt "Name"
 msgid "A lock key has been activated"
 msgstr "Li clave esset revocat"
 
-#: kaccess/kaccess.notifyrc:669
+#: kaccess/kaccess.notifyrc:663
 msgctxt "Comment"
 msgid ""
 "A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
 "active"
 msgstr ""
 
-#: kaccess/kaccess.notifyrc:751
+#: kaccess/kaccess.notifyrc:743
 #, fuzzy
 msgctxt "Name"
 msgid "A lock key has been deactivated"
 msgstr "Li clave esset revocat"
 
-#: kaccess/kaccess.notifyrc:832
+#: kaccess/kaccess.notifyrc:824
 msgctxt "Comment"
 msgid ""
 "A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
 "inactive"
 msgstr ""
 
-#: kaccess/kaccess.notifyrc:915
+#: kaccess/kaccess.notifyrc:905
 msgctxt "Name"
 msgid "Sticky keys has been enabled or disabled"
 msgstr ""
 
-#: kaccess/kaccess.notifyrc:995
+#: kaccess/kaccess.notifyrc:985
 msgctxt "Comment"
 msgid "Sticky keys has been enabled or disabled"
 msgstr ""
 
-#: kaccess/kaccess.notifyrc:1080
+#: kaccess/kaccess.notifyrc:1069
 msgctxt "Name"
 msgid "Slow keys has been enabled or disabled"
 msgstr ""
 
-#: kaccess/kaccess.notifyrc:1159
+#: kaccess/kaccess.notifyrc:1148
 msgctxt "Comment"
 msgid "Slow keys has been enabled or disabled"
 msgstr ""
 
-#: kaccess/kaccess.notifyrc:1243
+#: kaccess/kaccess.notifyrc:1231
 msgctxt "Name"
 msgid "Bounce keys has been enabled or disabled"
 msgstr ""
 
-#: kaccess/kaccess.notifyrc:1321
+#: kaccess/kaccess.notifyrc:1309
 msgctxt "Comment"
 msgid "Bounce keys has been enabled or disabled"
 msgstr ""
 
-#: kaccess/kaccess.notifyrc:1404
+#: kaccess/kaccess.notifyrc:1390
 msgctxt "Name"
 msgid "Mouse keys has been enabled or disabled"
 msgstr ""
 
-#: kaccess/kaccess.notifyrc:1484
+#: kaccess/kaccess.notifyrc:1470
 msgctxt "Comment"
 msgid "Mouse keys has been enabled or disabled"
 msgstr ""
@@ -384,8 +392,8 @@ msgid "Touchpad"
 msgstr "Panel tactil"
 
 #: kcms/touchpad/org.kde.touchpadshortcuts.desktop:65
-#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:102
-#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:139
+#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:103
+#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:141
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Touchpad"
