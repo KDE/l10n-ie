@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-27 00:53+0000\n"
+"POT-Creation-Date: 2025-09-20 00:53+0000\n"
 "PO-Revision-Date: 2022-11-10 00:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -71,7 +71,7 @@ msgctxt "Name"
 msgid "Show Activity Manager"
 msgstr "Monstrar li gerente de activitá"
 
-#: applets/showdesktop/package/metadata.json
+#: applets/showdesktop/metadata.json
 #, fuzzy
 msgctxt "Name"
 msgid "Peek at Desktop"
@@ -342,7 +342,7 @@ msgctxt "Description"
 msgid "Shows the activity manager"
 msgstr "Monstrar li gerente de activitá"
 
-#: applets/showdesktop/package/metadata.json
+#: applets/showdesktop/metadata.json
 #, fuzzy
 #| msgctxt "Description"
 #| msgid "Shows the desktop by minimizing all windows"
@@ -604,7 +604,7 @@ msgctxt "Authors Name"
 msgid "Gregor Tätzner"
 msgstr "Gregor Tätzner"
 
-#: applets/showdesktop/package/metadata.json
+#: applets/showdesktop/metadata.json
 msgctxt "Authors Name"
 msgid "Petri Damstén"
 msgstr "Petri Damstén"
