@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2025-02-15 00:42+0000\n"
+"POT-Creation-Date: 2025-09-25 00:42+0000\n"
 "PO-Revision-Date: 2022-11-02 02:12+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -39,10 +39,18 @@ msgstr ""
 
 #. (itstool) path: screenshot/caption
 #: im.kaidan.kaidan.appdata.xml:38
+msgid "Chat List and Chat in Landscape Mode"
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#: im.kaidan.kaidan.appdata.xml:42
+msgid "Chat in Portrait Mode"
+msgstr ""
+
 #, fuzzy
-#| msgid "Example chat on a desktop and on a mobile device"
-msgid "Chat on a desktop and mobile device"
-msgstr "Exemples de conversation sur un computator e un mobil aparate"
+#~| msgid "Example chat on a desktop and on a mobile device"
+#~ msgid "Chat on a desktop and mobile device"
+#~ msgstr "Exemples de conversation sur un computator e un mobil aparate"
 
 #~ msgid "Kaidan Developers &amp; Contributors"
 #~ msgstr "Developatores e contributores de Kaidan"
