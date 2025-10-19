@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-10 02:02+0000\n"
+"POT-Creation-Date: 2025-10-19 02:07+0000\n"
 "PO-Revision-Date: 2022-10-27 03:14+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -23,12 +23,12 @@ msgctxt "Description"
 msgid "Executes mount with the needed arguments to mount samba shares"
 msgstr "Executer mount con li besonat argumentes por montar partites de samba"
 
-#: src/helper/samba-mounter.actions:76
+#: src/helper/samba-mounter.actions:77
 msgctxt "Name"
 msgid "Umount a cifs file system"
 msgstr "Demonter un sistema de files cifs"
 
-#: src/helper/samba-mounter.actions:111
+#: src/helper/samba-mounter.actions:113
 msgctxt "Description"
 msgid "Executes umount with the needed arguments to umount a samba share"
 msgstr ""
@@ -44,7 +44,7 @@ msgctxt "GenericName"
 msgid "Mounts Samba shares"
 msgstr "Monter partites de Samba"
 
-#: src/onstart/sambamounter.desktop:83
+#: src/onstart/sambamounter.desktop:84
 msgctxt "Comment"
 msgid "Mounts Samba shares at startup time"
 msgstr "Monter partites de Samba al inicie"
@@ -59,7 +59,7 @@ msgctxt "Comment"
 msgid "Configure mounts managed by Plasma instead of fstab"
 msgstr "Configurar punctus de montage quel es geret de Plasma in vice de fstab"
 
-#: src/sambamount.desktop:85
+#: src/sambamount.desktop:86
 msgctxt "X-KDE-Keywords"
 msgid "Samba,Mount,Fstab"
 msgstr "Samba,Monter,Fstab"
