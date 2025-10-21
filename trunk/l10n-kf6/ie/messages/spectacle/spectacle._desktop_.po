@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-10-17 00:49+0000\n"
+"POT-Creation-Date: 2025-10-21 00:49+0000\n"
 "PO-Revision-Date: 2024-08-04 16:21+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <>\n"
@@ -29,52 +29,52 @@ msgctxt "Comment"
 msgid "Take screenshots and screen recordings"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop.cmake:140
+#: desktop/org.kde.spectacle.desktop.cmake:141
 msgctxt "Keywords"
 msgid "snapshot;capture;print;screenshot;snipping;snipping tool;snip;"
 msgstr "snapshot;captura;printar;ecran;tonder;"
 
-#: desktop/org.kde.spectacle.desktop.cmake:196
+#: desktop/org.kde.spectacle.desktop.cmake:197
 msgctxt "Name"
 msgid "Capture Entire Desktop"
 msgstr "Capturar li tot Pupitre"
 
-#: desktop/org.kde.spectacle.desktop.cmake:253
+#: desktop/org.kde.spectacle.desktop.cmake:254
 msgctxt "Name"
 msgid "Capture Current Monitor"
 msgstr "Capturar li actual monitor"
 
-#: desktop/org.kde.spectacle.desktop.cmake:310
+#: desktop/org.kde.spectacle.desktop.cmake:311
 msgctxt "Name"
 msgid "Capture Active Window"
 msgstr "Capturar li actual fenestre"
 
-#: desktop/org.kde.spectacle.desktop.cmake:367
+#: desktop/org.kde.spectacle.desktop.cmake:368
 msgctxt "Name"
 msgid "Capture Rectangular Region"
 msgstr "Capturar un rectangulari region"
 
-#: desktop/org.kde.spectacle.desktop.cmake:424
+#: desktop/org.kde.spectacle.desktop.cmake:425
 msgctxt "Name"
 msgid "Capture Window Under Cursor"
 msgstr "Capturar un fenestre sub li apuntator"
 
-#: desktop/org.kde.spectacle.desktop.cmake:475
+#: desktop/org.kde.spectacle.desktop.cmake:476
 msgctxt "Name"
 msgid "Start/Stop Region Recording"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop.cmake:508
+#: desktop/org.kde.spectacle.desktop.cmake:510
 msgctxt "Name"
 msgid "Start/Stop Screen Recording"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop.cmake:541
+#: desktop/org.kde.spectacle.desktop.cmake:544
 msgctxt "Name"
 msgid "Start/Stop Window Recording"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop.cmake:574
+#: desktop/org.kde.spectacle.desktop.cmake:578
 msgctxt "Name"
 msgid "Launch without taking a screenshot"
 msgstr "Lansar sin capturar li ecran"
