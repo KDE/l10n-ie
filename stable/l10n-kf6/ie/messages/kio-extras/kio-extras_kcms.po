@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-29 00:41+0000\n"
+"POT-Creation-Date: 2025-09-15 00:42+0000\n"
 "PO-Revision-Date: 2022-10-23 00:30+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.12\n"
 
-#: ksaveioconfig.cpp:81
+#: ksaveioconfig.cpp:36
 #, kde-format
 msgid ""
 "You have to restart the running applications for these changes to take "
@@ -26,20 +26,20 @@ msgid ""
 msgstr ""
 "Vu deve relansar li executent applicationes por efectuar ti modificationes."
 
-#: ksaveioconfig.cpp:83
+#: ksaveioconfig.cpp:38
 #, kde-format
 msgctxt "@title:window"
 msgid "Update Failed"
 msgstr "Actualisation ne successat"
 
-#. i18n: ectx: label, entry (DisablePassiveMode), group (DesktopIcons)
-#: netpref/kio_ftprc.kcfg:10
+#. i18n: ectx: label, entry (DisablePassiveMode), group (&lt;default&gt;)
+#: netpref/kio_ftprc.kcfg:9
 #, kde-format
 msgid "Disable Passive FTP"
 msgstr "Desactivar passiv FTP"
 
-#. i18n: ectx: whatsthis, entry (DisablePassiveMode), group (DesktopIcons)
-#: netpref/kio_ftprc.kcfg:11
+#. i18n: ectx: whatsthis, entry (DisablePassiveMode), group (&lt;default&gt;)
+#: netpref/kio_ftprc.kcfg:10
 #, kde-format
 msgid ""
 "When FTP connections are passive the client connects to the server, instead "
@@ -47,14 +47,14 @@ msgid ""
 "servers may not support Passive FTP though."
 msgstr ""
 
-#. i18n: ectx: label, entry (MarkPartial), group (DesktopIcons)
-#: netpref/kio_ftprc.kcfg:16
+#. i18n: ectx: label, entry (MarkPartial), group (&lt;default&gt;)
+#: netpref/kio_ftprc.kcfg:15 netpref/kioslave.kcfg:12
 #, kde-format
 msgid "Mark partially uploaded files"
 msgstr "Marcar partialmen cargat files"
 
-#. i18n: ectx: whatsthis, entry (MarkPartial), group (DesktopIcons)
-#: netpref/kio_ftprc.kcfg:17
+#. i18n: ectx: whatsthis, entry (MarkPartial), group (&lt;default&gt;)
+#: netpref/kio_ftprc.kcfg:16 netpref/kioslave.kcfg:13
 #, kde-format
 msgid ""
 "While a file is being uploaded its extension is \".part\". When fully "
@@ -63,17 +63,23 @@ msgstr ""
 "Quande li file ea cargat, su extension es «.part». Quande it es cargat "
 "completmen, it es renominat a su propri nómine."
 
-#: netpref/netpref.cpp:30
+#. i18n: ectx: label, entry (MinimumKeepSize), group (&lt;default&gt;)
+#: netpref/kioslave.kcfg:17
+#, kde-format
+msgid "The minimum file size for keeping aborted downloads"
+msgstr ""
+
+#: netpref/netpref.cpp:26
 #, kde-format
 msgid "Global Options"
 msgstr "Global parametres"
 
-#: netpref/netpref.cpp:35 netpref/netpref.cpp:74
+#: netpref/netpref.cpp:31 netpref/netpref.cpp:70
 #, kde-format
 msgid "Mark &partially uploaded files"
 msgstr "Marcar &partialmen cargat files"
 
-#: netpref/netpref.cpp:37
+#: netpref/netpref.cpp:33
 #, kde-format
 msgid ""
 "<p>Marks partially uploaded files through SMB, SFTP and other protocols.</"
@@ -82,7 +88,7 @@ msgid ""
 "complete.</p>"
 msgstr ""
 
-#: netpref/netpref.cpp:56
+#: netpref/netpref.cpp:52
 #, fuzzy, kde-format
 #| msgid " byte"
 #| msgid_plural " bytes"
@@ -92,24 +98,24 @@ msgid_plural "%v bytes"
 msgstr[0] " octete"
 msgstr[1] " octetes"
 
-#: netpref/netpref.cpp:58
+#: netpref/netpref.cpp:54
 #, kde-format
 msgctxt "@label:spinbox"
 msgid ""
 "If cancelled, automatically delete partially uploaded files smaller than:"
 msgstr "Si interruptet, remover li partialmen cargat files minu grand quam:"
 
-#: netpref/netpref.cpp:60
+#: netpref/netpref.cpp:56
 #, kde-format
 msgid "FTP Options"
 msgstr "Parametres de FTP"
 
-#: netpref/netpref.cpp:66
+#: netpref/netpref.cpp:62
 #, kde-format
 msgid "Enable passive &mode (PASV)"
 msgstr "Activar &passiv mode (PASV)"
 
-#: netpref/netpref.cpp:68
+#: netpref/netpref.cpp:64
 #, kde-format
 msgid ""
 "Enables FTP's \"passive\" mode. This is required to allow FTP to work from "
@@ -118,7 +124,7 @@ msgstr ""
 "Activar li «passiv» mode de FTP. To es besonat por permisser a FTP operar "
 "tra firewalles."
 
-#: netpref/netpref.cpp:76
+#: netpref/netpref.cpp:72
 #, kde-format
 msgid ""
 "<p>Marks partially uploaded FTP files.</p><p>When this option is enabled, "
@@ -894,25 +900,25 @@ msgctxt "Space as keyword delimiter"
 msgid "Space"
 msgstr "Spacie"
 
-#: webshortcuts/searchproviderdlg.cpp:51
+#: webshortcuts/searchproviderdlg.cpp:48
 #, kde-format
 msgctxt "@item:inlistbox The default character set"
 msgid "Default"
 msgstr "Predefinit"
 
-#: webshortcuts/searchproviderdlg.cpp:54
+#: webshortcuts/searchproviderdlg.cpp:51
 #, fuzzy, kde-format
 #| msgid "Web Search Keywords"
 msgid "Edit Web Search Keyword"
 msgstr "Sercha web per clav-paroles"
 
-#: webshortcuts/searchproviderdlg.cpp:62
+#: webshortcuts/searchproviderdlg.cpp:59
 #, fuzzy, kde-format
 #| msgid "Web Search Keywords"
 msgid "New Web Search Keyword"
 msgstr "Sercha web per clav-paroles"
 
-#: webshortcuts/searchproviderdlg.cpp:123
+#: webshortcuts/searchproviderdlg.cpp:120
 #, fuzzy, kde-format
 #| msgid ""
 #| "The shortcut \"%1\" is already assigned to \"%2\". Please choose a "
@@ -922,13 +928,13 @@ msgid ""
 "one."
 msgstr "Li clav-parol «%1» es ja assignat a «%2». Ples selecter un altri."
 
-#: webshortcuts/searchproviderdlg.cpp:128
+#: webshortcuts/searchproviderdlg.cpp:125
 #, kde-format
 msgctxt "- web short cut (e.g. gg): what it refers to (e.g. Google)"
 msgid "- %1: \"%2\""
 msgstr "- %1: \"%2\""
 
-#: webshortcuts/searchproviderdlg.cpp:132
+#: webshortcuts/searchproviderdlg.cpp:129
 #, fuzzy, kde-format
 #| msgid ""
 #| "The following shortcuts are already assigned. Please choose different "
@@ -941,7 +947,7 @@ msgstr ""
 "Li sequent clav-paroles es ja assignat. Ples selecter altris.\n"
 "%1"
 
-#: webshortcuts/searchproviderdlg.cpp:145
+#: webshortcuts/searchproviderdlg.cpp:142
 #, fuzzy, kde-format
 #| msgid ""
 #| "The Shortcut URL does not contain a \\{...} placeholder for the user "
@@ -958,7 +964,7 @@ msgstr ""
 "To significa que li sam págine va esser visitat, sin egard al textu del "
 "demanda de sercha."
 
-#: webshortcuts/searchproviderdlg.cpp:150
+#: webshortcuts/searchproviderdlg.cpp:147
 #, kde-format
 msgid "Keep It"
 msgstr "Retener"
