@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-17 11:58+0000\n"
+"POT-Creation-Date: 2025-11-26 00:50+0000\n"
 "PO-Revision-Date: 2022-11-16 15:59+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -155,6 +155,16 @@ msgid "Received some text"
 msgstr ""
 
 #: plugins/kdeconnect.notifyrc:1037
+msgctxt "Name"
+msgid "Drawing Tablet Error"
+msgstr ""
+
+#: plugins/kdeconnect.notifyrc:1038
+msgctxt "Comment"
+msgid "Something went wrong with the drawing tablet plugin"
+msgstr ""
+
+#: plugins/kdeconnect.notifyrc:1043
 msgctxt "Name"
 msgid "Error"
 msgstr ""
