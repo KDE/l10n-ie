@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-08 00:53+0000\n"
+"POT-Creation-Date: 2025-12-09 00:52+0000\n"
 "PO-Revision-Date: 2022-11-10 00:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -77,7 +77,7 @@ msgctxt "Name"
 msgid "Peek at Desktop"
 msgstr "sur li Pupitre"
 
-#: applets/taskmanager/package/metadata.json
+#: applets/taskmanager/metadata.json
 #, fuzzy
 msgctxt "Name"
 msgid "Icons-and-Text Task Manager"
@@ -350,7 +350,7 @@ msgctxt "Description"
 msgid "Temporarily shows the desktop by moving windows away"
 msgstr "Minimisar omni fenestres e monstrar li Pupitre"
 
-#: applets/taskmanager/package/metadata.json
+#: applets/taskmanager/metadata.json
 msgctxt "Description"
 msgid "Window bar displaying icons and text"
 msgstr ""
@@ -562,7 +562,7 @@ msgid "The Plasma Team"
 msgstr "Li equipe de Plasma"
 
 #: applets/icontasks/metadata.json applets/kicker/metadata.json
-#: applets/taskmanager/package/metadata.json applets/window-list/metadata.json
+#: applets/taskmanager/metadata.json applets/window-list/metadata.json
 #: containments/desktop/package/metadata.json containments/folder/metadata.json
 msgctxt "Authors Name"
 msgid "Eike Hein"
