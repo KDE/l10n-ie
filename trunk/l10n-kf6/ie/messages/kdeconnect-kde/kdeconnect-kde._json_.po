@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-26 00:52+0000\n"
+"POT-Creation-Date: 2025-12-15 00:51+0000\n"
 "PO-Revision-Date: 2022-11-16 15:55+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -150,6 +150,11 @@ msgstr ""
 #: plugins/sftp/kdeconnect_sftp.json
 msgctxt "Name"
 msgid "Remote filesystem browser"
+msgstr ""
+
+#: plugins/shareinputdevices/kdeconnect_shareinputdevices.json
+msgctxt "Name"
+msgid "Share input devices"
 msgstr ""
 
 #: plugins/share/kdeconnect_share.json
@@ -310,6 +315,11 @@ msgctxt "Description"
 msgid "Browse the remote device filesystem using SFTP"
 msgstr ""
 
+#: plugins/shareinputdevices/kdeconnect_shareinputdevices.json
+msgctxt "Description"
+msgid "Share mouse and keyboard with the remote device"
+msgstr ""
+
 #: plugins/share/kdeconnect_share.json
 msgctxt "Description"
 msgid "Receive and send files, URLs, or plain text"
@@ -417,6 +427,15 @@ msgstr "Pramod Dematagoda"
 msgctxt "Authors Name"
 msgid "Samoilenko Yuri"
 msgstr "Samoilenko Yuri"
+
+#: plugins/shareinputdevices/kdeconnect_shareinputdevices.json
+#: plugins/shareinputdevicesremote/kdeconnect_shareinputdevicesremote.json
+#, fuzzy
+#| msgctxt "Authors Name"
+#| msgid "David Edmundson"
+msgctxt "Authors Name"
+msgid "David Redondo"
+msgstr "David Edmundson"
 
 #: plugins/virtualmonitor/kdeconnect_virtualmonitor.json
 msgctxt "Authors Name"
