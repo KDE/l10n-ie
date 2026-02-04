@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-21 00:52+0000\n"
+"POT-Creation-Date: 2026-02-04 00:51+0000\n"
 "PO-Revision-Date: 2022-10-27 00:16+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -217,6 +217,20 @@ msgctxt "Description"
 msgid "My own certificates"
 msgstr "Certificates X509"
 
+#: src/libkleopatrarc.desktop:1361 src/libkleopatrarc-win32.desktop:1223
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Not Validated Key"
+msgctxt "Name"
+msgid "Valid"
+msgstr "Clave sin validation"
+
+#: src/libkleopatrarc.desktop:1362 src/libkleopatrarc-win32.desktop:1224
+msgctxt "Description"
+msgid ""
+"Certificates that are neither expired nor revoked (except disabled ones)"
+msgstr ""
+
 #, fuzzy
 #~ msgctxt "Name"
 #~ msgid "Disabled Certificates"
@@ -227,13 +241,6 @@ msgstr "Certificates X509"
 #~| msgid "Not Validated Key"
 #~ msgctxt "Name"
 #~ msgid "Not Validated"
-#~ msgstr "Clave sin validation"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Not Validated Key"
-#~ msgctxt "Name"
-#~ msgid "Validated"
 #~ msgstr "Clave sin validation"
 
 #~ msgctxt "Name"
