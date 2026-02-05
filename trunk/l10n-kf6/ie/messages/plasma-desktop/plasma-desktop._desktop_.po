@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-04 00:51+0000\n"
+"POT-Creation-Date: 2026-02-05 00:51+0000\n"
 "PO-Revision-Date: 2022-11-10 00:32+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -147,24 +147,6 @@ msgstr ""
 msgctxt "Comment"
 msgid "Mouse keys has been enabled or disabled"
 msgstr ""
-
-#: kcms/dateandtime/kcmclock_actions.actions:2
-msgctxt "Name"
-msgid "Date and Time Control Module"
-msgstr "Module de control del date e hora de KDE"
-
-#: kcms/dateandtime/kcmclock_actions.actions:79
-msgctxt "Name"
-msgid "Save the date/time settings"
-msgstr "Gardar li parametres de date e hora"
-
-#: kcms/dateandtime/kcmclock_actions.actions:153
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Save the date/time settings"
-msgctxt "Description"
-msgid "Authenticate to change the date or time settings."
-msgstr "Gardar li parametres de date e hora"
 
 #: kcms/ksplash/ksplash.knsrc:2
 #, fuzzy
@@ -432,6 +414,21 @@ msgstr ""
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "_Panel"
+
+#~ msgctxt "Name"
+#~ msgid "Date and Time Control Module"
+#~ msgstr "Module de control del date e hora de KDE"
+
+#~ msgctxt "Name"
+#~ msgid "Save the date/time settings"
+#~ msgstr "Gardar li parametres de date e hora"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Save the date/time settings"
+#~ msgctxt "Description"
+#~ msgid "Authenticate to change the date or time settings."
+#~ msgstr "Gardar li parametres de date e hora"
 
 #~ msgctxt "Comment"
 #~ msgid "Touchpad"
