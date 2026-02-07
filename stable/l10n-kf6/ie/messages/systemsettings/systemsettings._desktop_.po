@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-02 02:45+0000\n"
+"POT-Creation-Date: 2026-02-07 02:41+0000\n"
 "PO-Revision-Date: 2024-08-04 16:14+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <>\n"
@@ -29,7 +29,7 @@ msgctxt "Comment"
 msgid "Configure KDE Plasma’s behavior and appearance"
 msgstr ""
 
-#: app/kdesystemsettings.desktop:190 app/systemsettings.desktop:234
+#: app/kdesystemsettings.desktop:191 app/systemsettings.desktop:235
 msgctxt "Keywords"
 msgid "systemsettings"
 msgstr ""
@@ -49,27 +49,27 @@ msgctxt "Comment"
 msgid "Configure the system’s behavior and appearance"
 msgstr ""
 
-#: app/systemsettings.desktop:283
+#: app/systemsettings.desktop:284
 msgctxt "Name"
 msgid "Global Theme"
 msgstr "Global tema"
 
-#: app/systemsettings.desktop:342
+#: app/systemsettings.desktop:343
 msgctxt "Name"
 msgid "Users"
 msgstr "Usatores"
 
-#: app/systemsettings.desktop:403
+#: app/systemsettings.desktop:404
 msgctxt "Name"
 msgid "Screen Locking"
 msgstr "Serrar li ecran"
 
-#: app/systemsettings.desktop:463
+#: app/systemsettings.desktop:464
 msgctxt "Name"
 msgid "Power Management"
 msgstr "Gerentie de energie"
 
-#: app/systemsettings.desktop:549
+#: app/systemsettings.desktop:550
 msgctxt "Name"
 msgid "Display Configuration"
 msgstr "Configuration de monitor"
