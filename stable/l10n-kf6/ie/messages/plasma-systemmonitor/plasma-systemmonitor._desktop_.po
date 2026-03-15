@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-03-02 02:50+0000\n"
+"POT-Creation-Date: 2026-03-15 02:48+0000\n"
 "PO-Revision-Date: 2022-11-16 16:38+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -74,13 +74,13 @@ msgctxt "Comment"
 msgid "Monitor app and system resource usage"
 msgstr ""
 
-#: org.kde.plasma-systemmonitor.desktop:136
+#: org.kde.plasma-systemmonitor.desktop:137
 msgctxt "Keywords"
 msgid "task;manager;process;cpu;memory;"
 msgstr "tache;gerente;processe;cpu;memorie;"
 
-#: src/pages/applications.page:12 src/pages/old-overview.page:530
-#: src/pages/overview.page:266
+#: src/pages/applications.page:12 src/pages/old-overview.page:532
+#: src/pages/overview.page:268
 msgctxt "Title"
 msgid "Applications"
 msgstr "Applicationes"
@@ -90,7 +90,7 @@ msgctxt "Title"
 msgid "History"
 msgstr "Diarium"
 
-#: src/pages/history.page:105 src/pages/old-history.page:71
+#: src/pages/history.page:105 src/pages/old-history.page:72
 #: src/pages/old-overview.page:186 src/pages/overview.page:65
 msgctxt "Title"
 msgid "CPU"
@@ -104,13 +104,13 @@ msgctxt "Title"
 msgid "GPU"
 msgstr "CPU"
 
-#: src/pages/history.page:245 src/pages/old-history.page:186
-#: src/pages/old-overview.page:6 src/pages/overview.page:167
+#: src/pages/history.page:246 src/pages/old-history.page:187
+#: src/pages/old-overview.page:6 src/pages/overview.page:168
 msgctxt "Title"
 msgid "Memory"
 msgstr "Memorie"
 
-#: src/pages/history.page:315 src/pages/old-history.page:301
+#: src/pages/history.page:316 src/pages/old-history.page:302
 msgctxt "Title"
 msgid "Network"
 msgstr "Rete"
@@ -120,8 +120,8 @@ msgctxt "Title"
 msgid "History (Old Version)"
 msgstr ""
 
-#: src/pages/old-history.page:125 src/pages/old-history.page:240
-#: src/pages/old-history.page:355
+#: src/pages/old-history.page:126 src/pages/old-history.page:241
+#: src/pages/old-history.page:356
 msgctxt "Title"
 msgid "false"
 msgstr "fals"
@@ -147,17 +147,17 @@ msgctxt "Title"
 msgid "Network Rates"
 msgstr "Rete: "
 
-#: src/pages/old-overview.page:367
+#: src/pages/old-overview.page:368
 msgctxt "Title"
 msgid "Overview (Old Version)"
 msgstr ""
 
-#: src/pages/old-overview.page:440
+#: src/pages/old-overview.page:442
 msgctxt "Title"
 msgid "Network & System"
 msgstr "Rete e sistema"
 
-#: src/pages/overview.page:226
+#: src/pages/overview.page:227
 #, fuzzy
 #| msgctxt "Title"
 #| msgid "Disk"
@@ -165,12 +165,12 @@ msgctxt "Title"
 msgid "Disks"
 msgstr "Disco"
 
-#: src/pages/overview.page:321
+#: src/pages/overview.page:323
 msgctxt "Title"
 msgid "Swap"
 msgstr ""
 
-#: src/pages/overview.page:367
+#: src/pages/overview.page:370
 msgctxt "Title"
 msgid "Overview"
 msgstr "Compendie"
