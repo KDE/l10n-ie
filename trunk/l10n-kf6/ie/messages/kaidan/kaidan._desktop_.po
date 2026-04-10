@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-03-08 00:53+0000\n"
+"POT-Creation-Date: 2026-04-10 01:02+0000\n"
 "PO-Revision-Date: 2022-11-02 01:57+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.12\n"
 
-#: misc/im.kaidan.kaidan.desktop:9 misc/kaidan.notifyrc:43
+#: misc/im.kaidan.kaidan.desktop:9 misc/kaidan.notifyrc:44
 msgctxt "Name"
 msgid "Kaidan"
 msgstr "Kaidan"
@@ -23,13 +23,13 @@ msgctxt "GenericName"
 msgid "Jabber IM Client"
 msgstr "Cliente de IM Jabber"
 
-#: misc/im.kaidan.kaidan.desktop:82
+#: misc/im.kaidan.kaidan.desktop:83
 #, fuzzy
 msgctxt "Comment"
 msgid "A QtQuick Jabber client"
 msgstr "Portage a QtQuick"
 
-#: misc/im.kaidan.kaidan.desktop:117
+#: misc/im.kaidan.kaidan.desktop:119
 msgctxt "Keywords"
 msgid "chat;messaging;im;jabber;xmpp;qt;network;"
 msgstr ""
@@ -39,45 +39,45 @@ msgctxt "Comment"
 msgid "A user-friendly XMPP client for every device"
 msgstr ""
 
-#: misc/kaidan.notifyrc:82
+#: misc/kaidan.notifyrc:83
 msgctxt "Name"
 msgid "New Message"
 msgstr "Nov missage"
 
-#: misc/kaidan.notifyrc:115
+#: misc/kaidan.notifyrc:117
 #, fuzzy
 msgctxt "Comment"
 msgid "New message received"
 msgstr "Vu have un nov missage"
 
-#: misc/kaidan.notifyrc:151
+#: misc/kaidan.notifyrc:154
 #, fuzzy
 msgctxt "Name"
 msgid "New Subsequent Message"
 msgstr "Vu have un nov missage"
 
-#: misc/kaidan.notifyrc:181
+#: misc/kaidan.notifyrc:185
 msgctxt "Comment"
 msgid ""
 "New message received in quick succession to a previous one from the same chat"
 msgstr ""
 
-#: misc/kaidan.notifyrc:214
+#: misc/kaidan.notifyrc:219
 msgctxt "Name"
 msgid "Request to share personal data"
 msgstr ""
 
-#: misc/kaidan.notifyrc:242
+#: misc/kaidan.notifyrc:248
 msgctxt "Comment"
 msgid "A contact asks for receiving personal data"
 msgstr ""
 
-#: misc/kaidan.notifyrc:274
+#: misc/kaidan.notifyrc:281
 msgctxt "Name"
 msgid "New Call"
 msgstr ""
 
-#: misc/kaidan.notifyrc:293
+#: misc/kaidan.notifyrc:301
 msgctxt "Comment"
 msgid "New incoming call"
 msgstr ""
