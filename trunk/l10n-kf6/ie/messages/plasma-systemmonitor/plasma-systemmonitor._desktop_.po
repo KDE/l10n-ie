@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-04-10 01:02+0000\n"
+"POT-Creation-Date: 2026-04-18 00:52+0000\n"
 "PO-Revision-Date: 2022-11-16 16:38+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -78,6 +78,35 @@ msgstr ""
 msgctxt "Keywords"
 msgid "task;manager;process;cpu;memory;"
 msgstr "tache;gerente;processe;cpu;memorie;"
+
+#: org.kde.plasma-systemmonitor.desktop:193
+#, fuzzy
+#| msgctxt "Title"
+#| msgid "Overview"
+msgctxt "Name"
+msgid "Open Overview Page"
+msgstr "Compendie"
+
+#: org.kde.plasma-systemmonitor.desktop:198
+msgctxt "Name"
+msgid "Open History Page"
+msgstr ""
+
+#: org.kde.plasma-systemmonitor.desktop:203
+#, fuzzy
+#| msgctxt "Title"
+#| msgid "Processes"
+msgctxt "Name"
+msgid "Open Processes Page"
+msgstr "Processes"
+
+#: org.kde.plasma-systemmonitor.desktop:208
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Applications Table"
+msgctxt "Name"
+msgid "Open Applications Page"
+msgstr "Tabelle de applicationes"
 
 #: src/pages/applications.page:12 src/pages/old-overview.page:533
 #: src/pages/overview.page:270
@@ -184,10 +213,6 @@ msgstr "Processes"
 msgctxt "Name"
 msgid "Pages"
 msgstr "Págines"
-
-#~ msgctxt "Name"
-#~ msgid "Applications Table"
-#~ msgstr "Tabelle de applicationes"
 
 #~ msgctxt "Name"
 #~ msgid "Process Table"
