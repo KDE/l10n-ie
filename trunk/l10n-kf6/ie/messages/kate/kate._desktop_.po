@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-03-02 00:52+0000\n"
+"POT-Creation-Date: 2026-04-23 00:51+0000\n"
 "PO-Revision-Date: 2022-10-25 04:48+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: ie <kde-i18n-doc@kde.org>\n"
@@ -33,7 +33,7 @@ msgctxt "Comment"
 msgid "KDE Advanced Text Editor"
 msgstr "Redactor avansat de textus de KDE"
 
-#: apps/kate/data/org.kde.kate.desktop:199
+#: apps/kate/data/org.kde.kate.desktop:200
 msgctxt "Keywords"
 msgid "text;txt;editor;programming;programmer;development;developer;code;"
 msgstr "text;txt;redactor;programma;programmero;developation;developator;code;"
@@ -53,7 +53,7 @@ msgctxt "Comment"
 msgid "KDE Text Editor"
 msgstr "Redactor de textus de KDE"
 
-#: apps/kwrite/data/org.kde.kwrite.desktop:194
+#: apps/kwrite/data/org.kde.kwrite.desktop:195
 msgctxt "Keywords"
 msgid "text;txt;editor;note;notepad;"
 msgstr "text;txt;redactor;bloc;note;notar;notepad;"
