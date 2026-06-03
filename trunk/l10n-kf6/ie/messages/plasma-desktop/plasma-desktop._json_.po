@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-04-17 00:54+0000\n"
+"POT-Creation-Date: 2026-06-03 01:26+0000\n"
 "PO-Revision-Date: 2022-11-10 00:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -215,7 +215,7 @@ msgctxt "Name"
 msgid "Drawing Tablet"
 msgstr "Tabulette de dessine"
 
-#: kcms/touchpad/kcm_touchpad.json kcms/touchpad/kded/kded_touchpad.json
+#: kcms/touchpad/kcm_touchpad.json
 msgctxt "Name"
 msgid "Touchpad"
 msgstr "Panel tactil"
@@ -483,12 +483,6 @@ msgstr ""
 msgctxt "Description"
 msgid "Touchpad settings"
 msgstr "Parametres de panel tactil"
-
-#: kcms/touchpad/kded/kded_touchpad.json
-#, fuzzy
-msgctxt "Description"
-msgid "Enables or disables touchpad"
-msgstr "Panel tactil"
 
 #: kcms/workspaceoptions/kcm_workspace.json
 #, fuzzy
@@ -795,6 +789,11 @@ msgstr ""
 msgctxt "X-KDE-Keywords"
 msgid "Automount,Mount,Disk,Disks,Removable,Device,Devices,Automatic"
 msgstr ""
+
+#, fuzzy
+#~ msgctxt "Description"
+#~ msgid "Enables or disables touchpad"
+#~ msgstr "Panel tactil"
 
 #, fuzzy
 #~ msgctxt "Name"
