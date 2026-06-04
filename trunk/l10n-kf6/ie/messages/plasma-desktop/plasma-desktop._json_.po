@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-06-03 01:26+0000\n"
+"POT-Creation-Date: 2026-06-04 00:55+0000\n"
 "PO-Revision-Date: 2022-11-10 00:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -145,11 +145,6 @@ msgstr "Funde"
 msgctxt "Name"
 msgid "Keyboard"
 msgstr "Tastatura"
-
-#: kcms/keyboard/kded_keyboard.json
-msgctxt "Name"
-msgid "Keyboard Daemon"
-msgstr "Daemon del tastatura"
 
 #: kcms/keys/kcm_keys.json
 msgctxt "Name"
@@ -414,11 +409,6 @@ msgstr "Configurante servicios de systemd"
 msgctxt "Description"
 msgid "Keyboard Hardware and Layout"
 msgstr "Hardware e arangeament del tastatura"
-
-#: kcms/keyboard/kded_keyboard.json
-msgctxt "Description"
-msgid "Enables switching keyboard layout through shortcuts or system tray"
-msgstr ""
 
 #: kcms/keys/kcm_keys.json
 msgctxt "Description"
@@ -789,6 +779,10 @@ msgstr ""
 msgctxt "X-KDE-Keywords"
 msgid "Automount,Mount,Disk,Disks,Removable,Device,Devices,Automatic"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Keyboard Daemon"
+#~ msgstr "Daemon del tastatura"
 
 #, fuzzy
 #~ msgctxt "Description"
