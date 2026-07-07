@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-06-25 00:55+0000\n"
+"POT-Creation-Date: 2026-07-07 00:53+0000\n"
 "PO-Revision-Date: 2022-11-10 00:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -200,7 +200,7 @@ msgctxt "Name"
 msgid "Device Actions"
 msgstr "Actiones de aparates"
 
-#: kcms/spellchecking/kcmspellchecking.json
+#: kcms/spellchecking/kcm_spellchecking.json
 msgctxt "Name"
 msgid "Spell Check"
 msgstr "Control de ortografie"
@@ -459,7 +459,7 @@ msgctxt "Description"
 msgid "Manage actions available to the user when connecting new devices"
 msgstr ""
 
-#: kcms/spellchecking/kcmspellchecking.json
+#: kcms/spellchecking/kcm_spellchecking.json
 msgctxt "Description"
 msgid "Spell Checker Dictionaries and Options"
 msgstr "Dictionariums e parametres ortografic"
@@ -735,7 +735,7 @@ msgid ""
 "Solid Devices Actions,device actions,open with,play,download,browse,transfer"
 msgstr ""
 
-#: kcms/spellchecking/kcmspellchecking.json
+#: kcms/spellchecking/kcm_spellchecking.json
 msgctxt "X-KDE-Keywords"
 msgid ""
 "spell,spellings,grammar check,grammatical check,spell check,autocorrect,auto "
