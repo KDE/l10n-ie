@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-03-08 00:57+0000\n"
+"POT-Creation-Date: 2026-08-02 00:56+0000\n"
 "PO-Revision-Date: 2022-11-03 07:50+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: ie <kde-i18n-doc@kde.org>\n"
@@ -12,11 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.12\n"
-
-#: addons/backtracebrowser/katebacktracebrowserplugin.json
-msgctxt "Name"
-msgid "Backtrace Browser"
-msgstr "Explorator de backtraces"
 
 #: addons/bookmarks/bookmarksplugin.json
 msgctxt "Name"
@@ -216,11 +211,6 @@ msgctxt "Name"
 msgid "XML Completion"
 msgstr "Completion de XML"
 
-#: addons/backtracebrowser/katebacktracebrowserplugin.json
-msgctxt "Description"
-msgid "C/C++ Backtrace navigation tool view"
-msgstr "Utensile de navigation de backtraces de C/C++"
-
 #: addons/bookmarks/bookmarksplugin.json
 msgctxt "Description"
 msgid "Display and navigate bookmarks"
@@ -410,6 +400,14 @@ msgstr "Liste elementes e atributes XML, su valores e entitás permisset de DTD"
 msgctxt "Authors Name"
 msgid "Friedrich W. H. Kossebau"
 msgstr "Friedrich W. H. Kossebau"
+
+#~ msgctxt "Name"
+#~ msgid "Backtrace Browser"
+#~ msgstr "Explorator de backtraces"
+
+#~ msgctxt "Description"
+#~ msgid "C/C++ Backtrace navigation tool view"
+#~ msgstr "Utensile de navigation de backtraces de C/C++"
 
 #~ msgctxt "Description"
 #~ msgid "Manage your code snippets or download new ones"
