@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-08-07 02:15+0000\n"
+"POT-Creation-Date: 2026-08-11 02:24+0000\n"
 "PO-Revision-Date: 2022-10-21 16:17+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Execute action as root."
 msgstr "Executer un action quam li superusator."
 
-#: src/ioslaves/file/kauth/file.actions:59
+#: src/ioslaves/file/kauth/file.actions:60
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr "Li privilegies del superusator es besonat por compleer ti action."
@@ -49,12 +49,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "Cookies"
 
-#: src/kcms/cookies/cookies.desktop:78
+#: src/kcms/cookies/cookies.desktop:79
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "Configurar li usage de cookies"
 
-#: src/kcms/cookies/cookies.desktop:172
+#: src/kcms/cookies/cookies.desktop:173
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr "Cookies,Navigation,Internet,WWW,Rete,Politica,Dominias"
@@ -99,7 +99,7 @@ msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr "Information por accesse al partites SMB"
 
-#: src/kcms/smb/smb.desktop:167
+#: src/kcms/smb/smb.desktop:168
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -113,12 +113,12 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "Clav-paroles del sercha web"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:68
+#: src/kcms/webshortcuts/webshortcuts.desktop:69
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "Configurar li clav-paroles del sercha web"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:124
+#: src/kcms/webshortcuts/webshortcuts.desktop:126
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -133,7 +133,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "Vacuator del cache HTTP"
 
-#: src/kioworkers/http/http_cache_cleaner.desktop:73
+#: src/kioworkers/http/http_cache_cleaner.desktop:74
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "Efaciar old elementes in li cache HTTP"
@@ -143,32 +143,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Configuration del proxy per li rete"
 
-#: src/kpac/proxyscout.notifyrc:71
+#: src/kpac/proxyscout.notifyrc:72
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Li scripte de proxy es ínvalid"
 
-#: src/kpac/proxyscout.notifyrc:138
+#: src/kpac/proxyscout.notifyrc:140
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "Li cargat scripte de configuration de proxy es ínvalid"
 
-#: src/kpac/proxyscout.notifyrc:209
+#: src/kpac/proxyscout.notifyrc:212
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Errore de descarga de scripte"
 
-#: src/kpac/proxyscout.notifyrc:276
+#: src/kpac/proxyscout.notifyrc:280
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "Li scripte de configuration de proxy ne posse esser cargat"
 
-#: src/kpac/proxyscout.notifyrc:348
+#: src/kpac/proxyscout.notifyrc:353
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Errore de evaluation de scripte"
 
-#: src/kpac/proxyscout.notifyrc:414
+#: src/kpac/proxyscout.notifyrc:420
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Un errore evenit executente li scripte de configuration de proxy"
@@ -1809,7 +1809,7 @@ msgctxt "Name"
 msgid "C++"
 msgstr "C++"
 
-#: templates/kioworker/kioworker.kdevtemplate:50
+#: templates/kioworker/kioworker.kdevtemplate:51
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr "Modelle de KIO Worker"
