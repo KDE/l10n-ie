@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-07-19 02:12+0000\n"
+"POT-Creation-Date: 2026-08-26 02:18+0000\n"
 "PO-Revision-Date: 2022-10-26 20:57+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -36,7 +36,7 @@ msgctxt "Name"
 msgid "Testing dynamic length arrays (JS)"
 msgstr ""
 
-#: kasten/controllers/view/structures/examples/okteta/structures/dynamic-array-js/metadata.desktop:23
+#: kasten/controllers/view/structures/examples/okteta/structures/dynamic-array-js/metadata.desktop:25
 #, fuzzy
 msgctxt "Comment"
 msgid "A test structure for dynamic arrays (JS)"
@@ -47,7 +47,7 @@ msgctxt "Name"
 msgid "Testing dynamic length arrays"
 msgstr ""
 
-#: kasten/controllers/view/structures/examples/okteta/structures/dynamic/metadata.desktop:51
+#: kasten/controllers/view/structures/examples/okteta/structures/dynamic/metadata.desktop:52
 msgctxt "Comment"
 msgid "A test structure for dynamic arrays"
 msgstr ""
@@ -70,7 +70,7 @@ msgctxt "Name"
 msgid "Testing enums"
 msgstr "Enums"
 
-#: kasten/controllers/view/structures/examples/okteta/structures/enum/metadata.desktop:50
+#: kasten/controllers/view/structures/examples/okteta/structures/enum/metadata.desktop:51
 #, fuzzy
 msgctxt "Comment"
 msgid "A test structure for enums"
@@ -82,7 +82,7 @@ msgctxt "Name"
 msgid "Testing bitflags"
 msgstr "Provante li archive"
 
-#: kasten/controllers/view/structures/examples/okteta/structures/flags/metadata.desktop:47
+#: kasten/controllers/view/structures/examples/okteta/structures/flags/metadata.desktop:48
 #, fuzzy
 msgctxt "Comment"
 msgid "A test for bitflags"
