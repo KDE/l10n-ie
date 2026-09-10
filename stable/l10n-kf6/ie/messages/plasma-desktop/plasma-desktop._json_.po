@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-04-17 00:54+0000\n"
+"POT-Creation-Date: 2026-09-03 00:54+0000\n"
 "PO-Revision-Date: 2022-11-10 00:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -17,6 +17,11 @@ msgstr ""
 msgctxt "Name"
 msgid "Activity Pager"
 msgstr "Paginator de activitás"
+
+#: applets/dwellclicker/metadata.json
+msgctxt "Name"
+msgid "Dwell Clicker"
+msgstr ""
 
 #: applets/icontasks/metadata.json
 #, fuzzy
@@ -146,11 +151,6 @@ msgctxt "Name"
 msgid "Keyboard"
 msgstr "Tastatura"
 
-#: kcms/keyboard/kded_keyboard.json
-msgctxt "Name"
-msgid "Keyboard Daemon"
-msgstr "Daemon del tastatura"
-
 #: kcms/keys/kcm_keys.json
 msgctxt "Name"
 msgid "Shortcuts"
@@ -205,7 +205,7 @@ msgctxt "Name"
 msgid "Device Actions"
 msgstr "Actiones de aparates"
 
-#: kcms/spellchecking/kcmspellchecking.json
+#: kcms/spellchecking/kcm_spellchecking.json
 msgctxt "Name"
 msgid "Spell Check"
 msgstr "Control de ortografie"
@@ -215,7 +215,7 @@ msgctxt "Name"
 msgid "Drawing Tablet"
 msgstr "Tabulette de dessine"
 
-#: kcms/touchpad/kcm_touchpad.json kcms/touchpad/kded/kded_touchpad.json
+#: kcms/touchpad/kcm_touchpad.json
 msgctxt "Name"
 msgid "Touchpad"
 msgstr "Panel tactil"
@@ -229,6 +229,11 @@ msgstr ""
 msgctxt "Name"
 msgid "General Behavior"
 msgstr "General conduida"
+
+#: kded/screenreader/metadata.json
+msgctxt "Name"
+msgid "Screenreader"
+msgstr ""
 
 #: layout-templates/org.kde.plasma.desktop.appmenubar/metadata.json
 msgctxt "Name"
@@ -288,6 +293,11 @@ msgstr "_Panel"
 msgctxt "Description"
 msgid "Switch between activities"
 msgstr "Alterar li activitás"
+
+#: applets/dwellclicker/metadata.json
+msgctxt "Description"
+msgid "Automatically click when pointer remains still for a set amount of time"
+msgstr ""
 
 #: applets/icontasks/metadata.json
 msgctxt "Description"
@@ -415,11 +425,6 @@ msgctxt "Description"
 msgid "Keyboard Hardware and Layout"
 msgstr "Hardware e arangeament del tastatura"
 
-#: kcms/keyboard/kded_keyboard.json
-msgctxt "Description"
-msgid "Enables switching keyboard layout through shortcuts or system tray"
-msgstr ""
-
 #: kcms/keys/kcm_keys.json
 msgctxt "Description"
 msgid "Configure Keyboard Shortcuts"
@@ -469,7 +474,7 @@ msgctxt "Description"
 msgid "Manage actions available to the user when connecting new devices"
 msgstr ""
 
-#: kcms/spellchecking/kcmspellchecking.json
+#: kcms/spellchecking/kcm_spellchecking.json
 msgctxt "Description"
 msgid "Spell Checker Dictionaries and Options"
 msgstr "Dictionariums e parametres ortografic"
@@ -484,17 +489,16 @@ msgctxt "Description"
 msgid "Touchpad settings"
 msgstr "Parametres de panel tactil"
 
-#: kcms/touchpad/kded/kded_touchpad.json
-#, fuzzy
-msgctxt "Description"
-msgid "Enables or disables touchpad"
-msgstr "Panel tactil"
-
 #: kcms/workspaceoptions/kcm_workspace.json
 #, fuzzy
 msgctxt "Description"
 msgid "Configure general workspace behavior"
 msgstr "Configurar parametres del actualisation de programmas"
+
+#: kded/screenreader/metadata.json
+msgctxt "Description"
+msgid "Manages Screenreader"
+msgstr ""
 
 #: layout-templates/org.kde.plasma.desktop.appmenubar/metadata.json
 msgctxt "Description"
@@ -548,6 +552,14 @@ msgstr "Gerer li panel de Plasma"
 msgctxt "Authors Name"
 msgid "The Plasma Team"
 msgstr "Li equipe de Plasma"
+
+#: applets/dwellclicker/metadata.json
+#, fuzzy
+#| msgctxt "Authors Name"
+#| msgid "Sebastian Kügler"
+msgctxt "Authors Name"
+msgid "Sebastian Sauer"
+msgstr "Sebastian Kügler"
 
 #: applets/icontasks/metadata.json applets/kicker/metadata.json
 #: applets/taskmanager/metadata.json applets/window-list/metadata.json
@@ -751,7 +763,7 @@ msgid ""
 "Solid Devices Actions,device actions,open with,play,download,browse,transfer"
 msgstr ""
 
-#: kcms/spellchecking/kcmspellchecking.json
+#: kcms/spellchecking/kcm_spellchecking.json
 msgctxt "X-KDE-Keywords"
 msgid ""
 "spell,spellings,grammar check,grammatical check,spell check,autocorrect,auto "
@@ -793,8 +805,17 @@ msgstr ""
 
 #: solid-device-automounter/kcm/device_automounter_kcm.json
 msgctxt "X-KDE-Keywords"
-msgid "Automount,Mount,Disk,Disks,Removable,Device,Devices,Automatic"
+msgid "Automount,Mount,Disk,Disks,Removable,Device,Devices,Automatic,usb"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Keyboard Daemon"
+#~ msgstr "Daemon del tastatura"
+
+#, fuzzy
+#~ msgctxt "Description"
+#~ msgid "Enables or disables touchpad"
+#~ msgstr "Panel tactil"
 
 #, fuzzy
 #~ msgctxt "Name"
