@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2025-11-17 11:50+0000\n"
+"POT-Creation-Date: 2026-09-20 12:51+0000\n"
 "PO-Revision-Date: 2022-10-29 21:45+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -13,17 +13,17 @@ msgstr ""
 "X-Generator: Poedit 1.8.12\n"
 
 #. (itstool) path: component/name
-#: org.kde.okular.appdata.xml:7
+#: org.kde.okular.appdata.xml:6
 msgid "Okular"
 msgstr "Okular"
 
 #. (itstool) path: component/summary
-#: org.kde.okular.appdata.xml:8
+#: org.kde.okular.appdata.xml:7
 msgid "View and annotate documents"
 msgstr ""
 
 #. (itstool) path: description/p
-#: org.kde.okular.appdata.xml:10
+#: org.kde.okular.appdata.xml:9
 msgid ""
 "Okular is a universal document viewer developed by KDE. Okular works on "
 "multiple platforms, including but not limited to Linux, Windows, Mac OS X, "
@@ -33,12 +33,12 @@ msgstr ""
 "supporta multiplic platformes, includente Linux, Windows, macOS, *BSD etc."
 
 #. (itstool) path: description/p
-#: org.kde.okular.appdata.xml:13
+#: org.kde.okular.appdata.xml:12
 msgid "Features:"
 msgstr "Caracteristicas:"
 
 #. (itstool) path: ul/li
-#: org.kde.okular.appdata.xml:15
+#: org.kde.okular.appdata.xml:14
 #, fuzzy
 #| msgid ""
 #| "Supported Formats: PDF, PS, Tiff, CHM, DjVu, Images, DVI, XPS, Fiction "
@@ -51,19 +51,19 @@ msgstr ""
 "Book, Comic Book, Plucker, EPub, Fax"
 
 #. (itstool) path: ul/li
-#: org.kde.okular.appdata.xml:16
+#: org.kde.okular.appdata.xml:15
 msgid "Sidebar with contents, thumbnails, reviews and bookmarks"
 msgstr ""
 "Panel lateral con li tabelle de contenete, miniaturas, revisiones e marca-"
 "págines"
 
 #. (itstool) path: ul/li
-#: org.kde.okular.appdata.xml:17
+#: org.kde.okular.appdata.xml:16
 msgid "Annotations support"
 msgstr "Supporte de anotationes"
 
 #. (itstool) path: screenshot/caption
-#: org.kde.okular.appdata.xml:22
+#: org.kde.okular.appdata.xml:21
 msgid "Reading manual in Okular"
 msgstr "Letion de un manuale in Okular"
 
