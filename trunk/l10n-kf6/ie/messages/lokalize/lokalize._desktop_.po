@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-07-09 00:52+0000\n"
+"POT-Creation-Date: 2026-09-23 01:05+0000\n"
 "PO-Revision-Date: 2022-10-31 23:11+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: kde-i18n-doc@kde.org\n"
@@ -23,38 +23,38 @@ msgctxt "Name"
 msgid "Lokalize"
 msgstr "Lokalize"
 
-#: src/lokalize.notifyrc:129
+#: src/lokalize.notifyrc:128
 msgctxt "Name"
 msgid "Error opening files"
 msgstr "Un errore evenit apertente files"
 
-#: src/lokalize.notifyrc:191
+#: src/lokalize.notifyrc:190
 #, fuzzy
 msgctxt "Name"
 msgid "Error opening files for synchronization"
 msgstr "Un error evenit apertente li document Mobipocket."
 
-#: src/lokalize.notifyrc:250
+#: src/lokalize.notifyrc:249
 msgctxt "Name"
 msgid "No Qt Sql modules were found"
 msgstr "Null modules SQL de QT esset trovat"
 
-#: src/lokalize.notifyrc:310
+#: src/lokalize.notifyrc:309
 msgctxt "Name"
 msgid "Scanning folders with source files…"
 msgstr ""
 
-#: src/lokalize.notifyrc:347
+#: src/lokalize.notifyrc:346
 msgctxt "Name"
 msgid "Batch Translation Completed"
 msgstr ""
 
-#: src/lokalize.notifyrc:393
+#: src/lokalize.notifyrc:392
 msgctxt "Name"
 msgid "Batch Translation Scheduled"
 msgstr ""
 
-#: src/org.kde.lokalize.desktop:73
+#: src/org.kde.lokalize.desktop:72
 msgctxt "GenericName"
 msgid "Computer-Aided Translation System"
 msgstr "Sistema de traduction assistet de computator"
