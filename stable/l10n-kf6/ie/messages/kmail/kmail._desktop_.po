@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-06-03 01:22+0000\n"
+"POT-Creation-Date: 2026-09-27 02:45+0000\n"
 "PO-Revision-Date: 2024-08-01 21:42+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <>\n"
@@ -46,7 +46,7 @@ msgctxt "Name"
 msgid "Directory does not exist"
 msgstr "Ne successat mover li extraet file al fólder de destination."
 
-#: agents/archivemailagent/akonadi_archivemail_agent.notifyrc:273
+#: agents/archivemailagent/akonadi_archivemail_agent.notifyrc:274
 #, fuzzy
 msgctxt "Name"
 msgid "Archive Mail Error"
@@ -57,7 +57,7 @@ msgctxt "Comment"
 msgid "Followup reminder agent"
 msgstr ""
 
-#: agents/followupreminderagent/akonadi_followupreminder_agent.notifyrc:53
+#: agents/followupreminderagent/akonadi_followupreminder_agent.notifyrc:54
 #, fuzzy
 msgctxt "Name"
 msgid "Mail Follow Up Received"
@@ -68,7 +68,7 @@ msgctxt "Name"
 msgid "Followup Reminder Agent"
 msgstr ""
 
-#: agents/followupreminderagent/followupreminder.desktop:50
+#: agents/followupreminderagent/followupreminder.desktop:51
 #, fuzzy
 msgctxt "Comment"
 msgid ""
@@ -107,7 +107,7 @@ msgid "Extension to filter emails"
 msgstr "mistresssilvara@hotmail.com"
 
 #: agents/mailmergeagent/akonadi_mailmerge_agent.notifyrc:3
-#: agents/mailmergeagent/mailmergeagent.desktop:39
+#: agents/mailmergeagent/mailmergeagent.desktop:40
 #, fuzzy
 msgctxt "Comment"
 msgid "Mail Merge Agent"
@@ -150,7 +150,7 @@ msgctxt "Name"
 msgid "Unified Mailbox Agent"
 msgstr "Unit lettre-buxes"
 
-#: agents/unifiedmailboxagent/unifiedmailboxagent.desktop:42
+#: agents/unifiedmailboxagent/unifiedmailboxagent.desktop:43
 #, fuzzy
 msgctxt "Comment"
 msgid "Unified Mailbox Agent"
@@ -162,13 +162,13 @@ msgctxt "Name"
 msgid "KMail Refresh Settings"
 msgstr "KMail"
 
-#: kmail-refresh-settings/org.kde.kmail-refresh-settings.desktop:46
+#: kmail-refresh-settings/org.kde.kmail-refresh-settings.desktop:47
 #, fuzzy
 msgctxt "GenericName"
 msgid "KMail refresh settings"
 msgstr "KMail"
 
-#: kmail-refresh-settings/org.kde.kmail-refresh-settings.desktop:86
+#: kmail-refresh-settings/org.kde.kmail-refresh-settings.desktop:88
 #, fuzzy
 msgctxt "Comment"
 msgid "Refresh KMail settings"
@@ -185,7 +185,7 @@ msgctxt "GenericName"
 msgid "TNEF File Viewer (proprietary format used by outlook)"
 msgstr "Gerente de files"
 
-#: ktnef/src/org.kde.ktnef.desktop:118
+#: ktnef/src/org.kde.ktnef.desktop:119
 #, fuzzy
 msgctxt "Comment"
 msgid "A viewer/extractor for TNEF files"
@@ -240,31 +240,31 @@ msgctxt "Name"
 msgid "Impossible to send email"
 msgstr "Copiar li originale al traduction"
 
-#: src/data/kmail2.notifyrc:445
+#: src/data/kmail2.notifyrc:446
 #, fuzzy
 msgctxt "Comment"
 msgid "Problem during send mail"
 msgstr "Cliente de postage"
 
-#: src/data/kmail2.notifyrc:488
+#: src/data/kmail2.notifyrc:490
 #, fuzzy
 msgctxt "Name"
 msgid "Archive Mails in Folder done"
 msgstr "Aperter li contenent fólder"
 
-#: src/data/kmail2.notifyrc:539
+#: src/data/kmail2.notifyrc:542
 #, fuzzy
 msgctxt "Name"
 msgid "Folder Archive Error"
 msgstr "Un errore evenit apertente files"
 
-#: src/data/kmail2.notifyrc:590
+#: src/data/kmail2.notifyrc:594
 #, fuzzy
 msgctxt "Name"
 msgid "Email added to the send later queue"
 msgstr "Reveni plu tard."
 
-#: src/data/kmail2.notifyrc:630
+#: src/data/kmail2.notifyrc:635
 #, fuzzy
 msgctxt "Comment"
 msgid "A delayed email delivery is configured and can be canceled"
@@ -292,13 +292,13 @@ msgctxt "Comment"
 msgid "Send, receive and manage your mail with KMail"
 msgstr "KMail"
 
-#: src/data/org.kde.kmail2.desktop:214
+#: src/data/org.kde.kmail2.desktop:215
 #, fuzzy
 msgctxt "Name"
 msgid "New Message..."
 msgstr "Proprietás de missage"
 
-#: src/data/org.kde.kmail2.desktop:259
+#: src/data/org.kde.kmail2.desktop:261
 msgctxt "Name"
 msgid "Check Mail"
 msgstr "Controlar li postage"
