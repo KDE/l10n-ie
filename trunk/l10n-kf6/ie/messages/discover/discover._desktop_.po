@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-09-27 00:53+0000\n"
+"POT-Creation-Date: 2026-10-09 00:55+0000\n"
 "PO-Revision-Date: 2022-10-27 19:27+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -24,12 +24,12 @@ msgctxt "Comment"
 msgid "Install and remove apps and add-ons"
 msgstr ""
 
-#: discover/org.kde.discover.desktop.cmake:112
+#: discover/org.kde.discover.desktop.cmake:116
 msgctxt "GenericName"
 msgid "Software Center"
 msgstr "Programmarium"
 
-#: discover/org.kde.discover.desktop.cmake:174
+#: discover/org.kde.discover.desktop.cmake:178
 #, fuzzy
 #| msgctxt "Keywords"
 #| msgid ""
@@ -43,7 +43,7 @@ msgstr ""
 "programma;repositoria;paccage;adjunter;installar;deinstallar;actualisar;app;"
 "applicationes;ludes;flatpak;snap;addons;add-ons;firmware;"
 
-#: discover/org.kde.discover.desktop.cmake:220
+#: discover/org.kde.discover.desktop.cmake:228
 msgctxt "Name"
 msgid "See Available Updates"
 msgstr "Vider li disponibil actualisamentes"
@@ -53,7 +53,7 @@ msgctxt "Name"
 msgid "Package management"
 msgstr ""
 
-#: libdiscover/backends/AlpineApkBackend/org.kde.discover.alpineapkbackend.actions:48
+#: libdiscover/backends/AlpineApkBackend/org.kde.discover.alpineapkbackend.actions:52
 msgctxt "Description"
 msgid "Install/remove/upgrade packages"
 msgstr ""
@@ -88,47 +88,47 @@ msgctxt "Name"
 msgid "Successful Offline Update"
 msgstr "Ajornat actualisation successat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:243
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:247
 msgctxt "Comment"
 msgid "System updated successfully"
 msgstr "Sistema esset actualisat successosimen"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:301
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:309
 msgctxt "Name"
 msgid "Failed Offline Update"
 msgstr "Ajornat actualisation ne successat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:355
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:367
 msgctxt "Comment"
 msgid "System update failed"
 msgstr "Actualisation del sistema ne successat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:413
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:429
 msgctxt "Name"
 msgid "Repair Started"
 msgstr "Reparation iniciat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:466
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:486
 msgctxt "Name"
 msgid "Repaired Successfully"
 msgstr "Reparation successat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:520
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:544
 msgctxt "Name"
 msgid "Repair Failed"
 msgstr "Reparation ne successat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:574
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:602
 msgctxt "Comment"
 msgid "Repair failure after offline update"
 msgstr "Reparation ne successat pos un ajornat actualisation"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:632
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:664
 msgctxt "Name"
 msgid "Restart is Required"
 msgstr "Un restarta es besonat"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:691
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:727
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Updates Available"
