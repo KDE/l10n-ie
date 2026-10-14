@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-10-13 00:53+0000\n"
+"POT-Creation-Date: 2026-10-14 00:56+0000\n"
 "PO-Revision-Date: 2024-08-04 16:21+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <>\n"
@@ -102,7 +102,7 @@ msgctxt "Name"
 msgid "Recording Started"
 msgstr "Li registration sta gardat"
 
-#: desktop/spectacle.notifyrc:244
+#: desktop/spectacle.notifyrc:245
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "A recording was captured and saved"
@@ -110,12 +110,12 @@ msgctxt "Comment"
 msgid "A recording was started"
 msgstr "Un nov registration sta gardat"
 
-#: desktop/spectacle.notifyrc:267
+#: desktop/spectacle.notifyrc:269
 msgctxt "Name"
 msgid "Saving Recording"
 msgstr ""
 
-#: desktop/spectacle.notifyrc:286
+#: desktop/spectacle.notifyrc:289
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "A recording was captured and saved"
@@ -123,22 +123,22 @@ msgctxt "Comment"
 msgid "A recording is being saved"
 msgstr "Un nov registration sta gardat"
 
-#: desktop/spectacle.notifyrc:309
+#: desktop/spectacle.notifyrc:313
 msgctxt "Name"
 msgid "Recording Saved"
 msgstr "Li registration sta gardat"
 
-#: desktop/spectacle.notifyrc:360
+#: desktop/spectacle.notifyrc:364
 msgctxt "Comment"
 msgid "A recording was captured and saved"
 msgstr "Un nov registration sta gardat"
 
-#: desktop/spectacle.notifyrc:414
+#: desktop/spectacle.notifyrc:418
 msgctxt "Name"
 msgid "Text Extracted"
 msgstr ""
 
-#: desktop/spectacle.notifyrc:455
+#: desktop/spectacle.notifyrc:459
 msgctxt "Comment"
 msgid "Text has been extracted from image using OCR"
 msgstr ""
